@@ -4286,17 +4286,6 @@ const QUIZZES = {
     "fb": "Aldaketan zeharreko nortasun pertsonalaren arazo klasikoa da."
    },
    {
-    "q": "Zer da etnozentrismoa?",
-    "o": [
-     "Beste kulturak norberarenetik epaitzea, hau baliozko bakartzat hartuta.",
-     "Kultura bakoitza bere testuinguruan ulertzea.",
-     "Kultura oro baztertzea.",
-     "Eboluzioa aztertzea."
-    ],
-    "a": 0,
-    "fb": "Etnozentrismoak norberaren kultura hartzen du neurritzat."
-   },
-   {
     "q": "Zer alde dago hominizazioaren eta humanizazioaren artean?",
     "o": [
      "Hominizazioa prozesu biologikoa da; humanizazioa, prozesu kulturala.",
@@ -5334,17 +5323,6 @@ const QUIZZES = {
     "fb": "Ockhamentzat gizabanakoak baino ez dira existitzen; unibertsalak izen edo kontzeptu orokorrak dira."
    },
    {
-    "q": "Zer da Ockhamen labana?",
-    "o": [
-     "Entitateak beharrik gabe ez biderkatzea.",
-     "Printzipioak biderkatzea hobeto azaltzeko.",
-     "Arrazoi oro baztertzea.",
-     "Forma erreal guztiak onartzea."
-    ],
-    "a": 0,
-    "fb": "Ockhamen labana ekonomia-printzipioa da: azalpenean beharrezkoak ez diren entitateak ez sartzea."
-   },
-   {
     "q": "Zer ondorio dakar nominalismoak ezagutzarako?",
     "o": [
      "Ezagutza gizabanakoetatik eta esperientziatik abiatzen da.",
@@ -5451,17 +5429,6 @@ const QUIZZES = {
     "fb": "Tomasek sintesi eskolastiko handi bat bilatzen du: aristotelismoa fede kristauarekin harmonizatzea."
    },
    {
-    "q": "Nola ulertzen ditu Tomasek fedea eta arrazoia?",
-    "o": [
-     "Desberdinak baina elkarlaguntzaileak, kontraesanik gabe.",
-     "Beti etsaiak.",
-     "Arrazoiak fedea deuseztatzen du.",
-     "Fedeak ez du arrazoirik behar."
-    ],
-    "a": 0,
-    "fb": "Tomasentzat arrazoiak eta fedeak elkarlanean dihardute eta ezin dira kontraesan, egia bakarra baita."
-   },
-   {
     "q": "Nondik abiatzen dira bost bideak?",
     "o": [
      "Munduko gertaera behagarrietatik: mugimendua, kausa, kontingentzia, perfekzioa eta helburua.",
@@ -5471,28 +5438,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Bost bideak munduaren esperientziatik abiatzen dira eta Jainkoaren existentzia ondorioztatzen dute."
-   },
-   {
-    "q": "Zer da lege naturala Tomasentzat?",
-    "o": [
-     "Arrazoiak naturaren ordenan eta giza helburuetan hautematen duen oinarri morala.",
-     "Agintariak ezarritako edozein lege.",
-     "Natura kontraesaten duen agindu bat.",
-     "Hiriaren lege positiboa."
-    ],
-    "a": 0,
-    "fb": "Lege naturala moralaren oinarri arrazionala da, lege positiboaren oinarria."
-   },
-   {
-    "q": "Nola ulertzen du Tomasek gizakia?",
-    "o": [
-     "Arima eta gorputzaren batasun hilemorfiko gisa.",
-     "Gorputzetik bereizitako arima gisa.",
-     "Materia hutsa bezala.",
-     "Espiritu hutsa bezala."
-    ],
-    "a": 0,
-    "fb": "Hilemorfismoarekin, Tomasek gizakia arimaren (forma) eta gorputzaren (materia) batasun gisa ulertzen du."
    }
   ]
  },
@@ -5824,17 +5769,6 @@ const QUIZZES = {
     "fb": "Izaki partikularrak substantziaren moduak dira, ez substantzia autonomoak."
    },
    {
-    "q": "Nola ulertzen du Spinozak askatasuna?",
-    "o": [
-     "Beharrizana ulertzea eta grina itsuetatik askatzea bezala.",
-     "Kausarik gabe jardutea bezala.",
-     "Nahi dena egin ahal izatea bezala.",
-     "Natura ukatzea bezala."
-    ],
-    "a": 0,
-    "fb": "Askatasuna beharrizana ulertzea da, ez naturaren legeetatik ihes egitea."
-   },
-   {
     "q": "Zer kritikatzen dio Spinozak Descartesi?",
     "o": [
      "Pentsamendua eta hedadura bi substantzia bereizi gisa uztea.",
@@ -6047,17 +5981,6 @@ const QUIZZES = {
     "fb": "Inpresioak pertzepzio biziak dira; ideiak, haien kopiak."
    },
    {
-    "q": "Zer da indukzioaren arazoa?",
-    "o": [
-     "Ezin da gertaeren arteko lotura beharrezkoa frogatu, segida soilik baizik.",
-     "Indukzioa beti baliozkoa dela.",
-     "Ezagutza probablerik ez dagoela.",
-     "Etorkizuna nahitaez ondorioztatzen dela."
-    ],
-    "a": 0,
-    "fb": "Humek erakusten du esperientzia errepikatutik ezin dela kausalitate beharrezkoa ondorioztatu."
-   },
-   {
     "q": "Zer dio Humek kausalitateari buruz?",
     "o": [
      "Ez dugu lotura beharrezkorik hautematen, ohituraz errepikatzen den segida soilik baizik.",
@@ -6153,28 +6076,6 @@ const QUIZZES = {
     "fb": "Modernitateak ezagutzaren fidagarritasunaz galdetzen du."
    },
    {
-    "q": "Zer azpimarratzen du arrazionalismoak?",
-    "o": [
-     "Arrazoimenaren ordena, metodoa eta dedukzioa.",
-     "Esperientzia sentigarria.",
-     "Tabula rasa.",
-     "Behaketa enpirikoa."
-    ],
-    "a": 0,
-    "fb": "Arrazionalismoak arrazoian eta metodo deduktiboan konfiantza du."
-   },
-   {
-    "q": "Zer azpimarratzen du enpirismoak?",
-    "o": [
-     "Esperientziatik eta behaketatik abiatzea.",
-     "Jaiotzetiko ideiak.",
-     "Dedukzio matematikoa.",
-     "Arrazoi hutsa."
-    ],
-    "a": 0,
-    "fb": "Enpirismoa esperientziatik eta zentzumenetatik abiatzen da."
-   },
-   {
     "q": "Zer ekartzen dio Humeren kritikak kausalitateari?",
     "o": [
      "Erakusten du ez dugula lotura beharrezkoa hautematen.",
@@ -6268,17 +6169,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Dualismoak adimenaren eta gorputzaren arteko kausa-lotura azaldu behar du."
-   },
-   {
-    "q": "Zer defendatzen du materialismoak?",
-    "o": [
-     "Errealitate osoa materiaz eta prozesu naturalez azaltzen dela.",
-     "Bi substantzia daudela.",
-     "Arima hilezkorra dela.",
-     "Materia ez dela existitzen."
-    ],
-    "a": 0,
-    "fb": "Materialismoak errealitatea materiaz eta mugimenduz soilik azaltzen du."
    },
    {
     "q": "Zergatik da funtsezkoa natura mekanikoaren ideia?",
@@ -6504,17 +6394,6 @@ const QUIZZES = {
     "fb": "Utilitarismoak ekintzak zoriontasunean dituzten ondorioengatik epaitzen ditu."
    },
    {
-    "q": "Zer dio kaltearen printzipioak?",
-    "o": [
-     "Askatasuna besteei kalte egitea saihesteko soilik mugatzen da.",
-     "Estatuak beti behartu behar du.",
-     "Gehiengoak inposatzen du.",
-     "Askatasuna mugagabea da."
-    ],
-    "a": 0,
-    "fb": "Millek askatasuna besteei kalte egitea saihesteko soilik mugatzen du."
-   },
-   {
     "q": "Zergatik bereizten da liberalismo politikoa ekonomikotik?",
     "o": [
      "Zeren eskubide politikoak defenda baitaitezke eta, aldi berean, merkatuaren desberdintasunak zuzendu.",
@@ -6738,39 +6617,6 @@ const QUIZZES = {
     "fb": "Galdera transzendentalak esperientziaren ahalgarritasun-baldintzak ikertzen ditu, ez gauza bere baitan."
    },
    {
-    "q": "Zer dira judizio sintetiko a prioriak?",
-    "o": [
-     "Ezagutza zabaltzen duten eta aldi berean beharrezkoak diren epaiketak.",
-     "Definizio hutsak.",
-     "Ohitura kontingenteak.",
-     "Postulatu erlijiosoak."
-    ],
-    "a": 0,
-    "fb": "Judizio sintetiko a priori-ak ezagutza beharrezkotasunez zabaltzen du, matematikan bezala."
-   },
-   {
-    "q": "Fenomenoa eta noumenoa bereizteak zer ondorio du?",
-    "o": [
-     "Ezagutza fenomenoetara mugatzen da eta gauza bere baitan muga-kontzeptu gisa geratzen da.",
-     "Gauza bere baitan ezagutzen dugu.",
-     "Fenomenoa ezagutezina da.",
-     "Ez dago bien arteko alderik."
-    ],
-    "a": 0,
-    "fb": "Fenomenoak soilik ezagutzen ditugu; noumenoa, gauza bere baitan, ezagutzatik ihes egiten du."
-   },
-   {
-    "q": "Zer eskatzen du inperatibo kategorikoak?",
-    "o": [
-     "Maxima unibertsaliza daitekeela eta pertsona helburu gisa tratatzen dela, inoiz ez bitarteko soil gisa.",
-     "Ondorio atseginenak kalkulatzea.",
-     "Kanpoko aginduari obeditzea.",
-     "Interes pribatuei jarraitzea."
-    ],
-    "a": 0,
-    "fb": "Inperatibo kategorikoak maxima unibertsalizagarri bat eta pertsona helburu gisa errespetatzea eskatzen ditu."
-   },
-   {
     "q": "Zer zeregin dute postulatu praktikoek?",
     "o": [
      "Askatasuna, Jainkoa eta hilezkortasuna, moralak behar dituen ideia gisa, nahiz eta arrazoi teorikoak frogatzen ez dituen.",
@@ -6864,17 +6710,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Herderrek historikotasuna eta kultura-aniztasuna azpimarratzen ditu arrazoi abstraktu baten aurrean."
-   },
-   {
-    "q": "Zein da Hegelen dialektikaren gakoa?",
-    "o": [
-     "Kontraesana prozesu historiko eta kontzeptualaren motorra dela.",
-     "Historia zoria dela.",
-     "Ukapena saihestu beharreko akats bat dela.",
-     "Arrazoiak natura imitatzen duela."
-    ],
-    "a": 0,
-    "fb": "Hegelengan kontraesanak garapen historikoa eta ideala bultzatzen ditu."
    },
    {
     "q": "Zer esan nahi du Darwinen «deszentratzeak»?",
@@ -6983,28 +6818,6 @@ const QUIZZES = {
     "fb": "Alienazioa produktuarekiko, jarduerarekiko eta norberaren giza esentziarekiko arrotz bihurtzea da."
    },
    {
-    "q": "Zer bereizten dute azpiegiturak eta gainegiturak?",
-    "o": [
-     "Oinarri ekonomikoa eta forma juridiko, politiko eta ideologikoak.",
-     "Kultura eta natura.",
-     "Bi kontzeptu psikologiko.",
-     "Publikoa eta pribatua."
-    ],
-    "a": 0,
-    "fb": "Azpiegitura oinarri ekonomikoa da; haren gainean gainegitura eraikitzen da."
-   },
-   {
-    "q": "Zer da plusbalioa?",
-    "o": [
-     "Langileak sortzen duen eta soldatan jasotzen ez duen balio soberakina.",
-     "Langilearen soldata.",
-     "Salgaiaren erabilera-balioa.",
-     "Modu berdinean banatutako irabazia."
-    ],
-    "a": 0,
-    "fb": "Gainbalioa da langileak gehiegi ekoizten duen eta kapitalistak bereganatzen duen balioa."
-   },
-   {
     "q": "Zer zeregin du ideologiak Marxengan?",
     "o": [
      "Gizarte-ordena historiko bat natural eta bidezko gisa aurkezten du.",
@@ -7078,17 +6891,6 @@ const QUIZZES = {
     "fb": "Genealogiak balio moralen jatorri historikoa, afektiboa eta boterezkoa aztertzen du, natural edo betikotzat jo beharrean."
    },
    {
-    "q": "Zer adierazten dute apolineoak eta dionisiakoak?",
-    "o": [
-     "Formaren, neurriaren eta bulkada tragiko sortzailearen arteko tentsioa.",
-     "Kontzientziaren eta inkontzientearen arteko banaketa.",
-     "Kapitalismoaren eta komunismoaren arteko gatazka.",
-     "Arrazoi teorikoaren eta praktikoaren arteko bereizketa."
-    ],
-    "a": 0,
-    "fb": "Apolineoa (forma, argitasuna) eta dionisiakoa (bulkada, kaosa) tragediaren bi indarrak dira."
-   },
-   {
     "q": "Zer esan nahi du «Jainkoa hil da»k?",
     "o": [
      "Mendebaldeko balio absolutuen oinarria erori dela.",
@@ -7098,39 +6900,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "«Jainkoa hil da» esaldiak mendebaldeko balioen oinarri absolutuen krisia adierazten du."
-   },
-   {
-    "q": "Zer da nihilismo pasiboa?",
-    "o": [
-     "Azken gizakiaren etsipenean eta erosotasun txikian geratzea.",
-     "Balioak sortzeko aukera.",
-     "Artearen forma tragikoa.",
-     "Alienazioa."
-    ],
-    "a": 0,
-    "fb": "Nihilismo pasiboa erosotasunarekin eta mediokritatearekin konformatzen da, ezer sortu gabe."
-   },
-   {
-    "q": "Zer da balioen transmutazioa?",
-    "o": [
-     "Bizitza ukatzen duten balioak gainditzea eta hura baieztatzen duten balioak sortzea.",
-     "Moral kristaua indartzea.",
-     "Balioak beste izen batzuekin mantentzea.",
-     "Egia objektiboa aurkitzea."
-    ],
-    "a": 0,
-    "fb": "Balioen transmutazioak balioak birbaloratzen ditu bizitza baieztatzeko."
-   },
-   {
-    "q": "Zer bilatzen du moralaren genealogiak?",
-    "o": [
-     "Balioen jatorri historiko, afektibo eta boterezkoa aztertzea.",
-     "Moralaren jatorri jainkotiarra frogatzea.",
-     "Moral guztiak berdinak direla erakustea.",
-     "Lege ekonomikoak aurkitzea."
-    ],
-    "a": 0,
-    "fb": "Genealogiak balioak nola sortu ziren aztertzen du, ez ditu natural gisa hartzen."
    }
   ]
  },
@@ -7195,17 +6964,6 @@ const QUIZZES = {
     "fb": "Ricoeurrek gaineratzen du, esanahi faltsuak hautsi ondoren, susmoak zentzua berreraikiko duen hermeneutika bat behar duela."
    },
    {
-    "q": "Zein da Freuden kolpe filosofiko nagusia?",
-    "o": [
-     "Subjektua ez dela erabat bere buruaren jabe erakustea.",
-     "Kontzientzia gardena dela.",
-     "Historia klase-borroka dela.",
-     "Morala betierekoa dela."
-    ],
-    "a": 0,
-    "fb": "Freudek erakusten du «nia ez dela nagusi bere etxean»: indar inkontzienteak daude."
-   },
-   {
     "q": "Zergatik dira garrantzitsuak ametsak?",
     "o": [
      "Inkontzienterako sarbide bat dira.",
@@ -7215,28 +6973,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Ametsek errepresatutako desioak agerian jartzen dituzte, mozorrotuta agertzen badira ere."
-   },
-   {
-    "q": "Zer da errepresioa?",
-    "o": [
-     "Eduki gatazkatsu bat kontzientziatik baztertzea, desagertu gabe.",
-     "Balio zaharrak suntsitzea.",
-     "Langileak produktua galtzea.",
-     "Historia helburu batekin pentsatzea."
-    ],
-    "a": 0,
-    "fb": "Errepresatutakoa ez da ezabatzen, baizik eta sintoma edo amets gisa itzul daiteke."
-   },
-   {
-    "q": "Zer osatzen dute Elloak, Niak eta Superniak?",
-    "o": [
-     "Aparatu psikikoaren egitura gatazkatsua.",
-     "Estatuaren hiru botereak.",
-     "Gizarte-klaseak.",
-     "Arima platonikoaren zatiak."
-    ],
-    "a": 0,
-    "fb": "Hura, Nia eta Gain-nia psikearen instantzia gatazkatsuak dira."
    },
    {
     "q": "Zer gehitzen die Ricoeurrek susmoaren maisuei?",
@@ -7579,17 +7315,6 @@ const QUIZZES = {
     "fb": "Emakumea immanentziara mugatu zuten, transzendentzia ukatuz."
    },
    {
-    "q": "Zergatik kritikatzen ditu Beauvoirrek ezkontza eta amatasuna?",
-    "o": [
-     "Baldintzarik gabe, mendekotasuna eta immanentzia indartzen dituztelako.",
-     "Naturalak direlako.",
-     "Emakumea askatzen dutelako.",
-     "Gizona mesedetzen dutelako."
-    ],
-    "a": 0,
-    "fb": "Autonomiarik gabe, erakunde horiek immanentziara bultza dezakete."
-   },
-   {
     "q": "Zer da anbiguotasunaren etika?",
     "o": [
      "Askatasuna egoeran erabakitzen dela, besteen askatasuna errespetatuz.",
@@ -7672,17 +7397,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Ortegak nia bere zirkunstantzia zehatzari lotzen dio."
-   },
-   {
-    "q": "Zertan bereizten dira Sartre eta Ortega?",
-    "o": [
-     "Sartrek askatasuna erradikalizatzen du; Ortegak zirkunstantzian kokatzen du.",
-     "Sartre determinista da.",
-     "Ortegak ez du bizitzari buruz hitz egiten.",
-     "Berdinak dira."
-    ],
-    "a": 0,
-    "fb": "Biek gizakia munduari lotzen diote, baina askatasunaren pisua desberdina da."
    },
    {
     "q": "Zer da Dasein Heideggerrengan?",
@@ -7780,17 +7494,6 @@ const QUIZZES = {
     "fb": "«Ahulak» ez du banala esan nahi, indar absolutuaren asmorik gabea baizik: Vattimok oinarri metafisiko sendoei uko egiten die eta interpretazioari ematen dio lehentasuna («Vattimo: pentsamendu ahula» atala)."
    },
    {
-    "q": "Zer da metakontakizun bat Lyotarden arabera?",
-    "o": [
-     "Historia eta jakintza modu global batean legitimatzen dituen kontakizun handi bat.",
-     "Eguneroko bizitzaren kontakizun lokal bat.",
-     "Metodo zientifikoa.",
-     "Diskurtso neutro bat."
-    ],
-    "a": 0,
-    "fb": "Metakontakizunek jakintza legitimatzen zuten; posmodernitateak krisian jartzen ditu."
-   },
-   {
     "q": "Zer da Derridaren différance-a?",
     "o": [
      "Esanahia inoiz ez dagoela erabat present, baizik eta atzeratua eta luzatua.",
@@ -7811,17 +7514,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Foucaultentzat jakintza eta boterea bereiztezinak dira."
-   },
-   {
-    "q": "Zer da Baudrillarden simulakroa?",
-    "o": [
-     "Zeinuek errealitatea ordezkatzen dutenean hiperrealitatean.",
-     "Kopia fidel bat.",
-     "Egia ezkutatzen duen itxura bat.",
-     "Ideal bat."
-    ],
-    "a": 0,
-    "fb": "Hiperrealitatean zeinuak «errealitate» bihurtzen dira."
    },
    {
     "q": "Zer da Vattimoren «pentsamendu ahula»?",
@@ -7895,61 +7587,6 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Tractatuseko lehen Wittgensteinek isomorfismoa defendatzen du: zentzuzko proposizioak munduko gertakarien egitura logikoa irudikatzen du («Lehen Wittgenstein» atala)."
-   },
-   {
-    "q": "Zer defendatzen zuen egiaztagarritasunaren irizpideak?",
-    "o": [
-     "Enuntziatu batek zentzua duela soilik enpirikoki egiazta badaiteke.",
-     "Metafisika zientzia dela.",
-     "Hizkuntzak ez duela axola.",
-     "Dena egiaztagarria dela."
-    ],
-    "a": 0,
-    "fb": "Positibismo logikoak egiaztapen-baldintzak eskatzen ditu."
-   },
-   {
-    "q": "Zer da Popperren faltsabilitatea?",
-    "o": [
-     "Teoria bat zientifikoa da, baldin eta gezurtatzeko modua badago.",
-     "Zientziak datuak metatzen dituela.",
-     "Teoria bat eraso ezinezkoa dela.",
-     "Egiaztapenak faltsazioa ordezkatzen duela."
-    ],
-    "a": 0,
-    "fb": "Zientifikoa dena errefutatu ahal izan behar da."
-   },
-   {
-    "q": "Zer da Kuhnen paradigma?",
-    "o": [
-     "Komunitate zientifiko batek partekatzen duen esparrua.",
-     "Teoria pribatu bat.",
-     "Metafisika.",
-     "Argudio bakarra."
-    ],
-    "a": 0,
-    "fb": "Paradigmak zientzia normala esparrutzen du iraultzak iritsi arte."
-   },
-   {
-    "q": "Zertarako balio du Russellen deskribapenen teoriak?",
-    "o": [
-     "Esaldien egitura logikoa argitzeko.",
-     "Dena balio duela frogatzeko.",
-     "Metafisika berreraikitzeko.",
-     "Zientzia baztertzeko."
-    ],
-    "a": 0,
-    "fb": "Russellek forma logikoa aztertzen du gramatika azalekoaren azpian."
-   },
-   {
-    "q": "Zer defendatzen du lehen Wittgensteinek?",
-    "o": [
-     "Hizkuntzak munduaren egitura logikoa irudika dezakeela.",
-     "Hizkuntza poetikoa dela.",
-     "Zientziak ez duela zentzurik.",
-     "Arazo filosofikoak politikoak direla."
-    ],
-    "a": 0,
-    "fb": "Tractatus-ak hizkuntza-mundua isomorfismoa defendatzen du."
    }
   ]
  },
@@ -8014,28 +7651,6 @@ const QUIZZES = {
     "fb": "Fraserrek dio genero-justiziak aldi berean baliabideen birbanaketa eta aitortza sinbolikoa eskatzen dituela, bata bestera murriztu gabe («Fraser: birbanaketa eta aitortza» atala)."
    },
    {
-    "q": "Zer azpimarratzen du intersekzionalitateak?",
-    "o": [
-     "Generoa klasearekin, arrazarekin, sexualitatearekin eta migrazioarekin gurutzatzen dela.",
-     "Generoak soilik axola duela.",
-     "Zaintzak ez duela balio politikorik.",
-     "Feminismoa amaitu zela."
-    ],
-    "a": 0,
-    "fb": "Zapalkuntzak gurutzatu eta elkar indartzen dute."
-   },
-   {
-    "q": "Zergatik da zaintzaren etika garrantzitsua?",
-    "o": [
-     "Elkarmenpekotasuna eta zaintza-lan ikusezina agerian uzten dituelako.",
-     "Eskubideak ukatzen dituelako.",
-     "Askatasuna merkatukoa soilik delako.",
-     "Generoa naturala delako."
-    ],
-    "a": 0,
-    "fb": "Zaintzaren etikak elkarmenpekotasuna erakusten du autonomia abstraktuaren atzean."
-   },
-   {
     "q": "Zer aldarrikatzen zuen lehen olatu feministak?",
     "o": [
      "Boto-eskubidea eta berdintasun juridikoa.",
@@ -8056,17 +7671,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Performatibitateak erakusten du generoa egin egiten dela."
-   },
-   {
-    "q": "Zer gehitzen dio Fraserrek feminismoari?",
-    "o": [
-     "Justiziak birbanaketa eta aitorpena behar ditu aldi berean.",
-     "Aitorpena soilik.",
-     "Birbanaketa soilik.",
-     "Eskubide formalekin nahikoa dela."
-    ],
-    "a": 0,
-    "fb": "Fraserrek justizia ekonomikoa eta kulturala batzen ditu."
    }
   ]
  },
@@ -8151,17 +7755,6 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Krisi ekologikoak modu desberdinean eragiten du eta justizia-arazo bat da."
-   },
-   {
-    "q": "Zer erakusten du globalizazioaren kritikak?",
-    "o": [
-     "Ekonomia, komunikazioa eta boterea mundu-mailan lotuta daudela.",
-     "Estatuek ez dutela axola.",
-     "Desberdintasunak desagertu direla.",
-     "Bizitzari eragiten ez diola."
-    ],
-    "a": 0,
-    "fb": "Globalizazioak sareak sortzen ditu eta baita mendekotasun berriak ere."
    },
    {
     "q": "Zer da Baumanen modernitate likidoa?",
