@@ -3331,6 +3331,62 @@ const DECKS = {
     "Estetikoa, kognitiboa, soziala eta kritikoa."
    ]
   ]
+ },
+ "fil-logica": {
+  "name": "Filosofia 1. · Logika: konektiboak, Boole eta ateak (T4)",
+  "subject": "fil",
+  "cards": [
+   [
+    "¬",
+    "Ezeztapena (NOT)",
+    "Egia-balioa alderantzikatzen du: ¬V = F, ¬F = V. NOT ate logikoa."
+   ],
+   [
+    "∧",
+    "Konjuntzioa (AND)",
+    "«eta»: egiazkoa bi zatiak egiazkoak badira soilik. AND atea."
+   ],
+   [
+    "∨",
+    "Disjuntzioa (OR)",
+    "«edo» inklusiboa: egiazkoa gutxienez zati bat egiazkoa bada. OR atea."
+   ],
+   [
+    "→",
+    "Baldintzazkoa",
+    "«baldin… orduan»: faltsua aurrekaria V eta ondorengoa F direnean soilik."
+   ],
+   [
+    "↔",
+    "Bibaldintzazkoa",
+    "«baldin eta soilik baldin»: egiazkoa bi zatiek balio bera dutenean."
+   ],
+   [
+    "📊",
+    "Egia-taula",
+    "Formula baten balioa jasotzen du bere zatien konbinazio bakoitzerako."
+   ],
+   [
+    "✅",
+    "Argudio baliozkoa",
+    "Ez dago premisa egiazkoak eta ondorio faltsua dituen lerrorik."
+   ],
+   [
+    "🧮",
+    "Tautologia",
+    "Bere egia-taulako lerro guztietan egiazkoa den formula."
+   ],
+   [
+    "🔢",
+    "Booleren aljebra",
+    "Boole (1854): logika aljebra gisa, 1 (egiazkoa) eta 0 (faltsua) erabiliz."
+   ],
+   [
+    "🔌",
+    "Ate logikoak",
+    "Shannon (1938): AND, OR eta NOT egiten dituzten zirkuituak. Ordenagailuaren oinarria."
+   ]
+  ]
  }
 };
 const QUIZZES = {
@@ -9604,6 +9660,89 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Humerentzat, «arrazoia grinen esklabo da»: judizio moralak sentimendutik sortzen dira, ez arrazoitik soilik."
+   }
+  ]
+ },
+ "fil-logica-q": {
+  "name": "Filosofia 1. · Egia-taulak eta logika (T4)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "p ∧ q konjuntzioa egiazkoa da…",
+    "o": [
+     "beti",
+     "p eta q biak egiazkoak badira soilik",
+     "gutxienez bat egiazkoa bada",
+     "biak faltsuak badira soilik"
+    ],
+    "a": 1,
+    "fb": "«eta»k (AND) bi zatiak aldi berean egiazkoak izatea eskatzen du."
+   },
+   {
+    "q": "Noiz da FALTSUA p → q baldintzazkoa?",
+    "o": [
+     "p faltsua denean",
+     "inoiz ez",
+     "p egiazkoa eta q faltsua direnean soilik",
+     "q faltsua den bakoitzean"
+    ],
+    "a": 2,
+    "fb": "«baldin… orduan»k huts egiten du soilik aurrekaria egiazkoa eta ondorengoa faltsua direnean."
+   },
+   {
+    "q": "p ∨ q disjuntzio inklusiboa faltsua da…",
+    "o": [
+     "p eta q biak faltsuak direnean soilik",
+     "bat faltsua denean",
+     "inoiz ez",
+     "beti"
+    ],
+    "a": 0,
+    "fb": "«edo» inklusiboa faltsua da soilik bi zatiek huts egiten badute."
+   },
+   {
+    "q": "Booleren aljebran, zein balio erabiltzen dira?",
+    "o": [
+     "V eta F",
+     "1 eta 0",
+     "bai eta agian",
+     "+ eta −"
+    ],
+    "a": 1,
+    "fb": "Boolek egiazkoa 1 zenbakiaz eta faltsua 0 zenbakiaz adierazten du."
+   },
+   {
+    "q": "AND ate logiko batek 1 irteera ematen du…",
+    "o": [
+     "sarreraren bat 1 bada",
+     "bere bi sarrerak 1 badira soilik",
+     "beti",
+     "inoiz ez"
+    ],
+    "a": 1,
+    "fb": "AND atea konjuntzioari dagokio: 1 ematen du soilik bi sarrerak 1 direnean."
+   },
+   {
+    "q": "Nork erakutsi zuen eragiketa logikoak zirkuitu elektrikoekin egin daitezkeela?",
+    "o": [
+     "Aristoteles",
+     "George Boole",
+     "Claude Shannon",
+     "Gottlob Frege"
+    ],
+    "a": 2,
+    "fb": "Shannonek (1938) Booleren aljebra zirkuituekin lotu zuen: ate logikoak."
+   },
+   {
+    "q": "Bere egia-taulako lerro GUZTIETAN egiazkoa den formula bat…",
+    "o": [
+     "kontraesan bat",
+     "tautologia bat",
+     "faltsukeria bat",
+     "silogismo bat"
+    ],
+    "a": 1,
+    "fb": "Tautologia: beti egiazkoa. Beti faltsua balitz, kontraesan bat litzateke."
    }
   ]
  }
