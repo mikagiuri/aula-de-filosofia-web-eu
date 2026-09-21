@@ -3224,6 +3224,113 @@ const DECKS = {
     "Galde iezaiozu zeure buruari: nork dio, zer froga du eta zer asmorekin?"
    ]
   ]
+ },
+ "fil-etica": {
+  "name": "Filosofia 1. · Etikaren galderak (T5)",
+  "subject": "fil",
+  "cards": [
+   [
+    "⚖️",
+    "Etika eta morala",
+    "Morala komunitate baten benetako arauak dira; etika, berriz, moral horri buruzko hausnarketa filosofikoa da."
+   ],
+   [
+    "🎯",
+    "Etika materialak",
+    "Zein den bilatu beharreko ongia edo helburua esaten dute (adibidez, zoriontasuna)."
+   ],
+   [
+    "📐",
+    "Etika formalak",
+    "Ez dute edukia finkatzen, baizik eta betebeharrak izan behar duen forma (Kant)."
+   ],
+   [
+    "🌿",
+    "Eudaimonismoa",
+    "Aristoteles: helburua zoriontasuna (eudaimonia) da, bertutearen bidez lortua."
+   ],
+   [
+    "😊",
+    "Hedonismoa",
+    "Epikuro: ongia plazera da, min eta asalduraren gabezia gisa ulertua."
+   ],
+   [
+    "📊",
+    "Utilitarismoa",
+    "Mill: ona da ahalik eta jende gehienari zoriontasun handiena ekartzen diona."
+   ],
+   [
+    "🧭",
+    "Deontologia",
+    "Kant: betebeharragatik jokatzea inperatibo kategorikoaren arabera, ez ondorioengatik."
+   ],
+   [
+    "💬",
+    "Emotibismoa",
+    "Hume: judizio moralek sentimenduak adierazten dituzte, ez arrazoia soilik."
+   ],
+   [
+    "🕊️",
+    "Autonomia eta heteronomia",
+    "Autonomia: norberak bere buruari lege morala ematea. Heteronomia: kanpotik jasotzea."
+   ],
+   [
+    "⭐",
+    "Bertutea",
+    "Ohitura ona, bi muturren arteko erdibidea, arrazoiak gidatua (Aristoteles)."
+   ]
+  ]
+ },
+ "fil-arte": {
+  "name": "Filosofia 1. · Edertasuna eta artea (T7)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🌸",
+    "Edertasuna",
+    "Plazer estetikoa sortzen duena; proportzioan eta harmonian edo subjektuaren begiradan bilatua."
+   ],
+   [
+    "👁️",
+    "Objektibismo estetikoa",
+    "Edertasuna objektuan dago: proportzioa, ordena eta harmonia (klasikoak)."
+   ],
+   [
+    "💭",
+    "Subjektibismo estetikoa",
+    "Edertasuna subjektuan dago: «gustuei buruz ez dago ezer idatzita»."
+   ],
+   [
+    "⚖️",
+    "Gustu-judizioa (Kant)",
+    "Plazer interesgabea eta kontzepturik gabea, baina baliozkotasun unibertsalaren asmoarekin."
+   ],
+   [
+    "🪞",
+    "Mimesia",
+    "Artea errealitatearen imitazio gisa (Platon, Aristoteles)."
+   ],
+   [
+    "❤️",
+    "Adierazpena",
+    "Arteak emozioak eta aldarteak komunikatu eta adierazten ditu."
+   ],
+   [
+    "🔷",
+    "Formalismoa",
+    "Garrantzitsua forma da: «artea artearengatik»."
+   ],
+   [
+    "🏛️",
+    "Teoria instituzionala",
+    "Artea da «artearen munduak» (museoek, kritikariek) halakotzat aitortzen duena."
+   ],
+   [
+    "🖼️",
+    "Artearen funtzioak",
+    "Estetikoa, kognitiboa, soziala eta kritikoa."
+   ]
+  ]
  }
 };
 const QUIZZES = {
@@ -9425,6 +9532,78 @@ const QUIZZES = {
     ],
     "a": 0,
     "fb": "Erantzun zuzena: Substantzien arteko komunikazioaren arazoa."
+   }
+  ]
+ },
+ "fil-etica-q": {
+  "name": "Filosofia 1. · Etika: teoriak (T5)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Zer alde dago etikaren eta moralaren artean?",
+    "o": [
+     "Sinonimo zehatzak dira.",
+     "Morala komunitate baten arau bizituak dira; etikak haiei buruz hausnartzen du filosofikoki.",
+     "Etika erlijiosoa da eta morala zientifikoa.",
+     "Morala kolektiboa da eta etika indibiduala."
+    ],
+    "a": 1,
+    "fb": "Morala benetako arau eta balioen multzoa da; etika, berriz, zer egin behar dugun eta zergatik hausnartzeko arrazoizko gogoeta da."
+   },
+   {
+    "q": "Etika FORMAL bat, Kantena bezalakoa, honela bereizten da…",
+    "o": [
+     "Bilatu beharreko ongi zehatza zein den esatea.",
+     "Betebeharraren forma ematea (araua unibertsalizagarria izatea) edukirik finkatu gabe.",
+     "Morala plazerean oinarritzea.",
+     "Ekintza bakoitzaren ondorioak neurtzea."
+    ],
+    "a": 1,
+    "fb": "Kantek ez du esaten zer egin kasu bakoitzean, baizik eta arau moral ororen forma: unibertsaliza daitekeela (inperatibo kategorikoa)."
+   },
+   {
+    "q": "Aristotelesentzat, zoriontasuna (eudaimonia) honela lortzen da…",
+    "o": [
+     "Berehalako plazerak metatuz.",
+     "Betebeharra betebeharragatik betez.",
+     "Bertutea garatuz, erdibide gisa, bizitzan zehar.",
+     "Emozio oro saihestuz."
+    ],
+    "a": 2,
+    "fb": "Eudaimonia bertutearen bidez lortutako bizitza ona da, arrazoiak gidatutako erdibide gisa ulertua."
+   },
+   {
+    "q": "«Ahalik eta jende gehienari zoriontasun handiena» printzipioa honi dagokio…",
+    "o": [
+     "Estoizismoa.",
+     "Utilitarismoa (Bentham, Mill).",
+     "Arrazionalismoa.",
+     "Deontologismo kantiarra."
+    ],
+    "a": 1,
+    "fb": "Utilitarismoa etika teleologiko bat da: zuzena da ahalik eta pertsona gehienen ongizatea maximizatzen duena."
+   },
+   {
+    "q": "Kanten inperatibo kategorikoak agintzen du…",
+    "o": [
+     "Beti plazer handiena bilatzea.",
+     "Gizateria beti helburu gisa tratatzea, inoiz ez soilik baliabide gisa.",
+     "Aginteari obeditzea.",
+     "Une bakoitzean sentitzen duzunaren arabera jokatzea."
+    ],
+    "a": 1,
+    "fb": "Bere formulazioetako bat: jokatu ezazu gizateria —zeure baitan eta besteengan— beti helburu gisa eta inoiz ez soilik baliabide gisa tratatzeko moduan."
+   },
+   {
+    "q": "Humeren emotibismo moralak dioenez…",
+    "o": [
+     "Morala arrazoimen hutsetik ondorioztatzen da.",
+     "Judizio moralek onespen- edo gaitzespen-sentimenduak adierazten dituzte.",
+     "Ongia objektiboa eta neurgarria da.",
+     "Erlijioak baino ezin du morala oinarritu."
+    ],
+    "a": 1,
+    "fb": "Humerentzat, «arrazoia grinen esklabo da»: judizio moralak sentimendutik sortzen dira, ez arrazoitik soilik."
    }
   ]
  }
