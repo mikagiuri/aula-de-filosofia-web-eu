@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Filosofia Gela · Batxilergoa</title>
+<title>Filosofia · Batxilergoko 1. maila</title>
 <meta name="description" content="El taller de filosofía en una página: teoría, materiales, esquemas, tarjetas, mapas y juegos de Filosofía 1.º, Historia de la Filosofía 2.º y Pensamiento crítico.">
 <meta name="theme-color" content="#f0ece3" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141519" media="(prefers-color-scheme: dark)">
@@ -33,7 +33,6 @@
         <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Ikasi</span>
         <div class="navmenu">
           <button data-view="teoria">Teoria</button>
-          <button data-view="lecturas">Irakurgaiak</button>
           <button data-view="tarjetas">Txartelak</button>
           <button data-view="cuestionarios">Galdetegiak</button>
           <button data-view="glosario">Glosarioa</button>
@@ -55,17 +54,12 @@
           <button data-view="infografias">Infografiak</button>
           <button data-view="galeria">Galeria</button>
           <button data-view="mapas">Mapak</button>
-          <button data-view="cronogramas">Cronogramas</button>
           <button data-view="esquemas">Eskemak</button>
-          <button data-view="esqautor">Esquemas de autor</button>
         </div>
       </div>
       <div class="navsec">
         <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">USE</span>
         <div class="navmenu">
-          <button data-view="disertaciones">Disertazioak</button>
-          <button data-view="pau">Probaren gida</button>
-          <button data-view="comentario">Comentario de texto</button>
           <button data-view="unidad">Unitateko banku</button>
         </div>
       </div>
@@ -81,7 +75,7 @@
   <section class="view active" id="inicio">
     <p class="eyebrow">Martín de Bertendona BHI · 2026-27 ikasturtea</p>
     <h1 class="title">Filosofia-tailerra, orri bakarrean</h1>
-    <p class="lead">Departamentuko Batxilergoko bi ikasgaiak: Filosofia (1.º) eta Filosofiaren Historia (2.º). Ikasgelako materialak eta tresna interaktiboak —txartelak eta galdetegiak— biltzen ditu, klasean eta etxean erabiltzeko. Zabaltzen joango da.</p>
+    <p class="lead"><strong>Batxilergoko 1. mailako Filosofia</strong> ikasgaia: teoria, txartelak, galdetegiak, eskemak eta galeria, klasean eta etxean ikasteko. Zabaltzen joango da.</p>
 
     <div class="courses">
       <article class="course" data-view="fil" role="button" tabindex="0" aria-label="Ireki Filosofia 1. Batxilergoa" style="--c:var(--fil)">
@@ -89,12 +83,6 @@
         <h3>Zer da filosofia?</h3>
         <p>Harriduratik logosera: jatorria, ezaugarriak, metodoa, galderak eta beste jakintzekiko harremana. Hiru talde (C, D, G).</p>
         <div class="meta"><span><b>1. gaia</b> martxan</span><span>McGraw Hill liburua</span></div>
-      </article>
-      <article class="course" data-view="hf" role="button" tabindex="0" aria-label="Ireki Filosofiaren Historia 2. Batxilergoa" style="--c:var(--hf)">
-        <span class="kick">Filosofiaren Historia · 2. Batx.</span>
-        <h3>Antzinako filosofia</h3>
-        <p>Presokratikoetatik Platonera, sofistak, Sokrates eta Aspasia tarteko. USE prestatzea.</p>
-        <div class="meta"><span><b>A blokea</b>, 3-6 gaiak</span><span>2. E taldea</span></div>
       </article>
     </div>
 
@@ -109,7 +97,7 @@
 
   <!-- MATERIAS (se rellenan desde js/app.js) -->
   <section class="view" id="fil"></section>
-  <section class="view" id="hf"></section>
+  
   
 
   <!-- SESIONES -->
@@ -135,60 +123,19 @@
   
 
   <!-- LECTURAS -->
-  <section class="view" id="lecturas">
-    <p class="eyebrow">Irakurgaiak</p>
-    <h1 class="title">Irakurgaiak</h1>
-    <p class="lead">USEko jatorrizko testuak —Platon, Descartes, Kant, Nietzsche eta Beauvoir— irakurketa-gidarekin, zatiekin, erantzun-ereduekin eta glosarioarekin. Klasean edo etxean irakurtzeko eta 1. ariketa prestatzeko.</p>
-    <div class="filterbar" id="lecturafilter" role="group" aria-label="Iragazi irakurgaiak"></div>
-    <div class="chips" id="lecturachips" role="group" aria-label="Aukeratu irakurgaia"></div>
-    <div class="toolrow" id="comentariolink" style="display:none">
-      <button class="btn" data-go="comentario">✍️ Comentar este texto (método guiado) →</button>
-    </div>
-    <div class="theory-layout">
-      <nav class="toc" id="ltoc" aria-label="Irakurgaiaren aurkibidea"></nav>
-      <article class="theory" id="lecturabody"></article>
-    </div>
-  </section>
+  
 
   <!-- DISERTACIONES -->
-  <section class="view" id="disertaciones">
-    <p class="eyebrow">USE</p>
-    <h1 class="title">Disertazioak</h1>
-    <p class="lead">USEn <strong>3 puntu balio dituen</strong> ariketa. Hemen dituzu metodologia eta errubrika, eredu osoak ebatzita (Platon, Kant, Nietzsche eta Erdi Aroko eredu bat) eta binakako eredu konparatiboak, argudiatzen trebatzeko.</p>
-    <div class="filterbar" id="disertfilter" role="group" aria-label="Iragazi disertazioak"></div>
-    <div class="chips" id="disertchips" role="group" aria-label="Aukeratu disertazioa"></div>
-    <div class="theory-layout">
-      <nav class="toc" id="diserttoc" aria-label="Disertazioaren aurkibidea"></nav>
-      <article class="theory" id="disertbody"></article>
-    </div>
-  </section>
+  
 
   <!-- PAU -->
-  <section class="view" id="pau">
-    <p class="eyebrow">Selektibitatea</p>
-    <h1 class="title">USE prestatzea</h1>
-    <p class="lead">Filosofiaren Historiako azterketarako behar den guztia: probaren <strong>egitura</strong>, nola egin <strong>1. ariketa</strong> (testu-ulermena) eta <strong>3. ariketa</strong> (azalpena), eta <strong>eredu ofizialak</strong>. 2. ariketak, disertazioak, bere fitxa du.</p>
-    <div class="chips" id="pauchips" role="group" aria-label="Aukeratu USE gida"></div>
-    <div class="theory-layout">
-      <nav class="toc" id="pautoc" aria-label="Gidaren aurkibidea"></nav>
-      <article class="theory" id="paubody"></article>
-    </div>
-  </section>
+  
 
   <!-- RECURSOS -->
   
 
   <!-- COMENTARIO DE TEXTO -->
-  <section class="view" id="comentario">
-    <p class="eyebrow">USE</p>
-    <h1 class="title">Testu-komentarioa, gidatua</h1>
-    <p class="lead">El método paso a paso para comentar un texto de Historia de la Filosofía (Ejercicio 1 de la PAU): del problema a la tesis, con rúbrica, plantilla imprimible y <strong>ejemplos resueltos</strong> (Platón, Descartes, Kant, Nietzsche, Beauvoir).</p>
-    <div class="chips" id="comentariochips" role="group" aria-label="Aukeratu komentario-gida"></div>
-    <div class="theory-layout">
-      <nav class="toc" id="comtoc" aria-label="Gidaren aurkibidea"></nav>
-      <article class="theory" id="comentariobody"></article>
-    </div>
-  </section>
+  
 
   <!-- UNIDAD (banco por tema) -->
   <section class="view" id="unidad">
@@ -246,16 +193,7 @@
   </section>
 
   <!-- ESQUEMAS DE AUTOR -->
-  <section class="view" id="esqautor">
-    <p class="eyebrow">Bisuala</p>
-    <h1 class="title">Esquemas de autor</h1>
-    <p class="lead"><strong>25 esquemas por tema/autor</strong> del temario (del departamento), en formato textual limpio e imprimible —un autor, una página de repaso para la PAU—. Complementan los grafos de <strong>Eskemak</strong>. Usa <strong>Imprimir</strong> para sacarlos en papel.</p>
-    <div class="ea-actions">
-      <button id="eaprint" class="ea-print" type="button">Imprimir / PDF</button>
-    </div>
-    <div class="filterbar" id="eafilter" role="group" aria-label="Filtrar esquemas de autor"></div>
-    <div id="eabody"></div>
-  </section>
+  
 
   <!-- GALERÍA -->
   <section class="view" id="galeria">
@@ -336,14 +274,7 @@
     <div id="retobox"></div>
   </section>
 
-  <section class="view" id="cronogramas">
-    <p class="eyebrow">Bisuala</p>
-    <h1 class="title">Cronogramas</h1>
-    <p class="lead">Líneas de tiempo del libro de Historia de la Filosofía: las vidas y los periodos de cada bloque sobre un eje de años. Elige bloque y cronograma.</p>
-    <div class="crono-filter" id="cronofilter" role="group" aria-label="Blokearen arabera iragazi"></div>
-    <div class="crono-chips" id="cronochips" role="group" aria-label="Elegir cronograma"></div>
-    <div id="cronobox"></div>
-  </section>
+  
 
   <section class="view" id="parejas">
     <p class="eyebrow">Tresna</p>
@@ -413,8 +344,6 @@
 <script src="js/esquemas.js"></script>
 <script src="js/esquemas_fil.js"></script>
 <script src="js/esquemasview.js"></script>
-<script src="js/esquemas_autor.js"></script>
-<script src="js/esquemas_autorview.js"></script>
 <script src="js/sesiones.js"></script>
 <script src="js/sesionesview.js"></script>
 <script src="js/calendarioview.js"></script>
