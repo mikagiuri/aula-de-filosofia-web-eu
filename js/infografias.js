@@ -281,7 +281,7 @@ const INFOGRAFIAS = {
     "type": "quote",
     "label": "Post-egia",
     "big": "Eta gertaerek axola ez badute?",
-    "text": "Emozioek datuek baino gehiago pisatzen dutenean, <b>gezur-albisteek</b> eta oihartzun-ganberek irabazten dute. Defentsa: <b>pentsamendu kritikoa</b> eta iturriak kontrastatzea."
+    "text": "Emozioek datuek baino gehiago pisatzen dutenean, <b>buloek</b> eta oihartzun-ganberek irabazten dute. Defentsa: <b>pentsamendu kritikoa</b> eta iturriak kontrastatzea."
    },
    {
     "type": "columns",

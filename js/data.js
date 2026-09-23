@@ -1088,7 +1088,7 @@ const DECKS = {
    [
     "🗳️",
     "Demokrazia",
-    "Herri-subiranotasuna, askatasunak, legearen aurreko berdintasuna eta botere-banaketa; haren etsaiak: gezur-albisteak eta desberdintasuna."
+    "Herri-subiranotasuna, askatasunak, legearen aurreko berdintasuna eta botere-banaketa; haren etsaiak: buloak eta desberdintasuna."
    ],
    [
     "🕊️",

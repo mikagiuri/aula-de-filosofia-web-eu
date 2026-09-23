@@ -709,7 +709,7 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
-  "t": "Agintera jo",
+  "t": "Autoritateari deia",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Zerbait egiazkotzat jotzea aginte batek esaten duelako soilik, arrazoiak aztertu gabe."
