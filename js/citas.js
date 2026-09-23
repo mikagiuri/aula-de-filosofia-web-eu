@@ -43,6 +43,12 @@ const CITAS = [
   "e": "antigua"
  },
  {
+  "c": "Ibai berberetan sartzen gara eta ez gara sartzen, bagara eta ez gara.",
+  "a": "Heraklito",
+  "o": "Fluxua eta aldaketa (DK B12)",
+  "e": "antigua"
+ },
+ {
   "c": "Ezagutu zeure burua.",
   "a": "Delfosko tenpluko inskripzioa",
   "o": "Sokratesek bere egina",
