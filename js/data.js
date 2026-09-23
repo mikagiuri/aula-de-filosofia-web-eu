@@ -1047,165 +1047,165 @@ const DECKS = {
   ]
  },
  "fil-politica": {
-  "name": "Filosofía 1.º · La vida en sociedad: política (T6)",
+  "name": "Filosofia 1. · Gizartean bizitzea: politika (T6)",
   "subject": "fil",
   "cards": [
    [
     "🏛️",
-    "El animal político",
-    "Aristóteles: el humano es zoon politikón; vivimos y nos hacemos personas en la polis (la comunidad)."
+    "Animalia politikoa",
+    "Aristoteles: gizakia zoon politikon da; polisean (komunitatean) bizi gara eta pertsona bihurtzen gara."
    ],
    [
     "📜",
     "Gizarte-kontratua",
-    "Para los modernos el Estado no es natural, sino un pacto para salir del «estado de naturaleza»."
+    "Modernoentzat Estatua ez da naturala, «naturazko egoeratik» ateratzeko ituna baizik."
    ],
    [
     "🐉",
-    "Hobbes y el Leviatán",
-    "Ante la «guerra de todos contra todos», cedemos el poder a un soberano absoluto que trae la paz."
+    "Hobbes eta Leviatana",
+    "«Guztien guztien aurkako gerraren» aurrean, boterea bakea dakarren subirano absolutu bati ematen diogu."
    ],
    [
     "⚖️",
-    "Locke y el Estado liberal",
-    "Pacto limitado: derechos naturales (vida, libertad, propiedad), división de poderes y derecho a rebelión."
+    "Locke eta Estatu liberala",
+    "Itun mugatua: eskubide naturalak (bizitza, askatasuna, jabetza), botere-banaketa eta matxinatzeko eskubidea."
    ],
    [
     "🙋",
-    "Rousseau y la voluntad general",
-    "El pueblo se gobierna a sí mismo por la voluntad general: soberanía popular, raíz de la democracia."
+    "Rousseau eta borondate orokorra",
+    "Herriak bere burua gobernatzen du borondate orokorraren bidez: herri-subiranotasuna, demokraziaren sustraia."
    ],
    [
     "🎯",
-    "La justicia (Rawls)",
-    "El «velo de ignorancia»: elegir las reglas sin saber qué lugar ocuparás; solo así son justas para todos."
+    "Justizia (Rawls)",
+    "«Ezjakintasunaren estalkia»: arauak aukeratzea zer leku izango duzun jakin gabe; horrela bakarrik dira guztientzat justuak."
    ],
    [
     "👑",
-    "Formas de gobierno",
-    "Según quién manda: uno (monarquía), pocos (aristocracia) o muchos (democracia), cada una con su degeneración."
+    "Gobernu-formak",
+    "Nork agintzen duen: batek (monarkia), gutxik (aristokrazia) edo askok (demokrazia), bakoitza bere endekapenarekin."
    ],
    [
     "🗳️",
-    "La democracia",
-    "Soberanía popular, libertades, igualdad ante la ley y división de poderes; sus enemigos: los bulos y la desigualdad."
+    "Demokrazia",
+    "Herri-subiranotasuna, askatasunak, legearen aurreko berdintasuna eta botere-banaketa; haren etsaiak: gezur-albisteak eta desberdintasuna."
    ],
    [
     "🕊️",
-    "Derechos humanos",
-    "Exigencias mínimas de toda persona (Declaración de 1948): un límite que ningún poder puede traspasar."
+    "Giza eskubideak",
+    "Pertsona orok dituen gutxieneko eskakizunak (1948ko Adierazpena): inongo boterek gainditu ezin duen muga."
    ],
    [
     "🛡️",
     "Zuzenbide-estatua",
-    "También el gobierno está sometido a la ley; frente a él, el totalitarismo (Arendt) anula la libertad."
+    "Gobernua ere legearen mende dago; horren aurrean, totalitarismoak (Arendt) askatasuna deuseztatzen du."
    ]
   ]
  },
  "fil-presocraticos": {
-  "name": "Filosofía 1.º · Los presocráticos: la búsqueda del arché",
+  "name": "Filosofia 1. · Presokratikoak: arkhearen bilaketa",
   "subject": "fil",
   "cards": [
    [
     "🌅",
     "Mitotik logosera",
-    "El paso de explicar el mundo con dioses (mito) a buscar sus causas con la razón (logos): nace la filosofía."
+    "Mundua jainkoen bidez (mitoa) azaltzetik haren kausak arrazoiaren bidez (logosa) bilatzera igarotzea: filosofia jaiotzen da."
    ],
    [
     "💧",
-    "El arché",
-    "Los primeros filósofos buscan el arché: el principio o realidad primera de la que todo procede."
+    "Arkhea",
+    "Lehen filosofoek arkhea bilatzen dute: dena sortzen den printzipioa edo lehen errealitatea."
    ],
    [
     "🌊",
     "Tales Miletokoa",
-    "El agua es el principio de todo. El primer filósofo: busca una causa natural, no divina."
+    "Ura da guztiaren printzipioa. Lehen filosofoa: kausa naturala bilatzen du, ez jainkozkoa."
    ],
    [
     "♾️",
     "Anaximandro",
-    "El arché es el ápeiron: lo indefinido e ilimitado, de lo que surgen y a lo que vuelven las cosas."
+    "Arkhea apeirona da: mugagabea eta zehaztugabea; handik sortzen dira gauzak eta hara itzultzen dira."
    ],
    [
     "🌬️",
     "Anaximenes",
-    "El aire es el principio: por condensación y rarefacción da lugar a todas las cosas."
+    "Airea da printzipioa: kondentsazioaren eta enrarezimenduaren bidez gauza guztiak sortzen ditu."
    ],
    [
     "🎭",
-    "Jenófanes de Colofón",
-    "Critica a los dioses antropomórficos: «si los caballos tuvieran dioses, serían caballos». Hacia un dios único."
+    "Xenofanes Kolofongoa",
+    "Jainko antropomorfoak kritikatzen ditu: «zaldiek jainkoak izango balituzte, zaldiak lirateke». Jainko bakar baterantz."
    ],
    [
     "🔢",
-    "Pitágoras de Samos",
-    "El número es la clave de la realidad: todo se ordena según proporciones matemáticas."
+    "Pitagoras Samoskoa",
+    "Zenbakia da errealitatearen giltza: dena proportzio matematikoen arabera ordenatzen da."
    ],
    [
     "🟢",
-    "Parménides de Elea",
-    "El ser es, el no-ser no es: la realidad es una, eterna e inmóvil; el cambio es una ilusión de los sentidos."
+    "Parmenides Eleakoa",
+    "Izatea bada, ez-izatea ez da: errealitatea bakarra, betierekoa eta higiezina da; aldaketa zentzumenen ilusioa da."
    ],
    [
     "🔥",
-    "Heráclito de Éfeso",
-    "Todo fluye (panta rhei): cambio permanente regido por el logos. «No te bañas dos veces en el mismo río»."
+    "Heraklito Efesokoa",
+    "Dena isurtzen da (panta rhei): logosak gobernatutako etengabeko aldaketa. «Ez zara bi aldiz ibai berean bainatzen»."
    ],
    [
     "🔬",
-    "Los «físicos»",
-    "Se les llama físicos porque estudian la physis (la naturaleza) buscando su principio y su orden."
+    "«Fisikoak»",
+    "Fisiko deitzen zaie physis (natura) aztertzen dutelako, haren printzipioa eta ordena bilatuz."
    ]
   ]
  },
  "fil-helenismo": {
-  "name": "Filosofía 1.º · Las escuelas helenísticas: caminos a la felicidad",
+  "name": "Filosofia 1. · Eskola helenistikoak: zoriontasunerako bideak",
   "subject": "fil",
   "cards": [
    [
     "🎯",
-    "La pregunta helenística",
-    "Tras Alejandro, en un mundo inestable, la filosofía busca sobre todo cómo alcanzar la felicidad y la serenidad."
+    "Galdera helenistikoa",
+    "Alexandroren ondoren, mundu ezegonkor batean, filosofiak batez ere zoriontasuna eta lasaitasuna nola lortu bilatzen du."
    ],
    [
     "🌿",
-    "Epicúreos",
-    "Epicuro: la felicidad es el placer sereno y la ausencia de dolor y turbación (ataraxia); satisfacer solo los deseos naturales y necesarios."
+    "Epikureoak",
+    "Epikuro: zoriontasuna plazer lasaia eta minik eta asaldurarik eza da (ataraxia); desio natural eta beharrezkoak soilik asetzea."
    ],
    [
     "💊",
-    "El tetrafármaco",
-    "El «cuádruple remedio» de Epicuro: no temas a los dioses ni a la muerte; el placer es fácil de lograr y el dolor, soportable."
+    "Tetrafarmakoa",
+    "Epikuroren «sendabide laukoitza»: ez izan beldurrik jainkoei ez heriotzari; plazera erraz lortzen da eta mina jasangarria da."
    ],
    [
     "🏛️",
-    "Estoicos",
-    "Zenón, Séneca: vivir según la naturaleza y la razón; aceptar con serenidad lo que no depende de nosotros (apatheia)."
+    "Estoikoak",
+    "Zenon, Seneka: naturaren eta arrazoiaren arabera bizitzea; gure esku ez dagoena lasai onartzea (apatheia)."
    ],
    [
     "🪵",
-    "Cínicos",
-    "Diógenes: la felicidad es la autarquía (bastarse a sí mismo), viviendo según la naturaleza y despreciando lujos y convenciones."
+    "Zinikoak",
+    "Diogenes: zoriontasuna autarkia da (norbera bere buruaz aski izatea), naturaren arabera bizita eta luxuak eta konbentzioak gutxietsita."
    ],
    [
     "❓",
-    "Escépticos",
-    "Pirrón: como no podemos estar seguros de nada, hay que suspender el juicio (epojé); así se alcanza la tranquilidad."
+    "Eszeptikoak",
+    "Pirron: ezertaz ziur egon ezin garenez, judizioa eten behar da (epokhe); horrela lortzen da lasaitasuna."
    ],
    [
     "😌",
     "Ataraxia",
-    "La meta común: la ausencia de perturbación, la serenidad del alma. Cada escuela propone un camino distinto."
+    "Helburu komuna: asaldurarik eza, arimaren lasaitasuna. Eskola bakoitzak bide desberdin bat proposatzen du."
    ],
    [
     "🌍",
     "Kosmopolitismoa",
-    "Ya no se es solo ciudadano de una polis: el sabio se siente «ciudadano del mundo» (sobre todo estoicos y cínicos)."
+    "Jada ez da polis bateko hiritar soilik: jakintsuak «munduko hiritar» sentitzen du bere burua (batez ere estoikoek eta zinikoek)."
    ],
    [
     "⚖️",
-    "Lo que depende de mí",
-    "Estoicismo: distinguir lo que está en mi mano (mis juicios y actos) de lo que no, para no sufrir por lo que no puedo cambiar."
+    "Nire esku dagoena",
+    "Estoizismoa: nire esku dagoena (nire judizioak eta egintzak) ez dagoenetik bereiztea, aldatu ezin dudanagatik ez sufritzeko."
    ]
   ]
  }
@@ -2350,240 +2350,240 @@ const QUIZZES = {
   ]
  },
  "fil-politica-q": {
-  "name": "Filosofía 1.º · La vida en sociedad: política (T6)",
+  "name": "Filosofia 1. · Gizartean bizitzea: politika (T6)",
   "subject": "fil",
   "items": [
    {
-    "q": "¿Qué quiere decir que el ser humano es un «animal político» (Aristóteles)?",
+    "q": "Zer esan nahi du gizakia «animalia politikoa» dela esateak (Aristoteles)?",
     "o": [
-     "Que le interesan los partidos políticos.",
-     "Que solo vive en sociedad por obligación.",
-     "Que se realiza como persona viviendo en comunidad (la polis).",
-     "Que la política es un invento moderno."
+     "Alderdi politikoak interesatzen zaizkiola.",
+     "Gizartean derrigortuta bakarrik bizi dela.",
+     "Komunitatean (polisean) bizita burutzen dela pertsona gisa.",
+     "Politika asmakizun modernoa dela."
     ],
     "a": 2,
-    "fb": "Zoon politikón: la vida en común (la polis) es natural y nos hace personas."
+    "fb": "Zoon politikon: bizitza komuna (polisa) naturala da eta pertsona egiten gaitu."
    },
    {
-    "q": "Según los contractualistas, ¿de dónde saca su poder el Estado?",
+    "q": "Kontraktualisten arabera, nondik ateratzen du Estatuak bere boterea?",
     "o": [
-     "De la naturaleza, como en Aristóteles.",
-     "De un pacto o contrato social entre los individuos.",
-     "Solo de la fuerza militar.",
-     "De la tradición religiosa."
+     "Naturatik, Aristotelesengan bezala.",
+     "Norbanakoen arteko itun edo gizarte-kontratu batetik.",
+     "Indar militarretik bakarrik.",
+     "Tradizio erlijiosotik."
     ],
     "a": 1,
-    "fb": "El Estado es un artificio: un pacto para salir del «estado de naturaleza»."
+    "fb": "Estatua artifizio bat da: «naturazko egoeratik» ateratzeko ituna."
    },
    {
-    "q": "¿Qué defiende Hobbes?",
+    "q": "Zer defendatzen du Hobbesek?",
     "o": [
-     "Un soberano absoluto que garantice la paz y evite la «guerra de todos contra todos».",
-     "La división de poderes y el derecho a rebelión.",
-     "La soberanía popular directa.",
-     "La abolición del Estado."
+     "Bakea bermatu eta «guztien guztien aurkako gerra» saihestuko duen subirano absolutua.",
+     "Botere-banaketa eta matxinatzeko eskubidea.",
+     "Herri-subiranotasun zuzena.",
+     "Estatua ezeztatzea."
     ],
     "a": 0,
-    "fb": "Por miedo a la inseguridad, todos ceden el poder al Leviatán."
+    "fb": "Segurtasunik ezaren beldurrez, denek Leviatanari ematen diote boterea."
    },
    {
-    "q": "¿Qué aporta Locke frente a Hobbes?",
+    "q": "Zer ekartzen du Lockek Hobbesen aurrean?",
     "o": [
-     "Un poder aún más absoluto.",
-     "Derechos naturales, división de poderes y límites al poder (Estado liberal).",
-     "La voluntad general.",
-     "El gobierno de los filósofos."
+     "Are botere absolutuagoa.",
+     "Eskubide naturalak, botere-banaketa eta boterearen mugak (Estatu liberala).",
+     "Borondate orokorra.",
+     "Filosofoen gobernua."
     ],
     "a": 1,
-    "fb": "Locke: pacto limitado y con consentimiento; raíz del liberalismo."
+    "fb": "Locke: itun mugatua eta adostasunezkoa; liberalismoaren sustraia."
    },
    {
-    "q": "El «velo de ignorancia» de Rawls sirve para…",
+    "q": "Rawlsen «ezjakintasunaren estalkia» honetarako da…",
     "o": [
-     "Ocultar las leyes a los ciudadanos.",
-     "Elegir reglas justas sin saber qué lugar ocuparás en la sociedad.",
-     "Defender la desigualdad como natural.",
-     "Eliminar la democracia."
+     "Legeak hiritarrei ezkutatzeko.",
+     "Arau justuak aukeratzeko, gizartean zer leku izango duzun jakin gabe.",
+     "Desberdintasuna natural gisa defendatzeko.",
+     "Demokrazia ezabatzeko."
     ],
     "a": 1,
-    "fb": "Sin saber si serás rico o pobre, solo eliges reglas justas para todos."
+    "fb": "Aberatsa ala pobrea izango zaren jakin gabe, guztientzat justuak diren arauak baino ez dituzu aukeratzen."
    },
    {
-    "q": "¿Qué NO es propio de la democracia?",
+    "q": "Zer EZ da demokraziari dagokiona?",
     "o": [
-     "La soberanía popular.",
-     "La división de poderes.",
-     "Concentrar todo el poder en un líder sin control.",
-     "El respeto a las minorías."
+     "Herri-subiranotasuna.",
+     "Botere-banaketa.",
+     "Botere guztia kontrolik gabeko buruzagi batengan biltzea.",
+     "Gutxiengoekiko errespetua."
     ],
     "a": 2,
-    "fb": "La democracia controla el poder; concentrarlo sin límite es su degeneración."
+    "fb": "Demokraziak boterea kontrolatzen du; mugarik gabe biltzea haren endekapena da."
    },
    {
-    "q": "¿Qué es un «Estado de derecho»?",
+    "q": "Zer da «zuzenbide-estatua»?",
     "o": [
-     "Aquel en que también el gobierno está sometido a la ley y garantiza los derechos.",
-     "Aquel en que manda quien tiene más dinero.",
-     "Un Estado sin leyes.",
-     "Un Estado gobernado por militares."
+     "Gobernua ere legearen mende dagoen eta eskubideak bermatzen dituen Estatua.",
+     "Diru gehien duenak agintzen duen Estatua.",
+     "Legerik gabeko Estatua.",
+     "Militarrek gobernatutako Estatua."
     ],
     "a": 0,
-    "fb": "En el Estado de derecho la ley limita también al poder; lo opuesto al totalitarismo (Arendt)."
+    "fb": "Zuzenbide-estatuan legeak boterea ere mugatzen du; totalitarismoaren aurkakoa da (Arendt)."
    }
   ]
  },
  "fil-presocraticos-q": {
-  "name": "Filosofía 1.º · Los presocráticos",
+  "name": "Filosofia 1. · Presokratikoak",
   "subject": "fil",
   "items": [
    {
-    "q": "¿Qué expresa el paso «del mito al logos»?",
+    "q": "Zer adierazten du «mitotik logosera» igarotzeak?",
     "o": [
-     "Que se dejan de contar historias.",
-     "Que la religión desaparece por completo.",
-     "Que se pasa de explicar el mundo con dioses a buscar sus causas con la razón.",
-     "Que la filosofía nace en Roma."
+     "Istorioak kontatzeari uzten zaiola.",
+     "Erlijioa erabat desagertzen dela.",
+     "Mundua jainkoen bidez azaltzetik haren kausak arrazoiaren bidez bilatzera igarotzen dela.",
+     "Filosofia Erroman jaiotzen dela."
     ],
     "a": 2,
-    "fb": "El logos (la razón) sustituye al mito como forma de explicar la naturaleza: nace la filosofía."
+    "fb": "Logosak (arrazoiak) mitoa ordezten du natura azaltzeko modu gisa: filosofia jaiotzen da."
    },
    {
-    "q": "¿Qué buscaban los presocráticos con el «arché»?",
+    "q": "Zer bilatzen zuten presokratikoek «arkhearekin»?",
     "o": [
-     "El principio o realidad primera de la que todo procede.",
-     "El nombre de los dioses.",
-     "Las reglas de la política.",
-     "La forma de ser feliz."
+     "Dena sortzen den printzipioa edo lehen errealitatea.",
+     "Jainkoen izena.",
+     "Politikaren arauak.",
+     "Zoriontsu izateko modua."
     ],
     "a": 0,
-    "fb": "El arché es el principio originario de la physis (la naturaleza)."
+    "fb": "Arkhea physisaren (naturaren) jatorrizko printzipioa da."
    },
    {
-    "q": "Para Tales de Mileto, el principio de todas las cosas es…",
+    "q": "Tales Miletokoaren ustez, gauza guztien printzipioa hau da…",
     "o": [
-     "El fuego.",
-     "El número.",
-     "El ápeiron.",
-     "El agua."
+     "Sua.",
+     "Zenbakia.",
+     "Apeirona.",
+     "Ura."
     ],
     "a": 3,
-    "fb": "Tales, el primer filósofo, propone el agua: una causa natural, no divina."
+    "fb": "Talesek, lehen filosofoak, ura proposatzen du: kausa naturala, ez jainkozkoa."
    },
    {
-    "q": "El «ápeiron» de Anaximandro es…",
+    "q": "Anaximandroren «apeirona» hau da…",
     "o": [
-     "El aire que respiramos.",
-     "Lo indefinido e ilimitado, de lo que surge todo.",
-     "Una divinidad con forma humana.",
-     "Un número sagrado."
+     "Arnasten dugun airea.",
+     "Mugagabea eta zehaztugabea, dena sortzen den iturria.",
+     "Giza itxurako jainko bat.",
+     "Zenbaki sakratu bat."
     ],
     "a": 1,
-    "fb": "Ápeiron: lo indeterminado e infinito como origen de todo."
+    "fb": "Apeirona: zehaztugabea eta infinitua, guztiaren jatorri gisa."
    },
    {
-    "q": "¿Qué critica Jenófanes de Colofón?",
+    "q": "Zer kritikatzen du Xenofanes Kolofongoak?",
     "o": [
-     "El uso de la razón.",
-     "La existencia del agua.",
-     "Los dioses antropomórficos, hechos a imagen de los humanos.",
-     "La geometría."
+     "Arrazoiaren erabilera.",
+     "Uraren existentzia.",
+     "Jainko antropomorfoak, gizakien irudira eginak.",
+     "Geometria."
     ],
     "a": 2,
-    "fb": "«Si los caballos tuvieran dioses, serían caballos»: crítica a los dioses a nuestra imagen."
+    "fb": "«Zaldiek jainkoak izango balituzte, zaldiak lirateke»: gure irudiko jainkoen kritika."
    },
    {
-    "q": "Según Parménides de Elea, el cambio…",
+    "q": "Parmenides Eleakoaren arabera, aldaketa…",
     "o": [
-     "Es una ilusión de los sentidos: el ser es uno e inmóvil.",
-     "Es la única realidad.",
-     "Lo explica el número.",
-     "Depende del aire."
+     "Zentzumenen ilusioa da: izatea bakarra eta higiezina da.",
+     "Errealitate bakarra da.",
+     "Zenbakiak azaltzen du.",
+     "Airearen mende dago."
     ],
     "a": 0,
-    "fb": "Para Parménides «el ser es y el no-ser no es»: la realidad es una, eterna e inmóvil."
+    "fb": "Parmenidesentzat «izatea bada eta ez-izatea ez da»: errealitatea bakarra, betierekoa eta higiezina da."
    },
    {
-    "q": "¿Por qué se llama «físicos» a los presocráticos?",
+    "q": "Zergatik deitzen zaie «fisiko» presokratikoei?",
     "o": [
-     "Porque hacían experimentos de laboratorio.",
-     "Porque eran atletas.",
-     "Porque escribían en verso.",
-     "Porque estudian la physis (la naturaleza) buscando su principio."
+     "Laborategiko esperimentuak egiten zituztelako.",
+     "Atletak zirelako.",
+     "Bertsotan idazten zutelako.",
+     "Physis (natura) aztertzen dutelako, haren printzipioa bilatuz."
     ],
     "a": 3,
-    "fb": "Physis = naturaleza: buscan su arché y su orden con la razón."
+    "fb": "Physis = natura: haren arkhea eta ordena bilatzen dituzte arrazoiaren bidez."
    }
   ]
  },
  "fil-helenismo-q": {
-  "name": "Filosofía 1.º · Las escuelas helenísticas",
+  "name": "Filosofia 1. · Eskola helenistikoak",
   "subject": "fil",
   "items": [
    {
-    "q": "¿Qué preocupa sobre todo a las escuelas helenísticas?",
+    "q": "Zerk kezkatzen ditu batez ere eskola helenistikoak?",
     "o": [
-     "La estructura del átomo.",
-     "La organización del Estado ideal.",
-     "Cómo alcanzar la felicidad y la serenidad en un mundo inestable.",
-     "El origen del universo."
+     "Atomoaren egiturak.",
+     "Estatu idealaren antolaketak.",
+     "Mundu ezegonkor batean zoriontasuna eta lasaitasuna nola lortu.",
+     "Unibertsoaren jatorriak."
     ],
     "a": 2,
-    "fb": "Tras Alejandro, la filosofía se centra en cómo vivir bien y sin turbación."
+    "fb": "Alexandroren ondoren, filosofia ondo eta asaldurarik gabe nola bizi aztertzera bideratzen da."
    },
    {
-    "q": "Para Epicuro, la felicidad consiste en…",
+    "q": "Epikurorentzat, zoriontasuna hau da…",
     "o": [
-     "El placer sereno y la ausencia de dolor y turbación (ataraxia).",
-     "El poder y la riqueza.",
-     "Suspender todo juicio.",
-     "Cumplir con el destino."
+     "Plazer lasaia eta minik eta asaldurarik eza (ataraxia).",
+     "Boterea eta aberastasuna.",
+     "Judizio oro etetea.",
+     "Patua betetzea."
     ],
     "a": 0,
-    "fb": "Epicureísmo: placer moderado, satisfacer solo los deseos naturales y necesarios."
+    "fb": "Epikureismoa: plazer neurtua, desio natural eta beharrezkoak soilik asetzea."
    },
    {
-    "q": "¿Qué defienden los estoicos (Zenón, Séneca)?",
+    "q": "Zer defendatzen dute estoikoek (Zenon, Seneka)?",
     "o": [
-     "Buscar el máximo placer posible.",
+     "Ahalik eta plazer handiena bilatzea.",
      "Guztiaz zalantza egitea.",
-     "Renunciar a la vida en sociedad.",
-     "Vivir según la razón y aceptar con serenidad lo que no depende de nosotros."
+     "Gizarteko bizitzari uko egitea.",
+     "Arrazoiaren arabera bizitzea eta gure esku ez dagoena lasai onartzea."
     ],
     "a": 3,
-    "fb": "Estoicismo: apatheia; distinguir lo que está en mi mano de lo que no."
+    "fb": "Estoizismoa: apatheia; nire esku dagoena ez dagoenetik bereiztea."
    },
    {
-    "q": "La «autarquía» de los cínicos (Diógenes) es…",
+    "q": "Zinikoen (Diogenes) «autarkia» hau da…",
     "o": [
-     "El gobierno de uno solo.",
-     "Bastarse a sí mismo, viviendo según la naturaleza sin lujos ni convenciones.",
+     "Bakar baten gobernua.",
+     "Norbera bere buruaz aski izatea, naturaren arabera bizita, luxurik eta konbentziorik gabe.",
      "Judizioaren etetea.",
      "Jainkoen beldurra."
     ],
     "a": 1,
-    "fb": "Autarquía: autosuficiencia; Diógenes desprecia las convenciones sociales."
+    "fb": "Autarkia: burujabetasuna; Diogenesek gizarte-konbentzioak gutxiesten ditu."
    },
    {
-    "q": "¿Qué proponen los escépticos (Pirrón)?",
+    "q": "Zer proposatzen dute eszeptikoek (Pirron)?",
     "o": [
-     "Que ya conocemos toda la verdad.",
-     "Vivir según la voluntad general.",
-     "Suspender el juicio (epojé), pues no podemos estar seguros de nada, para lograr la tranquilidad.",
-     "Adorar el número."
+     "Egia osoa dagoeneko ezagutzen dugula.",
+     "Borondate orokorraren arabera bizitzea.",
+     "Judizioa etetea (epokhe), ezertaz ziur egon ezin garelako, lasaitasuna lortzeko.",
+     "Zenbakia gurtzea."
     ],
     "a": 2,
-    "fb": "Escepticismo: la epojé conduce a la ataraxia."
+    "fb": "Eszeptizismoa: epokheak ataraxiara darama."
    },
    {
-    "q": "¿Qué es la «ataraxia»?",
+    "q": "Zer da «ataraxia»?",
     "o": [
-     "La ausencia de perturbación, la serenidad del alma.",
-     "Una escuela política.",
-     "Un tipo de placer intenso.",
-     "El principio de todas las cosas."
+     "Asaldurarik eza, arimaren lasaitasuna.",
+     "Eskola politiko bat.",
+     "Plazer bizi mota bat.",
+     "Gauza guztien printzipioa."
     ],
     "a": 0,
-    "fb": "Ataraxia: la meta común de las escuelas helenísticas, por caminos distintos."
+    "fb": "Ataraxia: eskola helenistikoen helburu komuna, bide desberdinetatik."
    }
   ]
  }

@@ -94,7 +94,7 @@ const CINE = [
   "t": "Descifrando Enigma",
   "year": 2014,
   "autor": "Morten Tyldum",
-  "q": "Turing y la lógica hecha máquina: ¿puede una máquina razonar y pensar?"
+  "q": "Turing eta makina bihurtutako logika: makina batek arrazoitu eta pentsa dezake?"
  },
  {
   "tema": "fil-t4",
@@ -102,15 +102,15 @@ const CINE = [
   "t": "12 hombres sin piedad",
   "year": 1957,
   "autor": "Sidney Lumet",
-  "q": "Argumentar bien: distinguir la prueba del prejuicio y detectar las falacias."
+  "q": "Ondo argudiatzea: froga aurreiritzitik bereiztea eta faltsukeriak antzematea."
  },
  {
   "tema": "fil-t4",
   "kind": "arte",
-  "t": "Relatividad",
+  "t": "Erlatibitatea",
   "year": 1953,
   "autor": "M. C. Escher",
-  "q": "Paradojas y autorreferencia: cuando la lógica del espacio se enreda consigo misma."
+  "q": "Paradoxak eta autoerreferentzia: espazioaren logika bere baitan korapilatzen denean."
  },
  {
   "tema": "fil-t5",
@@ -118,31 +118,31 @@ const CINE = [
   "t": "Gattaca",
   "year": 1997,
   "autor": "Andrew Niccol",
-  "q": "Bioética y eugenesia: ¿es lícito diseñar a las personas antes de nacer?"
+  "q": "Bioetika eta eugenesia: zilegi al da pertsonak jaio aurretik diseinatzea?"
  },
  {
   "tema": "fil-t5",
   "kind": "cine",
   "t": "Intocable",
   "year": 2011,
-  "autor": "Olivier Nakache y Éric Toledano",
-  "q": "La dignidad y el cuidado del otro: ¿qué debemos a los demás?"
+  "autor": "Olivier Nakache eta Éric Toledano",
+  "q": "Duintasuna eta bestearen zaintza: zer zor diegu besteei?"
  },
  {
   "tema": "fil-t5",
   "kind": "arte",
-  "t": "El 3 de mayo de 1808",
+  "t": "1808ko maiatzaren 3a",
   "year": 1814,
   "autor": "Francisco de Goya",
-  "q": "El mal y la violencia: ¿puede alguna razón justificar quitar una vida?"
+  "q": "Gaizkia eta indarkeria: arrazoiren batek justifika al dezake bizitza bat kentzea?"
  },
  {
   "tema": "fil-t6",
   "kind": "cine",
-  "t": "El gran dictador",
+  "t": "Diktadore handia",
   "year": 1940,
   "autor": "Charles Chaplin",
-  "q": "Tiranía frente a democracia: el poder que oprime y la defensa de la libertad."
+  "q": "Tirania demokraziaren aurrean: zapaltzen duen boterea eta askatasunaren defentsa."
  },
  {
   "tema": "fil-t6",
@@ -150,14 +150,14 @@ const CINE = [
   "t": "La ola",
   "year": 2008,
   "autor": "Dennis Gansel",
-  "q": "¿Cómo puede nacer un régimen totalitario, incluso en un aula?"
+  "q": "Nola sor daiteke erregimen totalitario bat, baita ikasgela batean ere?"
  },
  {
   "tema": "fil-t6",
   "kind": "arte",
-  "t": "La libertad guiando al pueblo",
+  "t": "Askatasuna herria gidatzen",
   "year": 1830,
   "autor": "Eugène Delacroix",
-  "q": "Revolución y derechos: ¿cuándo es legítimo rebelarse contra el poder?"
+  "q": "Iraultza eta eskubideak: noiz da legitimoa boterearen aurka matxinatzea?"
  }
 ];

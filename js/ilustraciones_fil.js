@@ -137,8 +137,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_leviatan.jpg",
-  "t": "Frontispicio del Leviatán (Hobbes, 1651)",
-  "pie": "El Estado como un gran cuerpo formado por los individuos.",
+  "t": "Leviatanaren azala (Hobbes, 1651)",
+  "pie": "Estatua, gizabanakoek osatutako gorputz handi gisa.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": "Wenceslas Hollar or (more likely) Abraham Bosse.",
@@ -147,7 +147,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_hobbes.jpg",
   "t": "Thomas Hobbes",
-  "pie": "Del miedo de «todos contra todos» al soberano que trae la paz.",
+  "pie": "«Guztiak guztien aurka» egoeraren beldurretik bakea dakarren subiranora.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": "John Michael Wright",
@@ -156,7 +156,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_locke.jpg",
   "t": "John Locke",
-  "pie": "Derechos naturales y gobierno limitado: raíz del liberalismo.",
+  "pie": "Eskubide naturalak eta gobernu mugatua: liberalismoaren sustraia.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": "Godfrey Kneller",
@@ -165,7 +165,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_rousseau_pol.jpg",
   "t": "Jean-Jacques Rousseau",
-  "pie": "El contrato social y la voluntad general: soberanía popular.",
+  "pie": "Gizarte-kontratua eta borondate orokorra: herri-subiranotasuna.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": "Martin, David, 1737-1797, engraver; Ramsay, Allan, 1713-1784, artist",
@@ -174,7 +174,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_marx.jpg",
   "t": "Karl Marx",
-  "pie": "Clases, trabajo y crítica del Estado y la desigualdad.",
+  "pie": "Klaseak, lana eta Estatuaren eta desberdintasunaren kritika.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": "John Jabez Edwin Mayall",
@@ -182,8 +182,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_ddhh.jpg",
-  "t": "Declaración de los Derechos del Hombre (1789)",
-  "pie": "Los derechos como límite que ningún poder puede traspasar.",
+  "t": "Gizakiaren Eskubideen Adierazpena (1789)",
+  "pie": "Eskubideak, inongo boterek gainditu ezin duen muga gisa.",
   "tema": "fil-t6",
   "license": "CC0",
   "artist": "Imprimerie des Frères Périsse, imprimeur",
@@ -192,7 +192,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_socrates.jpg",
   "t": "Sokrates",
-  "pie": "«Solo sé que no sé nada»: la pregunta como método.",
+  "pie": "«Ezer ez dakidala baino ez dakit»: galdera metodo gisa.",
   "tema": "fil-t1",
   "license": "Domeinu publikoa",
   "artist": "Copy of Lysippos (?)",
@@ -200,8 +200,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_diogenes.jpg",
-  "t": "Diógenes",
-  "pie": "El filósofo que buscaba a un hombre honesto con un candil.",
+  "t": "Diogenes",
+  "pie": "Gizon zintzo baten bila kriseilu batekin zebilen filosofoa.",
   "tema": "fil-t1",
   "license": "Domeinu publikoa",
   "artist": "Jean-Léon Gérôme",
@@ -210,7 +210,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_galileo.jpg",
   "t": "Galileo Galilei",
-  "pie": "El método científico: observar, medir, contrastar.",
+  "pie": "Metodo zientifikoa: behatu, neurtu, egiaztatu.",
   "tema": "fil-t3",
   "license": "Domeinu publikoa",
   "artist": "Justus Sustermans",
@@ -218,17 +218,17 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_vesalio.jpg",
-  "t": "Anatomía (Vesalio, 1543)",
-  "pie": "Observar para conocer: nace la ciencia moderna.",
+  "t": "Anatomia (Vesalio, 1543)",
+  "pie": "Ezagutzeko behatu: zientzia modernoa jaiotzen da.",
   "tema": "fil-t3",
   "license": "Domeinu publikoa",
-  "artist": "desconocido",
+  "artist": "ezezaguna",
   "page": "https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_p163.jpg"
  },
  {
   "f": "media/ilustraciones/fil_newton.jpg",
   "t": "Isaac Newton",
-  "pie": "Las leyes de la naturaleza descubiertas por la razón.",
+  "pie": "Arrazoiak aurkitutako naturaren legeak.",
   "tema": "fil-t3",
   "license": "Domeinu publikoa",
   "artist": "Godfrey Kneller",
@@ -237,7 +237,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_boole.jpg",
   "t": "George Boole",
-  "pie": "El álgebra de la lógica: lo verdadero y lo falso como 1 y 0.",
+  "pie": "Logikaren aljebra: egiazkoa eta faltsua 1 eta 0 gisa.",
   "tema": "fil-t4",
   "license": "Domeinu publikoa",
   "artist": "Unknown authorUnknown author",
@@ -246,7 +246,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_leibniz.jpg",
   "t": "Gottfried W. Leibniz",
-  "pie": "El sueño de un cálculo universal del razonamiento.",
+  "pie": "Arrazoiketaren kalkulu unibertsal baten ametsa.",
   "tema": "fil-t4",
   "license": "Domeinu publikoa",
   "artist": "Christoph Bernhard Francke",
@@ -255,7 +255,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_aristoteles_log.jpg",
   "t": "Aristoteles",
-  "pie": "El Organon: la primera teoría de la deducción válida.",
+  "pie": "Organon: dedukzio baliodunaren lehen teoria.",
   "tema": "fil-t4",
   "license": "Domeinu publikoa",
   "artist": "Unknown authorUnknown author",
@@ -264,7 +264,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_kant.jpg",
   "t": "Immanuel Kant",
-  "pie": "El deber y el imperativo categórico.",
+  "pie": "Betebeharra eta inperatibo kategorikoa.",
   "tema": "fil-t5",
   "license": "CC0",
   "artist": "Rijksmuseum",
@@ -273,7 +273,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_epicuro.jpg",
   "t": "Epikuro",
-  "pie": "La felicidad como placer sereno y ausencia de dolor.",
+  "pie": "Zoriontasuna plazer lasai eta minik ez gisa.",
   "tema": "fil-t5",
   "license": "Domeinu publikoa",
   "artist": "Unknown artistUnknown artist",
@@ -282,7 +282,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_mill.jpg",
   "t": "John Stuart Mill",
-  "pie": "El utilitarismo: la mayor felicidad para el mayor número.",
+  "pie": "Utilitarismoa: zoriontasunik handiena kopururik handienarentzat.",
   "tema": "fil-t5",
   "license": "Domeinu publikoa",
   "artist": "London Stereoscopic Company",
@@ -290,8 +290,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_friedrich.jpg",
-  "t": "El caminante sobre el mar de nubes",
-  "pie": "Lo sublime: el arte romántico ante lo inabarcable.",
+  "t": "Hodei-itsasoaren gaineko ibiltaria",
+  "pie": "Sublimea: arte erromantikoa neurtezinaren aurrean.",
   "tema": "fil-t7",
   "license": "Domeinu publikoa",
   "artist": "Caspar David Friedrich (1774–1840)",
@@ -299,8 +299,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_botticelli.jpg",
-  "t": "El nacimiento de Venus (Botticelli)",
-  "pie": "La belleza ideal del Renacimiento.",
+  "t": "Venusen jaiotza (Botticelli)",
+  "pie": "Errenazimentuko edertasun ideala.",
   "tema": "fil-t7",
   "license": "Domeinu publikoa",
   "artist": "Sandro Botticelli",
@@ -309,7 +309,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_pre_tales.jpg",
   "t": "Tales Miletokoa",
-  "pie": "El primer filósofo: el agua como principio de todo.",
+  "pie": "Lehen filosofoa: ura, guztiaren printzipio gisa.",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
   "artist": "Unknown authorUnknown author",
@@ -318,7 +318,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_pre_heraclito.jpg",
   "t": "Heraklito",
-  "pie": "«Todo fluye»: el devenir regido por el logos.",
+  "pie": "«Dena jariatzen da»: logosak gobernatutako bilakabidea.",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
   "artist": "Hendrick ter Brugghen",
@@ -327,7 +327,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_pre_democrito.jpg",
   "t": "Demokrito",
-  "pie": "La materia es átomos y vacío (el filósofo que ríe).",
+  "pie": "Materia atomoak eta hutsa da (barre egiten duen filosofoa).",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
   "artist": "Johannes Moreelse",
@@ -336,7 +336,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_hel_epicuro.jpg",
   "t": "Epikuro",
-  "pie": "La felicidad como placer sereno y ausencia de dolor (ataraxia).",
+  "pie": "Zoriontasuna plazer lasai eta minik ez gisa (ataraxia).",
   "tema": "fil-helenismo",
   "license": "CC0",
   "artist": "Gary Todd",
@@ -344,8 +344,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_hel_zenon.jpg",
-  "t": "Zenón de Citio",
-  "pie": "Fundador del estoicismo: vivir según la razón y la naturaleza.",
+  "t": "Zenon Zitiokoa",
+  "pie": "Estoizismoaren sortzailea: arrazoiaren eta naturaren arabera bizitzea.",
   "tema": "fil-helenismo",
   "license": "Domeinu publikoa",
   "artist": "Marie-Lan Nguyen",
@@ -353,8 +353,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_hel_seneca.jpg",
-  "t": "Séneca",
-  "pie": "Estoico: aceptar con serenidad lo que no depende de nosotros.",
+  "t": "Seneka",
+  "pie": "Estoikoa: gure esku ez dagoena lasaitasunez onartzea.",
   "tema": "fil-helenismo",
   "license": "CC0",
   "artist": "Peter Paul Rubens",
@@ -363,7 +363,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_hel_diogenes.jpg",
   "t": "Diogenes Sinopekoa",
-  "pie": "Cínico: la autarquía, bastarse a sí mismo.",
+  "pie": "Zinikoa: autarkia, norbere buruarekin aski izatea.",
   "tema": "fil-helenismo",
   "license": "Domeinu publikoa",
   "artist": "John William Waterhouse",
@@ -371,8 +371,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_hel_marcoaurelio.jpg",
-  "t": "Marco Aurelio",
-  "pie": "Emperador estoico: las Meditaciones y el deber.",
+  "t": "Marko Aurelio",
+  "pie": "Enperadore estoikoa: Gogoetak eta betebeharra.",
   "tema": "fil-helenismo",
   "license": "CC0",
   "artist": "Gary Todd from Xinzheng, China",
@@ -381,7 +381,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_hel_epicteto.jpg",
   "t": "Epikteto",
-  "pie": "Estoico: distinguir lo que depende de mí de lo que no.",
+  "pie": "Estoikoa: nire esku dagoena eta ez dagoena bereiztea.",
   "tema": "fil-helenismo",
   "license": "Domeinu publikoa",
   "artist": "\"Abric.\"",
@@ -389,8 +389,8 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/ilustraciones/fil_pre_pitagoras.jpg",
-  "t": "Pitágoras de Samos",
-  "pie": "El número como clave y orden de la realidad.",
+  "t": "Pitagoras Samoskoa",
+  "pie": "Zenbakia, errealitatearen gako eta ordena gisa.",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
   "artist": "Unknown authorUnknown author",
@@ -399,7 +399,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/ilustraciones/fil_pre_anaximandro.jpg",
   "t": "Anaximandro",
-  "pie": "El arché es el ápeiron: lo indefinido e ilimitado.",
+  "pie": "Arkhea apeirona da: zehaztugabea eta mugagabea.",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
   "artist": "ancient Roman mosaic artist from the early third century AD",

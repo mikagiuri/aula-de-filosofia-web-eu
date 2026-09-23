@@ -88,35 +88,35 @@ const ESQUEMAS_FIL = {
   "subject": "fil",
   "block": "F1",
   "tema": "Filosofia · 6. gaia",
-  "title": "El origen del Estado: ¿naturaleza o contrato?",
-  "mermaid": "flowchart TD\n  est[\"EL ORIGEN DEL ESTADO\"]:::axis\n  nat[\"¿Naturaleza? (Aristóteles)\"]:::key\n  n1[\"el humano es zoon politikón: la polis es natural\"]\n  con[\"¿Contrato? (los modernos)\"]:::key\n  c1[\"el Estado es un artificio: un pacto para salir del estado de naturaleza\"]\n  ho[\"Hobbes\"]:::key\n  h1[\"guerra de todos contra todos → soberano absoluto (Leviatán)\"]\n  lo[\"Locke\"]:::key\n  l1[\"derechos naturales → Estado liberal y división de poderes\"]\n  ro[\"Rousseau\"]:::key\n  r1[\"voluntad general → soberanía popular\"]\n  est --> nat --> n1\n  est --> con --> c1\n  con --> ho --> h1\n  con --> lo --> l1\n  con --> ro --> r1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+  "title": "Estatuaren jatorria: natura ala kontratua?",
+  "mermaid": "flowchart TD\n  est[\"ESTATUAREN JATORRIA\"]:::axis\n  nat[\"Natura? (Aristoteles)\"]:::key\n  n1[\"gizakia zoon politikón da: polis-a naturala da\"]\n  con[\"Kontratua? (modernoak)\"]:::key\n  c1[\"Estatua artifizio bat da: naturazko egoeratik ateratzeko ituna\"]\n  ho[\"Hobbes\"]:::key\n  h1[\"guztien gerra guztien aurka → subirano absolutua (Leviatana)\"]\n  lo[\"Locke\"]:::key\n  l1[\"eskubide naturalak → Estatu liberala eta botere-banaketa\"]\n  ro[\"Rousseau\"]:::key\n  r1[\"borondate orokorra → herri-subiranotasuna\"]\n  est --> nat --> n1\n  est --> con --> c1\n  con --> ho --> h1\n  con --> lo --> l1\n  con --> ro --> r1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
  },
  "FIL-T6-02": {
   "subject": "fil",
   "block": "F1",
   "tema": "Filosofia · 6. gaia",
-  "title": "Justicia, poder y formas de gobierno",
-  "mermaid": "flowchart TD\n  pol[\"LA VIDA POLÍTICA\"]:::axis\n  jus[\"Justicia\"]:::key\n  j1[\"Platón: cada parte cumple su función · Rawls: el velo de ignorancia\"]\n  leg[\"Poder y legitimidad (Weber)\"]:::key\n  le1[\"tradición · carisma · legalidad racional\"]\n  gob[\"Formas de gobierno\"]:::key\n  g1[\"uno (monarquía) · pocos (aristocracia) · muchos (democracia)\"]\n  dem[\"Democracia\"]:::key\n  d1[\"soberanía popular, libertades y división de poderes; enemigos: manipulación y desigualdad\"]\n  dh[\"Derechos humanos y Estado de derecho\"]:::key\n  dh1[\"límite que ningún poder puede traspasar (Arendt: contra el totalitarismo)\"]\n  pol --> jus --> j1\n  pol --> leg --> le1\n  pol --> gob --> g1\n  gob --> dem --> d1\n  pol --> dh --> dh1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+  "title": "Justizia, boterea eta gobernu-formak",
+  "mermaid": "flowchart TD\n  pol[\"BIZITZA POLITIKOA\"]:::axis\n  jus[\"Justizia\"]:::key\n  j1[\"Platon: zati bakoitzak bere funtzioa betetzen du · Rawls: ezjakintasunaren beloa\"]\n  leg[\"Boterea eta legitimitatea (Weber)\"]:::key\n  le1[\"tradizioa · karisma · legaltasun arrazionala\"]\n  gob[\"Gobernu-formak\"]:::key\n  g1[\"bat (monarkia) · gutxi batzuk (aristokrazia) · asko (demokrazia)\"]\n  dem[\"Demokrazia\"]:::key\n  d1[\"herri-subiranotasuna, askatasunak eta botere-banaketa; etsaiak: manipulazioa eta desberdintasuna\"]\n  dh[\"Giza eskubideak eta zuzenbide-estatua\"]:::key\n  dh1[\"inongo boterek gainditu ezin duen muga (Arendt: totalitarismoaren aurka)\"]\n  pol --> jus --> j1\n  pol --> leg --> le1\n  pol --> gob --> g1\n  gob --> dem --> d1\n  pol --> dh --> dh1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
  },
  "FIL-T4-01": {
   "subject": "fil",
   "block": "F1",
   "tema": "Filosofia · 4. gaia",
-  "title": "Lógica formal: conectivas, tablas de verdad y Boole",
-  "mermaid": "flowchart TD\n  log[\"LÓGICA FORMAL\"]:::axis\n  con[\"Conectivas\"]:::key\n  c1[\"¬ no · ∧ y · ∨ o · → si...entonces · ↔ si y solo si\"]\n  tv[\"Tablas de verdad\"]:::key\n  t1[\"evalúan si una fórmula es verdadera o falsa según sus partes\"]\n  bo[\"Álgebra de Boole\"]:::key\n  b1[\"lo verdadero y lo falso como 1 y 0\"]\n  pu[\"Puertas lógicas (Shannon)\"]:::key\n  p1[\"AND (∧), OR (∨), NOT (¬): la lógica hecha electricidad → el ordenador\"]\n  log --> con --> c1\n  log --> tv --> t1\n  log --> bo --> b1\n  bo --> pu --> p1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+  "title": "Logika formala: konektiboak, egia-taulak eta Boole",
+  "mermaid": "flowchart TD\n  log[\"LOGIKA FORMALA\"]:::axis\n  con[\"Konektiboak\"]:::key\n  c1[\"¬ ez · ∧ eta · ∨ edo · → baldin...orduan · ↔ baldin eta soilik baldin\"]\n  tv[\"Egia-taulak\"]:::key\n  t1[\"formula bat egiazkoa ala faltsua den ebaluatzen dute, bere zatien arabera\"]\n  bo[\"Booleren aljebra\"]:::key\n  b1[\"egiazkoa eta faltsua 1 eta 0 gisa\"]\n  pu[\"Ate logikoak (Shannon)\"]:::key\n  p1[\"AND (∧), OR (∨), NOT (¬): elektrizitate bihurtutako logika → ordenagailua\"]\n  log --> con --> c1\n  log --> tv --> t1\n  log --> bo --> b1\n  bo --> pu --> p1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
  },
  "FIL-PRE-01": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Filosofía · Los presocráticos",
-  "title": "Los presocráticos: la búsqueda del arché",
-  "mermaid": "flowchart TD\n  pre[\"LOS PRESOCRÁTICOS\"]:::axis\n  ml[\"Del mito al logos: explicar la naturaleza con la razón\"]\n  arc[\"Buscan el ARCHÉ: el principio de todo\"]:::key\n  mil[\"Los milesios\"]:::key\n  ta[\"Tales: el agua\"]\n  an[\"Anaximandro: el ápeiron (lo indefinido)\"]\n  ax[\"Anaxímenes: el aire\"]\n  je[\"Jenófanes: crítica a los dioses antropomórficos\"]:::key\n  pi[\"Pitágoras: el número\"]:::key\n  par[\"Parménides: el ser es uno e inmóvil (el cambio, ilusión)\"]:::key\n  her[\"Heráclito: todo fluye, regido por el logos\"]:::key\n  pre --> ml\n  pre --> arc\n  arc --> mil\n  mil --> ta\n  mil --> an\n  mil --> ax\n  arc --> pi\n  pre --> je\n  pre --> par\n  pre --> her\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+  "tema": "Filosofia · Presokratikoak",
+  "title": "Presokratikoak: arkhearen bilaketa",
+  "mermaid": "flowchart TD\n  pre[\"PRESOKRATIKOAK\"]:::axis\n  ml[\"Mitotik logosera: natura arrazoiaren bidez azaltzea\"]\n  arc[\"ARKHEA bilatzen dute: guztiaren printzipioa\"]:::key\n  mil[\"Miletoarrak\"]:::key\n  ta[\"Tales: ura\"]\n  an[\"Anaximandro: apeirona (zehaztugabea)\"]\n  ax[\"Anaximenes: airea\"]\n  je[\"Xenofanes: jainko antropomorfikoen kritika\"]:::key\n  pi[\"Pitagoras: zenbakia\"]:::key\n  par[\"Parmenides: izatea bakarra eta higiezina da (aldaketa, ilusioa)\"]:::key\n  her[\"Heraklito: dena jariatzen da, logosak gobernatuta\"]:::key\n  pre --> ml\n  pre --> arc\n  arc --> mil\n  mil --> ta\n  mil --> an\n  mil --> ax\n  arc --> pi\n  pre --> je\n  pre --> par\n  pre --> her\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
  },
  "FIL-HEL-01": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Filosofía · El helenismo",
-  "title": "Las escuelas helenísticas: caminos a la felicidad",
-  "mermaid": "flowchart TD\n  hel[\"¿CÓMO ALCANZAR LA FELICIDAD?\"]:::axis\n  ep[\"Epicúreos (Epicuro)\"]:::key\n  e1[\"placer sereno y ausencia de dolor: ataraxia\"]\n  es[\"Estoicos (Zenón, Séneca)\"]:::key\n  s1[\"vivir según la razón; aceptar lo que no depende de mí (apatheia)\"]\n  ci[\"Cínicos (Diógenes)\"]:::key\n  c1[\"autarquía: bastarse a sí mismo, sin convenciones\"]\n  esc[\"Escépticos (Pirrón)\"]:::key\n  x1[\"suspender el juicio (epojé): tranquilidad\"]\n  hel --> ep --> e1\n  hel --> es --> s1\n  hel --> ci --> c1\n  hel --> esc --> x1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+  "tema": "Filosofia · Helenismoa",
+  "title": "Eskola helenistikoak: zoriontasunerako bideak",
+  "mermaid": "flowchart TD\n  hel[\"NOLA IRITSI ZORIONTASUNERA?\"]:::axis\n  ep[\"Epikureoak (Epikuro)\"]:::key\n  e1[\"plazer lasaia eta minik eza: ataraxia\"]\n  es[\"Estoikoak (Zenon, Seneka)\"]:::key\n  s1[\"arrazoiaren arabera bizitzea; nire esku ez dagoena onartzea (apatheia)\"]\n  ci[\"Zinikoak (Diogenes)\"]:::key\n  c1[\"autarkia: norbere buruarekin aski izatea, konbentziorik gabe\"]\n  esc[\"Eszeptikoak (Pirron)\"]:::key\n  x1[\"judizioa etetea (epokhe): lasaitasuna\"]\n  hel --> ep --> e1\n  hel --> es --> s1\n  hel --> ci --> c1\n  hel --> esc --> x1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
  }
 };
