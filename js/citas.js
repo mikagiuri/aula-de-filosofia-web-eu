@@ -31,6 +31,12 @@ const CITAS = [
   "e": "antigua"
  },
  {
+  "c": "Diren gauzetatik, batzuk gure mende daude eta beste batzuk ez daude gure mende.",
+  "a": "Epikteto",
+  "o": "Gure esku dagoena (Enquiridión 1)",
+  "e": "antigua"
+ },
+ {
   "c": "Heriotza ez da ezer guretzat: existitzen garen bitartean, heriotza ez dago; eta heriotza dagoenean, gu jada ez gaude.",
   "a": "Epikuro",
   "o": "Menezeori gutuna",
@@ -109,6 +115,18 @@ const CITAS = [
   "e": "antigua"
  },
  {
+  "c": "Arrazoiak eta fedeak, biek, egiara daramate; ezin da kontrakotasunik egon errebelatutako egiaren eta frogatutako egiaren artean.",
+  "a": "Averroes",
+  "o": "Egia bikoitza (Tahafut al-Tahafut I)",
+  "e": "medieval"
+ },
+ {
+  "c": "Alferrik da gehiagorekin egitea gutxiagorekin egin daitekeena.",
+  "a": "Gilen Ockhamgoa",
+  "o": "Ockham-en labana (Summa Logicae I, 12)",
+  "e": "medieval"
+ },
+ {
   "c": "Zer da, bada, denbora? Inork galdetzen ez badit, badakit; galdetzen didanari azaldu nahi badiot, ez dakit.",
   "a": "San Agustin",
   "o": "Denbora ariman (Confesiones XI, 26)",
@@ -121,6 +139,12 @@ const CITAS = [
   "e": "medieval"
  },
  {
+  "c": "Bere interesa bilatzean, gizabanakoak sarritan gizartearena sustatzen du, benetan sustatzen saiatzen denean baino eraginkorrago.",
+  "a": "Adam Smith",
+  "o": "Esku ikusezina (Nazioen aberastasuna IV, II)",
+  "e": "modernoa"
+ },
+ {
   "c": "Arrazoia grinen esklabo da, eta halakoa besterik ez luke izan behar.",
   "a": "David Hume",
   "o": "Giza naturari buruzko tratatua",
@@ -130,6 +154,18 @@ const CITAS = [
   "c": "Edertasuna ez da gauzen beren nolakotasun bat: hura kontenplatzen duen gogoan baino ez da existitzen.",
   "a": "David Hume",
   "o": "Gustuaren araua",
+  "e": "modernoa"
+ },
+ {
+  "c": "Gizonik zapalduenak ere izaki bat zapal dezake: bere emaztea. Bera da proletarioaren beraren proletarioa.",
+  "a": "Flora Tristan",
+  "o": "Langile eta emakumeen emantzipazioa (Unión obrera)",
+  "e": "modernoa"
+ },
+ {
+  "c": "Jakintza boterea da.",
+  "a": "Francis Bacon",
+  "o": "Zientzia eta naturaren menderatzea (Meditationes sacrae)",
   "e": "modernoa"
  },
  {
@@ -205,6 +241,12 @@ const CITAS = [
   "e": "modernoa"
  },
  {
+  "c": "Arima ez da gorputzeko organoen funtzionamenduaren emaitza besterik.",
+  "a": "La Mettrie",
+  "o": "Gizaki-makina",
+  "e": "modernoa"
+ },
+ {
   "c": "Naturazko egoerak naturazko lege bat du, hura gobernatzen eta guztiak behartzen dituena: arrazoiak, lege hori denak, gizateria osoari irakasten dio, kontsultatzeko duintzen bada, guztiak berdinak eta independenteak izanik, inork ez duela beste inor kaltetu behar bere bizitzan, osasunean, askatasunean edo ondasunetan.",
   "a": "Locke",
   "o": "Eskubide naturalak (Segundo tratado, cap. II)",
@@ -214,6 +256,12 @@ const CITAS = [
   "c": "Kristaua gauza guztien jauna da eta ez dago inoren mende. Kristaua gauza guztien zerbitzaria da eta guztien mende dago.",
   "a": "Martin Luther",
   "o": "Kristauaren askatasuna (De libertate christiana)",
+  "e": "modernoa"
+ },
+ {
+  "c": "Ez dut nahi emakumeek gizonen gaineko boterea izatea, baizik eta beren buruaren gainekoa.",
+  "a": "Mary Wollstonecraft",
+  "o": "Emakumearen eskubideen aldarrikapena",
   "e": "modernoa"
  },
  {
@@ -253,6 +301,12 @@ const CITAS = [
   "e": "modernoa"
  },
  {
+  "c": "Ez dut nahi haiek [emakumeek] gizonen gaineko boterea izatea, beren buruaren gainekoa baizik.",
+  "a": "Wollstonecraft",
+  "o": "Hezkuntza eta berdintasuna (Emakumearen eskubideen aldarrikapena IV)",
+  "e": "modernoa"
+ },
+ {
   "c": "Ilustrazioa totalitarioa da.",
   "a": "Adorno & Horkheimer",
   "o": "Arrazoi instrumentala (Ilustrazioaren dialektika)",
@@ -277,15 +331,39 @@ const CITAS = [
   "e": "contemporanea"
  },
  {
+  "c": "Generoa gorputzaren estilizazio errepikatua da, esparru arautzaile oso zurrun baten barruan behin eta berriz egindako ekintza multzo bat, denborarekin sendotu egiten dena substantzia baten itxura sortzeraino.",
+  "a": "Butler",
+  "o": "Genero performatiboa (Gender Trouble)",
+  "e": "contemporanea"
+ },
+ {
   "c": "Gizakiak bere gorputzean darama oraindik bere jatorriaren zigilu ezabaezina.",
   "a": "Charles Darwin",
   "o": "Gizakiaren jatorria",
   "e": "contemporanea"
  },
  {
+  "c": "Ez dago ezer testutik kanpo.",
+  "a": "Derrida",
+  "o": "La différance (Gramatologiaz)",
+  "e": "contemporanea"
+ },
+ {
   "c": "Gizakia animalia sinbolikoa da.",
   "a": "Ernst Cassirer",
   "o": "Antropologia filosofikoa",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Jakintza ez dago ulertzeko egina, ebakitzeko baizik.",
+  "a": "Foucault",
+  "o": "Jakintza eta boterea (Vigilar y castigar)",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Inkontzientea da benetan erreala bizitza psikikoan.",
+  "a": "Freud",
+  "o": "Inkontzientea (Ametsen interpretazioa VII)",
   "e": "contemporanea"
  },
  {
@@ -379,6 +457,12 @@ const CITAS = [
   "e": "contemporanea"
  },
  {
+  "c": "Muturreraino sinplifikatuz: “posmodernoa” metakontakizunekiko sinesgogortasuna da.",
+  "a": "Lyotard",
+  "o": "Metakontakizunekiko sinesgogortasuna (La condición posmoderna)",
+  "e": "contemporanea"
+ },
+ {
   "c": "Ekoizpen-modu kapitalista nagusi den gizarteen aberastasuna “merkantzia-pilaketa erraldoi” gisa agertzen da.",
   "a": "Marx",
   "o": "Salgaia eta gainbalioa (El Capital I)",
@@ -406,6 +490,12 @@ const CITAS = [
   "c": "Paradigmak aldatzen direnean, mundua bera aldatzen da haiekin.",
   "a": "Thomas Kuhn",
   "o": "Iraultza zientifikoen egitura",
+  "e": "contemporanea"
+ },
+ {
+  "c": "Filosofiaren benetako subjektua gizaki zehatza da, hezur-haragizkoa, heriotzaren aurreko bere larritasunarekin eta hilezkortasun-irrikarekin.",
+  "a": "Unamuno",
+  "o": "Hilezkortasunaren irrika (Bizitzaren sentimendu tragikoaz)",
   "e": "contemporanea"
  }
 ];

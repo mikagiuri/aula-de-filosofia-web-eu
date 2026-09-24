@@ -404,5 +404,230 @@ const ILUSTRACIONES = [
   "license": "Domeinu publikoa",
   "artist": "ancient Roman mosaic artist from the early third century AD",
   "page": "https://commons.wikimedia.org/wiki/File:Anaximander_Mosaic.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_rembrandt_filosofo.jpg",
+  "t": "Filosofoa gogoetan (Rembrandt, 1632)",
+  "pie": "Pentsatzeko gelditu egin behar da: sartzen den argia eta barrurantz igotzen den eskailera.",
+  "tema": "fil-t1",
+  "license": "Domeinu publikoa",
+  "artist": "Rembrandt",
+  "page": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Philosopher_in_Meditation.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_pensador_rodin.jpg",
+  "t": "Pentsalaria (Rodin)",
+  "pie": "Galderak egiten dituenaren keinu unibertsala.",
+  "tema": "fil-t1",
+  "license": "CC0",
+  "artist": "Auguste Rodin",
+  "page": "https://commons.wikimedia.org/wiki/File:Auguste_Rodin,_The_Thinker_(Le_Penseur),_model_1880,_cast_1901,_NGA_1005.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_vitruvio.jpg",
+  "t": "Vitruvioren gizakia (Leonardo)",
+  "pie": "Gizakia gauza guztien neurri (Errenazimendua).",
+  "tema": "fil-t2",
+  "license": "Domeinu publikoa",
+  "artist": "Leonardo da Vinci",
+  "page": "https://commons.wikimedia.org/wiki/File:Uomo_Vitruviano.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_gauguin.jpg",
+  "t": "Nondik gatoz? Zer gara? Nora goaz? (Gauguin)",
+  "pie": "Antropologia filosofikoaren hiru galderak, 1897an margotuak.",
+  "tema": "fil-t2",
+  "license": "Domeinu publikoa",
+  "artist": "Paul Gauguin",
+  "page": "https://commons.wikimedia.org/wiki/File:Gauguin_-_Where_Do_We_Come_From%3F_What_Are_We%3F_Where_Are_We_Going%3F_(1897-98).jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_darwin_caricatura.jpg",
+  "t": "Darwinen karikatura (1871)",
+  "pie": "Eboluzioaren teoriak astindu egin zuen gizakia zer den ideia.",
+  "tema": "fil-t2",
+  "license": "Domeinu publikoa",
+  "artist": "Unknown authorUnknown author",
+  "page": "https://commons.wikimedia.org/wiki/File:Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_caverna.jpg",
+  "t": "Platonen haitzuloa (Saenredam, 1604)",
+  "pie": "Itzalak errealitatearen aurrean: ezagutzaren teoriaren mito nagusia.",
+  "tema": "fil-t3",
+  "license": "CC0",
+  "artist": "After Cornelis van Haarlem / Jan Saenredam",
+  "page": "https://commons.wikimedia.org/wiki/File:Jan_Pietersz_Saenredam_after_Cornelis_Cornelisz_van_Haarlem,_Plato%27s_Cave,_1604,_NGA_62542.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_flammarion.jpg",
+  "t": "Flammarionen grabatua (1888)",
+  "pie": "Munduaz dakigula uste duguna baino haratago begiratzea.",
+  "tema": "fil-t3",
+  "license": "Domeinu publikoa",
+  "artist": "AnonymousUnknown author",
+  "page": "https://commons.wikimedia.org/wiki/File:Flammarion.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_descartes.jpg",
+  "t": "René Descartes (XVII. mendeko grabatua)",
+  "pie": "Zalantza metodikoa: «pentsatzen dut, beraz banaiz».",
+  "tema": "fil-t3",
+  "license": "CC0",
+  "artist": "Rijksmuseum",
+  "page": "https://commons.wikimedia.org/wiki/File:Portret_van_Ren%C3%A9_Descartes,_RP-P-OB-59.060.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_hume.jpg",
+  "t": "David Hume (Allan Ramsay)",
+  "pie": "Ezagutza oro esperientziatik dator… eta kausalitatea ohitura bat da.",
+  "tema": "fil-t3",
+  "license": "Domeinu publikoa",
+  "artist": "Allan Ramsay",
+  "page": "https://commons.wikimedia.org/wiki/File:David_Hume_Ramsay.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_arbol_porfirio.jpg",
+  "t": "Porfirioren zuhaitza",
+  "pie": "Generoa, espeziea eta desberdintasuna: sailkatu definitzeko.",
+  "tema": "fil-t4",
+  "license": "Domeinu publikoa",
+  "artist": "Purchotius",
+  "page": "https://commons.wikimedia.org/wiki/File:Arbor_porphyrii_(from_Purchotius%27_Institutiones_philosophicae_I,_1730).png"
+ },
+ {
+  "f": "media/ilustraciones/fil_hercules_encrucijada.jpg",
+  "t": "Herkules bidegurutzean (Annibale Carracci)",
+  "pie": "Plazerraren bide erraza eta bertutearen bide zaila artean aukeratzea.",
+  "tema": "fil-t5",
+  "license": "Domeinu publikoa",
+  "artist": "Annibale Carracci",
+  "page": "https://commons.wikimedia.org/wiki/File:Annibale_Carracci_-_The_Choice_of_Heracles_-_WGA4416.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_buen_samaritano.jpg",
+  "t": "Samariar ona (Van Gogh, 1890)",
+  "pie": "Ezezagunari laguntzea: etika bestearen zaintza gisa.",
+  "tema": "fil-t5",
+  "license": "Domeinu publikoa",
+  "artist": "After Eugène Delacroix / Vincent van Gogh",
+  "page": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Good_Samaritan,_1890_-_Google_Art_Project.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_bentham.jpg",
+  "t": "Jeremy Bentham",
+  "pie": "Utilitarismoaren sortzailea: ekintzak beren ondorioen arabera neurtzea.",
+  "tema": "fil-t5",
+  "license": "Domeinu publikoa",
+  "artist": "Henry William Pickersgill",
+  "page": "https://commons.wikimedia.org/wiki/File:Jeremy_Bentham_by_Henry_William_Pickersgill.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_buen_gobierno.jpg",
+  "t": "Gobernu onaren ondorioak (Lorenzetti, Siena)",
+  "pie": "Hiri zuzen eta baketsu bat: politika, 1338an margotua.",
+  "tema": "fil-t6",
+  "license": "Domeinu publikoa",
+  "artist": "Ambrogio Lorenzetti",
+  "page": "https://commons.wikimedia.org/wiki/File:Ambrogio_Lorenzetti_-_Effects_of_Good_Government_in_the_city_-_Google_Art_Project.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_libertad_pueblo.jpg",
+  "t": "Askatasuna herriaren gidari (Delacroix, 1830)",
+  "pie": "Herri-subiranotasuna ideal iraultzaile gisa.",
+  "tema": "fil-t6",
+  "license": "Domeinu publikoa",
+  "artist": "Eugène Delacroix",
+  "page": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_La_libert%C3%A9_guidant_le_peuple.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_wollstonecraft.jpg",
+  "t": "Mary Wollstonecraft (John Opie)",
+  "pie": "Emakumearen eskubideen aldarrikapena (1792).",
+  "tema": "fil-t6",
+  "license": "Domeinu publikoa",
+  "artist": "John Opie",
+  "page": "https://commons.wikimedia.org/wiki/File:Mary_Wollstonecraft_by_John_Opie_from_the_National_Portrait_Gallery.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_hokusai.jpg",
+  "t": "Kanagawako olatu handia (Hokusai)",
+  "pie": "Ederra eta sublimea estanpa japoniar batean.",
+  "tema": "fil-t7",
+  "license": "Domeinu publikoa",
+  "artist": "After Katsushika Hokusai",
+  "page": "https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_vermeer_arte.jpg",
+  "t": "Margolaritzaren artea (Vermeer)",
+  "pie": "Margotzeko arteari berari buruzko koadro bat.",
+  "tema": "fil-t7",
+  "license": "Domeinu publikoa",
+  "artist": "Johannes Vermeer",
+  "page": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_noche_estrellada.jpg",
+  "t": "Gau izartsua (Van Gogh, 1889)",
+  "pie": "Artea barne-mundu baten adierazpen gisa.",
+  "tema": "fil-t7",
+  "license": "Domeinu publikoa",
+  "artist": "Vincent van Gogh",
+  "page": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_empedocles.jpg",
+  "t": "Enpedokles (Signorelli, Orvieto)",
+  "pie": "Maitasunak eta Gorrotoak mugitutako lau elementu.",
+  "tema": "fil-presocraticos",
+  "license": "Domeinu publikoa",
+  "artist": "Luca Signorelli",
+  "page": "https://commons.wikimedia.org/wiki/File:Luca_Signorelli_-_Empedocles_-_WGA21238.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_anaximenes.jpg",
+  "t": "Anaximandro eta Anaximenes (Nurenbergeko Kronika, 1493)",
+  "pie": "Miletoarrek printzipioa (arkhé) bilatzen dute: mugagabea eta airea.",
+  "tema": "fil-presocraticos",
+  "license": "Domeinu publikoa",
+  "artist": "Michel Wolgemut, Wilhelm Pleydenwurff (Text: Hartmann Schedel)",
+  "page": "https://commons.wikimedia.org/wiki/File:Nuremberg_chronicles_f_68v_2.png"
+ },
+ {
+  "f": "media/ilustraciones/fil_pirron.jpg",
+  "t": "Pirron Elisekoa",
+  "pie": "Eszeptikoa: iritzia eten lasai bizitzeko.",
+  "tema": "fil-helenismo",
+  "license": "Domeinu publikoa",
+  "artist": "Girolamo Olgiati",
+  "page": "https://commons.wikimedia.org/wiki/File:Pyrrho_Heliensis_-_Illustrium_philosophorum_et_sapientum_effigies_ab_eorum_numistatibus_extractae.png"
+ },
+ {
+  "f": "media/ilustraciones/fil_lechuza_atenea.jpg",
+  "t": "Atenearen hontza Atenasko txanpon batean",
+  "pie": "Jakinduriaren ikurra eta, Hegelez geroztik, filosofiarena.",
+  "tema": "fil-t1",
+  "license": "Domeinu publikoa",
+  "artist": "Hermann Weber 1823-1918",
+  "page": "https://commons.wikimedia.org/wiki/File:Athens,_tetradrachm,_86-84_BC,_Weber_3526.png"
+ },
+ {
+  "f": "media/ilustraciones/fil_zenon_elea.jpg",
+  "t": "Zenon Eleakoak egiaren eta faltsutasunaren ateak erakusten ditu",
+  "pie": "Mugimenduaren aurkako paradoxak (El Escorialeko freskoa).",
+  "tema": "fil-presocraticos",
+  "license": "Domeinu publikoa",
+  "artist": "Pellegrini Tiballdi",
+  "page": "https://commons.wikimedia.org/wiki/File:Zeno_of_Elea_Tibaldi_or_Carducci_Escorial.jpg"
+ },
+ {
+  "f": "media/ilustraciones/fil_hiparquia_crates.jpg",
+  "t": "Krates eta Hiparkia (fresko erromatarra)",
+  "pie": "Naturaren arabera, konbentziorik gabe, bizi izan zen bikote zinikoa.",
+  "tema": "fil-helenismo",
+  "license": "Domeinu publikoa",
+  "artist": "Unknown authorUnknown author",
+  "page": "https://commons.wikimedia.org/wiki/File:Crates_and_Hipparchia_Villa_Farnesina.jpg"
  }
 ];
