@@ -82,44 +82,7 @@ const SUBJECTS = {
   "kick": "1. Batxilergoa · 1-3 gaiak",
   "color": "var(--fil)",
   "intro": "«Zer da filosofia?»: harridura, mitotik logosera, ezaugarriak, adarrak, filosofia eta beste jakintzak, eta metodoa (irakurri eta argudiatu). Hiru saio, C, D eta G taldeek berdin jasotzen dituztenak.",
-  "mats": [
-   [
-    "Apunte teorikoa T1",
-    "1. gaiaren testu osoa: zer da filosofia, mitotik logosera, jakintza motak, ezaugarriak, adarrak, beste jakintzak, historia eta funtzioak.",
-    "fil\\T01_teoria…"
-   ],
-   [
-    "Ariketa-orria T1 (ikasleentzat)",
-    "«Zer da filosofia?»: galderak erantzuteko tokiarekin, inprimatzeko eta banatzeko.",
-    "fil\\T01_hoja…"
-   ],
-   [
-    "Apunte teorikoa T2",
-    "2. gaiaren testu osoa: natura eta kultura, gorputza eta gogoa, gizakiari buruzko ikuskerak, identitatea eta existentziaren zentzua.",
-    "fil\\T02_teoria…"
-   ],
-   [
-    "Ariketa-orria T2 (ikasleentzat)",
-    "«Zer da gizakia?»: 14 ariketa, betetzeko taula eta lerroekin, inprimatzeko eta banatzeko.",
-    "fil\\T02_hoja…"
-   ],
-   [
-    "Apunte teorikoa T3",
-    "3. gaiaren testu osoa: ezagutza, iturriak (arrazionalismoa, enpirismoa, kritizismoa), egia eta post-egia, eta jakintza zientifikoa.",
-    "fil\\T03_teoria…"
-   ],
-   [
-    "Liburuko testuak",
-    "Ikasleen McGraw Hill liburutik, irakasleak adierazten dituen unitateen hautaketa.",
-    "libro"
-   ],
-   [
-    "Irakasgaiaren aurkezpena",
-    "Zer ikasten den, nola lan egiten den eta nola ebaluatzen den (lehen egunerako), kalifikazio-taularekin.",
-    "fil\\T00_presentacion…",
-    "fil-presentacion"
-   ]
-  ],
+  "mats": [],
   "tools": [
    [
     "Teoria: zer da filosofia?",
