@@ -157,6 +157,12 @@ const CITAS = [
   "e": "modernoa"
  },
  {
+  "c": "Entziklopedia baten helburua lurraren azalean sakabanatutako ezagutzak biltzea da.",
+  "a": "Diderot",
+  "o": "Proiektu entziklopedikoa (Encyclopédie, Prólogo)",
+  "e": "modernoa"
+ },
+ {
   "c": "Gizonik zapalduenak ere izaki bat zapal dezake: bere emaztea. Bera da proletarioaren beraren proletarioa.",
   "a": "Flora Tristan",
   "o": "Langile eta emakumeen emantzipazioa (Unión obrera)",
@@ -268,6 +274,12 @@ const CITAS = [
   "c": "Gorputzen mugimendu guztiak, espazio libreetan, lerro zuzenean gertatzen dira, aplikatutako indarrek desbideratzen dituzten neurrian izan ezik.",
   "a": "Newton",
   "o": "Grabitazio unibertsalaren legea (Principia Mathematica)",
+  "e": "modernoa"
+ },
+ {
+  "c": "Ez dizut eman, oi Adam, leku finkorik, ez aurpegi propiorik, ez dohain berezirik, zuk aukeratzen dituzun lekua, aurpegia eta dohainak zureak izan daitezen zure borondatearen eta erabakiaren arabera.",
+  "a": "Pico della Mirandola",
+  "o": "Gizakiaren duintasuna (Oratio)",
   "e": "modernoa"
  },
  {
