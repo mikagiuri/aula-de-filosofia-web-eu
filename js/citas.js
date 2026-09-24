@@ -423,7 +423,9 @@ const CITAS = [
   "c": "Ilustrazioa totalitarioa da.",
   "a": "Adorno & Horkheimer",
   "o": "Arrazoi instrumentala (Ilustrazioaren dialektika)",
-  "e": "contemporanea"
+  "e": "contemporanea",
+  "id": "adorno",
+  "img": "media/retratos/ilustres/adorno.jpg"
  },
  {
   "c": "Munduaren betiko ulertezina haren ulergarritasuna da.",
