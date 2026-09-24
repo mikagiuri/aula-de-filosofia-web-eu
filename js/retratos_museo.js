@@ -1,10 +1,10 @@
-// Generado por tools/build_subject.js (fil) — alumnado, sin material del profesor.
+// Generado por web_i18n/i18n_rebuild.js (eu) a partir de web/js/retratos_museo.js. No editar a mano: editar la memoria tm/eu.json y regenerar.
 const RETRATOS = [
  {
   "slug": "socrates",
-  "name": "Sócrates",
+  "name": "Sokrates",
   "aliases": [
-   "Sócrates"
+   "Sokrates"
   ],
   "file": "media/retratos/museo/socrates.jpg",
   "title": "Bust Socrates Musei Capitolini MC1163",
@@ -14,9 +14,9 @@ const RETRATOS = [
  },
  {
   "slug": "platon",
-  "name": "Platón",
+  "name": "Platon",
   "aliases": [
-   "Platón"
+   "Platon"
   ],
   "file": "media/retratos/museo/platon.jpg",
   "title": "Plato bust",
@@ -26,9 +26,9 @@ const RETRATOS = [
  },
  {
   "slug": "aristoteles",
-  "name": "Aristóteles",
+  "name": "Aristoteles",
   "aliases": [
-   "Aristóteles"
+   "Aristoteles"
   ],
   "file": "media/retratos/museo/aristoteles.jpg",
   "title": "Aristotle Altemps Inv8575",
@@ -38,7 +38,7 @@ const RETRATOS = [
  },
  {
   "slug": "hipatia",
-  "name": "Hipatia de Alejandría",
+  "name": "Hipatia Alexandriakoa",
   "aliases": [
    "Hipatia"
   ],
@@ -50,9 +50,9 @@ const RETRATOS = [
  },
  {
   "slug": "alejandro",
-  "name": "Alejandro Magno",
+  "name": "Alexandro Handia",
   "aliases": [
-   "Alejandro Magno"
+   "Alexandro Handia"
   ],
   "file": "media/retratos/museo/alejandro.jpg",
   "title": "Alejandro Magno Alexander The Great Bust Alexander BM 1857 cropped",
@@ -62,9 +62,9 @@ const RETRATOS = [
  },
  {
   "slug": "diogenes",
-  "name": "Diógenes",
+  "name": "Diogenes",
   "aliases": [
-   "Diógenes"
+   "Diogenes"
   ],
   "file": "media/retratos/museo/diogenes.jpg",
   "title": "Diogenes statue Sinop enhanced",
@@ -74,11 +74,11 @@ const RETRATOS = [
  },
  {
   "slug": "epicuro",
-  "name": "Epicuro",
+  "name": "Epikuro",
   "aliases": [
-   "Epicuro",
-   "epicúre",
-   "epicureísmo"
+   "Epikuro",
+   "epikure",
+   "epikureismo"
   ],
   "file": "media/retratos/museo/epicuro.jpg",
   "title": "Epicurus Massimo Inv197306",
@@ -88,9 +88,9 @@ const RETRATOS = [
  },
  {
   "slug": "seneca",
-  "name": "Séneca",
+  "name": "Seneka",
   "aliases": [
-   "Séneca"
+   "Seneka"
   ],
   "file": "media/retratos/museo/seneca.jpg",
   "title": "Bust of Pseudo Seneca MET DP359039",
@@ -100,9 +100,9 @@ const RETRATOS = [
  },
  {
   "slug": "marco-aurelio",
-  "name": "Marco Aurelio",
+  "name": "Marko Aurelio",
   "aliases": [
-   "Marco Aurelio"
+   "Marko Aurelio"
   ],
   "file": "media/retratos/museo/marco-aurelio.jpg",
   "title": "Head Marcus Aurelius archmus Heraklion",
@@ -112,9 +112,9 @@ const RETRATOS = [
  },
  {
   "slug": "agustin",
-  "name": "Agustín de Hipona",
+  "name": "Agustin Hiponakoa",
   "aliases": [
-   "Agustín"
+   "Agustin"
   ],
   "file": "media/retratos/museo/agustin.jpg",
   "title": "Saint Augustine of Hippo Engraving Wellcome V0031651",
@@ -124,10 +124,10 @@ const RETRATOS = [
  },
  {
   "slug": "aquino",
-  "name": "Tomás de Aquino",
+  "name": "Tomas Akinokoa",
   "aliases": [
-   "Tomás de Aquino",
-   "Aquino",
+   "Tomas Akinokoa",
+   "Akino",
    "tomist"
   ],
   "file": "media/retratos/museo/aquino.jpg",
@@ -141,7 +141,7 @@ const RETRATOS = [
   "name": "Descartes",
   "aliases": [
    "Descartes",
-   "cartesian"
+   "kartesiar"
   ],
   "file": "media/retratos/museo/descartes.jpg",
   "title": "Frans Hals Portret van Ren Descartes",
@@ -309,9 +309,9 @@ const RETRATOS = [
  },
  {
   "slug": "escuela-atenas",
-  "name": "La Escuela de Atenas",
+  "name": "Atenasko Eskola",
   "aliases": [
-   "Escuela de Atenas"
+   "Atenasko eskola"
   ],
   "file": "media/retratos/museo/escuela-atenas.jpg",
   "title": "The School of Athens by Raffaello Sanzio da Urbino",
@@ -321,9 +321,9 @@ const RETRATOS = [
  },
  {
   "slug": "muerte-socrates",
-  "name": "La muerte de Sócrates",
+  "name": "Sokratesen heriotza",
   "aliases": [
-   "muerte de Sócrates"
+   "Sokratesen heriotza"
   ],
   "file": "media/retratos/museo/muerte-socrates.jpg",
   "title": "David The Death of Socrates",
@@ -333,9 +333,9 @@ const RETRATOS = [
  },
  {
   "slug": "academia",
-  "name": "La Academia de Platón",
+  "name": "Platonen Akademia",
   "aliases": [
-   "Academia de Platón"
+   "Platonen Akademia"
   ],
   "file": "media/retratos/museo/academia.jpg",
   "title": "MANNapoli 124545 plato s academy mosaic",
@@ -345,11 +345,11 @@ const RETRATOS = [
  },
  {
   "slug": "caverna",
-  "name": "La alegoría de la caverna",
+  "name": "Kobazuloaren alegoria",
   "aliases": [
-   "alegoría de la caverna",
-   "mito de la caverna",
-   "caverna"
+   "kobazuloaren alegoria",
+   "kobazuloaren mitoa",
+   "kobazulo"
   ],
   "file": "media/retratos/museo/caverna.jpg",
   "title": "Platon Cave Sanraedam 1604",
@@ -436,11 +436,11 @@ const RETRATOS = [
  },
  {
   "slug": "copernico",
-  "name": "Nicolás Copérnico",
+  "name": "Nikolas Koperniko",
   "aliases": [
-   "Copérnico",
-   "Nicolás Copérnico",
-   "Copernico"
+   "Koperniko",
+   "Nikolas Koperniko",
+   "Kopernik"
   ],
   "file": "media/retratos/museo/copernico.jpg",
   "title": "Nikolaus Kopernikus",

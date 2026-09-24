@@ -147,7 +147,7 @@ const CITAS = [
  {
   "c": "Arrazoiak gobernatzen du mundua.",
   "a": "Hegel",
-  "o": "Arrazoia historian (Filosofía de la historia, Introducción)",
+  "o": "Arrazoia historian (Historiaren filosofia, Sarrera)",
   "e": "modernoa"
  },
  {
@@ -159,7 +159,7 @@ const CITAS = [
  {
   "c": "Egitatezko gaiei buruzko arrazoibide guztiak kausa eta ondorioaren erlazioan oinarritzen direla dirudi.",
   "a": "Hume",
-  "o": "Kausalitatearen kritika (Tratado de la naturaleza humana)",
+  "o": "Kausalitatearen kritika (Giza naturari buruzko tratatua)",
   "e": "modernoa"
  },
  {
@@ -255,7 +255,7 @@ const CITAS = [
  {
   "c": "Ilustrazioa totalitarioa da.",
   "a": "Adorno & Horkheimer",
-  "o": "Arrazoi instrumentala (Dialéctica de la Ilustración)",
+  "o": "Arrazoi instrumentala (Ilustrazioaren dialektika)",
   "e": "contemporanea"
  },
  {
@@ -273,7 +273,7 @@ const CITAS = [
  {
   "c": "Filosofiak, sortzen dituen zalantzei buruzko erantzun egiazkoa ziurtasunez esateko gai ez bada ere, gure pentsamenduak zabaltzen dituzten aukera asko iradokitzeko gai da.",
   "a": "Bertrand Russell",
-  "o": "Filosofiaren balioa (Los problemas de la filosofía)",
+  "o": "Filosofiaren balioa (Filosofiaren arazoak)",
   "e": "contemporanea"
  },
  {
@@ -309,7 +309,7 @@ const CITAS = [
  {
   "c": "Teknika ez da bitarteko soil bat. Teknika desestaltzeko modu bat da.",
   "a": "Heidegger",
-  "o": "Teknikaren arriskua (La pregunta por la técnica)",
+  "o": "Teknikaren arriskua (Teknikari buruzko galdera)",
   "e": "contemporanea"
  },
  {
