@@ -697,7 +697,7 @@ const ILUSTRES = {
   "anecdota": "<p>Kontatzen da Hume, jada lodia eta bere eszeptizismo erlijiosoagatik ospetsua, lokaztutako lubaki batera erori zela Edinburgoko obretan zegoen gune batetik lasterbidea hartzean. Handik igarotzen zen emakume batek «Hume ateoa» bezala ezagutu zuen eta ez zuen handik atera nahi izan Gure Aita eta Sinesten dut errezatu arte. Berak, ohiko umore onez, errezitatu egin zituen protestarik egin gabe, eta emakumeak eskua luzatu zion. Eszenak ondo laburbiltzen du haren izaera: bere garairako ideia deserosoak zituen, baina garaikide guztiek nabarmentzen zuten haren izaera atsegina eta gorrotorik eza.</p>",
   "fuente": "Edinburgoko tradizioa, Humeren biografietan jasoa (E. C. Mossner, The Life of David Hume)",
   "tradicion": true,
-  "block": "ren",
+  "block": "ilu",
   "subjects": [
    "fil"
   ],
@@ -726,7 +726,7 @@ const ILUSTRES = {
   "anecdota": "<p>1749ko udan, Rousseau oinez zihoan Paristik Vincenneseko gaztelura, han preso zegoen Diderot bere laguna bisitatzera. Atseden hartzeko, <em>Mercure de France</em> gainbegiratzen zuen, eta bertan Dijongo Akademiaren lehiaketa baten galdera irakurri zuen: zientzien eta arteen aurrerapenak ohiturak hobetu ote zituen. Berak kontatu zuenez, bat-bateko argialdi moduko bat sentitu zuen, zuhaitz baten azpian eseri behar izan zuen eta negarrez aurkitu zuen bere burua. Une hartatik jaio zen bere lehen <em>Diskurtsoa</em> eta, harekin batera, bere lan osoa zeharkatzen duen ideia.</p>",
   "fuente": "Rousseau, Aitorpenak, VIII. liburua; Malesherbesi bigarren gutuna (1762)",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "fil"
   ],
@@ -748,7 +748,7 @@ const ILUSTRES = {
    "Metafisika (1739)",
    "Estetika (1750-1758)"
   ],
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "fil"
   ],
@@ -774,7 +774,7 @@ const ILUSTRES = {
   "anecdota": "<p>Tradizioaren arabera, Königsbergeko bizilagunek beren erlojuak orduan jartzen zituzten Kant arratsaldeko eguneroko ibilaldian igarotzen ikusten zutenean, beti ordu berean eta ibilbide beretik. Behin bakarrik, diotenez, huts egin zuen hitzordura: etxean geratu zen egunetan, Rousseauren <em>Emilio</em>, argitaratu berria, irakurtzen murgilduta. Pasadizoa agian apainduta dago, baina mirespena benetakoa zen: Kantek erretratu bakarra zuen bere estudioan, Rousseaurena, eta aitortzen zuen hark irakatsi ziola edozein gizakiren duintasuna errespetatzen.</p>",
   "fuente": "Tradizio biografikoa; haren ohiturei buruz, Borowski, Jachmann eta Wasianskiren biografiak",
   "tradicion": true,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "fil"
   ],
@@ -827,7 +827,7 @@ const ILUSTRES = {
   "anecdota": "<p>Benthamek erabilgarria izan nahi zuen hil ondoren ere. Testamentuan xedatu zuen bere gorpua anatomia irakasteko erabiltzea eta gero bere hezurdura, bere arropekin jantzita eta bere aulkian eserita, «autoikono» gisa gordetzea. Hala egin zen: gaur egun Londresko University Collegeko erakusleiho batean ikus daiteke, nahiz eta burua argizarizkoa den. Kondaira batek dio unibertsitateko kontseiluaren bileretara joaten dela «bertan, baina botorik gabe» oharrarekin. Bitxikeriaren atzean ideia utilitarista bat zegoen: gorpu batek ere ongi komunaren alde egin dezake.</p>",
   "fuente": "Benthamen testamentua; University College London",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "fil"
   ],
@@ -879,7 +879,7 @@ const ILUSTRES = {
   "anecdota": "<p>1865ean, Parlamenturako kanpainan, Mill langile-entzule batzuekin bildu zen. Aurkari batek kartel bat zabaldu zuen haren liburu bateko esaldi batekin, non esaten baitzuen langile-klaseak, gezurra esateaz lotsatzen baziren ere, gezurtiak izan ohi zirela. Hura idatzi ote zuen galdetu zioten, eta Millek zalantzarik gabe erantzun zuen: «Bai, nik idatzi nuen». Bere <em>Autobiografia</em>ren arabera, entzuleek txalo zaparrada bat eman zuten, hautagai batek galderari ihes egiten ez saiatzea baloratzen baitzuten. Millek eserlekua irabazi zuen eta, beste kausa batzuen artean, emakumeen botoa defendatzeko erabili zuen.</p>",
   "fuente": "John Stuart Mill, Autobiografia",
   "tradicion": false,
-  "block": "mod",
+  "block": "ilu",
   "subjects": [
    "fil"
   ],
