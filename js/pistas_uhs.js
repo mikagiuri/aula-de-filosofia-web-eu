@@ -434,5 +434,222 @@ const PISTAS = [
     "Jarraitzeko: alderatu Epikurorekin (plazera minik eza gisa) eta Kantekin (betebeharra)."
    ]
   }
+ },
+ {
+  "id": "fil-contrato",
+  "subject": "fil",
+  "tema": "6. gaia · Gizarteko bizitza",
+  "unidad": "fil-t6",
+  "materia": "Filosofia 1. · Politika",
+  "titulo": "Zer da gizarte-kontratua?",
+  "lede": "Zergatik obeditzen diogu Estatuari? Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Zer da gizarte-kontratua?",
+    "intro": [
+     "Imajinatu ez dagoela inolako gobernurik, ez legerik, ez poliziarik. Zergatik onartuko genuke norbaitek agintzea?"
+    ],
+    "pistas": [
+     "Kontraktualistentzat, Estatua ez da zerbait naturala, gizakiok sortzen dugun <em>artifizio</em> bat baizik.",
+     "Denon arteko akordio baten bidez sortzen dugu.",
+     "Hori justifikatzeko, botere politikorik gabe bizitza nolakoa litzatekeen imajinatzen dute: <em>naturazko egoera</em>.",
+     "Gizarte-kontratua pertsonak naturazko egoeratik atera eta botere politikoa sortzeko egiten duten <strong>akordioa</strong> da."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer da gizarte-kontratua?",
+     "opciones": [
+      [
+       "Pertsonek naturazko egoeratik ateratzeko botere politikoa sortzen duten akordio imajinatua.",
+       true
+      ],
+      [
+       "Historiako data jakin batean sinatutako dokumentu bat.",
+       false,
+       "Ez da gertaera historiko bat: boterea zergatik den legitimoa pentsatzeko hipotesi bat da."
+      ],
+      [
+       "Enpresen eta langileen arteko lan-kontratu bat.",
+       false,
+       "Hemen «kontratua» Estatuaren jatorriari dagokio, ez lan-akordio bati."
+      ],
+      [
+       "Boterea Jainkoarengandik datorrela dioen ideia.",
+       false,
+       "Justu kontrakoa: kontratuak giza akordioan oinarritzen du boterea."
+      ]
+     ],
+     "ok": "Ondo. Botere politikoa akordio batetik sortzen da, ez naturatik ezta Jainkoarengandik ere.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpen bat behar dut",
+      "etiqueta": "Teoriaren piezak",
+      "titulo": "Naturazko egoera, ituna eta Estatua",
+      "definicion": [
+       "<strong>Naturazko egoera</strong>: nolakoa litzatekeen giza bizitza botere politikorik gabe.",
+       "<strong>Ituna</strong>: egoera horretatik ateratzeko akordioa; zerbait lagatzen da (boterea, eskubideak) zerbaiten truke (segurtasuna, babesa, askatasuna).",
+       "<strong>Estatua</strong>: itunetik sortzen den botere politikoa; legitimoa da adostasunetik sortzen delako."
+      ],
+      "parrafos": [
+       "Kontuz: inork ez du uste hau benetan gertatu zenik. Boterearen oinarriak pentsatzeko hipotesi bat da."
+      ],
+      "comprobacion": {
+       "etiqueta": "Egiaztapena",
+       "pregunta": "Zergatik imajinatzen dute kontraktualistek naturazko egoera bat?",
+       "opciones": [
+        [
+         "Hartatik ateratzea eta Estatua sortzea zergatik komeni den justifikatzeko.",
+         true
+        ],
+        [
+         "Historiaurrean bere horretan existitu zela uste dutelako.",
+         false,
+         "Ez da gertaera historiko bat, pentsamendu-esperimentu bat baizik."
+        ],
+        [
+         "Legerik gabe bizi gaitezen defendatzeko.",
+         false,
+         "Alderantziz: botere politiko bat zergatik behar dugun erakusteko balio du."
+        ],
+        [
+         "Animalien bizitza aztertzeko.",
+         false,
+         "Gobernurik gabeko gizakiez ari da, ez biologiaz."
+        ]
+       ],
+       "ok": "Zuzen. Naturazko egoera argudioaren abiapuntua da.",
+       "mal": "Irakurri berriro.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa",
+      "titulo": "Kontratu soziala",
+      "definicion": [
+       "<strong>Gizarte-kontratua</strong> akordio hipotetikoa da, gizakiek botere politikoa sortzeko egiten dutena.",
+       "Horrela, Estatua <strong>artifizio</strong> bat da: haren legitimitatea ez dator naturatik ezta Jainkoarengandik ere, osatzen dutenen <strong>adostasunetik</strong> baizik.",
+       "Egile bakoitzak naturazko egoera ezberdin bat imajinatzen du, eta horregatik Estatu ezberdin batera iristen da."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Kontraktualismoaren arabera, nondik dator Estatuaren legitimitatea?",
+       "opciones": [
+        [
+         "Osatzen dutenen adostasunetik.",
+         true
+        ],
+        [
+         "Gobernatzen duenaren indarretik.",
+         false,
+         "Indarrak ez du legitimitaterik ematen: kontratuak boterea justifikatu nahi du."
+        ],
+        [
+         "Jainkoaren borondatetik.",
+         false,
+         "Hori jainkozko zuzenbidearen teoria da, kontraktualismoak ordezkatzen duena."
+        ],
+        [
+         "Tradiziotik: beti izan da horrela.",
+         false,
+         "Zerbait zaharra izateak ez du legitimo bihurtzen."
+        ]
+       ],
+       "ok": "Zuzen: boterea legitimoa da hala adostu dugulako.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zergatik iristen dira Hobbes eta Locke hain Estatu ezberdinetara?",
+    "intro": [
+     "Biak dira kontraktualistak, baina Hobbesek botere absolutua defendatzen du eta Lockek botere mugatua. Gakoa abiapuntua nola imajinatzen duten da."
+    ],
+    "pistas": [
+     "Alderatu bakoitzak naturazko egoera nola imajinatzen duen.",
+     "Hobbesentzat «guztien gerra guztien aurka» da: «gizakia otsoa da gizakiarentzat». Lockerentzat nahiko baketsua da, nahiz eta ez segurua.",
+     "Zenbat eta okerragoa izan abiapuntua, orduan eta gauza gehiago lagatzeko prest gaude hartatik ateratzeko.",
+     "Hobbesek, hiltzeko beldurrez, dena lagatzen dio subirano absolutu bati; Lockek epaitzeko eta zigortzeko boterea bakarrik lagatzen du, eta bere eskubide naturalak gordetzen ditu."
+    ],
+    "comprobacion": {
+     "pregunta": "Zerk azaltzen du hobekien Hobbesen eta Lockeren arteko aldea?",
+     "opciones": [
+      [
+       "Naturazko egoera ezberdinak imajinatzen dituzte, eta horregatik gauza ezberdinak ituntzen dituzte.",
+       true
+      ],
+      [
+       "Hobbes ez da kontraktualista.",
+       false,
+       "Bai, hala da: Leviatana itun batetik sortzen da."
+      ],
+      [
+       "Lockek monarkia absolutua nahiago du.",
+       false,
+       "Alderantziz da: Lockek botere mugatua eta botere-banaketa defendatzen ditu."
+      ],
+      [
+       "Herrialde ezberdinetan bizi izan ziren.",
+       false,
+       "Testuinguruak eragina du, baina arrazoi filosofikoa naturazko egoerari buruz duten ideian dago."
+      ]
+     ],
+     "ok": "Hala da. Abiapuntuak erabakitzen du Estatu mota.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Taula erakutsi",
+      "etiqueta": "Hiru kontraktualista",
+      "titulo": "Naturazko egoeratik Estatura",
+      "definicion": [
+       "<strong>Hobbes</strong>: guztien gerra guztien aurka → beldurrez, denek beren boterea subirano bati lagatzen diote → monarkia absolutua (Leviatana).",
+       "<strong>Locke</strong>: bake ez-segurua, eskubide naturalekin (bizitza, askatasuna, jabetza) → itun mugatua → Estatu liberala, botere-banaketarekin eta tiranoaren aurka matxinatzeko eskubidearekin.",
+       "<strong>Rousseau</strong>: «basati ona» aske eta berdin da; gizarteak usteltzen du → itun bat, non bakoitza borondate orokorraren mende jartzen den → demokrazia."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zein egilek defendatzen du gobernu tiraniko baten aurka matxinatzeko eskubidea?",
+       "opciones": [
+        [
+         "Locke.",
+         true
+        ],
+        [
+         "Hobbes.",
+         false,
+         "Hobbesek botere absolutua ematen dio subiranoari, hain zuzen ere kaosa saihesteko."
+        ],
+        [
+         "Haietako batek ere ez.",
+         false,
+         "Batek bai: irakurri berriro Estatu liberalaren errenkada."
+        ],
+        [
+         "Kontraktualista guztiek berdin.",
+         false,
+         "Ez: itunean zer laga den araberakoa da."
+        ]
+       ],
+       "ok": "Zuzen: gobernuak ituna hausten badu, herriak bere adostasuna ken diezaioke.",
+       "mal": "Irakurri berriro taula."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Ulertzen duzu dagoeneko gizarte-kontratua",
+   "parrafos": [
+    "Gizarte-kontratua Estatua sortzeko akordio hipotetikoa da: haren legitimitatea adostasunetik dator. Naturazko egoera nola imajinatzen den, itunak Estatu absolutua (Hobbes), liberala (Locke) edo demokratikoa (Rousseau) ematen du.",
+    "Pentsatzeko: zer lagako zenuke zuk seguru bizitzeko? Ba al dago inoiz lagako ez zenukeen ezer?"
+   ]
+  }
  }
 ];
