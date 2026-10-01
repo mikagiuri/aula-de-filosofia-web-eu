@@ -118,6 +118,11 @@ const SUBJECTS = {
     "Txartelak: egiaren teoriak",
     "tarjetas",
     "fil-verdad"
+   ],
+   [
+    "Logikaren txokoa: egia-taulak, silogismoak eta ateak",
+    "logica",
+    ""
    ]
   ]
  }
