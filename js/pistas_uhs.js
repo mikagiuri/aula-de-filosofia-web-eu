@@ -17,10 +17,10 @@ const PISTAS = [
      "Saiatu azaltzen laguntza eskatu aurretik. Pentsatzen hasteko pista bat: baliozkotasuna argudioak <em>zer</em> dioen ala <em>nola</em> arrazoitzen duen araberakoa da?"
     ],
     "pistas": [
-     "Baliozkotasuna argudioaren <em>formaren</em> ezaugarria da, ez bere edukiarena.",
-     "Argudio batek premisak eta ondorio bat ditu. Galdera da zer erlazio dagoen haien artean.",
-     "Argudioa baliozkoa bada, <strong>ezin da gertatu</strong> premisak egiazkoak izatea eta ondorioa faltsua.",
-     "Baliozkoa da ondorioa premisetatik nahitaez ateratzen denean, premisak egiazkoak izan ala ez."
+     "Kokatzeko: argudio batek <strong>premisak</strong> ditu (abiapuntua) eta <strong>ondorio</strong> bat (helmuga). Baliozkotasunak haien arteko harremanaz galdetzen du.",
+     "Harreman horrek <em>arrazoibidea</em> bera epaitzen uzten digu, gertaeretatik aparte: premisetatik ondoriora egiten den jauzia ondo emanda dagoen esaten digu.",
+     "Horregatik <em>forma</em>ren kontua da, ez edukiarena: ez du begiratzen premisak egiazkoak diren, baizik eta, onartuta, ondorioak ere egiazkoa izan beharko lukeen.",
+     "Argudio baliozko batean <strong>ezin da gertatu</strong> premisak egiazkoak izatea eta ondorioa faltsua izatea: ondorioa nahitaez ateratzen da haietatik, egiazkoak izan nahiz ez."
     ],
     "comprobacion": {
      "pregunta": "«Argudio baliozko»-aren definizio hauetatik zein da zuzena?",
@@ -137,10 +137,10 @@ const PISTAS = [
      "Badakizu zer den baliozkotasuna. Orain pentsatu izokinaren argudioan: baliozkoa zen… eta bere ondorioa faltsua. Zer falta zaio argudio bati bere ondorioa <em>bermatzeko</em>?"
     ],
     "pistas": [
-     "Argudio baliozko batek makina batek bezala funtzionatzen du: premisetatik egia sartzen bada, ondoriotik egia ateratzen da.",
-     "Baina zerbait faltsua sartzen bada, makinak ez du ezer bermatzen.",
-     "Badago izen bat baliozkoa den <em>eta gainera</em> premisa guztiak egiazkoak dituen argudioarentzat.",
-     "Argudio horri <strong>sendoa</strong> deritzo: ondorioa egiazkoa dela bermatzen duen bakarra da."
+     "Gogoratu gaiaren bereizketa: baliozkotasunak <em>forma</em> begiratzen du; egiak, berriz, premisek gauzak nolakoak diren ondo deskribatzen duten. Bi gauza desberdin dira.",
+     "Horregatik baliozkotasuna bakarrik ez da nahikoa: premisetatik ondoriorako jauzia bermatzen du, baina ez premisa egiazkoetatik abiatu garenik.",
+     "Ondorioa <em>bermatzeko</em> bi gauzak batera behar dira: argudioa baliozkoa izatea eta bere premisa guztiak egiazkoak izatea. Horrek izen berezi bat dauka.",
+     "Irudikatu makina bat bezala: premisetatik egia sartzen bada eta forma baliozkoa bada, ondoriotik egia ateratzen da; zerbait faltsua sartzen bada, jada ez du ezer bermatzen. Baliozkotasuna eta premisa egiazkoak biltzen dituen argudioari <strong>sendoa</strong> deitzen zaio."
     ],
     "comprobacion": {
      "pregunta": "Zein argudiok bermatzen du bere ondorioa egiazkoa dela?",
@@ -235,10 +235,10 @@ const PISTAS = [
      "Pentsatu pertsona ausart batean. Zerk bereizten du koldar batengandik… eta ausarkeriaz jokatzen duen batengandik?"
     ],
     "pistas": [
-     "Aristotelesentzat, giza bizitzaren helburua zoriontasuna da (<em>eudaimonia</em>): bere osotasunean ondo betetako bizitza.",
-     "Zoriontasuna <em>bertutea</em> garatuz lortzen da, eta bertutea ez da dohain bat, ikasten den zerbait baizik.",
-     "Ausardia bi bizioren artean dago: bata gabeziaz (koldarkeria) eta bestea gehiegikeriaz (ausarkeria).",
-     "Bertutea bi muturren arteko <strong>termino erdikoa</strong> da, arrazoiak gidatua eta ohituraz eskuratua."
+     "Kokatzeko: giza bizitzaren helburua, Aristotelesentzat, zoriontasuna da (<em>eudaimonía</em>); ez plazer-une bat, baizik eta oso-osoan ondo bizitako bizitza.",
+     "Bizitza ondo lortu horretara <em>bertutea</em> garatuz iristen da; eta bertutea ez da jaiotzetik datorren dohain bat, ikasten den zerbait baizik.",
+     "Nolakoa da bertute hori? Ez datza nork bere burua hestutzean, ezta arauei obeditzean ere: ezaugarri bakoitzean <em>gabeziazko</em> bizio bat eta <em>gehiegizko</em> beste bat daude, eta asmatzea ez pasatzea eta ez gutxiegi geratzea da.",
+     "Bertutea bi mutur horien arteko <strong>erdibidea</strong> da, arrazoiak seinalatua eta ohiturak finkatua: ez gutxiegi ez gehiegi, baizik eta neurri egokia."
     ],
     "comprobacion": {
      "pregunta": "Definizio hauetatik, zein dago bertute aristotelikotik hurbilen?",
@@ -355,10 +355,10 @@ const PISTAS = [
      "Badakizu zer den bertutea. Orain pentsatu: zertarako balio du bertutetsu izateak? Zoriontasuna geroago iristen den sari bat al da?"
     ],
     "pistas": [
-     "Aristotelesentzat, egiten dugun guztiak helburu bat bilatzen du; zoriontasuna azken helburua da, berez bilatzen duguna.",
-     "Zoriontasuna ez da plazer-une bat, ondo bizitako bizitza oso bat baizik.",
-     "Izaki bakoitza zoriontsu da bere funtzio propioa ondo betetzen duenean. Gizakiaren funtzio propioa arrazoiaren arabera bizitzea da.",
-     "Zoriontasuna bertutez bizitzean <strong>datza</strong>: ez da kanpoko sari bat, ondo betetako bizitza bera baizik."
+     "Kokatzeko: egiten dugun guztiak helmugaren bat bilatzen du, eta zoriontasuna <em>azken helburua</em> da, bere buruarengatik nahi duguna eta ez beste zerbaitetarako bitarteko gisa.",
+     "Horrek galdera aldatzen du: ez da kontua bertutetsua izatea zoriontasuna izeneko sari bat aparte <em>irabazteko</em>, baizik eta zoriontasun hori zertan datzan ikustea.",
+     "Nola erantzuten zaio? Izaki bakoitzak berea betetzen du bere eginkizun propioa ondo betetzen duenean; gizakiarena arrazoiaren arabera bizitzea da, eta horrela bizitzea bertutez bizitzea da.",
+     "Horregatik bertutea ez da zoriontasunerako bidea, baizik eta zoriontasuna bera martxan: zoriontsu izatea bertutez bizitzean <strong>datza</strong>, ez da gero iristen den sari bat."
     ],
     "comprobacion": {
      "pregunta": "Zer harreman dago bertutearen eta zoriontasunaren artean Aristotelesentzat?",
@@ -452,10 +452,10 @@ const PISTAS = [
      "Imajinatu ez dagoela inolako gobernurik, ez legerik, ez poliziarik. Zergatik onartuko genuke norbaitek agintzea?"
     ],
     "pistas": [
-     "Kontraktualistentzat, Estatua ez da zerbait naturala, gizakiok sortzen dugun <em>artifizio</em> bat baizik.",
-     "Denon arteko akordio baten bidez sortzen dugu.",
-     "Hori justifikatzeko, botere politikorik gabe bizitza nolakoa litzatekeen imajinatzen dute: <em>naturazko egoera</em>.",
-     "Gizarte-kontratua pertsonak naturazko egoeratik atera eta botere politikoa sortzeko egiten duten <strong>akordioa</strong> da."
+     "Kokatzeko: kontraktualistek ez dute Estatua gauza natural edo betiko gisa ikusten, baizik eta <em>artifizio</em> gisa, gizakiok fabrikatu dugun zerbait.",
+     "Horrek galdera aldatzen du: guk egin badugu, bere boterea ez da besterik gabe agintzen; obeditzen dutenen aurrean justifikatu behar da.",
+     "Nola justifikatzen dute? Ez historiako egun batean sinatutako dokumentu bati deituz, baizik eta botere politikorik gabeko bizitza nolakoa litzatekeen irudikatuz (<em>naturazko egoera</em>) eta handik ateratzeko <strong>akordio</strong> bat.",
+     "Gizarte-kontratua irudikatutako itun hori da: denok ados jarriko bagina bezala, denon artean, gero agintzen digun boterea sortzeko."
     ],
     "comprobacion": {
      "pregunta": "Zer da gizarte-kontratua?",
@@ -572,10 +572,10 @@ const PISTAS = [
      "Biak dira kontraktualistak, baina Hobbesek botere absolutua defendatzen du eta Lockek botere mugatua. Gakoa abiapuntua nola imajinatzen duten da."
     ],
     "pistas": [
-     "Alderatu bakoitzak naturazko egoera nola imajinatzen duen.",
-     "Hobbesentzat «guztien gerra guztien aurka» da: «gizakia otsoa da gizakiarentzat». Lockerentzat nahiko baketsua da, nahiz eta ez segurua.",
-     "Zenbat eta okerragoa izan abiapuntua, orduan eta gauza gehiago lagatzeko prest gaude hartatik ateratzeko.",
-     "Hobbesek, hiltzeko beldurrez, dena lagatzen dio subirano absolutu bati; Lockek epaitzeko eta zigortzeko boterea bakarrik lagatzen du, eta bere eskubide naturalak gordetzen ditu."
+     "Kokatzeko: biak irudikatutako naturazko egoera batetik eta handik ateratzeko itun batetik abiatzen dira. Aldea ez dago herrialdean, ezta garaian ere, baizik eta abiapuntu horretan.",
+     "Bilatzen duzuna palanka bat da: Estaturik gabeko bizitza zenbat eta okerrago margotu, orduan eta botere gehiago lagatzeko prest gaude hartatik ihes egiteko.",
+     "Hala, abiapuntua arrisku jasanezin gisa irudikatzen duenak botere <em>guztia</em> ematea justifikatzen du; jasangarri baina ez-seguru gisa irudikatzen duenak zati bat bakarrik lagatzea eta eskubideak gordetzea justifikatzen du.",
+     "Horregatik itun beretik Estatu kontrajarriak ateratzen dira: botere absolutu bat beldurrak dena tindatzen badu, botere mugatu bat konfiantzazko epaile bat bakarrik falta bada."
     ],
     "comprobacion": {
      "pregunta": "Zerk azaltzen du hobekien Hobbesen eta Lockeren arteko aldea?",
@@ -609,7 +609,7 @@ const PISTAS = [
       "etiqueta": "Hiru kontraktualista",
       "titulo": "Naturazko egoeratik Estatura",
       "definicion": [
-       "<strong>Hobbes</strong>: guztien gerra guztien aurka → beldurrez, denek beren boterea subirano bati lagatzen diote → monarkia absolutua (Leviatana).",
+       "<strong>Hobbes</strong>: «denak denen aurkako gerra» («gizakia otso da gizakiarentzat») → beldurragatik, denek beren boterea subirano bati lagatzen diote → monarkia absolutua (Leviatana).",
        "<strong>Locke</strong>: bake ez-segurua, eskubide naturalekin (bizitza, askatasuna, jabetza) → itun mugatua → Estatu liberala, botere-banaketarekin eta tiranoaren aurka matxinatzeko eskubidearekin.",
        "<strong>Rousseau</strong>: «basati ona» aske eta berdin da; gizarteak usteltzen du → itun bat, non bakoitza borondate orokorraren mende jartzen den → demokrazia."
       ],
