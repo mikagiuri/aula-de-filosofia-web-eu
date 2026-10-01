@@ -217,5 +217,222 @@ const PISTAS = [
     "Jarraitzeko: bilatu gaiko faltsukerien zerrendan baliozkoa izan gabe konbentzitzen duen argudio bat."
    ]
   }
+ },
+ {
+  "id": "fil-virtud",
+  "subject": "fil",
+  "tema": "5. gaia · Etikaren galderak",
+  "unidad": "fil-t5",
+  "materia": "Filosofia 1. · Etika",
+  "titulo": "Zer da bertutea Aristotelesentzat?",
+  "lede": "Zoriontasunaren eta termino erdikoaren etika. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Zer da bertutea Aristotelesentzat?",
+    "intro": [
+     "Pentsatu pertsona ausart batean. Zerk bereizten du koldar batengandik… eta ausarkeriaz jokatzen duen batengandik?"
+    ],
+    "pistas": [
+     "Aristotelesentzat, giza bizitzaren helburua zoriontasuna da (<em>eudaimonia</em>): bere osotasunean ondo betetako bizitza.",
+     "Zoriontasuna <em>bertutea</em> garatuz lortzen da, eta bertutea ez da dohain bat, ikasten den zerbait baizik.",
+     "Ausardia bi bizioren artean dago: bata gabeziaz (koldarkeria) eta bestea gehiegikeriaz (ausarkeria).",
+     "Bertutea bi muturren arteko <strong>termino erdikoa</strong> da, arrazoiak gidatua eta ohituraz eskuratua."
+    ],
+    "comprobacion": {
+     "pregunta": "Definizio hauetatik, zein dago bertute aristotelikotik hurbilen?",
+     "opciones": [
+      [
+       "Bi muturren arteko termino erdikoa aukeratzeko ohitura, arrazoiak gidatua.",
+       true
+      ],
+      [
+       "Jaiotzetik daukagun talentu bat.",
+       false,
+       "Aristotelesentzat bertutea praktikaren bidez eskuratzen da: inor ez da bertutetsu jaiotzen."
+      ],
+      [
+       "Beti nahi duguna ez bezalakoa egitea.",
+       false,
+       "Ez da norbere burua zapaltzea, neurri egokia aurkitzea baizik."
+      ],
+      [
+       "Hiriko arauak betetzea, direnak direla.",
+       false,
+       "Bertutea arrazoimen praktikoak gidatzen du, ez obedientzia hutsak."
+      ]
+     ],
+     "ok": "Ondo: ohitura, termino erdikoa eta arrazoia dira hiru gakoak.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Gabezia, termino erdikoa eta gehiegikeria",
+      "definicion": [
+       "Koldarkeria ← <strong>ausardia</strong> → ausarkeria",
+       "Zekenkeria ← <strong>eskuzabaltasuna</strong> → xahutzea",
+       "Sentikortasunik eza ← <strong>neurritasuna</strong> → neurrigabekeria"
+      ],
+      "parrafos": [
+       "Kontuan hartu bertutea ez dela erdi-erdia: egoera bakoitzean egokia dena da, pertsona zuhur batek erabakiko lukeen bezala."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "Zein da zekenkeriaren eta xahutzearen arteko termino erdikoa?",
+       "opciones": [
+        [
+         "Eskuzabaltasuna.",
+         true
+        ],
+        [
+         "Aberastasuna.",
+         false,
+         "Aberastasuna ez da bertute bat, kanpoko on bat baizik."
+        ],
+        [
+         "Daukazunaren erdia zehatz-mehatz gastatzea.",
+         false,
+         "Termino erdikoa ez da kontu matematiko bat: kasu bakoitzean egokia dena da."
+        ],
+        [
+         "Inoiz ez gastatzea.",
+         false,
+         "Hori zekenkeriaren muturra litzateke."
+        ]
+       ],
+       "ok": "Zuzen. Ez gutxiegi eman, ez gehiegi: behar den bezala eman.",
+       "mal": "Begiratu berriro taulari.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Bertute aristotelikoa",
+      "definicion": [
+       "<strong>Bertutea</strong> (<em>areté</em>) bi bizioren arteko termino erdikoa aukeratzeko joera egonkorra da: bizio bat gabeziaz eta bestea gehiegikeriaz.",
+       "Termino erdiko hori ez da matematikoa: <strong>arrazoimen praktikoak</strong> (zuhurtziak) zehazten du egoera bakoitzean.",
+       "<strong>Ohituraz</strong> eskuratzen da: ekintza ausartak eginez bihurtzen gara ausart. Eta bertutea praktikatzea da zoriontasunerako bidea."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Nola bihurtzen da norbait bertutetsu, Aristotelesen arabera?",
+       "opciones": [
+        [
+         "Ekintza bertutetsuak eginez, ohitura bihurtu arte.",
+         true
+        ],
+        [
+         "Etikari buruz asko irakurriz.",
+         false,
+         "Ausardia zer den jakitea ez da nahikoa: praktikatu egin behar da."
+        ],
+        [
+         "Familia on batean jaioz.",
+         false,
+         "Bertutea ez da heredatzen: eskuratu egiten da."
+        ],
+        [
+         "Beti plazerari jarraituz.",
+         false,
+         "Hori hedonismotik hurbilago dago, eta neurririk gabeko plazera bizio bat da."
+        ]
+       ],
+       "ok": "Zuzen: bertutea praktikatuz ikasten da.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zer harreman dago bertutearen eta zoriontasunaren artean?",
+    "intro": [
+     "Badakizu zer den bertutea. Orain pentsatu: zertarako balio du bertutetsu izateak? Zoriontasuna geroago iristen den sari bat al da?"
+    ],
+    "pistas": [
+     "Aristotelesentzat, egiten dugun guztiak helburu bat bilatzen du; zoriontasuna azken helburua da, berez bilatzen duguna.",
+     "Zoriontasuna ez da plazer-une bat, ondo bizitako bizitza oso bat baizik.",
+     "Izaki bakoitza zoriontsu da bere funtzio propioa ondo betetzen duenean. Gizakiaren funtzio propioa arrazoiaren arabera bizitzea da.",
+     "Zoriontasuna bertutez bizitzean <strong>datza</strong>: ez da kanpoko sari bat, ondo betetako bizitza bera baizik."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer harreman dago bertutearen eta zoriontasunaren artean Aristotelesentzat?",
+     "opciones": [
+      [
+       "Zoriontasuna bertutearen araberako bizitza batean datza.",
+       true
+      ],
+      [
+       "Bertutea heriotzaren ondoren saritzen den sakrifizio bat da.",
+       false,
+       "Aristotelesek bizitza honetako zoriontasunaz hitz egiten du, ez beste batean jasoko den sari batez."
+      ],
+      [
+       "Ez dute harremanik: zoriontasuna zortearen menpe dago soilik.",
+       false,
+       "Zorteak eragina du, baina gakoa jarduera bertutetsua da."
+      ],
+      [
+       "Zoriontasuna plazerak metatzea da.",
+       false,
+       "Hori plazerezko bizitza da, ez bere osotasunean ondo betetako bizitza."
+      ]
+     ],
+     "ok": "Hala da. Zoriontsu izatea ondo bizitzea da, eta ondo bizitzea bertutez bizitzea.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Zoriontasunaren etika",
+      "titulo": "Ondo betetako bizitza",
+      "definicion": [
+       "Aristotelesen etika <strong>zoriontasunaren etika</strong> da (eudemonista): nola bizi bizitza ona galdetzen du.",
+       "Zoriontasuna (<em>eudaimonia</em>) azken helburua da, eta gizakiaren funtzio propioa ondo betetzean datza: arrazoiaren arabera bizitzean.",
+       "Horregatik, bertutea ez da zoriontasuna sari gisa lortzeko bitarteko bat: bertutez bizitzea <strong>da</strong> jada zoriontsu izatea, nahiz eta kanpoko onek ere laguntzen duten (osasuna, lagunak, baliabideak)."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zergatik esaten da Aristotelesen etika eudemonista dela?",
+       "opciones": [
+        [
+         "Zoriontasunaren inguruan biratzen delako, azken helburu gisa.",
+         true
+        ],
+        [
+         "Betebeharrean oinarritzen delako, betebeharragatik beragatik.",
+         false,
+         "Hori Kanten etika da, ez Aristotelesena."
+        ],
+        [
+         "Ona dena gehiengoarentzako ondorioen arabera neurtzen duelako.",
+         false,
+         "Hori utilitarismoa da."
+        ],
+        [
+         "Jainkoen aginduak betetzen dituelako.",
+         false,
+         "Aristotelesek giza arrazoian oinarritzen du etika."
+        ]
+       ],
+       "ok": "Zuzen: <em>eudaimonia</em> zoriontasuna esan nahi du.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu Aristotelesen etika",
+   "parrafos": [
+    "Bertutea bi bizioren arteko termino erdikoa aukeratzeko ohitura da, arrazoimen praktikoak gidatua. Horrela bizitzea da zoriontasuna: bere osotasunean ondo betetako bizitza.",
+    "Jarraitzeko: alderatu Epikurorekin (plazera minik eza gisa) eta Kantekin (betebeharra)."
+   ]
+  }
  }
 ];
