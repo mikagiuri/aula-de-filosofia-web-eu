@@ -311,6 +311,26 @@ const ILUSTRES = {
   "anecdota": "<p>Diogenes Laertziok kontatzen du Platon gazteak asmo literarioak zituela: olerkiak eta tragediak idazten zituen. Tragedia bat lehiaketara aurkeztekotan zegoen Sokrates Dionisoren antzokiaren aurrean hitz egiten entzun zuenean. Hain hunkituta geratu zen, non bere bertsoak sutara bota baitzituen, Homeroren bertso bat parodiatuz: «Zatoz hona, Hefesto, Platonek behar zaitu». Harrezkero filosofiari eman zion bere burua. Hala ere, ez zion idazle handia izateari utzi: bere elkarrizketek, pertsonaia, eszena eta mitoekin, alde batera uzten ari zirudien arte dramatikoaren zati handi bat gordetzen dute.</p>",
   "fuente": "Diogenes Laertzio, Bizitzak III",
   "tradicion": true,
+  "vida": [
+   {
+    "a": -399,
+    "t": "Sokratesen, bere maisuaren, epaiketa eta heriotza"
+   },
+   {
+    "a": -388,
+    "b": -361,
+    "t": "Siziliarako bidaiak (Sirakusa)"
+   },
+   {
+    "a": -387,
+    "t": "Akademia sortu zuen Atenasen"
+   },
+   {
+    "a": -380,
+    "b": -370,
+    "t": "Errepublika idatzi zuen"
+   }
+  ],
   "block": "ant",
   "subjects": [
    "fil"
@@ -363,6 +383,26 @@ const ILUSTRES = {
   "anecdota": "<p>Alexandro Handia hil zenean, K.a. 323an, Atenasen etsaigoa hazi zen mazedoniarren eta haiekin harremana zutenen aurka. Aristoteles, Alexandroren irakasle ohia, jainkoenganako errespeturik ezaz salatu zuten, Sokrates hamarkada batzuk lehenago bezala. Antzinako biografien arabera, Kalkisera joatea erabaki zuen, eta azaldu zuen ez zuela nahi atenastarrek bigarren aldiz bekatu egitea filosofiaren aurka. Esaldiak, agian tradizioak edertua, bere egoera Sokratesen kondenarekin alderatzen du, eta erakusten du nahiago zuela bere bizitza eta lana salbatu martiri bihurtu baino.</p>",
   "fuente": "Eliano, Historia bitxiak III; Aristotelesen antzinako biografiak",
   "tradicion": true,
+  "vida": [
+   {
+    "a": -367,
+    "b": -347,
+    "t": "Platonen Akademiako ikaslea"
+   },
+   {
+    "a": -343,
+    "b": -340,
+    "t": "Alexandro Handia hezi zuen"
+   },
+   {
+    "a": -335,
+    "t": "Lizeoa sortu zuen Atenasen"
+   },
+   {
+    "a": -323,
+    "t": "Atenasetik ihes egin zuen"
+   }
+  ],
   "block": "ant",
   "subjects": [
    "fil"
@@ -490,6 +530,31 @@ const ILUSTRES = {
   "anecdota": "<p>386ko udan, Milango lorategi batean, Agustin negarrez zegoen piku baten azpian, bizimodua aldatzeko nahiaren eta hori egiteko ezintasunaren artean urratuta. Bat-batean, ondoko etxe batetik haur-ahots bat entzun zuen, errepika moduko bat esaten: <strong>«Hartu eta irakurri, hartu eta irakurri»</strong>. Jainkoaren agindutzat hartu zuen, eskura zituen Paulo deunaren gutunak zoriz ireki eta gehiegikeriak uztera gonbidatzen zuen pasarte bat irakurri zuen. Berak kontatzen du bere <em>Aitorpenak</em> lanean, bere konbertsioaren une erabakigarri gisa.</p>",
   "fuente": "Agustin Hiponakoa, Aitorpenak VIII",
   "tradicion": false,
+  "vida": [
+   {
+    "a": 373,
+    "b": 383,
+    "t": "Etapa manikeoa"
+   },
+   {
+    "a": 384,
+    "b": 386,
+    "t": "Milanen, Anbrosiorekin"
+   },
+   {
+    "a": 386,
+    "t": "Konbertsioa"
+   },
+   {
+    "a": 387,
+    "t": "Bataioa"
+   },
+   {
+    "a": 395,
+    "b": 430,
+    "t": "Hiponako apezpikua"
+   }
+  ],
   "block": "med",
   "subjects": [
    "fil"
@@ -538,6 +603,18 @@ const ILUSTRES = {
   "anecdota": "<p>Kontatzen da Kolonian Alberto Handiarekin ikasten ari zela Tomas hain gizena eta isila zenez, ikaskideek «Siziliako idi mutua» ezizena jarri ziotela. Egun batean, galdera zail bat bikain defendatzen entzun ondoren, Albertok bere ikasleei esan zien haiek idi mutua deitzen ziotela, baina haren marruak mundu osoan entzungo zirela. Eszena bere kanonizaziorako idatzitako biografietatik dator, tonu eredugarriz, baina ondo erretratatzen du azkenean <em>Summa Theologiae</em> idatziko zuen pentsalari isila.</p>",
   "fuente": "Gilen Toccokoa, Tomas Akinokoa santuaren historia",
   "tradicion": true,
+  "vida": [
+   {
+    "a": 1259,
+    "b": 1265,
+    "t": "Summa contra Gentiles idatzi zuen"
+   },
+   {
+    "a": 1265,
+    "b": 1274,
+    "t": "Summa Theologiae idatzi zuen"
+   }
+  ],
   "block": "med",
   "subjects": [
    "fil"
@@ -617,6 +694,16 @@ const ILUSTRES = {
   "anecdota": "<p>1619ko neguan, Descartes, orduan soldadu zena, Alemaniako herri batean geratu zen hotzak geldiarazita. Egun osoa berogailu batek berotutako gela batean itxita igaro zuen, inork distraitu gabe, bere pentsamenduei emanda. Han sortu zitzaion arkitekto bakar batek egindako lanak askok adabatutakoak baino perfektuagoak direlako ideia, eta bere jakintza guztia oinarrietatik berreraikitzea erabaki zuen. Baillet bere biografoaren arabera, gau hartan bertan hiru amets izan zituen, eginkizun horretarako dei gisa interpretatu zituenak.</p>",
   "fuente": "Descartes, Metodoaren diskurtsoa II; Adrien Baillet, Descartesen bizitza",
   "tradicion": false,
+  "vida": [
+   {
+    "a": 1637,
+    "t": "Metodoaren diskurtsoa"
+   },
+   {
+    "a": 1641,
+    "t": "Meditazio metafisikoak"
+   }
+  ],
   "block": "ren",
   "subjects": [
    "fil"
@@ -697,6 +784,13 @@ const ILUSTRES = {
   "anecdota": "<p>Kontatzen da Hume, jada lodia eta bere eszeptizismo erlijiosoagatik ospetsua, lokaztutako lubaki batera erori zela Edinburgoko obretan zegoen gune batetik lasterbidea hartzean. Handik igarotzen zen emakume batek «Hume ateoa» bezala ezagutu zuen eta ez zuen handik atera nahi izan Gure Aita eta Sinesten dut errezatu arte. Berak, ohiko umore onez, errezitatu egin zituen protestarik egin gabe, eta emakumeak eskua luzatu zion. Eszenak ondo laburbiltzen du haren izaera: bere garairako ideia deserosoak zituen, baina garaikide guztiek nabarmentzen zuten haren izaera atsegina eta gorrotorik eza.</p>",
   "fuente": "Edinburgoko tradizioa, Humeren biografietan jasoa (E. C. Mossner, The Life of David Hume)",
   "tradicion": true,
+  "vida": [
+   {
+    "a": 1739,
+    "b": 1740,
+    "t": "Giza naturari buruzko tratatua"
+   }
+  ],
   "block": "ilu",
   "subjects": [
    "fil"
