@@ -2846,7 +2846,7 @@ const QUIZZES = {
     "fb": "Animismoaren arabera, naturan (ibai batean, baso batean, zuhaitz batean) sentimendu eta asmodun espirituak bizi dira."
    },
    {
-    "q": "Carlosen amonak kontatzen dio lurrikarak erraldoi bat lurpean irauli egiten delako gertatzen direla, eta hark sinetsi egiten du, beti horrela kontatu delako. Zerk deskribatzen du hobekien azalpen hori?",
+    "q": "Pertsona bati bere amonak kontatzen dio lurrikarak gertatzen direla erraldoi bat lurpean mugitzen delako, eta sinetsi egiten du beti horrela kontatu delako. Zerk deskribatzen du ondoen azalpen hori?",
     "o": [
      "Egile ezaguna duen eta eztabaidarako irekia den azalpen bat.",
      "Jakintza arrunt bat, berezkoa baina esperientzian oinarritua.",
@@ -2868,7 +2868,7 @@ const QUIZZES = {
     "fb": "Jakintza zientifikoak gertaeren kausa hurbilak ikertzen ditu, eremu behagarri eta esperimentagarri batean."
    },
    {
-    "q": "Pablok entzuten du «denek dakitela» dieta jakin bat dela onena, eta, hori onartu aurretik, arrazoiak aztertzea erabakitzen du. Jakintza filosofikoaren zer ezaugarri erakusten du?",
+    "q": "Norbaitek entzuten du «mundu guztiak dakiela» dieta jakin bat onena dela eta, onartu aurretik, arrazoiak aztertzea erabakitzen du. Jakintza filosofikoaren zein ezaugarri erakusten du?",
     "o": [
      "Sistematikoa dela: eremu guztiak erlazionatzen ditu.",
      "Kritikoa dela: ez du sinesmenik onartzen «bai horregatik».",
@@ -2901,7 +2901,7 @@ const QUIZZES = {
     "fb": "Gaiaren taularen arabera, erlijioak helmuga transzendentea duen kreaturatzat hartzen du gizakia, eta errebelaziotik eta fedetik erantzuten du."
    },
    {
-    "q": "Laurak iragarki bat aztertzen du eta ohartzen da promesa faltsuak erabiltzen dituela jendeak pentsatu gabe eros dezan. Filosofiaren zer funtzio betetzen ari da?",
+    "q": "Pertsona batek iragarki bat aztertzen du eta aurkitzen du promes faltsuak erabiltzen dituela jendeak pentsatu gabe eros dezan. Filosofiaren zein funtzio ari da betetzen?",
     "o": [
      "Funtzio kritikoa.",
      "Orientazio-funtzioa.",
@@ -2912,7 +2912,7 @@ const QUIZZES = {
     "fb": "Funtzio kritikoak diskurtsoak aztertzen irakasten du, baita publizitatekoak ere, eta aurreiritziak eta promesa faltsuak antzematen."
    },
    {
-    "q": "Klaseko eztabaida batean, Hugok ahotsa goratzen du eta besteak eteten ditu bere ideiak irabaz dezan. Gaiaren arabera, zer egiten du gaizki?",
+    "q": "Klaseko eztabaida batean, norbaitek tonua igotzen du eta besteak eteten ditu bere ideiak irabaz dezan. Gaiaren arabera, zer ari da gaizki egiten?",
     "o": [
      "Ahazten du filosofian iritzi guztiek berdin balio dutela eta ez dagoela haiek defendatu beharrik.",
      "Ahazten du eztabaida batean hobe dela irakasleak azken erantzuna eman arte itxarotea.",
@@ -3171,7 +3171,7 @@ const QUIZZES = {
     "fb": "Adibide honekin Xenofanesek jainko antropomorfoak kritikatzen ditu: herri bakoitzak bere antzera irudikatzen ditu."
    },
    {
-    "q": "Luziak ohartu da ia film guztietan estralurtarrek burua, bi beso eta bi hanka dituztela, gu bezala. Zein egilek egin zuen antzeko kritika bat jainkoei buruz?",
+    "q": "Pertsona batek konturatzen da ia film guztietan estralurtarrek burua, bi beso eta bi hanka dituztela, gu bezala. Zein autorek egin zuen antzeko kritika bat jainkoei buruz?",
     "o": [
      "Anaximenes Miletokoa",
      "Parmenides Eleakoa",
@@ -3336,7 +3336,7 @@ const QUIZZES = {
     "fb": "Izatea esentzia ideala eta finkoa da, objektu matematikoak bezala; egotea, berriz, errealitateko gauza aldakorrak dira."
    },
    {
-    "q": "Ikerrek bere anaiari esaten dio: «Ez fidatu ikusten duzunaz; arrazoituz froga dezakezunaz bakarrik fidatu». Parmenidesen zein bide gomendatzen ari da?",
+    "q": "Norbaitek bere anaiari esaten dio: «Ez fida ikusten duzunaz; fida zaitez arrazoituz froga dezakezunaz bakarrik». Parmenidesen zein bide gomendatzen ari da?",
     "o": [
      "Mitoaren bidea, poetena.",
      "Ez-izatearen bidea, ezerezarena.",
@@ -3749,7 +3749,7 @@ const QUIZZES = {
     "fb": "Kanten arabera, pertsonak ez ditugu inoiz bitarteko edo tresna hutsak balira bezala tratatu behar, duintasuna dutelako."
    },
    {
-    "q": "Laurak dio: «Inor ez da ausart edo koldar jaiotzen; bakoitza erabakitzen duenarekin egiten da». Zer korronterekin dator bat hobekien?",
+    "q": "Norbaitek dio: «Inor ez da ausart edo koldar jaiotzen; bakoitza erabakitzen duenarekin egiten doa». Zein korronterekin bat dator ondoen?",
     "o": [
      "Platonen eta Descartesen dualismoarekin",
      "Innatismoarekin, jarauntsitakoari pisua ematen dionarekin",
@@ -3760,7 +3760,7 @@ const QUIZZES = {
     "fb": "Existentzialismoaren arabera, ez dugu aldez aurretik finkatutako esentziarik: lehenik existitu egiten gara, eta gero geure erabakiekin egiten gara."
    },
    {
-    "q": "Sarak dio bost urterekin zen pertsona bera dela oraindik, hondartzako uda hura gogoratzen duelako eta bertan bere burua ezagutzen duelako. Zer nortasun-irizpide erabiltzen du?",
+    "q": "Norbaitek dio bost urte zituenean zen pertsona bera dela oraindik, hondartzako uda hura gogoratzen duelako eta bertan bere burua ezagutzen duelako. Nortasunaren zein irizpide erabiltzen du?",
     "o": [
      "Oroimenarena (Locke)",
      "Gorputz-jarraitutasunarena",
@@ -3865,7 +3865,7 @@ const QUIZZES = {
     "fb": "Pertzepzioa ez da sentsazioen batura: emaitza antolatu bat da, eta bertan itxaropenek, emozioek eta aurretiko esperientziak parte hartzen dute."
    },
    {
-    "q": "Fruitu-ontzian zerbait gorri eta biribila ikustean, Leirek berehala ezagutzen du sagarra dela. Zer ezagutza-maila deskribatzen du adibideak?",
+    "q": "Frutontzian zerbait gorri eta biribila ikustean, pertsona batek berehala ezagutzen du sagarra dela. Zein ezagutza-maila deskribatzen du adibideak?",
     "o": [
      "Pertzepzioa, jasotakoa antolatzen duena",
      "Arrazoiketa, hainbat judizio lotzen dituena",
@@ -3986,7 +3986,7 @@ const QUIZZES = {
     "fb": "Biak dira enpiristak: Descartes arrazionalistak defendatzen zituen jaiotzetiko ideiak baztertzen dituzte, eta esperientzia jakintzaren jatorri eta muga bihurtzen dute."
    },
    {
-    "q": "Ikerrek dio ezin duela hitz egin nolabait ikusi, entzun edo ukitu ez duen ezeri buruz: dakien guztia zentzumenen bidez iritsi zaio. Zer korronterekin dator bat?",
+    "q": "Norbaitek dio ezin duela ezertaz hitz egin nolabait ikusi, entzun edo ukitu ez badu: dakien guztia zentzumenen bidez iritsi zaio. Zein korronterekin bat dator?",
     "o": [
      "Arrazionalismoarekin",
      "Dogmatismoarekin",
@@ -4030,7 +4030,7 @@ const QUIZZES = {
     "fb": "Protagoras sofista izan zen erlatibismoaren lehen defendatzailea: egia hura defendatzen duen subjektuaren mende legoke."
    },
    {
-    "q": "Eztabaida batean, Hugok honela amaitzen du edozein ika-mika: «Bakoitzak bere egia du, eta denek berdin balio dute». Zer arazo adieraziko lioke teoriak?",
+    "q": "Eztabaida batean, norbaitek edozein eztabaida ixten du: «Bakoitzak bere egia du eta guztiek balio bera dute». Zein arazo seinalatuko lioke teoriak?",
     "o": [
      "Zentzumenak iturri fidagarri bakarra direla ahazten duela",
      "Arrazoiaren jaiotzetiko ideiez gehiegi fidatzen dela",
@@ -4038,7 +4038,7 @@ const QUIZZES = {
      "Horrela ezingo lukeela inolako gezurrik edo bidegabekeriarik kritikatu"
     ],
     "a": 3,
-    "fb": "Hugo erlatibista da; muturrera eramanda, dena berdin baliozkoa bada, ezinezko bihurtzen da gezur bat edo bidegabekeria bat kritikatzea."
+    "fb": "Norbait erlatibista da; muturrera eramanda, dena berdin balio badu, ezinezkoa da gezur bat edo bidegabekeria bat kritikatzea."
    },
    {
     "q": "Zerk bereizten ditu eszeptizismoa eta erlatibismoa?",
@@ -4410,7 +4410,7 @@ const QUIZZES = {
     "fb": "Faltsukeria formaletan forma logikoa okerra da; informaletan, akatsa edukian edo hizkuntzaren erabileran dago, ad hominem-ean bezala."
    },
    {
-    "q": "Eztabaida batean, Sarak hau erantzuten du: «Nola izango du arrazoia Jorgek institutuko ordutegiaz, beti berandu iristen bada denetara?». Zer faltsukeria egiten du?",
+    "q": "Eztabaida batean, norbaitek honela erantzuten du: «Nola izango du arrazoi pertsona horrek institutuko ordutegiari buruz, beti berandu iristen bada?». Zein faltsukeria egiten du?",
     "o": [
      "Lastozko gizona.",
      "Ad verecundiam.",
@@ -4418,7 +4418,7 @@ const QUIZZES = {
      "Ad hominem."
     ],
     "a": 3,
-    "fb": "Sarak Jorge pertsona gisa erasotzen du (bere puntualtasun eza), ordutegiari buruzko argudioa ezeztatu beharrean: ad hominem bat da."
+    "fb": "Beste pertsonari erasotzen dio (haren puntualtasun eza), ordutegiari buruzko bere argudioa errefusatu beharrean: ad hominem bat da."
    },
    {
     "q": "«Telesail honek oso ona izan behar du: mundu guztia ari da ikusten.» Zer faltsukeria da?",
@@ -4608,7 +4608,7 @@ const QUIZZES = {
     "fb": "Faltsukeriek argudio baliozkoak dirudite, baina ez dira; horiek ezagutzea engainutik eta manipulaziotik babestea da."
    },
    {
-    "q": "«Madrildar guztiak espainiarrak dira. Lucia espainiarra da. Beraz, Lucia madrildarra da.» Premisak egiazkoak badira, zer esan dezakegu?",
+    "q": "«Madrildar guztiak espainiarrak dira. Pertsona hau espainiarra da. Beraz, pertsona hau madrildarra da.» Premisak egiazkoak badira, zer esan dezakegu?",
     "o": [
      "Baliogabea da: premisa egiazko horiekin, ondorioa ez dago bermatuta.",
      "Sendoa da: premisa egiazkoak ditu eta ondorioa horietatik ondorioztatzen da.",
@@ -4616,7 +4616,7 @@ const QUIZZES = {
      "Indukzio zuzena da, orokorretik partikularrera doalako."
     ],
     "a": 0,
-    "fb": "Lucia espainiarra izan daiteke madrildarra izan gabe: ondorioa ez da premisetatik ondorioztatzen; beraz, argudioa baliogabea da, premisak egiazkoak izan arren."
+    "fb": "Pertsona hau espainiarra izan daiteke madrildarra izan gabe: ondorioa ez da premisetatik ondorioztatzen, beraz argudioa baliogabea da premisak egiazkoak izan arren."
    }
   ]
  },
@@ -4647,7 +4647,7 @@ const QUIZZES = {
     "fb": "Erantzukizunaz hitz egiteak zentzua du aukeratu ahal badugu soilik: guztiz determinatuta bageunde, ezin izango genuke inor goretsi ez gaitzetsi."
    },
    {
-    "q": "Luciak ez du azterketan kopiatzen, harrapatu eta zigortuko duten beldur delako soilik. Kanten arabera, haren jokabidea…",
+    "q": "Norbaitek ez du azterketan kopiatzen, harrapatu eta zigortuko duten beldur delako soilik. Kanten arabera, haren jokabidea…",
     "o": [
      "Heteronomoa da, araua kanpotik datorkiolako: zigorraren beldurretik",
      "Autonomoa da, bera delako azterketan ez kopiatzea erabakitzen duena",
@@ -4655,7 +4655,7 @@ const QUIZZES = {
      "Emotibista da, bere erabakiak arbuio-sentimendu bat adierazten duelako"
     ],
     "a": 0,
-    "fb": "Kantek heteronomia deitzen dio araua kanpotik jasotzeari (beldurra, ohitura, agintea). Luciak ez dio legea bere buruari ematen bere arrazoiaren bidez."
+    "fb": "Kantek heteronomia deitzen dio araua kanpotik jasotzeari (beldurra, ohitura, agintea). Pertsona horrek ez dio bere buruari legea ematen bere arrazoimenaz."
    },
    {
     "q": "Zer esan nahi du autonomia moralak Kantengan?",
@@ -4746,7 +4746,7 @@ const QUIZZES = {
     "fb": "Bertute aristotelikoa arrazoiak eta ohiturak gidatuta lortzen da: praktikatuz ikasten da bertutetsu izaten."
    },
    {
-    "q": "Nereak gehiegikeriak saihesten ditu, bere lagunak zaintzen ditu eta heriotzan pentsatuz ez larritzen saiatzen da. Zer etika dator hobekien bat haren bizimoduarekin?",
+    "q": "Norbaitek gehiegikeriak saihesten ditu, bere lagunak zaintzen ditu eta heriotzaz pentsatuz ez larritzen saiatzen da. Zein etika dator ondoen bere bizimoduarekin?",
     "o": [
      "Benthamen utilitarismoa",
      "Kanten etika formala",
@@ -4845,7 +4845,7 @@ const QUIZZES = {
     "fb": "Inperatibo kategorikoak baldintzarik gabe agintzen du: ez dago inolako helbururen mende, eta arrazoiak berak ematen dio bere buruari."
    },
    {
-    "q": "Pablok gezurra esatea pentsatu du estualdi batetik ateratzeko, baina bere buruari galdetzen dio: «eta denok gezurra esango bagenu komeni zaigunean?». Zer ari da aplikatzen?",
+    "q": "Norbaitek gezurra esatea pentsatzen du estuasun batetik ateratzeko, baina galdetzen dio bere buruari: «eta mundu guztiak komeni zaionean gezurra esango balu?». Zer ari da aplikatzen?",
     "o": [
      "Ondorioen kalkulu utilitarista",
      "Kanten lege unibertsalaren formula",
@@ -4853,7 +4853,7 @@ const QUIZZES = {
      "Ataraxiaren bilaketa epikurearra"
     ],
     "a": 1,
-    "fb": "Pablok egiaztatzen du bere maxima lege unibertsal bihur litekeen, inperatibo kategorikoaren lehen formulak eskatzen duen bezala."
+    "fb": "Pertsona horrek egiaztatzen du bere maxima lege unibertsal bihur ote litekeen, inperatibo kategorikoaren lehen formulak eskatzen duen bezala."
    },
    {
     "q": "Enpresa batek langileak kontratatzen ditu haietaz aprobetxatzeko soilik, haien duintasuna axola gabe. Kanten arabera, zer egiten du gaizki?",
@@ -4933,7 +4933,7 @@ const QUIZZES = {
     "fb": "Teknologiaren eta adimen artifizialaren etikako arazo zehatz bat da, etika aplikatuaren arloetako bat."
    },
    {
-    "q": "Herri batean ohitura da seme zaharrenak lur guztiak heredatzea. Carmenek bere buruari galdetzen dio ea ohitura hori benetan ona den. Zer ari da egiten?",
+    "q": "Herri batean ohitura da seme zaharrenak lur guztiak heredatzea. Norbaitek galdetzen dio bere buruari ohitura hori benetan ona den. Zer ari da egiten?",
     "o": [
      "Bere herrian indarrean dagoen morala jarraitzen, inoiz zalantzan jarri gabe",
      "Ohituraren aurkako gaitzespen-sentimendu bat adierazten, besterik ez",
@@ -5027,7 +5027,7 @@ const QUIZZES = {
     "fb": "Epikurorentzat, ataraxiak eskatzen du mina saihestea eta arima asaldatzen duten bi beldur handietatik askatzea: heriotzarena eta jainkoena."
    },
    {
-    "q": "Luciak arratsaldea lagunekin igarotzen du, janari xume bat partekatuz, presarik eta kezkarik gabe, eta lasai gozatzen du, gehiegikeriarik gabe. Zer eskolarekin dator bat hobekien?",
+    "q": "Norbaitek arratsaldea bere lagunekin ematen du otordu xume bat partekatuz, presarik eta kezkarik gabe, eta lasai gozatzen du, gehiegikeriarik gabe. Zein eskolarekin bat dator ondoen?",
     "o": [
      "Aristiporen hedonismoarekin",
      "Epikuroren epikureismoarekin",
@@ -5038,7 +5038,7 @@ const QUIZZES = {
     "fb": "Epikureismoaren adibide tipikoa da: plazer neurritua, lagunekin partekatua eta kezkarik gabea, arimari bakea ematen diona."
    },
    {
-    "q": "Pablok gidabaimenaren azterketa ez du gainditu. Haserretu beharrean, hau pentsatzen du: «Emaitza jada ez dago nire esku; nire esku dagoena da nola hartzen dudan». Zer eskola islatzen du bere jarrerak?",
+    "q": "Norbaitek gidatzeko azterketan suspenditu egiten du. Haserretu beharrean, honela pentsatzen du: «Emaitza jada ez dago nire esku; nire esku dagoena da nola hartzen dudan». Zein eskolak islatzen du haren jarrera?",
     "o": [
      "Hedonismoa, berehala ondo sentitu nahi duelako",
      "Zinismoa, azterketaren arauak mespretxatzen dituelako",
@@ -5049,7 +5049,7 @@ const QUIZZES = {
     "fb": "Estoikoen ustez ez dugu kontrolatzen gertatzen dena, baina bai gure erreakzioa: porrot baten aurrean lasai egotea da haien adibide tipikoa."
    },
    {
-    "q": "Iker, larunbat gau batean: «Orain gozatu behar da, bihar ikusiko dugu». Eta nahi duen guztia jan eta edaten du. Zer jarrera defendatzen du?",
+    "q": "Norbaitek, larunbat gauean: «Orain gozatu behar da, bihar ikusiko dugu». Eta nahi duen guztia jaten eta edaten du. Zein jarrera defendatzen du?",
     "o": [
      "Aristiporen hedonismoa, berehalako plazera bilatzen duena",
      "Epikureismoa, plazer neurritu eta lasaiak bilatzen dituena",
@@ -5567,7 +5567,7 @@ const QUIZZES = {
     "fb": "Ikuskera objektiboaren arabera, edertasuna proportzioa eta neurria da; horregatik neurtu eta irakatsi daiteke."
    },
    {
-    "q": "Ikerrek dio: «Niri abesti hori zoragarria iruditzen zait, zuri izugarria, eta biok dugu arrazoi: gustuak gustu». Zein ikuskerarekin bat dator?",
+    "q": "Norbaitek dio: «Niri abesti hori ederra iruditzen zait, zuri izugarria, eta biok dugu arrazoia: gustuei buruz ez dago ezer idatzita». Zein ikuskerarekin bat dator?",
     "o": [
      "Greziarren edertasun objektiboarekin",
      "Edertasuna zenbaki gisa ulertzen duen teoriarekin",
@@ -5622,7 +5622,7 @@ const QUIZZES = {
     "fb": "Lanak asmo batekin egina dirudi, bere ordenagatik, baina ez du inolako helburu praktikorik betetzen: horregatik du helbururik gabeko finalitatea."
    },
    {
-    "q": "Nereak ospitale bat ederra iruditzen zaio, bere diseinuak gaixoak artatzeko zein ondo balio duen pentsatuta. Kanten arabera, zer edertasun estimatzen du?",
+    "q": "Norbaitek ospitale bat ederra dela epaitzen du, haren diseinuak gaixoak artatzeko zein ondo balio duen pentsatuz. Kanten arabera, zein edertasun estimatzen du?",
     "o": [
      "Edertasun aske bat, bere forma hutsagatik gustatzen dena",
      "Edertasun atxiki bat, zertarako den araberakoa dena",
@@ -5677,7 +5677,7 @@ const QUIZZES = {
     "fb": "Formalismoak artistikoa forman kokatzen du: konposizioa, kolorea, erritmoa eta egitura; horregatik onartzen du arte abstraktua."
    },
    {
-    "q": "Pabloren ustez, erretratu bat orduan eta hobea da zenbat eta gehiago antz eman erretratatutako pertsonari. Zer arte-teoria ari da aplikatzen?",
+    "q": "Norbaitek uste du erretratu bat hobea dela erretratatutako pertsonaren antz handiagoa duen heinean. Artearen zein teoria ari da aplikatzen?",
     "o": [
      "Artea imitazio edo mimesi gisa",
      "Artea adierazpen gisa",
@@ -5919,7 +5919,7 @@ const QUIZZES = {
     "fb": "Arteak jendearen begirada alda dezake; horregatik diote beldurra diktadurek eta horregatik zentsuratzen dute, nahiz eta propaganda gisa ere erabiltzen duten."
    },
    {
-    "q": "Leirek egun osoa ematen du argazkiak eta bideoak argitaratzen eta ikusten; bere bizitza eta bere lagunak batez ere kontsumitzen diren irudi gisa existitzen direla sentitzen du. Zein kontzeptuk deskribatzen du hori hobekien?",
+    "q": "Norbaitek eguna argazkiak eta bideoak argitaratzen eta begiratzen ematen du; sentitzen du bere bizitza eta adiskidetasunak, batez ere, kontsumitzen diren irudi gisa existitzen direla. Zein kontzeptuk deskribatzen du hori ondoen?",
     "o": [
      "Artelanaren aura",
      "Aristotelesen katarsia",
