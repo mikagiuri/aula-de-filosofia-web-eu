@@ -771,3 +771,111 @@ const GLOSARIO = [
   "def": "Tesi bat arrazoiekin defendatzen duen testu argudiatzailea, egitura (sarrera, garapena, ondorioa) eta balorazio pertsonala dituena."
  }
 ];
+const GLOSARIO_TRAMPAS = {
+ "fil": [
+  [
+   "Mitoa",
+   "Logosa"
+  ],
+  [
+   "Jakintza arrunta",
+   "Jakintza zientifikoa"
+  ],
+  [
+   "Jakintza zientifikoa",
+   "Jakintza filosofikoa"
+  ],
+  [
+   "Metafisika",
+   "Epistemologia"
+  ],
+  [
+   "Jarrera kritikoa",
+   "Dogmatismoa"
+  ],
+  [
+   "Hominizazioa",
+   "Humanizazioa"
+  ],
+  [
+   "Nortasun pertsonala",
+   "Nortasun kolektiboa"
+  ],
+  [
+   "Etnzentrismoa",
+   "Erlatibismo kulturala"
+  ],
+  [
+   "Dualismoa",
+   "Monismoa"
+  ],
+  [
+   "Kontzientzia",
+   "Autokontzientzia"
+  ],
+  [
+   "Kultura",
+   "Sozializazioa"
+  ],
+  [
+   "Errealismoa",
+   "Idealismoa"
+  ],
+  [
+   "Enpirismoa",
+   "Arrazionalismoa"
+  ],
+  [
+   "Dedukzioa",
+   "Indukzioa"
+  ],
+  [
+   "Sinesmena",
+   "Ezagutza"
+  ],
+  [
+   "Eszeptizismoa",
+   "Erlatibismoa"
+  ],
+  [
+   "Argudio deduktiboa",
+   "Argudio induktiboa"
+  ],
+  [
+   "Ad hominem",
+   "Lastozko gizona"
+  ],
+  [
+   "Autoritateari deia",
+   "Gehiengoarengana jo"
+  ],
+  [
+   "Kausa faltsua",
+   "Orokorpen presatua"
+  ],
+  [
+   "Dilema faltsua",
+   "Aldapa irristakorra"
+  ],
+  [
+   "Autonomia",
+   "Heteronomia"
+  ],
+  [
+   "Eudemonismoa",
+   "Hedonismoa"
+  ],
+  [
+   "Betebeharraren etika",
+   "Utilitarismoa"
+  ],
+  [
+   "Balioa",
+   "Araua"
+  ],
+  [
+   "Edertasuna",
+   "Sublimea"
+  ]
+ ]
+};
