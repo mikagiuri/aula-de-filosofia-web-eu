@@ -709,8 +709,8 @@ const INFOGRAFIAS = {
         "p": "<b>Gorputza</b> baino ez dago: gogoa haren <b>jarduera</b> da, batez ere garunarena."
        },
        {
-        "t": "Hume",
-        "p": "Gorputzetik aparteko <b>arima-substantzia</b> baten ideia kritikatzen du."
+        "t": "Demokrito, Hobbes, La Mettrie",
+        "p": "Dena da <b>materia</b>; gizakia, «makina» bat (La Mettrie). Gaur egun, Dennett eta Churchland bikotea."
        }
       ]
      }

@@ -277,7 +277,7 @@ const DECKS = {
    [
     "🧠",
     "Monismo materialista",
-    "Gorputza baino ez da existitzen: gogoa garunaren jarduera da. Ez dago «arima» bereizirik (Hume)."
+    "Gorputza baino ez da existitzen: gogoa garunaren jarduera da. Ez dago «arima» bereizirik (Demokrito, Hobbes, La Mettrie)."
    ],
    [
     "🪞",
@@ -3564,12 +3564,12 @@ const QUIZZES = {
     "q": "Zer esan nahi du «gizakia gauza guztien neurria da» esaldiak?",
     "o": [
      "Gizakia dela natura osoko izaki bizidunik handiena eta perfektuena",
-     "Gu garela errealitatea baloratzen, neurtzen eta interpretatzen dugunak",
+     "Ez dagoela egiaren irizpide absoluturik: gauzak bakoitzari, edo komunitate bakoitzari, iruditzen zaizkion bezalakoak dira",
      "Luzera-neurriak giza gorputzetik hartu zirela (oina, ukondoa…)",
      "Errealitatea den bezala existitzen dela, nork begiratzen dion kontuan hartu gabe"
     ],
     "a": 1,
-    "fb": "Protagorasek esan nahi zuen gizakia dela errealitatea baloratzen, neurtzen eta interpretatzen duena."
+    "fb": "Protagoras egiaz ari zen, ez gizakiak kosmosean duen tokiaz: tesi erlatibista da. «Gizakia da erdigunea» bezala irakurtzea interpretazio modernoa da."
    },
    {
     "q": "Zer gehitu zion Darwinek Lamarckek jada defendatua zuen ideiari, alegia, espezieak aldatu egiten direla?",
@@ -6315,7 +6315,7 @@ const QUIZZES = {
     "fb": "Descartesek res cogitans, substantzia pentsatzailea, eta res extensa, gorputza eta materia dena, bereizten ditu."
    },
    {
-    "q": "Hume eta Marxekin batera, zein antzinako pentsalari kokatzen du gaiak monismo materialistaren ordezkarien artean?",
+    "q": "Hobbes eta La Mettrierekin batera, zein antzinako pentsalari kokatzen du gaiak monismo materialistaren ordezkarien artean?",
     "o": [
      "Demokrito",
      "Platon",
@@ -6323,7 +6323,7 @@ const QUIZZES = {
      "Aristoteles"
     ],
     "a": 0,
-    "fb": "Gaiak monismo materialistaren ildoan kokatzen ditu Demokrito, Hume, Marx eta egungo zientziaren zati handi bat."
+    "fb": "Gaiak monismo materialistaren ildoan kokatzen ditu Demokrito, Hobbes, La Mettrie eta, gaur egun, Dennett, Churchland bikotea eta neurozientziaren zati handi bat."
    },
    {
     "q": "Nola deitzen da gure komunitateko arauak, balioak eta ereduak ikasteko prozesua?",

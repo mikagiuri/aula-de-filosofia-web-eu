@@ -292,7 +292,7 @@ const ESQUEMAS_FIL = {
      "rel": "errealitate bakarra",
      "t": "Monismo materialista",
      "k": true,
-     "a": "Demokrito, Hume, Marx",
+     "a": "Demokrito, Hobbes, La Mettrie; gaur egun, Dennett eta Churchland bikotea",
      "d": "Gorputza gara: gogoa ez da aparteko substantzia bat, gorputzaren jarduera baizik, batez ere garunarena.",
      "c": [
       {

@@ -70,6 +70,6 @@ const MAPS = {
   "subject": "fil",
   "tema": "Filosofia · 2. gaia",
   "title": "Gorputza eta gogoa",
-  "md": "# Gorputza eta gogoa\n## Gogo-gorputz arazoa\n- **Bat** al gara ala **bi**?\n## Dualismoa (bi errealitate)\n- Gorputz **materiala** + arima **immateriala** (funtsezkoa)\n- **Platon** — arima hilezkorra, gorputza «kartzela»; gurdi hegalduna; arima 3 zatitan (arrazionala, suminkorra, irrikakorra)\n- **Descartes** — res cogitans (gogoa) vs res extensa (gorputz-makina)\n## Monismo materialista (errealitate bat)\n- **Gorputza** soilik dago; gogoa haren **jarduera** da (burmuina)\n- **Hume** — arima-substantzia kritikatzen du\n## Arazoak\n- Dualismoa: nola komunikatzen dira gogoa eta gorputza?\n- Monismoa: **libre** al gara ala kimika soilik?"
+  "md": "# Gorputza eta gogoa\n## Gogo-gorputz arazoa\n- **Bat** al gara ala **bi**?\n## Dualismoa (bi errealitate)\n- Gorputz **materiala** + arima **immateriala** (funtsezkoa)\n- **Platon** — arima hilezkorra, gorputza «kartzela»; gurdi hegalduna; arima 3 zatitan (arrazionala, suminkorra, irrikakorra)\n- **Descartes** — res cogitans (gogoa) vs res extensa (gorputz-makina)\n## Monismo materialista (errealitate bat)\n- **Gorputza** soilik dago; gogoa haren **jarduera** da (burmuina)\n- **Demokrito**, **Hobbes**, **La Mettrie** (gizaki makina); gaur egun, **Dennett** eta **Churchland** bikotea\n## Arazoak\n- Dualismoa: nola komunikatzen dira gogoa eta gorputza?\n- Monismoa: **libre** al gara ala kimika soilik?"
  }
 };
