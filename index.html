@@ -70,6 +70,7 @@
       <div class="navsec">
         <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Ariketak</span>
         <div class="navmenu">
+          <button data-view="lecturas">Irakurgaiak</button>
           <button data-view="dilemas">Dilema etikoak</button>
           <button data-view="pistas">Pistak</button>
           <button data-view="logica">Logikaren txokoa</button>
@@ -120,7 +121,20 @@
   
 
   <!-- LECTURAS -->
-  
+  <section class="view" id="lecturas">
+    <p class="eyebrow">Irakurgaiak</p>
+    <h1 class="title">Irakurgaiak</h1>
+    <p class="lead">USEko jatorrizko testuak —Platon, Descartes, Kant, Nietzsche eta Beauvoir— irakurketa-gidarekin, zatiekin, erantzun-ereduekin eta glosarioarekin. Klasean edo etxean irakurtzeko eta 1. ariketa prestatzeko.</p>
+    <div class="filterbar" id="lecturafilter" role="group" aria-label="Iragazi irakurgaiak"></div>
+    <div class="chips" id="lecturachips" role="group" aria-label="Aukeratu irakurgaia"></div>
+    <div class="toolrow" id="comentariolink" style="display:none">
+      <button class="btn" data-go="comentario">✍️ Comentar este texto (método guiado) →</button>
+    </div>
+    <div class="theory-layout">
+      <nav class="toc" id="ltoc" aria-label="Irakurgaiaren aurkibidea"></nav>
+      <article class="theory" id="lecturabody"></article>
+    </div>
+  </section>
 
   <!-- DISERTACIONES -->
   
