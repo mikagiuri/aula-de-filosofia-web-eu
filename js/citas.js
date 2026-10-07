@@ -192,6 +192,13 @@ const CITAS = [
   "img": "media/retratos/museo2/adam-smith.jpg"
  },
  {
+  "c": "Gizakia kanabera bat besterik ez da, naturako ahulena, baina pentsatzen duen kanabera bat da.",
+  "a": "Blaise Pascal",
+  "o": "Pentsamenduak, 200. zatia (Lafuma arg.) / 347 (Brunschvicg arg.)",
+  "e": "modernoa",
+  "img": "media/retratos/museo2/pascal.jpg"
+ },
+ {
   "c": "Arrazoia grinen esklabo da, eta halakoa besterik ez luke izan behar.",
   "a": "David Hume",
   "o": "Giza naturari buruzko tratatua II, 3, 3",
@@ -368,12 +375,28 @@ const CITAS = [
   "img": "media/retratos/museo/wollstonecraft.jpg"
  },
  {
+  "c": "Botereaz abusatu ezin izateko, beharrezkoa da, gauzen antolaeragatik, botereak boterea geldiaraztea.",
+  "a": "Montesquieu",
+  "o": "Legeen espirituaz (1748) XI, 4",
+  "e": "modernoa",
+  "id": "montesquieu",
+  "img": "media/retratos/museo2/montesquieu.jpg"
+ },
+ {
   "c": "Gorputz orok irauten du bere pausagune-egoeran edo lerro zuzeneko mugimendu uniformean, eragindako indarrek egoera hori aldatzera behartzen ez badute behintzat.",
   "a": "Newton",
   "o": "Filosofia naturalaren printzipio matematikoak (1687), «Axiomak edo mugimenduaren legeak», I. legea",
   "e": "modernoa",
   "id": "newton",
   "img": "media/retratos/museo/newton.jpg"
+ },
+ {
+  "c": "Emakumea aske jaiotzen da eta gizonaren berdin izaten jarraitzen du eskubideetan.",
+  "a": "Olympe de Gouges",
+  "o": "Emakumearen eta herritar emakumearen eskubideen adierazpena (1791), 1. art.",
+  "e": "modernoa",
+  "id": "gouges",
+  "img": "media/retratos/museo/gouges.jpg"
  },
  {
   "c": "Ez dizut eman, oi Adam, leku finkorik, ez aurpegi propiorik, ez dohain berezirik, zuk aukeratzen dituzun lekua, aurpegia eta dohainak zureak izan daitezen zure borondatearen eta erabakiaren arabera.",
@@ -438,6 +461,12 @@ const CITAS = [
   "e": "contemporanea",
   "id": "einstein",
   "img": "media/retratos/museo/einstein.jpg"
+ },
+ {
+  "c": "Feminismoa Ilustrazioaren seme nahi gabea da.",
+  "a": "Amelia Valcárcel",
+  "o": "«Oroimen kolektiboa eta feminismoaren erronkak» (2000)",
+  "e": "contemporanea"
  },
  {
   "c": "Egia tristea da gaizkiaren zatirik handiena inoiz on ala gaizto izatea erabakitzen ez duten pertsonek egiten dutela.",
@@ -588,6 +617,13 @@ const CITAS = [
   "e": "contemporanea",
   "id": "popper",
   "img": "media/retratos/museo/popper.jpg"
+ },
+ {
+  "c": "Fedea, hain zuzen, paradoxa hau da: gizabanakoa erlazio absolutuan jartzen dela absolutuarekin.",
+  "a": "Kierkegaard",
+  "o": "Beldurra eta dardara (1843), I. arazoa",
+  "e": "contemporanea",
+  "img": "media/retratos/museo2/kierkegaard.jpg"
  },
  {
   "c": "Hitz egin ezin denaz, isildu egin behar da.",
@@ -893,6 +929,12 @@ const CITAS = [
   "e": "antigua"
  },
  {
+  "c": "Hitza agintari ahaltsua da: gorputz txiki-txikiaz eta guztiz ikusezinaz egintza jainkotiarrak burutzen ditu; beldurra geldiarazi, pena kendu, poza sortu eta errukia areagotu dezake.",
+  "a": "Gorgias",
+  "o": "Helenaren laudorioa, 8 (DK 82 B11)",
+  "e": "antigua"
+ },
+ {
   "c": "Inork ez dezala, gaztea delako, filosofatzea atzeratu, ezta, zaharra delako, filosofatzeaz nekatu ere. Arimaren osasunerako inor ez da goizegi edo beranduegi iristen.",
   "a": "Epikuro",
   "o": "Menekeori gutuna, 122 (Diogenes Laertziokoa, Bizitzak X)",
@@ -985,6 +1027,12 @@ const CITAS = [
   "c": "Adabakiak gara denok, eta hain ehundura itxuragabe eta askotarikoa dugu, ezen pieza bakoitzak, une bakoitzak, bere jokoa egiten baitu. Eta gu eta geu artean gu eta beste baten artean bezainbesteko aldea dago.",
   "a": "Montaigne",
   "o": "Saiakerak (1580) II, 1",
+  "e": "modernoa"
+ },
+ {
+  "c": "Ez dago ezer zuzen edo bidegaberik klimaz aldatzean bere izaera aldatzen ez duenik. […] Justizia barregarria, ibai batek mugatzen duena! Egia Pirinioen alde honetan, errorea bestean.",
+  "a": "Blaise Pascal",
+  "o": "Pentsamenduak, 60. zatia (Lafuma arg.) / 294 (Brunschvicg arg.)",
   "e": "modernoa"
  },
  {
