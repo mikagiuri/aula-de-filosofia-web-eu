@@ -245,7 +245,7 @@ const DILEMAS = [
   "a": "Konektatu. Axola duena sentitzen dena bada, esperientzia beteen bizitza bat da bizitzarik onena.",
   "b": "Ez konektatu. Gauzak egin nahi ditut, ez soilik egiten ditudala sentitu; norbait izan nahi dut, ez garun estimulatu bat.",
   "pregunta": "Plazera al da ongia? Bizitza ona ongi sentitzen den bizitza bat da, ala ona den bizitza bat, batzuetan min egin arren?",
-  "enjuego": "Ongiaren irizpidea: plazera, autentikotasuna edo bikaintasuna. Eta susmo bat: agian nahi duguna ez da zoriontsu sentitzea, gauza batzuk egia izatea baizik.",
+  "enjuego": "Ongiaren irizpidea: plazera, benetakotasuna edo bikaintasuna. Eta susmo bat: agian nahi duguna ez da zoriontsu sentitzea, gauza batzuk egia izatea baizik.",
   "escuelas": [
    {
     "quien": "Epikuro (hedonismoa)",

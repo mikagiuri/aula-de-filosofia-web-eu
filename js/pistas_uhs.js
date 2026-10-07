@@ -225,7 +225,7 @@ const PISTAS = [
   "unidad": "fil-t5",
   "materia": "Filosofia 1. · Etika",
   "titulo": "Zer da bertutea Aristotelesentzat?",
-  "lede": "Zoriontasunaren eta termino erdikoaren etika. Eskatu behar dituzun pistak bakarrik.",
+  "lede": "Zoriontasunaren eta erdibidearen etika. Eskatu behar dituzun pistak bakarrik.",
   "ciclos": [
    {
     "fase": "1. fasea · Berreskuratzea",
@@ -244,7 +244,7 @@ const PISTAS = [
      "pregunta": "Definizio hauetatik, zein dago bertute aristotelikotik hurbilen?",
      "opciones": [
       [
-       "Bi muturren arteko termino erdikoa aukeratzeko ohitura, arrazoiak gidatua.",
+       "Bi muturren arteko erdibidea aukeratzeko ohitura, arrazoiak gidatua.",
        true
       ],
       [
@@ -263,14 +263,14 @@ const PISTAS = [
        "Bertutea arrazoimen praktikoak gidatzen du, ez obedientzia hutsak."
       ]
      ],
-     "ok": "Ondo: ohitura, termino erdikoa eta arrazoia dira hiru gakoak.",
+     "ok": "Ondo: ohitura, erdibidea eta arrazoia dira hiru gakoak.",
      "mal": "Oraindik ez."
     },
     "rescate": [
      {
       "boton": "Adibideak ikusi behar ditut",
       "etiqueta": "Adibideak",
-      "titulo": "Gabezia, termino erdikoa eta gehiegikeria",
+      "titulo": "Gabezia, erdibidea eta gehiegikeria",
       "definicion": [
        "Koldarkeria ← <strong>ausardia</strong> → ausarkeria",
        "Zekenkeria ← <strong>eskuzabaltasuna</strong> → xahutzea",
@@ -281,7 +281,7 @@ const PISTAS = [
       ],
       "comprobacion": {
        "etiqueta": "Adibideen egiaztapena",
-       "pregunta": "Zein da zekenkeriaren eta xahutzearen arteko termino erdikoa?",
+       "pregunta": "Zein da zekenkeriaren eta xahutzearen arteko erdibidea?",
        "opciones": [
         [
          "Eskuzabaltasuna.",
@@ -295,7 +295,7 @@ const PISTAS = [
         [
          "Daukazunaren erdia zehatz-mehatz gastatzea.",
          false,
-         "Termino erdikoa ez da kontu matematiko bat: kasu bakoitzean egokia dena da."
+         "Erdibidea ez da kontu matematiko bat: kasu bakoitzean egokia dena da."
         ],
         [
          "Inoiz ez gastatzea.",
@@ -312,8 +312,8 @@ const PISTAS = [
       "etiqueta": "Definizioa eta azalpena",
       "titulo": "Bertute aristotelikoa",
       "definicion": [
-       "<strong>Bertutea</strong> (<em>areté</em>) bi bizioren arteko termino erdikoa aukeratzeko joera egonkorra da: bizio bat gabeziaz eta bestea gehiegikeriaz.",
-       "Termino erdiko hori ez da matematikoa: <strong>arrazoimen praktikoak</strong> (zuhurtziak) zehazten du egoera bakoitzean.",
+       "<strong>Bertutea</strong> (<em>areté</em>) bi bizioren arteko erdibidea aukeratzeko joera egonkorra da: bizio bat gabeziaz eta bestea gehiegikeriaz.",
+       "Erdibideko hori ez da matematikoa: <strong>arrazoimen praktikoak</strong> (zuhurtziak) zehazten du egoera bakoitzean.",
        "<strong>Ohituraz</strong> eskuratzen da: ekintza ausartak eginez bihurtzen gara ausart. Eta bertutea praktikatzea da zoriontasunerako bidea."
       ],
       "comprobacion": {
@@ -430,7 +430,7 @@ const PISTAS = [
   "cierre": {
    "titulo": "Badakizu Aristotelesen etika",
    "parrafos": [
-    "Bertutea bi bizioren arteko termino erdikoa aukeratzeko ohitura da, arrazoimen praktikoak gidatua. Horrela bizitzea da zoriontasuna: bere osotasunean ondo betetako bizitza.",
+    "Bertutea bi bizioren arteko erdibidea aukeratzeko ohitura da, arrazoimen praktikoak gidatua. Horrela bizitzea da zoriontasuna: bere osotasunean ondo betetako bizitza.",
     "Jarraitzeko: alderatu Epikurorekin (plazera minik eza gisa) eta Kantekin (betebeharra)."
    ]
   }
