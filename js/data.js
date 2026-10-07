@@ -5971,7 +5971,7 @@ const QUIZZES = {
      "Helburua aldatzen dela: mitoak azaltzen zuen, eta filosofiak hunkitu besterik ez du egiten"
     ],
     "a": 2,
-    "fb": "Hegelek azpimarratu zuen «mitoaren edukia pentsamendua dela»: aldatzen dena ez da hainbeste esaten dena, esateko modua baizik, kontakizun eta irudietatik kontzeptu eta arrazoietara; horregatik, mitoak duen balioa gordetzen duen gainditzea da."
+    "fb": "Hegelek azpimarratu zuen mitoaren edukia pentsamendua dela jada (Filosofiaren historiari buruzko ikasgaiak lanaren Sarreraren parafrasia): aldatzen dena ez da hainbeste esaten dena, esateko modua baizik, kontakizun eta irudietatik kontzeptu eta arrazoietara; horregatik, mitoak duen balioa gordetzen duen gainditzea da."
    },
    {
     "q": "Zer esan nahi du jakintza filosofikoa «sistematikoa» izateak?",
