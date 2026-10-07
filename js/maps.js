@@ -1,5 +1,11 @@
 // Generado por web_i18n/i18n_rebuild.js (eu) a partir de web/js/maps.js. No editar a mano: editar la memoria tm/eu.json y regenerar.
 const MAPS = {
+ "map-fil-que-es": {
+  "subject": "fil",
+  "tema": "Filosofia · 1. gaia",
+  "title": "Zer da filosofia?",
+  "md": "# Zer da filosofia?\n## Jakinduriarekiko maitasuna\n- *Philía* (maitasuna) + *sophía* (jakinduria)\n- Filosofoak egia **bilatzen** du, ez du bere egiten\n- **Harridura**tik, jakin-minetik eta zalantzatik sortzen da\n- «Ezer ez dakidala bakarrik dakit» (**Sokrates**)\n## Mitotik logosera\n- Grezia, **K.a. VI. mendea**\n- **Mitoa**: jainkoen kontakizuna; antropomorfikoa, arbitrarioa, **dogmatikoa**\n- **Logosa**: kausa naturalak eta **argudioak**; **kritikoa**\n- **Tales Miletokoa**k **arkhé**a bilatzen du\n## Jakite motak\n- **Arrunta**: berezkoa, ez hausnartua\n- **Zientifikoa**: hurbileko kausak; **partziala**\n- **Filosofikoa**: azken kausak; errealitatea **bere osotasunean**\n## Jakite filosofikoaren ezaugarriak\n- **Arrazionala** eta **kritikoa**\n- **Erradikala**: errora doa\n- **Unibertsala** eta **sistematikoa**\n- **Praktikoa**: etika eta politika\n- **Irekia** eta **historikoa**\n## Adarrak\n- **Metafisika**: zer den izatea, zer dagoen\n- **Ezagutzaren teoria**: zer ezagut dezakegu\n- **Etika** eta **filosofia politikoa**\n- **Estetika**, **logika** eta **antropologia**\n## Beste jakiteekin\n- **Zientzia**: datuak eta esperimentuak\n- **Erlijioa**: fedea eta errebelazioa\n- **Artea**: sentiarazten duten lanak\n- **Filosofia**: kontzeptuak eta argudioak\n## Zertarako balio du\n- Norberak pentsatzeko\n- **Testuak** irakurtzeko eta iruzkintzeko"
+ },
  "map-filosofia-ciencia": {
   "subject": "fil",
   "tema": "Filosofia · Zientziaren filosofia",
