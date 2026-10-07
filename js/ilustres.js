@@ -248,6 +248,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t3",
    "fil-t5",
+   "fil-t7",
    "fil-presocraticos"
   ]
  },
@@ -512,6 +513,29 @@ const ILUSTRES = {
    "fil-helenismo"
   ]
  },
+ "plotino": {
+  "name": "Plotino",
+  "dates": "205 – 270",
+  "born": 205,
+  "died": 270,
+  "place": "Likopolis (Egipto)",
+  "role": "filosofo neoplatonikoa",
+  "idea": "Errealitate osoa Batetik dator beharrezko emanazioz, perfekzio-maila beheranzkoetan, eta arima harengana itzul daiteke kontenplazioaren eta arazketaren bidez.",
+  "bio": "<p>Plotino Egipton jaio zen 205. urte inguruan; Porfirio haren biografoaren arabera, nahiago zuen bere jatorriaz ez hitz egin. Alexandrian ikasi zuen filosofia Amonio Sakasekin hamaika urtez. Gero, Persiara egindako espedizio militar batekin joan zen ekialdeko jakinduria ezagutzeko, eta 244. urte inguruan Erroman finkatu zen; han ospe handiko eskola bat sortu zuen. Kanpanian hil zen 270. urtean. Porfirio ikasleak haren idazkiak bederatzi tratatuko sei taldetan antolatu zituen: <em>Eneadak</em>.</p>\n<p>Plotino da <strong>neoplatonismoaren</strong> sortzailea: Platonen berrinterpretazio bat, filosofia eta esperientzia erlijiosoa batzen dituena. Errealitatearen gailurrean <strong>Bata</strong> kokatzen du, printzipio inpertsonala, perfektua eta deskribaezina. Batetik sortzen da, <strong>emanazioz</strong>, Adimena (<em>Nous</em>), non Ideiak dauden; hartatik, Munduaren Arima; eta, azken mailan, materia. Emanazioa ez da ekintza librea, gainezka egite beharrezko eta betierekoa baizik, eguzkitik irradiatzen den argia bezala. Materia, Batetik urrunen dagoena, izatearen gabezia eta gaizkiaren jatorria da. Giza arimak alderantzizko bidea egin dezake eta Batarekin bat egin kontenplazioaren bidez.</p>\n<p>Haren eragina izugarria izan zen. Agustin Hiponakoak neoplatonikoak irakurri zituen bihurtu aurretik, eta haiengandik hartu zuen gaizkia gabezia gisa ulertzeko ideia, nahiz eta emanazioaren ordez Jainko pertsonal baten sorkuntza librea jarri. Hipatia Alexandriakoak korronte horren barruan irakatsi zuen, eta korronte horrek filosofia islamiarrean eta Errenazimenduan ere utzi zuen arrastoa.</p>",
+  "obras": [
+   "Eneadak"
+  ],
+  "anecdota": "<p>Porfiriok kontatzen du Plotinori lotsa ematen ziola gorputza izateak, eta horregatik beti uko egin ziola erretratu baterako posatzeari. Amelio ikasleak eskatu zionean, erantzun zuen: ez al da nahikoa naturak inguratu gaituen irudia gainean eramatea, gainera irudi horren irudi bat uzteko? Ameliok ez zuen amore eman: Karterio margolaria eraman zuen bere eskoletara, eta hark hainbat saiotan behatu eta oroimenez margotu zuen. Ezezkoa bat dator bere filosofiarekin: sentigarria benetako errealitatearen isla ahul bat besterik ez da.</p>",
+  "fuente": "Porfirio, Plotinoren bizitza",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t7"
+  ]
+ },
  "agustin": {
   "name": "Agustin Hiponakoa",
   "dates": "354 – 430",
@@ -763,6 +787,32 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t1",
+   "fil-t3"
+  ]
+ },
+ "berkeley": {
+  "name": "George Berkeley",
+  "dates": "1685 – 1753",
+  "born": 1685,
+  "died": 1753,
+  "place": "Kilkennyko konderria (Irlanda)",
+  "role": "filosofo enpirista eta apezpikua",
+  "idea": "Izatea hautemana izatea da: gauza materialak ez dira gogotik kanpo existitzen, hautemandako ideien multzoak baizik, eta azken batean Jainkoak eusten die.",
+  "bio": "<p>George Berkeley Irlandan jaio zen eta Dublingo Trinity Collegen ikasi zuen; han idatzi zituen, oso gazte zela, bere lan nagusiak. Elizgizon anglikanoa izan zen, Ameriketara bidaiatu zuen Bermudetan ikastetxe bat sortzen saiatzeko, eta, azkenik, Cloyneko (Irlanda) apezpiku izendatu zuten.</p>\n<p>Berkeley, Locke eta Humerekin batera, britainiar <strong>enpirismoaren</strong> ordezkari nagusietako bat da. Ezagutza oro esperientziatik datorrela dioen printzipioa ondorio erradikal bateraino eramaten du, <strong>inmaterialismoraino</strong>: gure pertzepzioak baino ez ditugu ezagutzen, eta, beraz, ez dago arrazoirik haietatik kanpo existituko litzatekeen materia bat baieztatzeko. Haren lema da izatea hautemana izatea dela (<em>esse est percipi</em>). Gauzek existitzen jarraitzen dute inork begiratzen ez dienean, Jainkoak beti hautematen dituelako. Substantzia materialari egindako kritikak Humeri bidea prestatu zion.</p>",
+  "obras": [
+   "Ikusmenaren teoria berri bati buruzko saioa (1709)",
+   "Giza ezagutzaren printzipioei buruzko tratatua (1710)",
+   "Hylas eta Filonousen arteko hiru elkarrizketa (1713)"
+  ],
+  "anecdota": "<p>James Boswellek kontatzen du 1763an, elizatik irtetean, Samuel Johnson idazlearekin hizketan ari zela Berkeleyk materiaren existentzia ukatzeko erabilitako argudio buruargiaz. Boswellek esan zuen ezinezkoa zela hura gezurtatzea. Orduan Johnsonek ostiko gogor bat eman zion harri handi bati eta oihu egin zuen: «Horrela gezurtatzen dut!». Erantzuna ospetsu bihurtu zen, nahiz eta egiaz ezer ez duen gezurtatzen: Berkeleyk ez zuen inoiz ukatu harriaren gogortasuna sentitzen dugunik, baizik eta pertzepzio horietatik haratago zerbait material dagoenik.</p>",
+  "fuente": "James Boswell, Samuel Johnsonen bizitza",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
    "fil-t3"
   ]
  },
@@ -800,6 +850,7 @@ const ILUSTRES = {
    "fil-t2",
    "fil-t3",
    "fil-t5",
+   "fil-t6",
    "fil-t7"
   ]
  },
@@ -877,6 +928,7 @@ const ILUSTRES = {
    "fil-t2",
    "fil-t3",
    "fil-t5",
+   "fil-t6",
    "fil-t7"
   ]
  },
@@ -926,7 +978,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t5"
+   "fil-t5",
+   "fil-t6"
   ]
  },
  "hegel": {
@@ -1326,6 +1379,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t1",
    "fil-t3"
   ]
  },
@@ -1910,6 +1964,30 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "chalmers": {
+  "name": "David Chalmers",
+  "dates": "1966an jaioa",
+  "born": 1966,
+  "died": null,
+  "place": "Sydney (Australia)",
+  "role": "adimenaren filosofo australiarra",
+  "idea": "Garunaren funtzioak azaltzea ez da nahikoa esperientzia subjektiboa azaltzeko: zergatik sentitzen dugun zerbait, hori da kontzientziaren arazo zaila.",
+  "bio": "<p>David Chalmers Sydneyn jaio zen 1966an. Matematika ikasi zuen, eta gero Filosofian eta Zientzia Kognitiboan doktoretza egin zuen Indianako Unibertsitatean. Australian eta Estatu Batuetan irakatsi du, batez ere New Yorkeko Unibertsitatean. Gaur egun gehien aipatzen diren adimenaren filosofoetako bat da.</p>\n<p>Laurogeita hamarreko hamarkadan <strong>kontzientziaren arazo zaila</strong> formulatu zuen. Zientziak azal dezake nola prozesatzen duen garunak informazioa, baina ez zergatik doazen prozesu horiek esperientzia subjektiboarekin batera: zer sentitzen den kolore bat ikustean edo mina sentitzean. Chalmersek propietateen <strong>dualismoa</strong> defendatzen du: kontzientzia ez da fisikora murrizten. Horregatik agertzen da gai-zerrendan Descartesekin batera, haren arimaren eta gorputzaren dualismoa gaur egungo hizkuntzan berrirekitzen baitu.</p>",
+  "obras": [
+   "Adimen kontzientea (1996)",
+   "Reality+ (2022)"
+  ],
+  "anecdota": "<p>1998an, Bremengo biltzar baten ondoren, Christof Koch neurozientzialariak ardo oneko kaxa bat apustu egin zuen Chalmersekin: Kochek uste zuen hogeita bost urtean garunean aurkituta egongo zela kontzientzia azaltzen duen seinale neuronala; Chalmersek, ezetz. 2023an, New Yorken kontzientziari buruz egindako biltzar batean, apustua berrikusi zen. Esperimentuek ez zuten auzia ebatzi, eta, beraz, Kochek porrota onartu eta ordaindu egin zuen. Chalmersek ez zuen irabazi bere dualismoa frogatu zuelako, arazo zaila irekita jarraitzen zuelako baizik.</p>",
+  "fuente": "Association for the Scientific Study of Consciousness elkartearen biltzarraren kronikak (New York, 2023), Naturerena tartean",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
   ]
  }
 };
