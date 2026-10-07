@@ -738,6 +738,664 @@ const INFOGRAFIAS = {
   ],
   "foot": "FILOSOFIA GELA · MARTÍN DE BERTENDONA BHI · Filosofia 1. Batxilergoa"
  },
+ "fil-t4": {
+  "subject": "fil",
+  "label": "Logika eta argudiaketa",
+  "accent": "#e8c547",
+  "burstInk": "#2a2304",
+  "title": "LOGIKA ETA<br><em>ARGUDIAKETA</em>",
+  "kicker": "Filosofia · 1. Batx. · 4. gaia",
+  "subtitle": "Ondo arrazoitzeko artea",
+  "tagline": "P1 + P2, beraz C",
+  "author": "«argudio ororen eskema»",
+  "ghost": "baliozkotasuna",
+  "portrait": null,
+  "blocks": [
+   {
+    "type": "tiles",
+    "n": "01",
+    "title": "Arrazoitzeko hiru modu",
+    "items": [
+     {
+      "emoji": "🔒",
+      "t": "Dedukzioa",
+      "p": "Ondorioa <b>beharrez</b> ateratzen da: premisak egiazkoak badira, ezin da faltsua izan."
+     },
+     {
+      "emoji": "🦢",
+      "t": "Indukzioa",
+      "p": "Kasu partikularretatik ondorio orokor <b>probable</b> batera soilik."
+     },
+     {
+      "emoji": "🕵️",
+      "t": "Abdukzioa",
+      "p": "Gertaerak <b>hobekien azaltzen</b> dituen hipotesia aukeratzea, detektibe batek bezala."
+     }
+    ]
+   },
+   {
+    "type": "quote",
+    "label": "Bereizketa nagusia",
+    "big": "Baliozkoa ez da egiazkoa",
+    "text": "<b>Baliozkotasuna</b> formari dagokio; <b>egia</b>, edukiari. Badira premisa faltsuak dituzten argudio baliozkoak. Baliozkoa izateaz gain premisa egiazkoak dituena baino ez da <b>sendoa</b>."
+   },
+   {
+    "type": "columns",
+    "n": "02",
+    "title": "Ohiko faltsukeriak",
+    "items": [
+     {
+      "h": "Ad hominem",
+      "tag": "pertsona",
+      "p": "Argudiatzen duenari erasotzea, haren <b>argudioari</b> erantzun beharrean."
+     },
+     {
+      "h": "Lastozko gizona",
+      "tag": "karikatura",
+      "p": "Aurkariaren tesia desitxuratzea, errazago errefusatzeko."
+     },
+     {
+      "h": "Kausa faltsua",
+      "tag": "korrelazioa",
+      "p": "Bi gauza batera agertzea batak bestea eragiten duela uste izatearekin nahastea."
+     },
+     {
+      "h": "Ad populum",
+      "tag": "gehiengoa",
+      "p": "Zerbait egiazkotzat ematea «denek hala uste dutelako»."
+     }
+    ]
+   },
+   {
+    "type": "split",
+    "n": "03",
+    "title": "Filosofoaren tresnak",
+    "panes": [
+     {
+      "emoji": "🧩",
+      "h": "Aztertu",
+      "rows": [
+       {
+        "t": "Premisa inplizituak",
+        "p": "Berez ulertzen dena agerian jartzea: askotan hor dago puntu ahula."
+       },
+       {
+        "t": "Definitu eta bereizi",
+        "p": "Baldintza <b>beharrezkoak</b> eta <b>nahikoak</b>, kontraadibideekin probatuta."
+       }
+      ]
+     },
+     {
+      "emoji": "💬",
+      "h": "Elkarrizketatu",
+      "rows": [
+       {
+        "t": "Karitate-printzipioa",
+        "p": "Bestea bere bertsio <b>sendoenean</b> interpretatzea: lastozko gizonaren aurkakoa."
+       },
+       {
+        "t": "Kontraadibidea",
+        "p": "Beltza den zisne bakar bat nahikoa da «zisne guztiak zuriak dira» errefusatzeko."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "tiles",
+    "n": "04",
+    "title": "Logikatik ordenagailura",
+    "items": [
+     {
+      "emoji": "🔣",
+      "t": "Frege",
+      "p": "Logika sinbolikoa: eguneroko hizkuntzaren anbiguotasunik gabeko hizkuntza formala."
+     },
+     {
+      "emoji": "➕",
+      "t": "Boole (1854)",
+      "p": "1 = egiazkoa, 0 = faltsua: logika <b>aljebra</b> bihurtzen da."
+     },
+     {
+      "emoji": "💡",
+      "t": "Shannon (1938)",
+      "p": "<b>Ate logikoak</b> (AND, OR, NOT): logika zirkuitu bihurtuta."
+     }
+    ]
+   }
+  ],
+  "foot": "FILOSOFIA GELA · MARTÍN DE BERTENDONA BHI · Filosofia 1. Batxilergoa"
+ },
+ "fil-t5": {
+  "subject": "fil",
+  "label": "Etikaren galderak",
+  "accent": "#e0607e",
+  "burstInk": "#2a0812",
+  "title": "ETIKAREN<br><em>GALDERAK</em>",
+  "kicker": "Filosofia · 1. Batx. · 5. gaia",
+  "subtitle": "Helburuak, betebeharrak eta zaintza",
+  "tagline": "eudaimonía",
+  "author": "«bere osotasunean lortutako bizitza»",
+  "ghost": "betebeharra",
+  "portrait": null,
+  "blocks": [
+   {
+    "type": "quote",
+    "label": "Sokratesen galdera",
+    "big": "Nola bizi behar dugu?",
+    "text": "<b>Morala</b> komunitate batean benetan indarrean dauden arauak dira; <b>etikak</b> galdetzen du zergatik diren onak eta justifikatuta dauden. Eta guztia <b>askatasunean</b> oinarritzen da: hura gabe ez dago erantzukizunik."
+   },
+   {
+    "type": "split",
+    "n": "01",
+    "title": "Zerk egiten du on ekintza bat?",
+    "panes": [
+     {
+      "emoji": "🎯",
+      "h": "Etika materialak",
+      "rows": [
+       {
+        "t": "Aristoteles",
+        "p": "<b>Eudaimonia</b>: bertutea erdibide gisa, arrazoiak eta ohiturak gidatuta."
+       },
+       {
+        "t": "Epikuro eta utilitarismoa",
+        "p": "Plazera <b>ataraxia</b> gisa; «zoriontasun handiena kopuru handienarentzat»."
+       }
+      ]
+     },
+     {
+      "emoji": "⚖️",
+      "h": "Etika formala",
+      "rows": [
+       {
+        "t": "Kant",
+        "p": "Ekintza bat morala da <b>betebeharragatik</b> egiten denean, ez bere ondorioengatik."
+       },
+       {
+        "t": "Inperatibo kategorikoa",
+        "p": "Zure maxima <b>lege unibertsal</b> izan dadila; gizateria, beti helburu gisa."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "columns",
+    "n": "02",
+    "title": "Ba al dago egia moralik?",
+    "items": [
+     {
+      "h": "Objektibismoa",
+      "tag": "guztientzat",
+      "p": "Badira egitate moralak, gizarte batek onartu ala ez balio dutenak."
+     },
+     {
+      "h": "Erlatibismo kulturala",
+      "tag": "gizarte bakoitza",
+      "p": "Gizarte bakoitzak onartzen duena da zuzena; horrela ezin da <b>aurrerapen moralaz</b> hitz egin."
+     },
+     {
+      "h": "Subjektibismoa",
+      "tag": "pertsona bakoitza",
+      "p": "«Gaizki dago» esateak «nik gaitzesten dut» baino ez luke esan nahiko."
+     },
+     {
+      "h": "Ez-kognitibismoa",
+      "tag": "emozioak",
+      "p": "Judizio moralek jarrerak adierazten dituzte, ez egiak (Hume, Ayer)."
+     }
+    ]
+   },
+   {
+    "type": "tiles",
+    "n": "03",
+    "title": "Nola heltzen den judizio morala",
+    "items": [
+     {
+      "emoji": "🧒",
+      "t": "Piaget",
+      "p": "Helduek ezarritako moral <b>heteronomotik</b> moral <b>autonomora</b>."
+     },
+     {
+      "emoji": "🪜",
+      "t": "Kohlberg",
+      "p": "Hiru maila: aurrekonbentzionala, konbentzionala eta postkonbentzionala (Heinzen dilema)."
+     },
+     {
+      "emoji": "🤝",
+      "t": "Gilligan",
+      "p": "Bezain heldua den beste ahots bat: harremanena eta <b>zaintzarena</b>."
+     }
+    ]
+   },
+   {
+    "type": "columns",
+    "n": "04",
+    "title": "Epaitzeko lau modu",
+    "items": [
+     {
+      "h": "Bertutea",
+      "tag": "Aristoteles",
+      "p": "Zer egingo luke <b>pertsona on batek</b>?"
+     },
+     {
+      "h": "Betebeharra",
+      "tag": "Kant",
+      "p": "Zein da nire <b>betebeharra</b>?"
+     },
+     {
+      "h": "Ondorioak",
+      "tag": "Bentham, Mill",
+      "p": "Zerk sortzen du <b>ongizate</b> gehien?"
+     },
+     {
+      "h": "Zaintza",
+      "tag": "Gilligan, Noddings",
+      "p": "Zer behar du <b>nire mende dagoenak</b>?"
+     }
+    ]
+   }
+  ],
+  "foot": "FILOSOFIA GELA · MARTÍN DE BERTENDONA BHI · Filosofia 1. Batxilergoa"
+ },
+ "fil-t6": {
+  "subject": "fil",
+  "label": "Bizitza gizartean",
+  "accent": "#3f8fd6",
+  "burstInk": "#ffffff",
+  "title": "BIZITZA<br><em>GIZARTEAN</em>",
+  "kicker": "Filosofia · 1. Batx. · 6. gaia",
+  "subtitle": "Boterea, justizia eta demokrazia",
+  "tagline": "zoon politikon",
+  "author": "«animalia politikoa»",
+  "ghost": "polis",
+  "portrait": null,
+  "blocks": [
+   {
+    "type": "columns",
+    "n": "01",
+    "title": "Gizarte-kontratua",
+    "items": [
+     {
+      "h": "Hobbes",
+      "tag": "Leviatan",
+      "p": "Guztien gerra guztien aurka izateko beldurrez, boterea <b>subirano</b> bakar bati lagatzen zaio."
+     },
+     {
+      "h": "Locke",
+      "tag": "Estatu liberala",
+      "p": "Bizitza, askatasuna eta jabetza babesten dira; <b>erresistentzia-eskubidea</b> onartzen da."
+     },
+     {
+      "h": "Rousseau",
+      "tag": "herri-subiranotasuna",
+      "p": "Bakoitzak <b>borondate orokorra</b> obeditzen du: herriak bere burua gobernatzen du."
+     }
+    ]
+   },
+   {
+    "type": "quote",
+    "label": "Boterea eta legitimitatea",
+    "big": "Zergatik obeditu?",
+    "text": "<b>Boterea</b> besteek obedi dezaten lortzea da; <b>legitimitatea</b>, berriz, agintzeko eskubidea, eta konbentzimenduz obeditzea lortzen du, ez beldurrez bakarrik. Weber: tradizioa, karisma eta <b>legezkotasun arrazionala</b>."
+   },
+   {
+    "type": "split",
+    "n": "02",
+    "title": "Zer da gizarte justu bat?",
+    "panes": [
+     {
+      "emoji": "🎭",
+      "h": "Rawls",
+      "rows": [
+       {
+        "t": "Ezjakintasunaren estalkia",
+        "p": "Arauak aukeratzea gizartean zer leku izango duzun jakin gabe."
+       },
+       {
+        "t": "Diferentziaren printzipioa",
+        "p": "Desberdintasunek <b>okerren daudenei</b> mesede egiten badiete bakarrik balio dute."
+       }
+      ]
+     },
+     {
+      "emoji": "📜",
+      "h": "Nozick",
+      "rows": [
+       {
+        "t": "Titulartasuna",
+        "p": "Justua da legez eskuratutakoa edo truke askeetan jasotakoa."
+       },
+       {
+        "t": "Estatu minimoa",
+        "p": "Eskubideak eta kontratuak babestea, ez banaketa zuzentzea."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "tiles",
+    "n": "03",
+    "title": "Demokrazia eta haren mehatxuak",
+    "items": [
+     {
+      "emoji": "🗳️",
+      "t": "Ez da botoa ematea soilik",
+      "p": "Askatasunak, pluraltasuna, botere-banaketa eta <b>boterearen kontrola</b> eskatzen ditu."
+     },
+     {
+      "emoji": "👥",
+      "t": "Gehiengoaren tirania",
+      "p": "Gutxiengo bat zapaltzea, lege-formalitate guztiak betez."
+     },
+     {
+      "emoji": "📢",
+      "t": "Populismoa",
+      "p": "«Herri garbia» «elite ustelaren» aurka: desados dagoena <b>etsai</b> bihurtzen da."
+     }
+    ]
+   },
+   {
+    "type": "columns",
+    "n": "04",
+    "title": "Askatasuna eta eskubideak",
+    "items": [
+     {
+      "h": "Giza eskubideak",
+      "tag": "1948",
+      "p": "Pertsona ororen gutxieneko eskakizunak: inongo boterek gainditu ezin duen <b>muga</b>."
+     },
+     {
+      "h": "Askatasun negatiboa",
+      "tag": "Berlin",
+      "p": "Interferentziarik eza: inork ez diezadala jardutea eragotzi."
+     },
+     {
+      "h": "Askatasun positiboa",
+      "tag": "Berlin",
+      "p": "Norbere buruaren jabe izatea eta erabakietan parte hartzea."
+     },
+     {
+      "h": "Feminismoa",
+      "tag": "nor geratzen da kanpoan?",
+      "p": "Sexuen arteko desberdintasuna ez da naturala, historikoa eta, beraz, <b>aldagarria</b> baizik."
+     }
+    ]
+   }
+  ],
+  "foot": "FILOSOFIA GELA · MARTÍN DE BERTENDONA BHI · Filosofia 1. Batxilergoa"
+ },
+ "fil-t7": {
+  "subject": "fil",
+  "label": "Zer da artea?",
+  "accent": "#e07fc0",
+  "burstInk": "#2a0a20",
+  "title": "ZER DA<br><em>ARTEA?</em>",
+  "kicker": "Filosofia · 1. Batx. · 7. gaia",
+  "subtitle": "Edertasuna, artea eta irudia",
+  "tagline": "aísthesis",
+  "author": "«sentsazioa, pertzepzioa»",
+  "ghost": "mímesis",
+  "portrait": null,
+  "blocks": [
+   {
+    "type": "split",
+    "n": "01",
+    "title": "Non dago edertasuna?",
+    "panes": [
+     {
+      "emoji": "🏛️",
+      "h": "Objektuan",
+      "rows": [
+       {
+        "t": "Ikuskera klasikoa",
+        "p": "Proportzioa, harmonia, ordena eta neurria: pitagorikoak, Polikletoren <b>Kanona</b>."
+       },
+       {
+        "t": "Neur daiteke",
+        "p": "Gauzetan badago, edertasuna neurtu eta irakatsi egin daiteke."
+       }
+      ]
+     },
+     {
+      "emoji": "👁️",
+      "h": "Subjektuan",
+      "rows": [
+       {
+        "t": "Ikuskera modernoa",
+        "p": "Ederra zerbaiten aurrean sentitzen dugun <b>plazera</b> da."
+       },
+       {
+        "t": "Erlatibismo osorik gabe",
+        "p": "Humek (kritikari gaitua) eta Kantek salbatzen dute judizio batzuek beste batzuek baino gehiago balio dutela."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "quote",
+    "label": "Kant eta gustu-judizioa",
+    "big": "Unibertsala kontzepturik gabe",
+    "text": "Zerbait eder dela <b>interesik gabe</b> epaitzen dut, hura eduki edo erabili nahi gabe, eta besteek ere horrela ikus dezaten eskatzen dut, arauen bidez frogatu ezin badut ere. Lanak <b>helbururik gabeko finalitatea</b> du."
+   },
+   {
+    "type": "columns",
+    "n": "02",
+    "title": "Zer da artea?",
+    "items": [
+     {
+      "h": "Imitazioa",
+      "tag": "mímesis",
+      "p": "Errealitatea irudikatzea. Nekez azaltzen ditu musika edo arte abstraktua."
+     },
+     {
+      "h": "Adierazpena",
+      "tag": "Erromantizismoa",
+      "p": "Egilearen emozioa komunikatzea. Edozein hustuketa al da artea?"
+     },
+     {
+      "h": "Forma",
+      "tag": "formalismoa",
+      "p": "Berez ederra den egitura. Esanahia kanpoan uzten du."
+     },
+     {
+      "h": "Instituzionala",
+      "tag": "Danto, Dickie",
+      "p": "Artearen munduak onartzen duena. Artea = adituek diotena?"
+     }
+    ]
+   },
+   {
+    "type": "split",
+    "n": "03",
+    "title": "Ezagutzen al du arteak?",
+    "panes": [
+     {
+      "emoji": "🕳️",
+      "h": "Platon",
+      "rows": [
+       {
+        "t": "Kopia baten kopia",
+        "p": "Arteak sentigarria imitatzen du, eta hark Ideiak imitatzen ditu jada: <b>engainatu</b> egiten du."
+       },
+       {
+        "t": "Mesfidantza",
+        "p": "Arimaren zati irrazionalari dei egiten dio; horregatik zaintzen eta are kanporatzen ditu poeta batzuk."
+       }
+      ]
+     },
+     {
+      "emoji": "🎭",
+      "h": "Aristoteles",
+      "rows": [
+       {
+        "t": "Katarsia",
+        "p": "Tragediak ikuslearen errukia eta beldurra <b>deskargatu eta garbitzen</b> ditu."
+       },
+       {
+        "t": "Unibertsala",
+        "p": "Poesia historia baino «filosofikoagoa» da."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "tiles",
+    "n": "04",
+    "title": "Irudia gaur",
+    "items": [
+     {
+      "emoji": "🖼️",
+      "t": "Ready-made",
+      "p": "Duchampek objektu arrunt bat artelan gisa erakusten du: artea <b>galdera</b> bihurtzen da."
+     },
+     {
+      "emoji": "📸",
+      "t": "Aura",
+      "p": "Benjamin: erreproduzitzean, lanak bere izaera bakarra galtzen du, baina masetara iristen da."
+     },
+     {
+      "emoji": "👓",
+      "t": "Alfabetizazio bisuala",
+      "p": "Modu kritikoan begiratzea: nork egiten duen irudia, zertarako eta zer <b>sentiarazi edo erosarazi</b> nahi digun."
+     }
+    ]
+   }
+  ],
+  "foot": "FILOSOFIA GELA · MARTÍN DE BERTENDONA BHI · Filosofia 1. Batxilergoa"
+ },
+ "fil-metafisica": {
+  "subject": "fil",
+  "label": "Errealitatea: zer dago eta nolakoa da?",
+  "accent": "#a3b23c",
+  "burstInk": "#1c2104",
+  "title": "ZER DAGO<br><em>BENETAN?</em>",
+  "kicker": "Filosofia · 1. Batx. · M gaia",
+  "subtitle": "Metafisikaren galdera handiak",
+  "tagline": "ta meta ta physika",
+  "author": "«fisikaren ondoren datozenak»",
+  "ghost": "ousía",
+  "portrait": null,
+  "blocks": [
+   {
+    "type": "tiles",
+    "n": "01",
+    "title": "Zer existitzen da eta zerez dago egina?",
+    "items": [
+     {
+      "emoji": "🌫️",
+      "t": "Itxura eta errealitatea",
+      "p": "Parmenides: aldaketa itxura da. Platon: <b>Ideiak</b> sentigarria baino errealagoak dira."
+     },
+     {
+      "emoji": "⚛️",
+      "t": "Materialismoa",
+      "p": "Existitzen den guztia materia da edo materiaren mende dago (Demokrito, Hobbes, fisikalismoa)."
+     },
+     {
+      "emoji": "👁️",
+      "t": "Idealismoa",
+      "p": "«Izatea hautemana izatea da» (Berkeley): errealitatea, azken batean, <b>mentala</b> da."
+     }
+    ]
+   },
+   {
+    "type": "columns",
+    "n": "02",
+    "title": "Gogoa, gorputza eta AA",
+    "items": [
+     {
+      "h": "Dualismoa",
+      "tag": "Descartes",
+      "p": "Gogoa errealitate ez-fisikoa da. Nola mugitzen du orduan besoa?"
+     },
+     {
+      "h": "Identitatea",
+      "tag": "Place, Smart",
+      "p": "Egoera mentalak <b>garunaren</b> egoerak dira."
+     },
+     {
+      "h": "Funtzionalismoa",
+      "tag": "Putnam",
+      "p": "Gogoa bere <b>funtzioaren</b> bidez definitzen da: silizioan ere gerta liteke."
+     }
+    ]
+   },
+   {
+    "type": "quote",
+    "label": "Gela txinatarra",
+    "big": "Makina batek pentsa dezake?",
+    "text": "Turingentzat, hitz egitean pertsona batetik bereizten ez badugu, ez dago adimena ukatzeko arrazoirik. Searlek erantzuten du: sinboloak arauen arabera erabiltzea (<b>sintaxia</b>) ez da haien esanahia ulertzea (<b>semantika</b>)."
+   },
+   {
+    "type": "split",
+    "n": "03",
+    "title": "Askeak al gara?",
+    "panes": [
+     {
+      "emoji": "⛓️",
+      "h": "Determinismoa",
+      "rows": [
+       {
+        "t": "Etorkizun posible bakarra",
+        "p": "Laplaceren deabruak, partikula guztiak ezagututa, etorkizun osoa kalkulatuko luke."
+       },
+       {
+        "t": "Determinismo gogorra",
+        "p": "Dena determinatuta badago, askatasuna <b>ilusio</b> bat da."
+       }
+      ]
+     },
+     {
+      "emoji": "🕊️",
+      "h": "Askatasuna",
+      "rows": [
+       {
+        "t": "Libertarismoa",
+        "p": "Aukeratzean, beste zerbait egin genezakeen (Sartre)."
+       },
+       {
+        "t": "Konpatibilismoa",
+        "p": "Askea izatea <b>hertsadurarik</b> gabe jardutea da, kausak egon arren (Hobbes, Hume)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "columns",
+    "n": "04",
+    "title": "Jainkoa existitzen al da?",
+    "items": [
+     {
+      "h": "Ontologikoa",
+      "tag": "Anselmo",
+      "p": "Izaki perfektuenaren kontzeptuak haren existentzia ekarriko luke."
+     },
+     {
+      "h": "Kosmologikoa",
+      "tag": "Tomas Akinokoa",
+      "p": "Kausen kateak lehen izaki <b>beharrezko</b> bat eskatuko luke."
+     },
+     {
+      "h": "Diseinuarena",
+      "tag": "Paley",
+      "p": "Naturaren ordenak diseinatzaile bat eskatuko luke."
+     },
+     {
+      "h": "Gaizkiaren arazoa",
+      "tag": "aurka",
+      "p": "Nola egokitzen da sufrimendua Jainko on eta ahalguztidun batekin?"
+     }
+    ]
+   }
+  ],
+  "foot": "FILOSOFIA GELA · MARTÍN DE BERTENDONA BHI · Filosofia 1. Batxilergoa"
+ },
  "fil-conocer": {
   "subject": "fil",
   "label": "Zentzumenak eta arrazoia",

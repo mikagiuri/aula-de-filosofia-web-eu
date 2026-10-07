@@ -71,6 +71,7 @@
       <div class="navsec">
         <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Ariketak</span>
         <div class="navmenu">
+          <button data-view="disertaciones">Disertazioak</button>
           <button data-view="lecturas">Irakurgaiak</button>
           <button data-view="dilemas">Dilema etikoak</button>
           <button data-view="pistas">Pistak</button>
@@ -138,7 +139,17 @@
   </section>
 
   <!-- DISERTACIONES -->
-  
+  <section class="view" id="disertaciones">
+    <p class="eyebrow">USE</p>
+    <h1 class="title">Disertazioak</h1>
+    <p class="lead">USEn <strong>3 puntu balio dituen</strong> ariketa. Hemen dituzu metodologia eta errubrika, eredu osoak ebatzita (Platon, Kant, Nietzsche eta Erdi Aroko eredu bat) eta binakako eredu konparatiboak, argudiatzen trebatzeko.</p>
+    <div class="filterbar" id="disertfilter" role="group" aria-label="Iragazi disertazioak"></div>
+    <div class="chips" id="disertchips" role="group" aria-label="Aukeratu disertazioa"></div>
+    <div class="theory-layout">
+      <nav class="toc" id="diserttoc" aria-label="Disertazioaren aurkibidea"></nav>
+      <article class="theory" id="disertbody"></article>
+    </div>
+  </section>
 
   <!-- PAU -->
   

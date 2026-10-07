@@ -433,6 +433,13 @@ const ESQUEMAS_FIL = {
    "idea": "«Edukirik gabeko pentsamenduak hutsak dira; kontzepturik gabeko intuizioak, itsuak» (Kant): esperientzia eta arrazoia uztartuz ezagutzen dugu."
   }
  },
+ "FIL-M-01": {
+  "subject": "fil",
+  "block": "F1",
+  "tema": "Filosofia · M",
+  "title": "Errealitatea: zer dago eta nolakoa da?",
+  "mermaid": "flowchart TD\n  center[\"METAFISIKA: ZER DAGO ETA NOLAKOA DA?\"]:::axis\n  apa[\"itxura eta errealitatea\"]:::key\n  a1[\"Parmenides: aldaketa itxura da\"]\n  a2[\"Platon: Ideiak, sentigarria baino errealagoak\"]\n  sus[\"zerez dago egina dena?\"]:::key\n  s1[\"zenbat errealitate: monismoa, dualismoa, pluralismoa\"]\n  s2[\"zer motatakoa: materialismoa edo idealismoa\"]\n  ari[\"Aristoteles: substantzia\"]:::key\n  r1[\"substantzia eta akzidenteak; materia eta forma\"]\n  r2[\"ekintza eta potentzia: aldaketa azaltzen dute\"]\n  r3[\"esentzia (zer den) eta existentzia (badela)\"]\n  men[\"gogoa eta gorputza\"]:::key\n  m1[\"dualismoa, identitatearen teoria, funtzionalismoa\"]\n  m2[\"Turingen testa gela txinatarraren aurrean\"]\n  tie[\"denbora eta aldaketa\"]:::key\n  t1[\"Heraklito Parmenidesen eta Zenonen aurrean\"]\n  t2[\"denbora absolutua (Newton) edo erlatiboa (Leibniz)\"]\n  lib[\"askeak al gara?\"]:::key\n  l1[\"determinismo gogorra, libertarismoa, konpatibilismoa\"]\n  dios[\"existitzen al da Jainkoa?\"]:::key\n  d1[\"alde: ontologikoa, kosmologikoa, diseinuarena\"]\n  d2[\"aurka: gaizkiaren arazoa\"]\n  d3[\"teismoa, ateismoa, agnostizismoa, fideismoa\"]\n  center --> apa\n  apa --> a1\n  apa --> a2\n  center --> sus\n  sus --> s1\n  sus --> s2\n  center --> ari\n  ari --> r1\n  ari --> r2\n  ari --> r3\n  center --> men\n  men --> m1\n  men -->|\"pentsa dezake makina batek?\"| m2\n  center --> tie\n  tie --> t1\n  tie --> t2\n  center --> lib\n  lib --> l1\n  center --> dios\n  dios --> d1\n  dios --> d2\n  dios --> d3\n  r2 -->|\"erantzuten dio\"| a1\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;"
+ },
  "FIL-T3-02": {
   "subject": "fil",
   "block": "F1",

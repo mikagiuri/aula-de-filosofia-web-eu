@@ -769,6 +769,146 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Tesi bat arrazoiekin defendatzen duen testu argudiatzailea, egitura (sarrera, garapena, ondorioa) eta balorazio pertsonala dituena."
+ },
+ {
+  "subject": "fil",
+  "t": "Ontologia",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Zer gauza-motak existitzen diren aztertzen duen metafisikaren atala."
+ },
+ {
+  "subject": "fil",
+  "t": "Itxura",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Gauzak dirudiena, benetan direnaren aurrean. Parmenidesen ustez, ikusten ditugun aldaketa eta aniztasuna itxura hutsa dira."
+ },
+ {
+  "subject": "fil",
+  "t": "Fisikalismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Materialismoaren gaur egungo forma: erreala da fisikak deskribatzen duena edo deskriba lezakeena."
+ },
+ {
+  "subject": "fil",
+  "t": "Akzidentea",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Aristotelesentzat, substantzia batean baino existitzen ez den eta alda daitekeen ezaugarria, hala nola kolorea, tamaina edo lekua."
+ },
+ {
+  "subject": "fil",
+  "t": "Esentzia",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Gauza bat dena, «zer da?» galderari erantzuten diona: izateari utzi gabe gal ezin dezakeena."
+ },
+ {
+  "subject": "fil",
+  "t": "Identitatearen teoria",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "U. T. Placeren eta J. J. C. Smarten jarrera: egoera mentalak garuneko egoerak dira, tximista deskarga elektriko bat den bezala."
+ },
+ {
+  "subject": "fil",
+  "t": "Funtzionalismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Hilary Putnamen jarrera: egoera mental bat zer egiten duenaren arabera definitzen da, bere funtzioaren arabera, eta ez bere materialaren arabera; gogo bat neuronetan edo silizioan ibil liteke."
+ },
+ {
+  "subject": "fil",
+  "t": "Turingen testa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Alan Turingek 1950ean proposatutako proba: idatziz hitz eginez makina bat pertsona batetik bereizten ez badugu, ez genuke arrazoirik izango adimena ukatzeko."
+ },
+ {
+  "subject": "fil",
+  "t": "Gela txinatarra",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "John Searleren pentsamendu-esperimentua (1980): ikur txinatarrak itzultzeko eskuliburu bati jarraitzen dionak txinera ulertzen duela dirudi, ulertu gabe; ikurrak erabiltzea (sintaxia) ez da nahikoa haien esanahia ulertzeko (semantika)."
+ },
+ {
+  "subject": "fil",
+  "t": "Kontzientziaren arazo zaila",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "David Chalmersen esapidea (1995): azaltzea zergatik dagoen esperientzia subjektiboa, gorria ikustean sentitzen dena."
+ },
+ {
+  "subject": "fil",
+  "t": "Determinismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Tesi honen arabera, gertatzen den guztia aurrekoaren eta naturaren legeen ondorio beharrezkoa da: une bateko munduaren egoera emanda, etorkizun posible bakarra dago."
+ },
+ {
+  "subject": "fil",
+  "t": "Indeterminismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Tesi honen arabera, badira aurrekoetatik nahitaez ondorioztatzen ez diren gertaerak. Zerbait zoriz gertatzeak ez du askea bihurtzen."
+ },
+ {
+  "subject": "fil",
+  "t": "Libertarismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Jarrera honen arabera, benetan askeak gara eta determinismoa faltsua da, gutxienez gure erabakietan: aukeratzean, beste zerbait egin genezakeen. Ez da izen bereko ideologia politikoa."
+ },
+ {
+  "subject": "fil",
+  "t": "Konpatibilismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Hobbesen eta Humeren jarrera: askatasuna eta determinismoa batera izan daitezke, aske izatea ez baita kausarik gabe jokatzea, norberaren nahien eta arrazoien arabera jokatzea baizik, derrigortu gabe."
+ },
+ {
+  "subject": "fil",
+  "t": "Argudio kosmologikoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Mundutik abiatzen den arrazoibidea: mugitzaileen eta kausen katea ezin da amaigabe luzatu; beraz, lehen mugitzaile bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak)."
+ },
+ {
+  "subject": "fil",
+  "t": "Diseinuaren argudioa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Arrazoibide teleologikoa: naturaren ordenak, erloju batenak bezala, diseinatzaile bat eskatzen du (Paley). Humek kritikatu zuen, eta Darwinek, hautespen naturalarekin."
+ },
+ {
+  "subject": "fil",
+  "t": "Gaizkiaren arazoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Jainkoaren existentziaren aurkako objekzioa: ahalguztiduna, dena dakiena eta guztiz ona bada, zergatik dago errugabeen sufrimendua?"
+ },
+ {
+  "subject": "fil",
+  "t": "Teodizea",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Leibnizek (1710) fededunak gaizkiaren arazoari ematen dizkion erantzunei jarritako izena; ezagunenetako batek dio gaizkia giza askatasunaren prezioa dela."
+ },
+ {
+  "subject": "fil",
+  "t": "Agnostizismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Jarrera honen arabera, ezin dugu jakin Jainkoa existitzen den; terminoa T. H. Huxleyk sortu zuen 1869an."
+ },
+ {
+  "subject": "fil",
+  "t": "Fideismoa",
+  "area": "Metafisika",
+  "tema": "Filosofia · M",
+  "def": "Jarrera honen arabera, Jainkoarengana fedearen bidez iristen da, ez arrazoiaren bidez, eta, beraz, argudioak ez dira bidea; Kierkegaard aipatu ohi da."
  }
 ];
 const GLOSARIO_TRAMPAS = {

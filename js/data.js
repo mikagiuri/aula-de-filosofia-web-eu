@@ -286,6 +286,132 @@ const DECKS = {
    ]
   ]
  },
+ "fil-metafisica": {
+  "name": "Filosofia 1. · Errealitatea: metafisika (M)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🌌",
+    "Metafisika",
+    "Filosofiaren atala, benetan zer dagoen eta azken batean nolakoa den galdetzen duena; Aristotelesek «lehen filosofia» deitu zion: izatea izate den aldetik aztertzea."
+   ],
+   [
+    "🎭",
+    "Itxura eta errealitatea",
+    "Gauzek diruditenaren eta benetan direnaren arteko bereizketa. Parmenidesen ustez, aldaketa itxura da; Platonen ustez, Ideiak gauza sentigarriak baino errealagoak dira."
+   ],
+   [
+    "🔢",
+    "Monismoa, dualismoa eta pluralismoa",
+    "Zenbat oinarrizko errealitate dauden galderari erantzuten diote: bat (Spinoza: substantzia bakarra, «Jainkoa edo Natura»), bi (Descartes: substantzia pentsatzailea eta hedatua) edo asko (Enpedokles, Leibniz)."
+   ],
+   [
+    "⚛️",
+    "Idealismoa eta materialismoa",
+    "Zer errealitate-mota den funtsezkoa galderari erantzuten diote: materia (Demokrito, Hobbes eta gaur fisikalismoa) edo gogoa (Berkeley: «izatea hautemana izatea da»)."
+   ],
+   [
+    "🐴",
+    "Substantzia eta akzidentea",
+    "Substantzia: berez existitzen dena eta bere ezaugarrien euskarria dena (zaldi hau). Akzidentea: substantzia batean baino existitzen ez den eta alda daitekeen ezaugarria (haren kolorea)."
+   ],
+   [
+    "🌳",
+    "Aktua eta potentzia",
+    "Ekintza: zerbait dagoeneko dena; potentzia: izan daitekeena (ezkurra haritza da potentzian). Aristotelesentzat, aldatzea potentzia bat gauzatzea da."
+   ],
+   [
+    "🐉",
+    "Esentzia eta existentzia",
+    "Esentzia: zer den gauza bat; existentzia: gauza hori izatea. Jakin dezakezu zer den herensuge bat, bat bera ere existitzen ez den arren (Avizena, Tomas Akinokoa)."
+   ],
+   [
+    "🧩",
+    "Substantzia-dualismoa",
+    "Descartesen ustez, gogoa errealitate ez-fisikoa da, gorputzaz bestelakoa. Haren zailtasun handia elkarreragina da: nola mugitzen du besoa lekurik betetzen ez duen zerbaitek?"
+   ],
+   [
+    "🧠",
+    "Identitatearen teoria",
+    "Egoera mentalak garuneko egoerak dira, tximista deskarga elektriko bat den bezala (Place, Smart). Arazoa: olagarro batek, beste nerbio-sistema bat izanik, mina sentitzen duela dirudi."
+   ],
+   [
+    "⚙️",
+    "Funtzionalismoa",
+    "Egoera mental bat zer egiten duenaren arabera definitzen da, bere funtzioaren arabera, eta ez bere materialaren arabera: gogo bat neuronetan edo, printzipioz, silizioan ibil liteke (Putnam)."
+   ],
+   [
+    "💬",
+    "Turingen testa",
+    "Turing (1950): idatziz hitz eginez makina bat pertsona batetik bereizten ez badugu, ez genuke arrazoirik izango adimena ukatzeko."
+   ],
+   [
+    "🀄",
+    "Gela txinatarra",
+    "Searleren objekzioa (1980) Turingen testari: ikurrak arauen arabera erabiltzea (sintaxia) ez da nahikoa haien esanahia ulertzeko (semantika)."
+   ],
+   [
+    "🔴",
+    "Kontzientziaren arazo zaila",
+    "Chalmers (1995): azaltzea zergatik dagoen esperientzia subjektiboa, gorria ikustean sentitzen dena."
+   ],
+   [
+    "🌊",
+    "Heraklito eta Parmenides",
+    "Heraklito: aldaketa da errealitatearen giltza (ibaiaren irudia). Parmenides: izatea bakarra, betierekoa eta higiezina da, eta aldaketa itxura da."
+   ],
+   [
+    "🐢",
+    "Zenonen paradoxak",
+    "Zenon Eleakoak Parmenides defendatu zuen paradoxekin, hala nola Akiles eta dortokarenarekin: korrikalariak ez du inoiz harrapatzen abantailarekin irteten den dortoka."
+   ],
+   [
+    "🎲",
+    "Determinismoa",
+    "Gertatzen den guztia aurrekoaren eta naturaren legeen ondorio beharrezkoa da: etorkizun posible bakarra dago («Laplaceren deabrua»)."
+   ],
+   [
+    "🕊️",
+    "Libertarismoa",
+    "Benetan askeak gara: determinismoa faltsua da, gutxienez gure erabakietan (Sartre). Ez da nahastu behar izen bereko ideologia politikoarekin."
+   ],
+   [
+    "🤝",
+    "Konpatibilismoa",
+    "Aske izatea ez da kausarik gabe jokatzea, norberaren nahien eta arrazoien arabera jokatzea baizik, inork behartu gabe (Hobbes, Hume)."
+   ],
+   [
+    "💭",
+    "Argudio ontologikoa",
+    "Anselmo: Jainkoa ezer handiagorik pentsa ezin daitekeen hori da; beraz, errealitatean ere existitu behar du. Kant: existentzia ez da kontzeptuaren propietatea."
+   ],
+   [
+    "🔗",
+    "Argudio kosmologikoa",
+    "Mundutik abiatzen da: kausen katea ezin da amaigabe luzatu, eta lehen mugitzaile bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak)."
+   ],
+   [
+    "⌚",
+    "Diseinuaren argudioa",
+    "Naturaren ordenak, erloju batenak bezala, diseinatzaile bat eskatzen du (Paley). Humek analogia kritikatu zuen, eta Darwinek hautespen naturalaren bidez azaldu zuen ordena."
+   ],
+   [
+    "⚖️",
+    "Gaizkiaren arazoa",
+    "Jainkoa ahalguztiduna, dena dakiena eta guztiz ona bada, zergatik dago errugabeen sufrimendua? Fededunaren erantzunei teodizea deritze."
+   ],
+   [
+    "🎰",
+    "Pascalen apustua",
+    "Ez du frogatzen Jainkoa existitzen denik, sinestea komeni dela baizik: existitzen bada, zoriontasun infinitua irabazten da; existitzen ez bada, gutxi galtzen da."
+   ],
+   [
+    "❔",
+    "Agnostizismoa eta fideismoa",
+    "Agnostizismoa: ezin dugu jakin Jainkoa existitzen den (Huxley). Fideismoa: Jainkoarengana fedearen bidez iristen da, ez arrazoiaren bidez (Kierkegaard aipatu ohi da)."
+   ]
+  ]
+ },
  "fil-conocer": {
   "name": "Filosofia 1. · Ezagutza, egia eta zientzia (T3)",
   "subject": "fil",
@@ -6352,6 +6478,287 @@ const QUIZZES = {
     ],
     "a": 3,
     "fb": "Fijismoa espezieak finkoak eta aldaezinak direlako ideia da; Lamarck haren aurka agertu zen bere transformismoarekin."
+   }
+  ]
+ },
+ "fil-metafisica": {
+  "name": "Errealitatea: zer dago eta nolakoa da? (Filosofia 1. · M)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Zer aztertzen du metafisikak?",
+    "o": [
+     "Zer dagoen benetan eta nolakoa den azken batean",
+     "Nola jokatu behar dugun ongi jarduteko",
+     "Nola arrazoitu zuzen premisa batzuetatik abiatuta",
+     "Zein den gure ezagutzaren iturria"
+    ],
+    "a": 0,
+    "fb": "Metafisikak galdetzen du zer dagoen eta nolakoa den azken batean: izatea, substantzia, denbora, askatasuna edo Jainkoa. Nola jokatu etikak aztertzen du; nola arrazoitu, logikak; eta ezagutzaren iturria, ezagutzaren teoriak."
+   },
+   {
+    "q": "Zer kritika egin zion Kantek metafisikari Arrazoimen hutsaren kritika lanean (1781)?",
+    "o": [
+     "Arrazoiak bakarrik, inolako esperientziarik gabe, ezagut dezakeela ziurtasunez Jainkoa",
+     "Esperientzian eman daitekeena baino ez dugula ezagutzen; beraz, arimari, osotasun gisa hartutako munduari edo Jainkoari buruz ezin da ezagutza zientifikorik izan",
+     "Baieztapen metafisikoak zentzurik gabeak direla, ez baitira esperientziarekin egiaztatzen, ezta egia logikoak ere",
+     "Metafisika alferrikakoa dela, fisikak dagoeneko erantzun baitie haren galdera guztiei"
+    ],
+    "a": 1,
+    "fb": "Kasu tranpa: baieztapen metafisikoak zentzurik gabeak direla esatea Vienako Zirkuluaren tesia da, XX. mendekoa, eta Kant baino urrunago joan zen. Kantek esperientzian eman daitekeenera mugatu zuen ezagutza zientifikoa."
+   },
+   {
+    "q": "Zergatik ondorioztatu zuen Parmenidesek aldaketa itxura hutsa dela?",
+    "o": [
+     "Zentzumenek erakusten dutelako dena etengabe aldatzen dela",
+     "Gauza sentigarriak Ideien kopia akastunak direlako",
+     "Munduaren ordena kontrarioen arteko etengabeko tentsioa delako",
+     "Aldatzeak ez-izatetik izatera igarotzea esan nahi duelako, eta ez-izatea ezin delako pentsatu ere egin"
+    ],
+    "a": 3,
+    "fb": "Parmenidesen ustez, dena da, eta ez-dena ez da. Aldatzeak eta mugitzeak «ez-izate» bat dakartenez, izatea bakarra, betierekoa, higiezina eta aldaezina da. Arrazoiak eta zentzumenek talka egiten dutenean, arrazoiak agintzen du."
+   },
+   {
+    "q": "Platonentzat, zer da errealagoa?",
+    "o": [
+     "Ideiak, gauzen eredu betiereko eta aldaezinak",
+     "Gauza sentigarriak, ikusi eta ukitzen ditugulako",
+     "Kobazuloko itzalak, lehenik ezagutzen ditugunak direlako",
+     "Gauza sentigarriak eta Ideiak berdin errealak dira"
+    ],
+    "a": 0,
+    "fb": "Platonek errealitatearen bi maila bereizten ditu: mundu sentigarria, etengabe aldatzen dena eta kopia akastuna dena, eta Ideien mundu adigarria (Edertasuna, Justizia, Berdintasuna); Ideiak gauza sentigarriak baino errealagoak dira."
+   },
+   {
+    "q": "Spinozak defendatu zuen pentsamendua eta hedadura substantzia bakar baten bi atributu direla, «Jainkoa edo Natura». Zer jarrera da hau?",
+    "o": [
+     "Pluralismoa",
+     "Materialismoa",
+     "Monismoa",
+     "Dualismoa, pentsamenduaz eta hedaduraz hitz egiten duelako"
+    ],
+    "a": 2,
+    "fb": "Kasu tranpa: bi gauza aipatzen baditu ere, Spinozarentzat ez dira bi substantzia, substantzia bakar baten bi atributu baizik; horregatik da monismoa. Descartesen dualismoak, aldiz, bi substantziaz hitz egiten du: pentsatzailea (res cogitans) eta hedatua (res extensa)."
+   },
+   {
+    "q": "Monismoak, dualismoak eta pluralismoak erantzuten diote zenbat oinarrizko errealitate dauden galderari. Zer galderari erantzuten diote materialismoak eta idealismoak?",
+    "o": [
+     "Aldaketa erreala ala itxura hutsa den",
+     "Zer errealitate-mota den funtsezkoa",
+     "Hauek ere zenbat oinarrizko errealitate dauden",
+     "Errealitatea den bezala ezagut dezakegun"
+    ],
+    "a": 1,
+    "fb": "Kasu tranpa: bi galdera desberdin dira, eta elkarrekin konbinatzen dira. Kopuruak (monismoa, dualismoa, pluralismoa) eta izaerak (materialismoa, idealismoa) ematen dute, adibidez, monismo materialista (Demokrito, Hobbes) eta monismo idealista (Berkeley)."
+   },
+   {
+    "q": "Zure mugikor zehatza substantzia bat da. Zer dira, Aristotelesentzat, haren kolorea, zorroa edo geratzen zaion bateria?",
+    "o": [
+     "Haren materia",
+     "Haren potentzia",
+     "Akzidenteak",
+     "Haren esentzia"
+    ],
+    "a": 2,
+    "fb": "Akzidenteak substantzia batean baino existitzen ez diren eta alda daitezkeen ezaugarriak dira. Substantzia berez existitzen dena eta bere ezaugarrien euskarria dena da; esentzia, mugikorrari telefono izatea ematen diona."
+   },
+   {
+    "q": "Brontzezko estatua batean, zer da forma Aristotelesen ustez?",
+    "o": [
+     "Irudia, dena izatea ematen diona",
+     "Brontzea, egina dagoen hori",
+     "Orain duen kolorea",
+     "Dagoen lekua"
+    ],
+    "a": 0,
+    "fb": "Kasu tranpa: brontzea materia da, eta irudia, forma. Substantzia fisiko oro materiaz eta formaz osatuta dago (hilemorfismoa), eta forma, oro har, esentziari dagokio. Kolorea eta lekua akzidenteak dira."
+   },
+   {
+    "q": "Nola erantzun zion Aristotelesek Parmenidesi aldaketari buruz?",
+    "o": [
+     "Aldatzen ez dena aparteko Ideien mundu batean kokatuz",
+     "Aldatzea ez da ezerezetik izatera igarotzea, potentzia bat gauzatzea baizik",
+     "Harek bezala, aldaketa existitzen dela ukatuz",
+     "Dena etengabe aldatzen ari dela esanez, ibai bateko ura bezala"
+    ],
+    "a": 1,
+    "fb": "Aristotelesek ekintza (zerbait dagoeneko dena) eta potentzia (izan daitekeena) bereizi zituen: ezkurra haritza da potentzian. Horrela, aldaketak ez du «ez-izate» absoluturik eskatzen."
+   },
+   {
+    "q": "«Jakin dezakezu zer den herensuge bat, bat bera ere existitzen ez den arren.» Zer bereizketa erakusten du adibide honek?",
+    "o": [
+     "Substantziaren eta akzidentearen artekoa",
+     "Ekintzaren eta potentziaren artekoa",
+     "Materiaren eta formaren artekoa",
+     "Esentziaren eta existentziaren artekoa"
+    ],
+    "a": 3,
+    "fb": "Esentziak esaten du zer den gauza bat; existentziak, badela. Erdi Aroko filosofoek azpimarratu zuten bereizketa hori, hala nola Avizenak eta Tomas Akinokoak. Sartrek alderantzikatu egin zuen gizakiaren kasuan: «existentzia esentziaren aurretik dago»."
+   },
+   {
+    "q": "Zein da Descartesen substantzia-dualismoaren zailtasun handia?",
+    "o": [
+     "Lekurik betetzen ez duen gogo batek gorputza nola mugi dezakeen azaltzea",
+     "Olagarro batek ere mina sentitzen duela zergatik dirudien azaltzea",
+     "Makina batek hizkuntza bat nola uler lezakeen azaltzea",
+     "Iragana eta etorkizuna zergatik existitzen diren azaltzea"
+    ],
+    "a": 0,
+    "fb": "Elkarreraginaren arazoa da, Elisabet Bohemiakoak 1643ko gutunetan Descartesi egin ziona. Olagarroaren kasua identitatearen teoriaren aurkako objekzioa da, ez dualismoaren aurkakoa."
+   },
+   {
+    "q": "Olagarro batek, gurearen oso bestelako nerbio-sistema izanik, mina sentitzen duela dirudi. Zer teoria jartzen du estu kasu honek?",
+    "o": [
+     "Substantzia-dualismoa",
+     "Berkeleyren idealismoa",
+     "Identitatearen teoria",
+     "Funtzionalismoa"
+    ],
+    "a": 2,
+    "fb": "Kasu tranpa: identitatearen teoriak (Place, Smart) dio egoera mentalak gure garuneko egoerak direla; mina hori baino ez balitz, olagarroak ezin izango luke sentitu. Funtzionalismoa hain zuzen hori konpontzeko sortu zen: mina bere funtzioaren arabera definitzen da, materiala edozein dela ere."
+   },
+   {
+    "q": "Makina batek idatziz hitz egiten du, eta ez dugu pertsona batetik bereizten. Zer erantzungo luke Searlek gela txinatarraren argudioarekin?",
+    "o": [
+     "Makina substantzia pentsatzaile bat dela, gogoa bezala",
+     "Ikurrak arauen arabera erabiltzea ez dela nahikoa haien esanahia ulertzeko",
+     "Makinak ulertzen duela, Turingen testa gainditu duelako",
+     "Makinak esperientzia subjektiboa duela, guk bezala"
+    ],
+    "a": 1,
+    "fb": "Kasu tranpa: makinak ulertzen duela ondorioztatzea pertsona batetik bereizten ez dugulako Turingen testaren ideia da (1950). Searlek (1980) objekzio hau egiten du: ikurrak haien formagatik erabil daitezke (sintaxia), haien esanahia ulertu gabe (semantika)."
+   },
+   {
+    "q": "Zer da «kontzientziaren arazo zaila», David Chalmersen ustez?",
+    "o": [
+     "Garunak kalkuluak nola egiten dituen azaltzea",
+     "Turingen testa gaindituko duen makina bat eraikitzea",
+     "Gogoa substantzia ez-fisikoa dela frogatzea",
+     "Zergatik dagoen esperientzia subjektiboa azaltzea, gorria ikustean sentitzen dena"
+    ],
+    "a": 3,
+    "fb": "Makina batek proba guztiak gaindituko balitu ere, azaltzeko geratuko litzateke zergatik dagoen esperientzia subjektiboa: gorria ikustean sentitzen dena. Chalmersek horrela deitu zion 1995ean."
+   },
+   {
+    "q": "Zertarako formulatu zituen Zenon Eleakoak Akiles eta dortokarena bezalako paradoxak?",
+    "o": [
+     "Teseoren itsasontziaren identitatea planteatzeko",
+     "Parmenides defendatzeko: aldaketa eta mugimendua itxura dira",
+     "Heraklito defendatzeko: dena etengabe aldatzen ari da",
+     "Denbora erlatiboa dela eta ez absolutua frogatzeko"
+    ],
+    "a": 1,
+    "fb": "Zenonek, Parmenidesen ikasleak, bere paradoxekin defendatu zuen maisua: Akilesek ez luke inoiz harrapatuko abantailarekin irteten den dortoka. Heraklitok kontrakoa zioen: aldaketa da errealitatearen giltza."
+   },
+   {
+    "q": "Zertan bereizten dira Newton eta Leibniz denboraren ideian?",
+    "o": [
+     "Newtonentzat, denbora absolutua da eta guztientzat berdin igarotzen da; Leibnizentzat, erlatiboa da: gauzak gertatzen diren ordena",
+     "Newtonentzat, oraina bakarrik existitzen da; Leibnizentzat, iragana eta etorkizuna ere bai",
+     "Newtonentzat, denbora behatzailearen araberakoa da; Leibnizentzat, erloju unibertsala da",
+     "Ez dira bereizten: biek uste zuten denbora ilusio bat dela"
+    ],
+    "a": 0,
+    "fb": "Newtonek denbora absolutua irudikatu zuen, erloju unibertsal baten antzera; Leibnizek gertaeren ordena bezala ulertzen zuen, ez ontzi bat bezala. Presentismoa eta eternalismoa beste eztabaida bat dira: denboraren zer zati existitzen den."
+   },
+   {
+    "q": "Zer dio determinismoak?",
+    "o": [
+     "Askeak garela, derrigortu gabe jokatzen dugun bitartean",
+     "Etorkizuna gure erabakien menpe baino ez dagoela",
+     "Gertatzen den guztia aurrekoaren eta naturaren legeen ondorio beharrezkoa dela",
+     "Badirela aurrekoetatik nahitaez ondorioztatzen ez diren gertaerak"
+    ],
+    "a": 2,
+    "fb": "Determinismoaren arabera, une bateko munduaren egoera emanda, etorkizun posible bakarra dago. Laplacek adimen imajinario batekin azaldu zuen, «Laplaceren deabruarekin», etorkizun osoa kalkula lezakeenarekin."
+   },
+   {
+    "q": "Fisika kuantikoak probabilitate-terminoetan baino aurreikusi ezin diren prozesuak deskribatzen baditu, frogatuta geratzen al da askeak garela?",
+    "o": [
+     "Ez, fisika kuantikoak determinismo gogorra frogatzen duelako",
+     "Ez: zerbait zoriz gertatzeak ez du askea bihurtzen; partikulen arteko zozketa baten menpe legokeen erabakia ez litzateke zureagoa izango",
+     "Bai: zoria badago, gure erabakiak askeak dira",
+     "Bai, indeterminismoak eta libertarismoak gauza bera esan nahi dutelako"
+    ],
+    "a": 1,
+    "fb": "Kasu tranpa: indeterminismoa (badira aurrekoetatik nahitaez ondorioztatzen ez diren gertaerak) ez da libertarismoa (benetan askeak gara). Zoriak ez du erabaki bat zureagoa egiten."
+   },
+   {
+    "q": "Hobbesek eta Humek diote aske izatea norberaren nahien eta arrazoien arabera jokatzea dela, inork behartu gabe, egintzek kausak izan arren. Zer jarrera da hau?",
+    "o": [
+     "Determinismo gogorra",
+     "Indeterminismoa",
+     "Konpatibilismoa",
+     "Libertarismoa"
+    ],
+    "a": 2,
+    "fb": "Kasu tranpa: libertarismoak (Sartre) dio determinismoa faltsua dela, gutxienez gure erabakietan; konpatibilismoak onartzen du agian dena determinatuta dagoela, eta askatasuna derrigortzerik eza bezala ulertzen du, ez kausarik eza bezala. Determinismo gogorrak (Holbach) ondorioztatzen du askatasuna ilusio bat dela."
+   },
+   {
+    "q": "Nondik abiatzen da Anselmo Canterburykoaren argudio ontologikoa?",
+    "o": [
+     "Naturaren ordenatik, erloju batenetik bezala",
+     "Munduan ikusten dugun kausen katetik",
+     "Zoriontasun infinitua irabazteko sinestea komeni denetik",
+     "Jainkoaren kontzeptutik soilik: ezer handiagorik pentsa ezin daitekeen hori"
+    ],
+    "a": 3,
+    "fb": "Argudio ontologikoa kontzeptutik soilik abiatzen da: izaki hori pentsamenduan bakarrik existituko balitz, zerbait handiagoa pentsa genezake. Gaunilonek uharterik perfektuenarekin erantzun zion, eta Kantek objekzio hau egin zuen: existentzia ez da kontzeptu bati gehitzen zaion propietatea."
+   },
+   {
+    "q": "Zein da argudio kosmologikoaren aurkako objekziorik larriena?",
+    "o": [
+     "Mundu inperfektu batetik ez da sortzaile perfektu bat ondorioztatzen",
+     "Zergatik gelditu kausen katea Jainkoarengan, eta ez unibertsoan bertan?",
+     "Eta nork sortu zuen Jainkoa?",
+     "Existentzia ez da kontzeptu bati gehitzen zaion propietatea"
+    ],
+    "a": 1,
+    "fb": "Kasu tranpa: objekziorik larriena ez da «eta nork sortu zuen Jainkoa?», zergatik gelditu katea Jainkoarengan eta ez unibertsoan baizik. Existentzia kontzeptuaren propietatea ez dela Kantek argudio ontologikoari egindako objekzioa da, eta mundu inperfektuarena, Humek diseinuaren argudioari egindako kritika."
+   },
+   {
+    "q": "Zer erakutsi zuen Darwinek diseinuaren argudioari dagokionez?",
+    "o": [
+     "Hautespen naturalak diseinu-itxura sor dezakeela diseinatzailerik gabe",
+     "Begi bat erlojua baino konplexuagoa dela",
+     "Kausen kateak lehen mugitzaile bat eskatzen duela",
+     "Gaizkia giza askatasunaren prezioa dela"
+    ],
+    "a": 0,
+    "fb": "Paleyk naturaren ordena erlojugile bat eskatzen duen erloju batekin alderatzen zuen. Humek analogia kritikatua zuen jada (1779), eta Darwinek (1859) erakutsi zuen hautespen naturalak ordena azaltzen duela diseinatzailerik behar izan gabe."
+   },
+   {
+    "q": "Zer planteatzen du gaizkiaren arazoak?",
+    "o": [
+     "Jainkoarengan sinestea komeni dela, frogatu ezin bada ere",
+     "Mundu ordenatu batetik diseinatzaile bat ondorioztatzen dela",
+     "Jainkoa ahalguztiduna, dena dakiena eta guztiz ona bada, ez dela ulertzen zergatik dagoen errugabeen sufrimendua",
+     "Gaizkia giza askatasunaren prezioa dela"
+    ],
+    "a": 2,
+    "fb": "Jainkoaren existentziaren aurkako argudiorik indartsuena da: edo ezin du gaizkia saihestu, edo ez du nahi. Fededunaren erantzunei teodizea deritze (Leibniz, 1710); gaizkia askatasunaren prezioa dela esatea horietako bat da, ez arazoa."
+   },
+   {
+    "q": "Zer nahi du Pascalen apustuak?",
+    "o": [
+     "Jainkoa existitzen dela frogatu haren kontzeptutik abiatuta",
+     "Jainkoa existitzen den ezin dugula jakin frogatu",
+     "Naturaren ordena azaldu",
+     "Sinestea komeni dela erakutsi: Jainkoa existitzen bada, zoriontasun infinitua irabazten da, eta existitzen ez bada, gutxi galtzen da"
+    ],
+    "a": 3,
+    "fb": "Pascalek ez du frogatu nahi Jainkoa existitzen denik, sinestea komeni dela baizik. Kritikariek diote kalkulu bera baliagarria litzatekeela sari infinituak agintzen dituen edozein jainkorentzat, eta galdetzen dute ea sinets daitekeen komenigarria delako."
+   },
+   {
+    "q": "Zertan bereizten dira agnostizismoa eta fideismoa?",
+    "o": [
+     "Agnostizismoak dio Jainkoa existitzen dela; fideismoak, ez dela existitzen",
+     "Fideismoak dio ezin dugula jakin; agnostizismoak, Jainkoarengana fedearen bidez iristen dela",
+     "Agnostizismoak dio ezin dugula jakin Jainkoa existitzen den; fideismoak, Jainkoarengana fedearen bidez iristen dela, ez arrazoiaren bidez",
+     "Gauza bera dira: biek ukatzen dute Jainkoa existitzen dela"
+    ],
+    "a": 2,
+    "fb": "Kasu tranpa: agnostizismoak (T. H. Huxleyren terminoa, 1869) dio ezin dugula jakin; fideismoak (Kierkegaard aipatu ohi da) dio Jainkoarengana iristeko bidea fedea dela, ez argudioak. Jainkoa existitzen dela ukatzea ateismoa da."
    }
   ]
  },
