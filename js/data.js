@@ -6819,7 +6819,7 @@ const QUIZZES = {
      "Kultura guztietarako baliozko egietara"
     ],
     "a": 0,
-    "fb": "Eszeptikoen arabera, Elisko Pirron kasu, arrazoiak iritzi probableak baino ez ditu lortzen; judizioa etetea lasaitasunerako bidea litzateke."
+    "fb": "Pirron Elisekoak ez zuen baieztatzen ezin dela ezagutu: indar bereko arrazoien aurrean judizioa eteten zuen (epokhe), eta hortik espero zuen lasaitasuna edo barne-bakea (ataraxia)."
    },
    {
     "q": "Zer ekarpen baliotsu aitortzen dio teoriak erlatibismoari?",
