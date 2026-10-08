@@ -327,7 +327,7 @@ const DILEMAS = [
   "debate": {
    "epoca": "XX. mendea",
    "texto": "«Jokatu gizatasuna, bai zure pertsonan bai beste edonorenean, beti helburu gisa eta inoiz ez bitarteko huts gisa tratatzeko moduan.»",
-   "fuente": "Kant, Ohituren metafisikaren oinarritzea (1785). Dilema Philippa Footek formulatu zuen 1967an; zubiaren aldaera Judith Jarvis Thomsonena da (1985).",
+   "fuente": "Kant, Ohituren metafisikaren oinarritzea (1785). Dilema Philippa Footek formulatu zuen 1967an; zubiaren aldaera Judith Jarvis Thomsonek planteatu zuen 1976an, eta 1985ean «tranbiaren arazoa» izena eman zion.",
    "unidad": "fil-t5"
   },
   "preguntas": [
@@ -592,5 +592,210 @@ const DILEMAS = [
   ],
   "ysi": "Eta faltsifikatzaileak aitortuko balu koadroa maisuarenganako maitasunez pintatu zuela, engainatzeko asmorik gabe, eta arte-saltzaile bat izan zela sinadura jarri ziona? Aldatzen al du lanaren balioa egin zuenaren asmoak?",
   "dato": "Van Meegeren 1945ean atxilotu zutenean, Göringi Vermeer bat saltzea leporatuta, beste «Vermeer» bat pintatu behar izan zuen kartzelan, lekukoen aurrean, koadroak faltsuak zirela frogatzeko eta kolaborazionismo-akusaziotik libratzeko. Lortu egin zuen."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-humano",
+  "id": "fil-fision",
+  "emoji": "👥",
+  "etiqueta": "Nortasuna eta biziraupena",
+  "titulo": "Esnatzen diren biak",
+  "situacion": "Istripu baten ondoren, zure gorputzak ez du konponbiderik, baina zure garunak bai. Kirurgialariek modu bakarrean salba zaitzakete: bi hemisferioak bereizi eta bakoitza gorputz desberdin batera transplantatuz. Ebakuntza asmatua da, baina zerbait errealetik abiatzen da: badira hemisferio bakarrarekin bizi diren pertsonak, eta beste batzuei bi hemisferioen arteko lotura moztu zaie. Demagun erdi bakoitzak zure bizitza mental osoa gordetzen duela. Bi gorputzak esnatzen dira. Biek gogoratzen dute zure haurtzaroa, biek ezagutzen dute zure familia, zure maniak eta asmoak dituzte, eta biek diote zu direla, sinesmen beraz. Baimena sinatu aurretik, zer gertatzea espero duzun galdetzen dizute.",
+  "a": "Biziraungo dut, bitan bada ere: axola zaidana —nire oroitzapenak, nire izaera, nire asmoak— bizirik egongo da bietan, eta hori da biziraupenari eskatzen niona.",
+  "b": "Ez dut biziraungo: pertsona bat ezin da bi izan; biek eskubide bera badute ni izateko, ez da bat ere ni, eta esnatzen direnak nire antza duten bi pertsona berri dira.",
+  "pregunta": "Zerk egiten du pertsona bat denboran zehar bera izaten jarraitzea? Eta nortasuna bitan hauts badaiteke, nortasuna al da benetan axola zaiguna biziraupenean?",
+  "enjuego": "Nortasun pertsonalaren irizpideak (oroimena, gorputza, kontakizuna) mugaraino eramanda, eta norbanako bera izatearen (nortasun numerikoa) eta berdina izatearen (nortasun kualitatiboa) arteko aldea.",
+  "escuelas": [
+   {
+    "quien": "Locke (enpirismoa)",
+    "elige": "A",
+    "porque": "Bai, baina arazo batekin: nortasun pertsonala kontzientziaren eta oroimenaren jarraitutasuna da, eta bi gorputzek gordetzen dute zure kontzientzia. Haren irizpideak dio biak zu zarela, eta pertsona bat ezin da bi izan: Lockek planteatu ez zuen kasua da.",
+    "ilustre": "locke"
+   },
+   {
+    "quien": "Parfit (XX. mendea)",
+    "elige": "A",
+    "porque": "Zatiketaren kasutik ondorio harrigarri bat atera zuen: biziraupenean axola zaiguna ez da nortasuna, jarraitutasun psikologikoa baizik (oroitzapenak, izaera, asmoak). Bikoiztea ez da hiltzearen antzekoa: biziraupenaren oso antzekoa da."
+   },
+   {
+    "quien": "Thomas Reid",
+    "elige": "B",
+    "porque": "Pertsona zatiezina da: ezin da pertsona erdi bat izan, ezta bi aldi berean ere. Oroimenak nortasuna erakusten du, baina ez du sortzen; biek zure oroitzapenak izateak ez ditu zu bihurtzen."
+   },
+   {
+    "quien": "Descartes (arrazionalismoa)",
+    "elige": "B",
+    "porque": "Beste arrazoi batengatik: gogoa, pentsatzen duen gauza, zatiezina da, gorputza ez bezala; ezin da hemisferioekin batera erditik zatitu. Kirurgialariak zatitzen duena gorputza da, ez nia.",
+    "ilustre": "descartes"
+   }
+  ],
+  "debate": {
+   "epoca": "XVII. eta XX. mendeak",
+   "texto": "«Kontzientzia hori atzerantz, iraganeko edozein ekintza edo pentsamenduraino, heda daitekeen neurrian, horraino iristen da pertsona horren nortasuna.»",
+   "fuente": "Locke, Giza adimenari buruzko saioa, II, 27, 9 (2. edizioan gehitutako kapitulua, 1694). Zatiketaren kasua Derek Parfitek egin zuen ospetsu («Personal Identity», 1971; Arrazoiak eta pertsonak, 1984).",
+   "unidad": "fil-t2"
+  },
+  "preguntas": [
+   "Biak zu bazarete, norena da zure etxea, zure mugikorra, zure lekua institutuan? Eta batek delitu bat egiten badu, bestea ere zigortuko dugu?",
+   "Thomas Reidek zioen oroimenak ez duela nortasuna sortzen, erakutsi baizik: izan zinen haurra zu zinen, gogoratzen ez baduzu ere. Zer dago orduan, oroimenaz gain, zu izatea egiten duena?",
+   "Bietako bat bakarrik esnatuko dela esango balizute, albiste hobea ala okerragoa irudituko litzaizuke? Zergatik da arraroa «bat» «bi» baino hobea iruditzea?"
+  ],
+  "ysi": "Eta gorputzetako bat inoiz esnatuko ez balitz? Ia denek esango lukete bestean biziraun duzula. Baina orduan, bigarrena esnatzeak ezin du zure biziraupena zure heriotza bihurtu. Hala egiten badu, zure nortasuna zuri gertatzen ez zaizun zerbaiten mende dago.",
+  "dato": "Kasuari bidea ematen dioten ebakuntzak badaude: epilepsia larria duten pertsona batzuei hemisferioen arteko lotura (gorputz kailukara) moztu zaie, eta haur batzuei hemisferio oso bat kendu edo deskonektatu zaie; askok bizitza normala egiten jarraitzen dute. Roger Sperryk 1981ean jaso zuen Nobel saria garun banatua zuten pazienteak aztertzeagatik. Ez dagoena transplantea da: zati hori da pentsamendu-esperimentua."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-conocer",
+  "id": "fil-jersey",
+  "emoji": "🧶",
+  "etiqueta": "Sinesmena eta arrazoia",
+  "titulo": "Hiltzailearen jertsea",
+  "situacion": "Bigarren eskuko denda batean artilezko jertse on bat aurkitzen duzu: garbia, zure neurrikoa eta oso merkea. Saltzaileak, zintzoa baita, nondik datorren kontatzen dizu: hainbat hilketagatik zigortutako gizon batena izan zen, eta maiz janzten zuen. Garbitegi industrial batetik pasatu da, eta beste inork ez daki. Badakizu artileak ez duela ezer gordetzen eta gaiztakeria ez dela arropari itsasten zaion substantzia bat. Hala ere, zalantza egiten duzu. Eraman ala esekitokian utzi erabaki behar duzu.",
+  "a": "Eramango dut: badakit oihalak ez duela ezer gordetzen, eta defendatu ezin dudan sinesmen batek ez luke nire ordez erabaki behar.",
+  "b": "Utziko dut: azaldu ezin badut ere, ukapen horrek zerbait esaten du nitaz, eta sentitzen dudan guztiak ez du arrazoiaren azterketa gainditu behar existitzeko eskubidea izateko.",
+  "pregunta": "Justifika daitekeena bakarrik sinetsi behar al da? Zer egiten dugu oinarririk gabekoak direla dakigun baina sentitzeari utzi ezin diegun sinesmenekin?",
+  "enjuego": "Jakitearen eta sinestearen arteko aldea, mitotik logosera igarotzea txikian (bakoitzaren barruan) eta susmo deseroso bat: zure zenbat sinesmenek funtzionatzen duten jertseak bezala, konturatu gabe.",
+  "escuelas": [
+   {
+    "quien": "Kant (Ilustrazioa)",
+    "elige": "A",
+    "porque": "Ilustratzea norberaren adimena erabiltzera ausartzea da. Arrazoiaren azterketari eusten ez dion beldur heredatu batek ez zaitu gidatu behar: hari erabakitzen uztea adin-txikitasunean jarraitzea da.",
+    "ilustre": "kant"
+   },
+   {
+    "quien": "Descartes (arrazionalismoa)",
+    "elige": "A",
+    "porque": "Haren metodoaren lehen araua: ebidentziaz ezagutzen ez den ezer ez onartzea inoiz egiazkotzat. Aurreiritzi batek ez du autoritaterik irabazten oso errotuta egoteagatik.",
+    "ilustre": "descartes"
+   },
+   {
+    "quien": "Epikuro",
+    "elige": "A",
+    "porque": "Natura nola dabilen ezagutzeak oinarririk gabeko beldurretatik askatzeko balio du. Oihala atomoak dira, beste guztia bezala; hari beldur izatea beldur huts bati zure lasaitasuna kentzen uztea da.",
+    "ilustre": "epicuro"
+   },
+   {
+    "quien": "Hume (enpirismoa)",
+    "elige": "B",
+    "porque": "Ñabardurekin: arrazoiak berak bakarrik ez gaitu ekintzara eramaten; sentimenduek eta ohiturak erabakitzen dute egiten dugun ia guztia, eta argudiorik gabeko ukapen bat ez da zoramena, gizatiarra baizik. Egin behar ez duena da artileari buruzko sinesmen bihurtzea.",
+    "ilustre": "hume"
+   }
+  ],
+  "debate": {
+   "epoca": "XVIII. mendea (Ilustrazioa)",
+   "texto": "«Izan ezazu zeure adimena erabiltzeko adorea! Hori da Ilustrazioaren lema.»",
+   "fuente": "Kant, Galdera honi erantzuna: Zer da Ilustrazioa? (1784). Ebidentziarik gabe ezer ez onartzeko araua Descartesen Metodoaren diskurtsoaren lehena da (1637).",
+   "unidad": "fil-t3"
+  },
+  "preguntas": [
+   "Saiatu idazten zergatik ez zenukeen jantziko. Arrazoi bat da, ala arrazoi itxura duen sentimendu bat?",
+   "Jantziko zenuke zure abeslari gogokoenak kontzertu batean eraman zuen izerditako bat? Baietz bada, ez al zaude gauza bera sinesten, baina alderantziz?",
+   "Nola bereizten duzu, barrutik, defenda zenezakeen sinesmen bat defenda ezin duzun batetik? Desberdin sumatzen dira?"
+  ],
+  "ysi": "Eta inork ez balizu kontatu norena zen? Pentsatu gabe jantziko zenuke. Aldatu den bakarra entzun duzun esaldi bat da: zerk ukitzen dizu azala, artileak ala istorioak?",
+  "dato": "Paul Rozin psikologoak eta haren lankideek laurogeiko hamarkadatik aztertzen dute «kutsadura magiko» hori: gauzek ukitu zituenaren zerbait gordetzen dutelako sinesmena. Jende askok uko egiten dio gaizto edo gaixo batek eraman zuen jertse garbi bat janzteari, inolako arriskurik ez dagoela onartu arren."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-conocer",
+  "id": "fil-existir",
+  "emoji": "🕸️",
+  "etiqueta": "Izatea eta existitzea",
+  "titulo": "Herrixka eta superheroia",
+  "situacion": "Pentsatu Ugandako herrixka batean: hirurehun bat pertsona, lurra lantzen dutenak, abereak zaintzen dituztenak, elkar ezagutzen dutenak eta elkarri laguntzen diotenak; bakoitzak izena, aurpegia eta historia ditu, eta goizero esnatzen da zu bezala. Duela une bat ez zenekien existitzen zirenik, eta handik gutxira ahaztuta izango dituzu. Pentsatu orain Spidermanengan: badakizu nor dagoen maskararen azpian, zergatik hil zen bere osaba, eta arratsalde oso batez eztabaida zenezake erabaki batean asmatu zuen ala ez. Spiderman ez da existitzen; hirurehun pertsonak, bai. Lagun batek galdetzen dizu bietako zein den errealagoa zuretzat.",
+  "a": "Herrixka: existitzea ez dago nik jakitearen edo niri axola izatearen mende; pertsona horiek errealak dira inork haietan pentsatzen ez badu ere, eta Spiderman ez da erreala, mundu erdiak harengan pentsatzen badu ere.",
+  "b": "Nolabait, Spiderman: nire ideietan, erabakietan eta elkarrizketetan eragiten du; existitzen den baina ezertan ukitzen ez nauena, niretzat, ia existituko ez balitz bezala da.",
+  "pregunta": "Zer da erreala izatea? Gauza bera al da existitzea eta norbaiten bizitzan presente egotea? Nola «dira» irudimenean bakarrik existitzen diren gauzak?",
+  "enjuego": "Esentziaren eta existentziaren arteko bereizketa (zerbait zer den jakiteak ez du bermatzen existitzen denik), izateko modu desberdinak eta metafisikaren galdera zaharra: zer dagoen benetan, guri nola eragiten digun kontuan hartu gabe.",
+  "escuelas": [
+   {
+    "quien": "Aristoteles",
+    "elige": "A",
+    "porque": "Erreala, lehenik, substantzia zehatzak dira, beren kabuz existitzen direnak: pertsona horiek. Spiderman beste zerbaitetan bakarrik existitzen da, komikietan eta buruetan: bada, baina modu eratorrian. Izakia modu askotara esaten da.",
+    "ilustre": "aristoteles"
+   },
+   {
+    "quien": "Tomas Akinokoa",
+    "elige": "A",
+    "porque": "Ondo jakin dezakezu zer den Spiderman, haren esentzia, existitu gabe. Zerbaiten esentzia ezagutzeak ez dio existentziarik ematen, eta herrixkak Spidermani falta zaiona du hain zuzen: existitzen da.",
+    "ilustre": "tomas"
+   },
+   {
+    "quien": "Berkeley (idealismoa)",
+    "elige": "A",
+    "porque": "Izatea hautematea da, baina hautematen den guztiak ez du berdin balio: zentzumenen ideiak, biziak eta ordenatuak, nire borondatearen mende ez daudenak, dira gauza errealak; irudimenak fabrikatzen dituenak, Spiderman bezala, ahulagoak dira eta nire mende daude.",
+    "ilustre": "berkeley"
+   },
+   {
+    "quien": "Nietzsche",
+    "elige": "B",
+    "porque": "Bizi dugun mundutik «mundu egiazko» bat bereizten duenaz mesfidatzen da: Idoloen ilunabarra liburuan kontatzen du nola bukatu zuen «mundu egiazko» hori alegia bihurtuta. Axola duena bizitza batean eragiten duena da, eta Spidermanek zure bizitzan egiten duena erreala da.",
+    "ilustre": "nietzsche"
+   }
+  ],
+  "debate": {
+   "epoca": "K. a. IV. mendea eta XIII. mendea",
+   "texto": "«Izakia modu askotara esaten da, baina gauza bakar bati eta natura bakar bati begira.»",
+   "fuente": "Aristoteles, Metafisika, IV, 2, 1003a33. Mendeak geroago, Tomas Akinokoak gauza baten esentzia eta haren existentzia bereizi zituen Izakiaz eta esentziaz lanean (1252-1256 inguruan).",
+   "unidad": "fil-metafisica"
+  },
+  "preguntas": [
+   "Zer egiten du gaur zure bizitzan hirurehun pertsona horien existentziak, Spidermanek egiten ez duena? Erantzuna «ezer ez» bada, existitzeak ez duela axola esan nahi du?",
+   "Zenbakiak, legeak edo promesak ere ezin dira ukitu. Herrixka bezala existitzen dira, Spiderman bezala ala hirugarren modu batean?",
+   "Egunen batean herrixka horretara bidaiatu eta bertakoak ezagutuko bazenitu, zer aldatuko litzateke: haiek ala zure harremana haiekin?"
+  ],
+  "ysi": "Eta jakingo bazenu herrixka horretan neskato bat dagoela diru gutxirekin sendatzen den gaixotasun batez hil daitekeena, eta zuk ordain zenezakeela? Spidermanek gehiago pisatuko luke oraindik? Zure erantzuna aldatzen bada, erreala ez zen axola zitzaizuna, zerbait eska diezazukeena baizik.",
+  "dato": "«Existitu» latinezko exsistere hitzetik dator: «irten, agertu, nabarmendu». Existitzen dena kanpoan dagoena da, ez buru batean bakarrik. Zerbait zer den jakitearen eta existitzen dela jakitearen arteko bereizketa Avicenak eta Tomas Akinokoak garatu zuten: ondo jakin dezakezu zer den herensuge bat, bat ere existitu gabe."
+ },
+ {
+  "subject": "fil",
+  "grupo": "fil-etica",
+  "id": "fil-medicamento",
+  "emoji": "🧪",
+  "etiqueta": "Motiboak eta arrazoiak",
+  "titulo": "Lapurtutako sendagaia",
+  "situacion": "Zure amonak gaixotasun larri bat du, eta sendagai berri batek salba lezake. Zure hiriko laborategi txiki batek aurkitu du: dosi bakoitza egiteak berrehun euro kostatzen dio, eta bi mila eurotan saltzen du. Osasun publikoak oraindik ez du ordaintzen. Familia osoaren artean mila euro bildu dituzue. Jabeari eskatzen diozu erdi prezioan uzteko edo gainerakoa geroago ordaintzen uzteko, eta ezetz dio: berak aurkitu zuen eta dirua irabazi nahi du harekin. Gau horretan badakizu nola sartu laborategian inork ikusi gabe.",
+  "a": "Sartu eta eraman: bizitza batek laborategi baten irabaziak baino gehiago balio du, eta arrazoi horrek berdin balioko luke gaixoa ezezagun bat balitz.",
+  "b": "Ez lapurtu: bakoitzak legea hausten badu motibo ona duela uste duenean, legeak ez du inor babesten; beste irtenbide batzuk bilatu behar dira, motelagoak izan arren.",
+  "pregunta": "Zerk egiten du ekintza bat zuzena: haren ondorioek, betebeharrak, egilearen izaerak ala gure mende daudenen zaintzak? Eta zer alde dago motibo baten («nire amona da») eta edonorentzat balio duen arrazoi baten artean?",
+  "enjuego": "Bizitza jabetzaren eta legearen aurrean, motiboaren eta arrazoiaren arteko aldea, eta etikaren unibertsaltasuna: arrazoi moral batek balio behar du gaixoa zure ingurukoa ez denean ere.",
+  "escuelas": [
+   {
+    "quien": "Tomas Akinokoa",
+    "elige": "A",
+    "porque": "Premia larrian, gauza guztiak komunak dira: bizitza bat salbatzeko, norberarena edo besterena, besteren gauza hartzea ez da berez lapurtzea. Jabetza bizitzaren zerbitzurako dago, ez alderantziz.",
+    "ilustre": "tomas"
+   },
+   {
+    "quien": "Mill (utilitarismoa)",
+    "elige": "A",
+    "porque": "Ondorioak kontatu: salbatutako bizitza batek askoz gehiago pisatzen du dirua irabazten jarraituko duen laborategi bati egindako kaltea baino. Hala ere, ohartarazpen bat gehituko luke: arrazoia duela uste duenean lapurtzeko ohitura orokor batek ondorio txarrak izango lituzke guztiontzat.",
+    "ilustre": "mill"
+   },
+   {
+    "quien": "Kant (betebeharraren etika)",
+    "elige": "B",
+    "porque": "Probatu zure maxima: «behar dudala uste dudanean lapurtuko dut»; lege unibertsal bihurtuta, jabetza eta konfiantza suntsitzen ditu. Laguntzeko betebeharra badago, baina ez du baimentzen beste baten eskubidea urratzea; Kantek esan zuen premiazko kasu batean ekintza zigorrik gabe gera daitekeela, baina ez duela horregatik zuzena izaten.",
+    "ilustre": "kant"
+   },
+   {
+    "quien": "Gilligan (zaintzaren etika)",
+    "elige": "B",
+    "porque": "Amyk bezala, haren ikerketako neskatoak: lapurtzeak gaixoa mende dagoen harremanak hauts ditzake (atxilotzen bazaituzte, nork zainduko du?). Farmazialariarekin hitz egiten jarraitu eta laguntza bilatu behar da; arazoa ez da matematikakoa, loturena baizik."
+   }
+  ],
+  "debate": {
+   "epoca": "XVIII. mendea eta XX. mendea",
+   "texto": "«Jokatu soilik aldi berean lege unibertsal bihur dadin nahi izan dezakezun maxima haren arabera.»",
+   "fuente": "Kant, Ohituren metafisikaren funtsapena (1785). Lawrence Kohlbergek honelako kasu bat, Heinzen dilema, erabili zuen bere doktore-tesitik (1958) nola arrazoitzen dugun aztertzeko; Carol Gilliganek In a Different Voice (1982) lanean erantzun zion.",
+   "unidad": "fil-t5"
+  },
+  "preguntas": [
+   "Idatzi zure arrazoia «nire amona delako» erabili gabe. Balio du oraindik gaixoa ezezagun bat bada? Eta gogoko ez duzun norbait bada?",
+   "Laborategiaren jabeak gaizki egin zuen, ala legezkoa zena bakarrik egin zuen? Izan daiteke zerbait legezkoa eta bidegabea aldi berean?",
+   "Kohlbergek zioen zergatiak baiezkoak edo ezezkoak baino gehiago axola duela. Begiratu zure arrazoiari: zigorraren beldurra da, besteek pentsatuko luketena, legea ala guztientzat balio duen printzipio bat?"
+  ],
+  "ysi": "Eta hori dosi bakarra balitz eta laborategiak dagoeneko ordaindu zuen beste gaixo batentzat gordeta balu? Orain lapurtzeak ez dio enpresaburu bati dirua kentzen: beste pertsona bati bizia kentzen dio. Erantzuna aldatzen baduzu, zure arrazoia ez zen «bizitzak jabetzak baino gehiago balio du». Zein zen?",
+  "dato": "Kasuak bertsio errealak ditu: badira egiteko merkeak diren eta oso garesti saltzen diren sendagaiak, patenteak enpresa bati hogei bat urtez saltzeko eskubide esklusiboa ematen diolako. Horregatik, Munduko Merkataritza Erakundearen arauek aukera ematen diete herrialdeei, osasun-larrialdi batean, patentearen jabearen baimenik gabe kopiak baimentzeko («derrigorrezko lizentziak»)."
  }
 ];
