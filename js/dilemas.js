@@ -327,7 +327,7 @@ const DILEMAS = [
   "debate": {
    "epoca": "XX. mendea",
    "texto": "«Jokatu gizatasuna, bai zure pertsonan bai beste edonorenean, beti helburu gisa eta inoiz ez bitarteko huts gisa tratatzeko moduan.»",
-   "fuente": "Kant, Ohituren metafisikaren oinarritzea (1785). Dilema Philippa Footek formulatu zuen 1967an; zubiaren aldaera Judith Jarvis Thomsonek planteatu zuen 1976an, eta 1985ean «tranbiaren arazoa» izena eman zion.",
+   "fuente": "Kant, Ohituren metafisikaren oinarriak (1785). Dilema Philippa Footek formulatu zuen 1967an; zubiaren aldaera Judith Jarvis Thomsonek planteatu zuen 1976an, eta 1985ean «tranbiaren arazoa» izena eman zion.",
    "unidad": "fil-t5"
   },
   "preguntas": [
@@ -787,7 +787,7 @@ const DILEMAS = [
   "debate": {
    "epoca": "XVIII. mendea eta XX. mendea",
    "texto": "«Jokatu soilik aldi berean lege unibertsal bihur dadin nahi izan dezakezun maxima haren arabera.»",
-   "fuente": "Kant, Ohituren metafisikaren funtsapena (1785). Lawrence Kohlbergek honelako kasu bat, Heinzen dilema, erabili zuen bere doktore-tesitik (1958) nola arrazoitzen dugun aztertzeko; Carol Gilliganek In a Different Voice (1982) lanean erantzun zion.",
+   "fuente": "Kant, Ohituren metafisikaren oinarriak (1785). Lawrence Kohlbergek honelako kasu bat, Heinzen dilema, erabili zuen bere doktore-tesitik (1958) nola arrazoitzen dugun aztertzeko; Carol Gilliganek In a Different Voice (1982) lanean erantzun zion.",
    "unidad": "fil-t5"
   },
   "preguntas": [
