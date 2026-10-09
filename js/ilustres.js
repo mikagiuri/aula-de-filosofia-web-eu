@@ -67,6 +67,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-metafisica",
    "fil-presocraticos"
   ]
  },
@@ -106,6 +107,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-metafisica",
    "fil-presocraticos"
   ]
  },
@@ -155,6 +157,29 @@ const ILUSTRES = {
    "fil-presocraticos"
   ]
  },
+ "heraclito": {
+  "name": "Heraklito Efesokoa",
+  "dates": "K.a. 540 ing. – 480 ing.",
+  "born": -540,
+  "died": -480,
+  "place": "Efeso (Jonia, gaur egungo Turkia)",
+  "role": "filosofo presokratikoa",
+  "idea": "Dena isurtzen da eta ezer ez da irauten: errealitatea etengabeko aldaketa da, kontrarioen borrokatik sortua baina logos edo lege arrazional komun batek gobernatua.",
+  "bio": "<p>Heraklito Efeson jaio zen, Miletoren ondoko hiri joniarrean, K.a. 540 inguruan, familia aristokratiko batean. Tradizioaren arabera bere pribilegioei uko egin zien anaiaren alde eta bakarrik bizi izan zen, jendetzarenganako eta poetenganako mespretxuz. Liburu bat idatzi zuen, eta aforismo moduko ehun zati labur baino gehiago gorde dira. Estilo enigmatikoagatik, antzinakoek Iluna deitu zioten.</p>\n<p>Haren tesi nagusia da <strong>dena isurtzen dela</strong> (panta rei): errealitatea <strong>bilakaera</strong> da, etengabeko aldaketa, ibai bat bezala, zeinean ezin baikara bi aldiz bainatu haren urak beste batzuk direlako jada. Aldaketa <strong>kontrarioen borrokatik</strong> sortzen da (eguna eta gaua, bizia eta heriotza), eta kontrarioek elkar behar dute. Sua, beti aldakorra, kosmos honen printzipioa eta sinboloa da. Baina aldaketa ez da kaotikoa: <strong>logos</strong> batek gobernatzen du, guztiari komuna zaion lege arrazional batek, osotasunaren neurria eta harmonia mantentzen dituenak, nahiz eta gizaki gehienek ez duten ulertzen.</p>\n<p>Heraklito eta Parmenides dira aldaketaren arazoari emandako bi erantzun handiak. <strong>Platon</strong>ek Heraklitorengandik jaso zuen mundu sentigarria etengabeko aldaketan dagoelako ideia, eta horregatik ezin da zientziaren objektu izan. Haren logos-kontzeptuak estoikoengan eragin zuen, eta mende batzuk geroago Hegelek eta Nietzschek bilakaeraren pentsalari gisa aldarrikatu zuten.</p>",
+  "obras": [
+   "Naturaz (zatiak)"
+  ],
+  "anecdota": "<p>Aristotelesek kontatzen du bisitari batzuk Heraklitoren etxera iritsi zirela jakintsu ospetsua ezagutzeko gogoz. Sukaldeko labearen ondoan berotzen aurkitu zuten, eta atean geldi geratu ziren, hain leku xumeak harrituta. Heraklitok sartzera animatu zituen: «Sartu, hemen ere badira jainkoak». Aristotelesek pasadizoa animaliarik apalenen azterketa defendatzeko erabiltzen du, natura-gauza guztietan baitago zerbait miresgarria. Bat dator Heraklitoren pentsamenduarekin: sua eta logos jainkotiarra guztian daude, eguneroko gauzetan ere bai.</p>",
+  "fuente": "Aristoteles, Animalien atalak I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "parmenides": {
   "name": "Parmenides Eleakoa",
   "dates": "K.a. 515 ing. – 450 ing.",
@@ -175,7 +200,50 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-metafisica",
    "fil-presocraticos"
+  ]
+ },
+ "empedocles": {
+  "name": "Enpedokles Agrigentokoa",
+  "dates": "K.a. 495 ing. – 435 ing.",
+  "born": -495,
+  "died": -435,
+  "place": "Agrigento (Sizilia)",
+  "role": "filosofo presokratikoa",
+  "idea": "Dena lau erro betierekoz osatuta dago, lurra, ura, airea eta sua, eta Maitasunak batu eta Gorrotoak bereizten ditu amaierarik gabeko ziklo kosmiko batean.",
+  "bio": "<p>Enpedokles Agrigenton jaio zen, Sizilian, K.a. 495 inguruan, familia aberats eta eragin handiko batean. Aldi berean filosofo, poeta, mediku eta politikari izan zen, eta tradizioaren arabera demokrazia defendatu zuen bere hirian. Ia jainkozko ahalmenak zituen jakintsu gisa aurkezten zen. Kondaira batek dio Etna sumendira jaurti zela jainkotzat har zezaten, baina oinarri fidagarririk gabeko kontakizuna da. Bertsotan bi poema idatzi zituen, <em>Naturaz</em> eta <em>Garbikuntzak</em>, eta horien zati ugari geratzen dira.</p>\n<p>Onartzen du ezer ez dela ezerezetik jaiotzen ezta erabat galtzen ere, baina ez du onartzen errealitatea izaki bakar eta higiezin bat denik. Lau <strong>erro</strong> betiereko proposatzen ditu: lurra, ura, airea eta sua. Gauzak erro horiek nahasten direnean jaiotzen dira, eta bereizten direnean hiltzen. Bi indarrek mugitzen dute dena: <strong>Maitasunak</strong>, batzen duenak, eta <strong>Gorrotoak</strong>, bereizten duenak. Haien txandakatzeak <strong>ziklo kosmiko</strong> bat sortzen du, zeinean bata edo bestea nagusitzen den, eta tarteko faseetan ezagutzen dugun mundua sortzen da. <em>Garbikuntzak</em> lanean, pitagorikoek bezala, arimen transmigrazioa defendatzen du.</p>\n<p>Enpedokles <strong>pluralistetako</strong> bat da: Parmenidesen izatea eta zentzumenek erakusten duten aldaketa bateratzen saiatzen da. Lau elementuen teoria, Aristotelesek jasoa, zientzian eta medikuntzan nagusi izan zen aro modernora arte. Pertzepzioa ere azaldu zuen gauzek jaurtitzen dituzten isurkinen bidez, zentzumen-organoen poroetatik sartzen direnak.</p>",
+  "obras": [
+   "Naturaz (zatiak)",
+   "Garbikuntzak (zatiak)"
+  ],
+  "anecdota": "<p>Diogenes Laertziok kontatzen du Agrigenton hain haize bortitzak jotzen zuela, non uztak hondatzen baitzituen. Enpedoklesek astoak larrutzeko agindu zuen, eta haien larruarekin zahagiak egin zituen, muinoetan eta arroiletan jarri zituenak haizea harrapatzeko. Haizea baretu zenean, herritarrak «haizeak gelditzen dituena» deitzen hasi zitzaizkion. Istorioak, antzinako historialariengandik jasoak, teknika eta magia nahasten ditu, Enpedoklesen irudiak berak bezala: bere bertsoetan ekaitzak baretzen eta naturaren indarrak menderatzen irakastea agintzen zien bere ikasleei.</p>",
+  "fuente": "Diogenes Laertzio, Bizitzak VIII",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
+ "zenon_elea": {
+  "name": "Zenon Eleakoa",
+  "dates": "K.a. 490 ing. – 430 ing.",
+  "born": -490,
+  "died": -430,
+  "place": "Elea (Magna Grezia)",
+  "role": "filosofo eleatarra",
+  "idea": "Gauza asko daudela eta mugimendua dagoela onartzen bada, kontraesanetan erortzen da; beraz, Parmenidesek arrazoi du: izatea bat eta higiezina da.",
+  "bio": "<p>Zenon <strong>Parmenides</strong>en ikaslea izan zen Elean, Italia hegoaldean. <em>Parmenides</em> elkarrizketan, Platonek kontatzen du biak Atenasera joan zirela eta han oso gazte zen Sokratesekin hitz egin zutela. Ez da nahastu behar Zenon Zitiokoarekin, estoizismoaren sortzailearekin, mende eta erdi geroago bizi izan baitzen.</p>\n<p>Zenonek ez zuen bere maisua froga zuzenekin defendatu, haren kritikariei eraso eginez baizik: erakusten zuen, aniztasuna edo mugimendua onartzen bada, ondorio absurdoetara iristen dela. Horiek dira haren <strong>paradoxa</strong> ospetsuak. Akiles eta dortokarenean, korrikalari azkarrena ez da inoiz dortokara iristen, dortoka zegoen lekura iristen den bakoitzean hura apur bat aurreratu baita. Geziarenean, hegan doan gezia geldi dago une bakoitzean; beraz, ez da inoiz mugitzen. Arrazoitzeko modu horregatik, Aristotelesek <strong>dialektikaren</strong> asmatzailetzat hartu zuen. Infinituari buruzko haren paradoxek bi mila urte baino gehiagoz eman zieten zer pentsatua matematikariei.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "protagoras": {
@@ -201,6 +269,31 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-t3"
+  ]
+ },
+ "gorgias": {
+  "name": "Gorgias Leontinoikoa",
+  "dates": "K.a. 485 ing. – 380 ing.",
+  "born": -485,
+  "died": -380,
+  "place": "Leontinoi (Sizilia)",
+  "role": "sofista eta erretorika-maisua",
+  "idea": "Ezer ez da existitzen, eta existituko balitz ere ezin izango litzateke ezagutu ez komunikatu; horregatik hizkuntzak ez du adierazten gauzak zer diren, limurtzeko tresna ahaltsua da baizik.",
+  "bio": "<p>Gorgias Leontinosen jaio zen, Sizilian, K.a. 485 inguruan. K.a. 427an Atenasera joan zen bere hiriaren enbaxadore gisa, Sirakusaren aurka laguntza eskatzera, eta bere hitz egiteko moduak zirrara handia eragin zuen. Handik aurrera erretorika irakatsi zuen Grezia osoan, eta oso aberats egin zen. Tradizioaren arabera, ehun urte baino gehiago bizi izan zen. Bi hitzaldi oso gorde dira, <em>Helenaren laudorioa</em> eta <em>Palamedesen defentsa</em>, bai eta <em>Ez-izateaz</em> tratatuaren laburpenak ere.</p>\n<p><em>Ez-izateaz</em> lanean <strong>eszeptizismoa</strong> muturreraino eramaten du hiru tesiren bidez: ez dago ezer; zerbait egongo balitz, ezin izango litzateke ezagutu; eta ezagutu ahal izango balitz, ezin izango litzateke komunikatu, hitzak ez baitira gauzak. Transmititzeko egiarik ez badago, <strong>hizkuntza</strong> ez da gauzak zer diren adierazteko, gogoak mugiarazteko baizik. Hortik dator <strong>erretorika</strong>ren defentsa, konbentzitzeko artearena: <em>Helenaren laudorioa</em> lanean, hitzak arimaren gainean duen boterea sendagaiek gorputzaren gainean dutenarekin alderatzen du.</p>\n<p>Gorgias da, Protagorasekin batera, sofistarik eraginkorrena. Platonek <em>Gorgias</em> elkarrizketako pertsonaia bihurtu zuen; bertan, Sokratesek arrakasta bilatzen duen erretorika eta egia eta ongia bilatzen dituen filosofia kontrajartzen ditu. Tradizioak <strong>eristika</strong>rekin ere lotzen du, eztabaidatzeagatik eztabaidatzeko artearekin. Hizkuntzaren konbentzitzeko ahalmenari buruzko bere gogoetek indarrean jarraitzen dute propagandaren eta publizitatearen azterketan.</p>",
+  "obras": [
+   "Ez-izateaz (laburpenak)",
+   "Helenaren laudorioa",
+   "Palamedesen defentsa"
+  ],
+  "anecdota": "<p>Gorgias ospetsua zen bat-batean hitz egiteko zuen gaitasunagatik. Filostratoren arabera, Atenasko antzokian sartu eta jendeari erronka egiten zion: «Proposa ezazue gai bat», eta berehala hitz egiten zuen hari buruz, prestatu gabe. Platonek ohitura hori aipatzen du bere <em>Gorgias</em>en hasieran, non sofista edozein galderari erantzuteko gai dela harrotzen baita. Hain arrakasta handia izan zuen, non Delfosko santutegian bere burua irudikatzen zuen estatua urreztatu bat eskaini baitzuen. Platonentzat, distira horrek erretorikaren arriskua laburbiltzen zuen: jendea liluratzea, egiaz arduratu gabe.</p>",
+  "fuente": "Filostrato, Sofisten bizitzak I; Platon, Gorgias; Pausanias, Greziaren deskribapena X",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
   ]
  },
  "policleto": {
@@ -247,9 +340,12 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-metafisica",
+   "fil-t4",
    "fil-t5",
    "fil-t7",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-helenismo"
   ]
  },
  "democrito": {
@@ -270,7 +366,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica"
   ]
  },
  "aristipo": {
@@ -340,9 +437,13 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
+   "fil-t4",
+   "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-helenismo"
   ]
  },
  "diogenes": {
@@ -363,6 +464,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t1",
    "fil-helenismo"
   ]
  },
@@ -412,6 +514,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
    "fil-t4",
    "fil-t5",
    "fil-t6",
@@ -462,6 +565,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-metafisica",
    "fil-t5",
    "fil-helenismo"
   ]
@@ -586,6 +690,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
+   "fil-metafisica",
    "fil-t7"
   ]
  },
@@ -608,6 +713,55 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3"
+  ]
+ },
+ "avicena": {
+  "name": "Avizena",
+  "dates": "980 – 1037",
+  "born": 980,
+  "died": 1037,
+  "place": "Afshana, Bukharatik gertu (gaur egungo Uzbekistan)",
+  "role": "filosofo eta mediku persiarra",
+  "idea": "Gauza sortu guztietan bereizten da zer diren (esentzia) eta existitzen direla (existentzia); Jainkoarengan bakarrik datoz bat: Bera da izaki beharrezkoa.",
+  "bio": "<p>Ibn Sina, Mendebaldean Avizena izenez ezaguna, haur miragarria izan zen: bere autobiografiaren arabera, hemezortzi urterekin logika, matematika eta medikuntza menderatzen zituen, eta Bukharako emirra sendatu zuen, zeinak bere liburutegi handia ireki zion. Gero Persiako hainbat gortetan bizi izan zen, mediku gisa eta batzuetan bisir gisa, gerren eta agintari-aldaketen erdian. Haren <em>Medikuntzaren kanona</em> bostehun urte baino gehiagoz ikasi zen Europako unibertsitateetan.</p>\n<p>Haren lan filosofikorik zabalenak, <em>Sendatzearen liburuak</em>, Aristoteles eta neoplatonikoak jaso eta berrlantzen ditu. Avizenak gauza baten <strong>esentzia</strong> (zer den) eta haren <strong>existentzia</strong> (izatea bera) bereizi zituen: kreaturetan desberdinak dira, existitu gabe egon litezkeelako; Jainkoarengan bakarrik dira gauza bera, eta horregatik da Bera <strong>izaki beharrezkoa</strong>. «Gizon hegalariaren» pentsamendu-esperimentua ere proposatu zuen: bat-batean sortua, airean flotatzen eta inolako sentsaziorik gabe dagoen norbaitek jakingo luke existitzen dela; beraz, arimak bere burua ezagutzen du gorputzik gabe. Tomas Akinokoak asko hartu zuen harengandik.</p>",
+  "obras": [
+   "Medikuntzaren kanona",
+   "Sendatzearen liburua"
+  ],
+  "anecdota": "<p>Bere autobiografian, Avizenak kontatzen du berrogei aldiz irakurri zuela Aristotelesen <em>Metafisika</em> ulertu gabe, buruz ikasi arte. Egun batean, kasualitatez, liburu-saltzaile batek merke eskaini zion al-Farabiren lan txiki bat erosi zuen, haren helburua azaltzen zuena, eta bat-batean dena ulertu zuen. Arratsalde hartan bertan, dioenez, limosnak banatu zituen Jainkoari eskerrak emateko.</p>",
+  "fuente": "Avizena, Autobiografia",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
+ "anselmo": {
+  "name": "Anselmo Canterburykoa",
+  "dates": "1033 – 1109",
+  "born": 1033,
+  "died": 1109,
+  "place": "Aosta (Italia)",
+  "role": "filosofo eta teologo eskolastikoa",
+  "idea": "Jainkoa da hura baino handiagorik pentsa ezin daitekeena; horregatik ezin da adimenean bakarrik existitu, errealitatean ere existitu behar du.",
+  "bio": "<p>Anselmo Aostan jaio zen, Italiako iparraldean, 1033an. Normandiako Beceko abadia beneditarrean sartu zen monje, eta abade izatera iritsi zen. 1093an Canterburyko artzapezpiku izendatu zuten, eta kargu horretan hainbat erbestealdi jasan zituen Ingalaterrako erregeekin izandako gatazkengatik. 1109an hil zen, eta <strong>eskolastikaren</strong> hasleetako bat da. Haren lema «ulertu nahi duen fedea» izan zen.</p>\n<p><em>Proslogion</em> lanean <strong>argudio ontologikoa</strong> formulatu zuen, Jainkoaren existentziaren froga bat haren definiziotik abiatuta: Jainkoa pentsa daitekeen izakirik perfektuena bada, errealitatean ere existitu behar du. Gai-zerrendan agertzen da Descartesek XVII. mendean berriro formulatu zuelako. Tomas Akinokoak baztertu egin zuen, eta Kantek sakon kritikatu zuen.</p>",
+  "obras": [
+   "Monologion (1076)",
+   "Proslogion (1077-1078)",
+   "Zergatik egin zen Jainkoa gizon"
+  ],
+  "anecdota": "<p>Eadmero bere biografo eta idazkariaren arabera, Anselmok Jainkoaren existentzia frogatzeko nahikoa izango zen argudio bakar bat bilatzen zuen. Ideia horrek hain obsesionatzen zuen, non gosea, loa eta otoitzetako kontzentrazioa ere kentzen baitzizkion, eta tentaldi bat zela pentsatzera iritsi zen. Gau batean, matutinoetan, azkenean aurkitu zuen. Argizarizko ohol batzuetan idatzi zuen, eta galdu egin ziren; beste batzuetan kopiatu zuen, eta lurrean hautsita agertu ziren. Azkenean pergaminora pasarazi zuen: horrela jaio zen <em>Proslogion</em>.</p>",
+  "fuente": "Eadmero, San Anselmoren bizitza",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "tomas": {
@@ -646,7 +800,68 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
+   "fil-metafisica",
    "fil-t7"
+  ]
+ },
+ "ockham": {
+  "name": "Gilen Ockhamgoa",
+  "dates": "1287 ing. – 1347",
+  "born": 1287,
+  "died": 1347,
+  "place": "Ockham (Surrey, Ingalaterra)",
+  "role": "filosofo eta teologo frantziskotarra",
+  "idea": "Banakoak baino ez dira existitzen, eta ez dira izakiak beharrik gabe ugaritu behar; arrazoiak ezin ditu fedearen egiak frogatu.",
+  "bio": "<p>Gilen 1287 inguruan jaio zen Ockhamen, Surrey konderriko ingeles herrixka batean. Frantziskotarren ordenan sartu zen eta teologia ikasi zuen Oxforden. 1324an Avignonera deitu zuten, orduan aita santuaren egoitza zenera, heresia-susmoari erantzuteko. 1328an handik ihes egin zuen, pobreziaren auziagatik Joan XXII.a aita santuarekin liskarrean zeuden beste frantziskotar batzuekin batera, eta Luis Bavierakoa enperadorearen gortean hartu zuen babesa, Munichen. Munichen hil zen 1347 inguruan, seguru asko izurri beltzaren ondorioz.</p>\n<p>Ockham da <strong>nominalismoaren</strong> ordezkari nagusia: banako zehatzak baino ez dira existitzen, eta unibertsalak izen hutsak dira, aldi berean gauza askori erreferentzia egiteko erabiltzen ditugun zeinuak. <strong>Ockhamen labana</strong> izenez ezagutzen den ekonomia-printzipio bat aplikatzen du: ez dira izakiak beharrik gabe ugaritu behar. Ohiko formula ez da hitzez hitz berea, baina haren metodoa laburtzen du. Fedearen eta arrazoiaren arteko harremanari dagokionez, arrazoiak ezin dituela fedearen egiak frogatu dio: fedea eta arrazoia <strong>bereizi</strong> egiten dira, eta teologia zientzia arrazionala izateari uzten dio.</p>\n<p>Haren pentsamenduak Tomas Akinokoaren sintesiaren amaiera markatzen du, eta <strong>bide modernoa</strong> deritzona irekitzen du. Banakoari eta esperientziari ematen dion arretak Locke eta Humeren enpirismoa aurreratzen du, eta fedearen eta arrazoiaren arteko bereizketak zientzia modernoari bidea prestatzen dio.</p>",
+  "obras": [
+   "Summa Logicae (1323 ing.)",
+   "Sententziei buruzko iruzkina",
+   "Quodlibetak",
+   "Elkarrizketa"
+  ],
+  "anecdota": "<p>Tradizioaren arabera, Ockhamek Avignondik ihes egin eta Luis Bavariakoa enperadorearen babespean jarri zenean, tratu bat proposatu zion: «Defenda nazazu ezpatarekin, nik lumarekin defendatuko zaitut». Esaldia ez da bere lanetan agertzen eta seguruenik geroagokoa da, baina ondo laburbiltzen du gertatutakoa: Munichen, Ockhamek bere azken urteak aita santuaren botere tenporalaren aurkako eta enperadorearen independentziaren aldeko tratatu politikoak idazten eman zituen. Logikaria polemista politiko bihurtu zen horrela.</p>",
+  "fuente": "Geroko tradizioak egotzitako esaldia; ez da bere idazkietan ageri",
+  "tradicion": true,
+  "vida": [
+   {
+    "a": 1324,
+    "t": "Avignonera deitu zuten, heretikoa izateaz susmatuta"
+   },
+   {
+    "a": 1328,
+    "t": "Munichera ihes egin zuen, Luis Bavierakoa enperadorearengana"
+   }
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4",
+   "fil-t5"
+  ]
+ },
+ "tomas_moro": {
+  "name": "Tomas Moro",
+  "dates": "1478 – 1535",
+  "born": 1478,
+  "died": 1535,
+  "place": "Londres (Ingalaterra)",
+  "role": "humanista, legelaria eta politikaria",
+  "idea": "Gizarte justu batek jabetza pribatua desagerraraztea eta guztion lana antolatzea eskatzen du, inork beharrik izan ez dezan.",
+  "bio": "<p>Tomas Moro abokatua, humanista eta <strong>Erasmo Rotterdamgoaren</strong> lagun mina izan zen; Erasmok bere <em>Eromenaren laudorioa</em> eskaini zion. Lord kantziler izatera iritsi zen, erresumako karguen artean gorena Enrike VIII.a erregearen ondoren. Baina erregeak Erromarekin hautsi zuenean dibortziatu ahal izateko, eta bere burua Ingalaterrako Elizaren buru izendatu zuenean, Morok ez zuen hori zin egin nahi izan. Londresko Dorrean espetxeratu eta 1535ean lepoa moztu zioten.</p>\n<p>1516an <em>Utopia</em> argitaratu zuen, berak asmatutako hitza, «inon ez» esan nahi duena. Uharte irudimenezko bat deskribatzen du, non ez dagoen jabetza pribaturik, denek sei ordu inguru egiten duten lan egunean, agintariak hautatuak diren eta erlijio desberdinak errespetatzen diren. Bere garaiko Ingalaterrarekin alderatuta, non nekazariak beren lurretatik kanporatzen zituzten eta pobreak urkatu lapurtzeagatik, Morok gizarte-kritika gogorra egiten du. Liburuak genero oso bati eman zion izena: <strong>utopiena</strong> edo gizarte idealena.</p>",
+  "obras": [
+   "Utopia"
+  ],
+  "anecdota": "<p>Lehen biografoen arabera, Morok umorea gorde zuen azkeneraino. Kolokan zegoen eskafaldora igotzean, ofizialari esan zion: «Lagundu iezadazu igotzen; jaisteko neure kabuz moldatuko naiz». Eta kolpea jaso aurretik bizarra enborretik aldendu zuen, esanez hark ez zuela inolako traiziorik egin.</p>",
+  "fuente": "William Roper, Sir Tomas Mororen bizitza; Edward Hall, Kronika",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "galileo": {
@@ -697,6 +912,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t2",
+   "fil-metafisica",
    "fil-t6"
   ]
  },
@@ -771,7 +988,65 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica",
+   "fil-spinoza-sistema"
+  ]
+ },
+ "isabel": {
+  "name": "Isabel Bohemiakoa",
+  "dates": "1618 – 1680",
+  "born": 1618,
+  "died": 1680,
+  "place": "Heidelberg (Alemania)",
+  "role": "printzesa eta filosofoa",
+  "idea": "Arima materiagabea bada eta gorputza hedadura hutsa, ez da ulertzen nola mugi dezakeen arimak gorputza: dualismo kartesiarrak azalpen bat behar du.",
+  "bio": "<p>Isabel Bohemiakoa, Palatinatuko hautesle eta Bohemiako errege Federiko V.aren alaba, erbestean hazi zen Herbehereetan, bere familia Hogeita Hamar Urteko Gerran garaitua izan ondoren. Hizkuntzetan, matematikan eta filosofian prestakuntza bikaina jaso zuen. Heldutasunean, Herfordeko (Alemania) komentu protestante bateko abadesa izan zen.</p>\n<p>1643 eta 1649 artean <strong>gutun-truke</strong> ospetsua izan zuen Descartesekin. Bertan, haren dualismoari egindako eragozpen zorrotzena planteatu zion: nola mugi dezakeen substantzia pentsatzaile batek, hedadurarik ez duenak, gorputz bat. Descartesek ez zion erantzun asegarririk eman, eta hori da <strong>arima-gorputz elkarreraginaren arazoa</strong>. Gutunek grinak eta zoriontasuna ere jorratu zituzten, eta <em>Arimaren grinak</em> lanaren jatorria izan ziren. Ez zuen tratatu propiorik idatzi: haren pentsamendua gutun horietan gordetzen da.</p>",
+  "obras": [
+   "Descartesekin izandako gutun-trukea (1643–1649)"
+  ],
+  "anecdota": "<p>1644an, Descartesek bere <em>Filosofiaren printzipioak</em> argitaratu zituen, bere lanik sistematikoena, eta Isabeli eskaini zion, orduan hogeita bost urte zituenari. Eskaintzan zioen ez zuela ezagutu bera bezain ondo bere idazki guztiak ulertzen zituen inor: askok metafisika menderatzen zuten eta beste batzuek matematika, baina berak bakarrik ulertzen zituen bi alderdiak berdin. Hain egile zorrotzarengandik etorrita, aitortza aparta zen haren dualismoaren puntu ahulak seinalatzera ausartu zen printzesa gaztearentzat.</p>",
+  "fuente": "Descartes, Filosofiaren printzipioak lanaren eskaintza (1644)",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
+ "spinoza": {
+  "name": "Baruch Spinoza",
+  "dates": "1632 – 1677",
+  "born": 1632,
+  "died": 1677,
+  "place": "Amsterdam (Herbehereak)",
+  "role": "filosofo arrazionalista",
+  "idea": "Substantzia bakarra dago, Jainkoa edo Natura, eta pentsamendua eta hedadura haren bi atributu dira; askatasuna beharrizana ulertzean datza.",
+  "bio": "<p>Baruch Spinoza Amsterdamen jaio zen, Inkisiziotik ihes egindako jatorri portugaldarreko judu sefardien familia batean. Bere ideia erlijiosoengatik, heretikotzat jota, komunitate juduak kanporatu egin zuen 1656an. Apal bizi izan zen, neurri batean tresna optikoetarako lenteak leunduz, eta Heidelbergeko katedra bat ukatu zuen pentsamendu-askatasuna gordetzeko. Bere lan nagusia, <em>Etika</em>, hil ondoren argitaratu zen.</p>\n<p>Spinozak arrazionalismo kartesiarra azken ondorioetaraino eramaten du. Bere filosofia <strong>ordena geometrikoaren</strong> arabera azaltzen du, definizio, axioma eta frogapenekin, Euklidesek bezala. Substantzia existitzeko beste ezeren beharrik ez duena bada, bakarra egon daiteke: <strong>Jainkoa edo Natura</strong> (<em>Deus sive Natura</em>). Pentsamendua eta hedadura ez dira bi substantzia, errealitate bakar horren bi atributu baizik. <strong>Monismo</strong> horrekin, arimaren eta gorputzaren arteko harremanaren arazo kartesiarra desagertu egiten da. Dena beharrizanez gertatzen da, eta giza askatasuna beharrizan hori ulertzean eta grinen esklabo izateari uztean datza.</p>\n<p>Spinoza asko kritikatu zuten bere garaian eta ateismoa leporatu zioten, baina eragin handia izan zuen idealismo alemanean eta Nietzsche bezalako egileengan. Pentsamendu-askatasunaren eta tolerantziaren defentsak Ilustrazioaren aitzindari ere bihurtzen du.</p>",
+  "obras": [
+   "Tratatu teologiko-politikoa (1670)",
+   "Ordena geometrikoaren arabera frogatutako Etika (1677)",
+   "Adimenaren hobekuntzari buruzko tratatua (1677)"
+  ],
+  "anecdota": "<p>1672ko abuztuan, jendetza haserre batek De Witt anaiak hil zituen Hagan, Spinozak miresten zituen Holandako errepublikako buruzagiak. Haserre bizian, filosofoak, beti hain lasaia, kanpora atera nahi izan zuen lekuaren ondoan kartel bat zintzilikatzeko, latinezko hitz hauekin: <em>ultimi barbarorum</em>, «barbaroetan okerrenak». Etxejabeak, bera ere hilko zuten beldurrez, atea giltzaz itxi zuen eta ez zion irteten utzi. Spinozak urte batzuk geroago kontatu zion Leibnizi, eta honek idatziz jaso zuen.</p>",
+  "fuente": "Leibniz, Spinozarekin izandako elkarrizketari buruzko oharrak (1676)",
+  "tradicion": false,
+  "vida": [
+   {
+    "a": 1677,
+    "t": "Etika argitaratu zen, hil ondoren"
+   }
+  ],
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-metafisica",
+   "fil-spinoza-sistema"
   ]
  },
  "locke": {
@@ -802,6 +1077,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "malebranche": {
+  "name": "Nicolas Malebranche",
+  "dates": "1638 – 1715",
+  "born": 1638,
+  "died": 1715,
+  "place": "Paris (Frantzia)",
+  "role": "filosofo eta apaiz arrazionalista",
+  "idea": "Kreaturek ez dute ezer eragiten beren kabuz: Jainkoa da benetako kausa bakarra, eta aldiro jarduten du arima eta gorputza koordinatzeko.",
+  "bio": "<p>Nicolas Malebranche Parisen jaio zen, eta osasun ahulekoa zenez, etxean hezi zen lehen urteetan. Filosofia eta teologia ikasi zituen, eta 1660an Oratorioko kongregazio erlijiosoan sartu zen, non apaiztu baitzuten. Berak kontatu zuenez, Descartesen <em>Gizakiari buruzko tratatua</em> irakurtzeak hain zirrara handia eragin zion, ezen filosofiari ematea erabaki baitzuen. Bizitza osoa Oratorioan eman zuen, idazten eta beste pentsalari batzuekin eztabaidan.</p>\n<p>Malebranche Descartesen filosofia eta Agustin deunaren teologia kristaua bateratzen saiatzen da. Haren ekarpenik ezagunena <strong>okasionalismoa</strong> da, dualismo kartesiarraren arazoari emandako erantzuna. Arima eta gorputza erabat desberdinak diren substantziak badira, ezin dute batak bestearengan eragin. Egiaz, kreatura bat ere ez da ezeren kausa: <strong>Jainkoa da kausa bakarra</strong>, benetakoa. Besoa mugitu nahi dudanean, nire borondatea Jainkoak mugimendu hori sortzeko okasioa baino ez da. Gainera, gauzak Jainkoarengan dauden ideien bidez ezagutzen ditugula defendatu zuen: <strong>Jainkoarengan ikustea</strong> deritzona.</p>\n<p>Malebranche asko irakurri zuten bere garaian, eta Arnauld eta Leibnizekin eztabaidatu zuen. Kreaturen artean behatu ezin den kausalitateari egindako kritikak eragina izan zuen Humek kausa-ondorio harremanaz egingo duen azterketan.</p>",
+  "obras": [
+   "Egiaren bilaketa (1674–1675)",
+   "Naturari eta graziari buruzko tratatua (1680)",
+   "Metafisikari eta erlijioari buruzko elkarrizketak (1688)"
+  ],
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "newton": {
   "name": "Isaac Newton",
   "dates": "1642 – 1727",
@@ -824,7 +1121,35 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica"
+  ]
+ },
+ "leibniz": {
+  "name": "Gottfried Wilhelm Leibniz",
+  "dates": "1646 – 1716",
+  "born": 1646,
+  "died": 1716,
+  "place": "Leipzig (Alemania)",
+  "role": "filosofo eta matematikari arrazionalista",
+  "idea": "Errealitatea monada infinituek osatzen dute, elkarren artean eragiten ez duten substantzia sinpleek; Jainkoak hasieratik sinkronizatu zuen haien ordena, mundu posibleen artean onenean.",
+  "bio": "<p>Gottfried Wilhelm Leibniz Leipzigen jaio zen, eta zuzenbidea eta filosofia ikasi zituen. Diplomatiko, legelari, historialari eta liburuzain izan zen Hannoverreko dukeen zerbitzuan, eta Parisen eta Londresen barrena bidaiatu zuen; han, bere garaiko zientzialari handiak ezagutu zituen. Kalkulu infinitesimala asmatu zuen Newtonen aldi berean, eta horrek eztabaida gogorra piztu zuen aurkikuntzaren lehentasunaz; Berlingo Zientzia Akademia ere sortu zuen.</p>\n<p>Leibnizek konponbide original bat proposatzen dio substantziaren arazo kartesiarrari. Errealitatea <strong>monada</strong> infinituek osatzen dute: substantzia sinple, aktibo eta zatiezinak, indar- edo energia-puntuen antzekoak. Monadek ez dute leihorik; alegia, ez dute kanpoko eraginik jasotzen. Munduaren ordena, eta bereziki arimaren eta gorputzaren arteko korrespondentzia, <strong>harmonia aurrezarriaren</strong> bidez azaltzen da: Jainkoak hasieratik sinkronizatu zituen, beti ordu bera markatzen duten bi erloju egiten dituen erlojugile batek bezala. <strong>Arrazoi nahikoaren printzipioaren</strong> arabera, ezer ez da gertatzen arrazoirik gabe, eta horregatik Jainkoak <strong>mundu posibleen artean onena</strong> sortu du.</p>\n<p>Leibniz Aro Modernoko adimen unibertsalenetako bat izan zen, eta logika sinbolikoaren aitzindaria. Haren baikortasuna Voltairek satirizatu zuen <em>Candide</em> lanean, eta haren arrazionalismoa, Wolffek sistematizatua, Kantek ikasi eta gero kritikatu zuen filosofia izan zen.</p>",
+  "obras": [
+   "Metafisikari buruzko diskurtsoa (1686)",
+   "Giza adimenari buruzko saio berriak (1704an idatziak)",
+   "Teodizea (1710)",
+   "Monadologia (1714)"
+  ],
+  "anecdota": "<p>Leibnizen aita, Leipzigeko irakaslea, sei urte zituela hil zen. Zortzi urte inguru zituela, haurrak lortu zuen aitaren liburutegian sartzen uztea, ordura arte itxita izan zuena. Han Tito Livioren edizio irudidun bat aurkitu zuen eta, grabatuez eta testuinguruaz baliatuz, latina ia bakarrik ikasi zuen. Laster klasikoak, Elizaren aitak eta eskolastikoak irensten zituen. Berak gogoratuko zuen bere ohar autobiografikoetan: ia zientzia guztiak hartu zituen jakin-min unibertsal baten jatorria izan zen.</p>",
+  "fuente": "Leibnizen ohar autobiografikoak",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-metafisica"
   ]
  },
  "berkeley": {
@@ -849,7 +1174,53 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica"
+  ]
+ },
+ "montesquieu": {
+  "name": "Montesquieu",
+  "dates": "1689 – 1755",
+  "born": 1689,
+  "died": 1755,
+  "place": "La Brède, Bordele ondoan (Frantzia)",
+  "role": "pentsalari politiko ilustratua",
+  "idea": "Despotismoa saihesteko eta askatasuna bermatzeko, boterea legegile, betearazle eta judizialean banatu behar da, botere bakoitzak besteei galga jar diezaien.",
+  "bio": "<p>Charles-Louis de Secondat, Montesquieuko baroia, Bordele ondoan jaio zen, toga-nobleziako familia batean. Zuzenbidea ikasi zuen eta Bordeleko Parlamentuko presidente kargua heredatu zuen; Parlamentu hori justizia-auzitegi bat zen. <em>Gutun persiarrak</em> lanarekin egin zen ospetsu (Frantziako gizartearen satira bat), eta Europan zehar bidaiatu zuen, Ingalaterran egonaldi luzea eginez, haren sistema politikoa miresten baitzuen.</p>\n<p><em>Legeen espirituaz</em> lanean aztertzen du legeak nola dauden herri bakoitzaren klimaren, ohituren eta gobernu-formaren mende. Haren ekarpenik eragingarriena <strong>botere-banaketa</strong> da: legegilea, betearazlea eta judiziala esku desberdinetan egon behar dute, botereak boterea geldiaraz dezan eta <strong>despotismoa</strong> saihestu dadin. Gai-zerrendan agertzen da, zuzenbide-estatua eta konstituzio modernoak oinarritzen dituzten ilustratuetako bat delako.</p>",
+  "obras": [
+   "Gutun persiarrak (1721)",
+   "Legeen espirituaz (1748)"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "lamettrie": {
+  "name": "Julien Offray de La Mettrie",
+  "dates": "1709 – 1751",
+  "born": 1709,
+  "died": 1751,
+  "place": "Saint-Malo (Frantzia)",
+  "role": "mediku eta filosofo materialista",
+  "idea": "Gizakia makina konplexu bat da: arima ez da substantzia espirituala, organoen funtzionamenduaren emaitza baizik, batez ere garunarena.",
+  "bio": "<p>Julien Offray de La Mettrie Saint-Malon jaio zen, Bretainian, 1709an. Medikuntza ikasi zuen, eta Leidenen trebatu zen Herman Boerhaave mediku ospetsuarekin. Mediku militarra izan zen, eta berak kontatu zuenez, sukar batek gorputzak pentsamendua nola aldatzen zuen ohartarazi zion. Haren idazkiek hainbesteko eskandalua sortu zuten, ezen Frantziatik eta gero Holandatik ihes egin behar izan baitzuen. Bere azken egunak Berlinen igaro zituen, Prusiako Federiko II.a erregearen babespean, eta han hil zen 1751n.</p>\n<p>La Mettrie <strong>materialismoaren</strong> defendatzaile erradikalenetako bat da: materia bakarrik dagoela dioen ideiarena. Descartesek animaliak makina gisa azaldu zituen, baina gizakiari arima immateriala gorde zion. La Mettriek hurrengo urratsa egiten du <em>Gizaki-makina</em> lanean: gizakia <strong>automata</strong> oso konplexua da, eta arima deitzen duguna organoen funtzionamenduaren emaitza besterik ez da, batez ere <strong>garunarena</strong>. Horrela, pentsamendua, borondatea eta sentimenduak gorputzaren kausen menpe leudeke.</p>\n<p>Horregatik agertzen da gai-zerrendan materialismoaren adibide gisa, <strong>dualismo</strong> kartesiarraren aurrean, Hobbesek irekitako bidetik. Haren ideiek beste materialista ilustratu batzuengan eragin zuten, hala nola Diderot edo Holbach baroiarengan, eta neurri batean aurreratzen dute gaur egun neurozientzia askok defendatzen duten adimenaren ikuspegia.</p>",
+  "obras": [
+   "Arimaren historia naturala (1745)",
+   "Gizaki-makina (1748)"
+  ],
+  "anecdota": "<p>1751ko azaroan, La Mettrie oturuntza batera joan zen Frantziak Berlinen zuen enbaxadorearen etxera, lord Tyrconnellenera, zeinaren sendagile izan baitzen. Handik gutxira gaixotu eta egun gutxitan hil zen; Voltairek eta beste lekuko batzuek gehiegi jan omen zuen boilur-pate bati egotzi zioten gaitza. Bere etsaiek burla egin zioten hain filosofikoa ez zen amaiera hari, baina Federiko II.ak berak idatzi zuen haren hileta-goraipamena eta Berlingo Akademian irakurrarazi zuen. Keinu ezohikoa zen: errege batek publikoki defendatzen zuen bere garaiko egilerik eskandalagarrienaren oroimena.</p>",
+  "fuente": "Voltaireren gutunak Berlindik; Federiko II.a, La Mettrieren goraipamena",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
   ]
  },
  "hume": {
@@ -885,6 +1256,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
+   "fil-t4",
    "fil-t5",
    "fil-t6",
    "fil-t7"
@@ -937,6 +1310,27 @@ const ILUSTRES = {
    "fil-t7"
   ]
  },
+ "holbach": {
+  "name": "Holbach baroia",
+  "dates": "1723 – 1789",
+  "born": 1723,
+  "died": 1789,
+  "place": "Edesheim (Palatinatua, Alemania)",
+  "role": "filosofo materialista eta entziklopedista",
+  "idea": "Mugimenduan dagoen materia baino ez dago; gizakia naturaren parte da, eta erlijioa beldurretik eta ezjakintasunetik sortzen da.",
+  "bio": "<p>Paul-Henri Thiry, Holbach baroia, Alemanian jaio zen, baina Parisen bizi izan zen, eta han dirutza handia heredatu zuen. Haren etxea <strong>Ilustrazioko</strong> saloirik ausartena bihurtu zen: astero biltzen ziren bertan Diderot, Helvétius, D'Alembert eta Hume bezalako bisitariak, beste inon ez zegoen askatasunez eztabaidatzeko. Ehunka zientzia-artikulu idatzi zituen <em>Entziklopedia</em>rako.</p>\n<p><em>Naturaren sistema</em> lanean (1770), jazarpena saihesteko izen faltsu batekin argitaratua, <strong>materialismo</strong> osoa defendatu zuen: dena, pentsamendua barne, materiaren eta haren legeen bidez azaltzen da, eta ez dago arima hilezkorrik ez Jainkorik. Bere burua argi eta garbi <strong>ateotzat</strong> jo zuen lehen egileetako bat izan zen. Uste zuen erlijioak beldurraz eta ezjakintasunaz baliatzen dela, eta arrazoian eta guztion zoriontasunaren bilaketan oinarritutako moral batek pertsonak hobeak eta askeagoak egingo lituzkeela.</p>",
+  "obras": [
+   "Naturaren sistema",
+   "Kristautasuna agerian"
+  ],
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "kant": {
   "name": "Immanuel Kant",
   "dates": "1724 – 1804",
@@ -963,6 +1357,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
+   "fil-metafisica",
    "fil-t5",
    "fil-t6",
    "fil-t7"
@@ -1018,6 +1413,80 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "gouges": {
+  "name": "Olympe de Gouges",
+  "dates": "1748 – 1793",
+  "born": 1748,
+  "died": 1793,
+  "place": "Montauban (Frantzia)",
+  "role": "idazle eta ekintzaile politikoa",
+  "idea": "Frantziako Iraultzak aldarrikatutako eskubideek emakumeentzat ere balio behar dute, gizonen eskubide berberak dituzten hiritarrak baitira.",
+  "bio": "<p>Olympe de Gouges, benetako izenez Marie Gouze, Montaubanen jaio zen, Frantziako hegoaldean, 1748an. Oso gazte ezkondu zen eta laster alargundu; gero Parisen finkatu zen, eta antzerki-lanak eta panfleto politikoak idazteari eman zion bere burua. Bere lanetako batean kolonietako pertsona beltzen esklabotza salatu zuen. Frantziako Iraultzaren eztabaidetan aktiboki parte hartu zuen.</p>\n<p>1791n <em>Emakumearen eta emakume hiritarraren eskubideen adierazpena</em> argitaratu zuen. Bertan 1789ko <strong>Gizakiaren eta Hiritarraren Eskubideen Adierazpena</strong> berridazten du, emakumeak berariaz barne hartzeko. Horrela salatzen du <strong>berdintasun</strong> unibertsala aldarrikatzen zuen baina biztanleriaren erdia kanpoan uzten zuen Iraultza baten kontraesana. Emakumeentzat eskatzen ditu eskubide politiko berberak, kargu publikoetarako sarbidea, adierazpen-askatasuna eta amen eta ezkontzatik kanpo jaiotako seme-alaben babesa. Emakumea urkamendira igo badaiteke, dio, tribunara igotzeko aukera ere izan behar du.</p>\n<p>Robespierreren eta jakobinoen aurka egin zuen, eta Parisen gillotinatu zuten 1793an. Gaur egun <strong>feminismoaren lehen olatuaren</strong> aitzindarietako bat dela deritzo. Gai-zerrendan Mary Wollstonecraftekin batera agertzen da, emakumeak hiritartasunetik kanpo uzten zituzten ilustratuei, Rousseau edo Kant kasu, emandako erantzun gisa.</p>",
+  "obras": [
+   "Emakumearen eta emakume hiritarraren eskubideen adierazpena (1791)"
+  ],
+  "anecdota": "<p>1792ko abenduan, Konbentzioa Luis XVI.a epaitzeko prest zegoenean, Olympe de Gougesek diputatuei idatzi zien erregearen defendatzaile gisa eskaintzeko, Malesherbes abokatuarekin batera. Ez zen monarkikoa: defendatzen zuen erregea epaitu behar zela, baina ez exekutatu, eta uste zuen errepublika sendo batek ez zuela haren odola isuri beharrik. Konbentzioak bere eskaintza baztertu zuen, besteak beste, emakumea zela argudiatuz. Pasarteak haren irizpide-independentzia eta ausardia erakusten ditu, azkenean jakobinoen aurka jarri zutenak.</p>",
+  "fuente": "Olympe de Gougesek Konbentzioari idatzitako gutuna (1792ko abendua)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "wollstonecraft": {
+  "name": "Mary Wollstonecraft",
+  "dates": "1759 – 1797",
+  "born": 1759,
+  "died": 1797,
+  "place": "Londres",
+  "role": "filosofo eta idazlea",
+  "idea": "Emakumeen ustezko gutxiagotasun intelektuala ez da naturala, haien hezkuntzaren ondorioa baizik; prestakuntza bera izanez gero, gizonen arrazoi bera garatuko lukete.",
+  "bio": "<p>Mary Wollstonecraft Londresen jaio zen 1759an, arazo ekonomikoak zituen familia batean. Oso gazte hasi behar izan zuen bizimodua ateratzen, konpainiako dama, maistra eta etxeko irakasle gisa, eta gero idazle eta itzultzaile gisa Londresko argitaratzaile batentzat. Frantziako Iraultzan Parisera bidaiatu zuen. William Godwin filosofoarekin ezkondu zen, eta 1797an hil zen, bere alaba, geroko Mary Shelley eleberrigilea, erditu eta egun gutxira.</p>\n<p>1792an <em>Emakumearen eskubideen aldarrikapena</em> argitaratu zuen. Bertan Rousseau kritikatzen du, <em>Emilio</em> lanean emakumeak gizonei atsegin emateko eta etxeaz arduratzeko soilik heztea proposatzen baitzuen. Wollstonecraften ustez, emakumeen arrazoiaren ustezko ahultasuna ez da naturala, <strong>kulturala</strong> baizik: ezjakintasunean mantentzen dituen hezkuntza baten emaitza da. Haren tesia da <strong>arrazoiak ez duela sexurik</strong>. Horregatik defendatzen du <strong>hezkuntza</strong> bera neskentzat eta mutilentzat, baita emakumeen independentzia ekonomikoa ere, pertsona autonomo eta hiritar izan daitezen.</p>\n<p>Haren lana feminismo modernoaren oinarrizko testuetako bat da. Gai-zerrendan, Olympe de Gougesekin batera, feminismoaren lehen olatuaren ordezkari gisa agertzen da; lehen olatu horrek berdintasun unibertsala aldarrikatu baina emakumeak kanpoan uzten zituen Ilustrazio baten kontraesana salatu zuen. Haren kritikak aurreratu egiten ditu geroago John Stuart Millek eta Simone de Beauvoirrek garatuko zituzten ideiak.</p>",
+  "obras": [
+   "Alaben hezkuntzari buruzko gogoetak (1787)",
+   "Gizonaren eskubideen aldarrikapena (1790)",
+   "Emakumearen eskubideen aldarrikapena (1792)"
+  ],
+  "anecdota": "<p>1795ean, Mary Wollstonecraftek bere garaiko emakume batentzat ohikoa ez zen bidaia bati ekin zion: Suedia, Norvegia eta Danimarka zeharkatu zituen bere bikotekidearen merkataritza-arazo bat konpontzeko, alaba txikiak eta haurzain batek bakarrik lagunduta. Esperientzia horretatik jaio ziren bere <em>Suedian, Norvegian eta Danimarkan idatzitako gutunak</em>, non paisaien deskribapena gizarteari eta emakumeen egoerari buruzko hausnarketekin nahasten baitu. Liburuak arrakasta handia izan zuen, eta William Godwinek geroago aitortu zuen, irakurtzean, egileaz maitemindu zela.</p>",
+  "fuente": "Wollstonecraft, Suedian, Norvegian eta Danimarkan idatzitako gutunak; William Godwin, «Emakumearen eskubideen aldarrikapena» lanaren egilearen oroitzapenak",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "schiller": {
+  "name": "Friedrich Schiller",
+  "dates": "1759 – 1805",
+  "born": 1759,
+  "died": 1805,
+  "place": "Marbach am Neckar (Alemania)",
+  "role": "dramaturgoa, poeta eta historialaria",
+  "idea": "Gizakia ez da guztiz askea arrazoimena eta sentsibilitatea borrokan aritzeari uzten dioten arte, eta edertasuna da harmonia horretan hezteko bidea.",
+  "bio": "<p>Friedrich Schiller 1759an jaio zen Marbachen, Württembergeko dukerrian. Karlos Eugenio dukearen aginduz, haren akademia militarrean sartu behar izan zuen, eta han Zuzenbidea eta gero Medikuntza ikasi zituen. Erregimentu bateko medikua izan zen, baina dramaturgo gisa egin zuen arrakasta <em>Lapurrak</em> lanarekin (1781), eta 1782an dukerritik ihes egin zuen idatzi ahal izateko. 1789an Historiako irakaslea izan zen Jenan, 1794an Goetherekin adiskidetasuna hasi zuen eta 1799an Weimarren kokatu zen. Han idatzi zituen bere drama handiak, <em>Wilhelm Tell</em> bezalakoak, 1805ean hil zen arte.</p>\n<p>Schiller Kant irakurriz filosofo bihurtu zen poeta da. Giza <strong>askatasuna</strong> eta duintasuna onartu zituen, baina betebeharraren etika kantiarra eztabaidatu zuen: <em>Graziaz eta duintasunaz</em> lanean <strong>arima ederraren</strong> ideala proposatu zuen, non betebeharra eta joera jada ez diren borrokan aritzen. <em>Gizakiaren hezkuntza estetikoari buruzko gutunetan</em>, Frantziako Iraultzaren Izuaren ondoren idatziak, defendatu zuen edertasunak askatasun politikorako hezten duela. Beethovenek musika jarri zion bere <em>Pozari</em> odari (1785) Bederatzigarren sinfonian, eta melodia hori da gaur egun Europar Batasunaren ereserkia.</p>",
+  "obras": [
+   "Lapurrak (1781)",
+   "Graziaz eta duintasunaz (1793)",
+   "Gizakiaren hezkuntza estetikoari buruzko gutunak (1795)",
+   "Wilhelm Tell (1804)"
+  ],
+  "anecdota": "<p>1792ko abuztuaren 26an, Frantziako Batzar Legegileak ohorezko herritar izendatu zituen askatasunaren lagun jotzen zituen hainbat atzerritar. Haien artean zegoen Schiller, Parisen <em>Lapurrak</em> lanagatik ezaguna zena. Baina dokumentua galdu egin zen: «Monsieur Gille» deitutako norbaiti zuzenduta zegoen, eta inork ez zekien nor zen. Diploma ez zen Weimarrera iritsi 1798ko martxora arte, ia sei urte geroago. Ordurako, sinatu zuten iraultzaile batzuk, Danton edo Roland kasu, Izuaren garaian hilak ziren. Schillerrek, Iraultzaren bilakaera bortitza kritikatua zuenak, horrela jaso zuen Iraultzak berak irentsitako gizonek sinatutako herritartasun-titulu bat.</p>",
+  "fuente": "Frantziako Batzar Legegilearen dekretua (1792ko abuztuaren 26a); diploma 1798ko martxoan iritsi zen Weimarrera",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t7"
+  ]
+ },
  "hegel": {
   "name": "Georg Wilhelm Friedrich Hegel",
   "dates": "1770 – 1831",
@@ -1042,6 +1511,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-t3",
    "fil-t7"
   ]
  },
@@ -1068,7 +1538,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t5"
+   "fil-t5",
+   "fil-t6"
   ]
  },
  "darwin": {
@@ -1093,7 +1564,9 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica",
+   "fil-t4"
   ]
  },
  "boole": {
@@ -1144,7 +1617,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-t5"
   ]
  },
  "mendel": {
@@ -1269,7 +1743,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-t5"
   ]
  },
  "frege": {
@@ -1296,6 +1771,33 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4"
+  ]
+ },
+ "freud": {
+  "name": "Sigmund Freud",
+  "dates": "1856 – 1939",
+  "born": 1856,
+  "died": 1939,
+  "place": "Freiberg (Moravia, gaur Txekiar Errepublika)",
+  "role": "mediku neurologoa, psikoanalisiaren sortzailea",
+  "idea": "Bizitza psikikoaren zatirik handiena inkontzientea da: kontrolatzen ez ditugun desira errepresituek gobernatzen dute pentsatzen eta egiten duguna, eta haien errepresioak neurosiak sortzen ditu.",
+  "bio": "<p>Sigmund Freud Freibergen jaio zen, laster Vienara joan zen familia judu batean. Han Medikuntza ikasi zuen eta neurologian espezializatu zen. Parisen Charcotekin histeriaren azterketan lan egin ondoren, gaixotasun nerbiosoak tratatzeko metodo propio bat garatu zuen: <strong>psikoanalisia</strong>. Ia bizitza osoan Vienan bizi eta lan egin zuen, harik eta 1938an, Alemania naziak Austria bereganatu ondoren, Londresera erbesteratu zen arte; hurrengo urtean hil zen han.</p>\n<p>Freudentzat kontzientzia icebergaren punta baino ez da: psikearen zatirik handiena <strong>inkontzientea</strong> da, eta desira errepresituek gobernatzen dute; ametsetan, lapsusetan eta sintometan azaleratzen dira. Hiru instantzia bereizten ditu: <strong>Elloa</strong> (senak, plazer-printzipioak gobernatua), Nia (errealitatearekin bitartekari dena) eta <strong>Superni</strong> (barneratutako arau moralak). Oinarrizko bultzadak Eros (bizia) eta Tanatos (heriotza) dira. Gizarteko bizitzak desirak errepresitzea eskatzen du, eta errepresio horrek <strong>neurosia</strong> sortzen du; horregatik, zoriontasun osoa ezinezkoa da zibilizazioan.</p>\n<p>Susmoaren maisuetako hirugarrena da, Marx eta Nietzscherekin batera. Bere teoria gizakiaren hirugarren umiliazio handitzat aurkeztu zuen, Kopernikorenaren eta Darwinenaren ondoren. Haren eragina XX. mendeko psikologiara, literaturara, artera eta filosofiara iristen da, bereziki Frankfurteko Eskolara.</p>",
+  "obras": [
+   "Ametsen interpretazioa (1900)",
+   "Sexu-teoriari buruzko hiru saiakera (1905)",
+   "Nia eta Elloa (1923)",
+   "Kulturaren ondoeza (1930)"
+  ],
+  "anecdota": "<p>1933ko maiatzean, naziek Berlinen eta Alemaniako beste hiri batzuetan etsaitzat zituzten egileen liburuak erre zituzten, Freudenak tartean. Ernest Jones haren biografoaren arabera, Freudek ironia mingotsez esan zuen: «Zenbat aurreratu dugun! Erdi Aroan ni erreko ninduten; gaur nire liburuak erretzearekin konformatzen dira». Orduan ezin zuen irudikatu nazismoa askoz urrunago iritsiko zenik. Bost urte geroago, Austriaren anexioak Viena uztera behartu zuen. Esaldiak barbariaren aurrean zuen argitasuna eta umorea erakusten ditu.</p>",
+  "fuente": "Ernest Jones, Sigmund Freuden bizitza eta lana",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t5"
   ]
  },
  "whitehead": {
@@ -1394,6 +1896,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t3",
    "fil-t4"
   ]
  },
@@ -1440,7 +1943,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-metafisica"
   ]
  },
  "ortega": {
@@ -1614,7 +2118,9 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-t4",
+   "fil-t6"
   ]
  },
  "adorno": {
@@ -1693,7 +2199,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica"
   ]
  },
  "arendt": {
@@ -1748,7 +2255,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t2"
+   "fil-t2",
+   "fil-t6"
+  ]
+ },
+ "turing": {
+  "name": "Alan Turing",
+  "dates": "1912 – 1954",
+  "born": 1912,
+  "died": 1954,
+  "place": "Londres",
+  "role": "matematikaria eta informatikaren aitzindaria",
+  "idea": "Makina batek gizaki batetik bereizi ezin dugun moduan hitz egin badezake, arrazoiak ditugu pentsatzen duela esateko: hori da Turing-en testaren ideia.",
+  "bio": "<p>Alan Turing Londresen jaio zen 1912an. Cambridgen ikasi zuen matematika, eta 1936an arauei jarraituz edozein kalkulu egiteko gai den makina teoriko bat deskribatu zuen, <strong>Turing-en makina</strong>, informatikaren oinarri kontzeptuala. Bigarren Mundu Gerran Bletchley Parken lan egin zuen, Enigma makinarekin zifratutako mezu alemanak deszifratzen. 1952an bere homosexualitateagatik kondenatu zuten, orduan Erresuma Batuan delitua baitzen, eta 1954an zianuroz pozoituta hil zen; ikerketa ofizialak ondorioztatu zuen bere buruaz beste egin zuela.</p>\n<p><em>Makineria konputazionala eta adimena</em> (1950) artikuluan makinek pentsa dezaketen galdetu zuen, eta galdera hori proba batez ordezkatzea proposatu zuen: imitazio-jokoa, gaur <strong>Turing-en testa</strong> deitua. Gai-zerrendan agertzen da Descartesekin eztabaida berriro irekitzen duelako, honek ukatu egin baitzuen makina batek hizkuntza guk bezala erabil zezakeenik.</p>",
+  "obras": [
+   "Zenbaki konputagarriez (1936)",
+   "Makineria konputazionala eta adimena (1950)"
+  ],
+  "anecdota": "<p>1926ko maiatzean, Turing Sherborneko barnetegian lehen ikasturtea hastera zihoanean, greba orokor batek Britainia Handiko trenak geldiarazi zituen. Itxaron beharrean, hamahiru urteko mutikoak bizikleta hartu eta ehun bat kilometro egin zituen Southamptondik, bidean ostatu batean lo egiteko geldituta. Balentriak hainbesteko arreta erakarri zuen, non tokiko prentsak jaso baitzuen. Beti lagundu zioten ezaugarriak aurreratzen ditu: independentzia, tinkotasuna eta distantzia luzeekiko zaletasuna; izan ere, heldutan ia olinpiar mailako iraupen-korrikalaria izan zen.</p>",
+  "fuente": "Andrew Hodges, Alan Turing: The Enigma; 1926ko tokiko prentsa",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "camus": {
@@ -1775,6 +2307,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "ricoeur": {
+  "name": "Paul Ricoeur",
+  "dates": "1913 – 2005",
+  "born": 1913,
+  "died": 2005,
+  "place": "Valence (Frantzia)",
+  "role": "filosofo frantsesa, hermeneutikaria",
+  "idea": "Gizakia ulertzeko haren sinboloak, testuak eta kontakizunak interpretatu behar dira, interpretazioaren bidezidor luzetik bakarrik ezagutzen baitugu geure burua.",
+  "bio": "<p>Paul Ricoeur Valencen jaio zen, eta oso goiz geratu zen umezurtz. Bigarren Mundu Gerran bost urte eman zituen preso Alemanian. Gero irakasle izan zen Estrasburgon, Sorbonan, Nanterren eta Chicagoko Unibertsitatean. <strong>Hermeneutikaren</strong>, interpretazioaren filosofiaren, figura handietako bat da.</p>\n<p>Freudi buruzko liburuan (1965) Marx, Nietzsche eta Freud <strong>susmoaren maisuak</strong> deitu zituen: hirurek irakasten dute kontzientziak bere buruaz dakiela uste duenaz mesfidatzen eta atzean ezkutatzen dena bilatzen. Horregatik erabiltzen du gai-zerrendak haren esapidea autore horiek aurkezteko. Ricoeur, ordea, ez zen susmoan geratu: sinboloen eta kontakizunen zentzuari arretaz entzutearekin osatzea proposatu zuen.</p>",
+  "obras": [
+   "Freud: kulturaren interpretazio bat (1965)",
+   "Metafora bizia (1975)",
+   "Denbora eta narrazioa (1983-1985)",
+   "Norbera beste bat bezala (1990)"
+  ],
+  "anecdota": "<p>Alemanian gerra-preso egon zen bost urteetan, Ricoeurrek ez zion filosofia egiteari utzi. Kanpalekuan, Mikel Dufrenne bezalako beste ofizial batzuekin batera, ikastaroak eta irakurketak antolatu zituen bere kideentzat, inprobisatutako unibertsitate moduko bat. Han bertan itzuli zuen frantsesera Husserlen <em>Ideak</em>, arkatzez idatziz zuen ale bakarraren marjinetan, papera falta zitzaiolako. Itzulpen horrek, gerra ondoren argitaratuak, fenomenologian aditu frantses handienetako bat bezala ezagutarazi zuen.</p>",
+  "fuente": "Ricoeur, Autobiografia intelektuala (Réflexion faite)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5"
   ]
  },
  "shannon": {
@@ -1948,7 +2506,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
-   "fil-t3"
+   "fil-t3",
+   "fil-t6"
   ]
  },
  "baudrillard": {
@@ -2002,6 +2561,32 @@ const ILUSTRES = {
    "fil-t7"
   ]
  },
+ "butler": {
+  "name": "Judith Butler",
+  "dates": "1956an jaioa",
+  "born": 1956,
+  "died": null,
+  "place": "Cleveland (Ohio, AEB)",
+  "role": "queer teoriaren erreferentea",
+  "idea": "Generoa ez da esentzia biologiko bat, performance bat baizik: keinuak eta arauak errepikatuz sortzen da, eta horregatik eraldatu eta irauli daiteke.",
+  "bio": "<p>Judith Butler Clevelanden (Estatu Batuak) jaio zen 1956an. Filosofian doktoretza egin zuen Yaleko Unibertsitatean, Hegeli eta filosofia frantsesari buruzko azterlan batekin. Hamarkadetan Literatura Konparatua irakatsi du Kaliforniako Unibertsitatean, Berkeleyn. Haren <em>Generoa auzitan</em> (1990) liburuak nazioarteko ospea eman zion, eta <strong>queer teoriaren</strong> testu sortzaileetako bat da.</p>\n<p>Butlerren ustez, generoa ez da izaten den zerbait, egiten den zerbait baizik. <strong>Performance</strong> bat da edo, zehatzago, egintza performatibo bat: keinuak, janzkerak eta hitz egiteko moduak arau sozialen arabera errepikatuz sortzen da. Errepikapen horrek identitate natural eta finko baten itxura sortzen du. Butlerrek sexu biologikoaren eta genero kulturalaren arteko bereizketa klasikoa gainditzen du, sexua ulertzeko dugun modua ere arauek zeharkatzen dutela uste baitu. Generoa errepikatzen den gidoi bat bada, beste modu batera errepika daiteke: <strong>irauli</strong> egin daiteke. Geroko lanetan <strong>zaurgarritasunaz</strong>, doluaz eta indarkeriarik ezaz egin du gogoeta.</p>\n<p>Haren pentsamendua Simone de Beauvoirrengandik abiatzen da, berrinterpretatu egiten baitu, eta Foucaultengan, Derridarengan eta psikoanalisian oinarritzen da. Eragina izan du feminismoan, LGTBI mugimenduetan eta Paul B. Preciado bezalako pentsalariengan. Beste korronte feminista batzuen kritikak ere jaso ditu.</p>",
+  "obras": [
+   "Generoa auzitan (1990)",
+   "Axola duten gorputzak (1993)",
+   "Bizitza prekarioa (2004)",
+   "Indarkeriarik ezaren indarra (2020)"
+  ],
+  "anecdota": "<p>Butlerrek kontatu du, hamalau bat urte zituela, Clevelandeko sinagogako eskola hebrearreko eskoletan hainbeste hitz egiten zuela, non errabinoak zigor gisa banakako tutoretza batzuk ezartzea erabaki baitzuen. Ustezko zigorra opari bat izan zen: etika juduari buruzko saio haietan, errabinoak Spinoza bezalako filosofoak eta tradizioko beste pentsalari batzuk irakurri eta eztabaidatzea proposatu zion. Han hasi zen filosofiarekiko interesa, eta inoiz utzi ez dituen galderekikoa, hala nola etikaren, indarkeriaren eta komunitatearen arteko harremana.</p>",
+  "fuente": "Judith Butlerren lekukotasuna elkarrizketetan",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "chalmers": {
   "name": "David Chalmers",
   "dates": "1966an jaioa",
@@ -2023,7 +2608,29 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-metafisica"
+  ]
+ },
+ "bostrom": {
+  "name": "Nick Bostrom",
+  "dates": "1973an jaioa",
+  "born": 1973,
+  "died": null,
+  "place": "Helsingborg (Suedia)",
+  "role": "filosofo suediarra",
+  "idea": "Zibilizazio aurreratuek izaki kontzientedun munduak simula baditzakete eta hala egitea erabakitzen badute, litekeena da gu geu simulazio informatiko batean bizitzea.",
+  "bio": "<p>Nick Bostrom Helsingborgen (Suedia) jaio zen 1973an. Filosofia, fisika eta neurozientzia konputazionala ikasi zituen, eta London School of Economics-en egin zuen doktoretza. Oxfordeko Unibertsitateko irakaslea izan zen, eta han Gizateriaren Etorkizunerako Institutua zuzendu zuen, giza espeziea mehatxatzen duten arriskuak aztertzen dituena.</p>\n<p>2003an <strong>simulazioaren argudioa</strong> formulatu zuen. Haren arabera, hiru aukera hauetako bat gutxienez egia da: ia zibilizazio batek ere ez du lortzen adimen kontzientedunak simulatzeko gai den teknologiarik; lortzen dutenek ez dute hori egin nahi; edo ia ziur <strong>simulazio</strong> batean bizi gara. Gai-zerrendan agertzen da haren hipotesiak Descartesen <strong>jeinu gaiztoa</strong> gogorarazten duelako. Adimen artifizialaren arriskuei buruzko azterlanengatik ere ezaguna da.</p>",
+  "obras": [
+   "Ordenagailu-simulazio batean bizi al zara? (2003)",
+   "Superadimena (2014)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  }
 };
