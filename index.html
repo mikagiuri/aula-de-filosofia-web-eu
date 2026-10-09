@@ -49,6 +49,7 @@
           <button data-view="glosario">Glosarioa</button>
           <button data-view="ilustres">Ospetsuak</button>
           <button data-view="citas">Esaldiak</button>
+          <button data-view="adagios">Adagioak</button>
         </div>
       </div>
       <div class="navsec">
@@ -255,6 +256,16 @@
     <div id="citasbody"></div>
   </section>
 
+  <section class="view" id="adagios">
+    <!-- (09-10) Adagios: lemas clásicos como lenguaje común, al modo de los lugares comunes del Renacimiento
+         (adagios.js + adagiosview.js). Solo Bachillerato: la web de ESO no la lleva (build_eso.js). -->
+    <p class="eyebrow">Erreferentzia</p>
+    <h1 class="title">Adagioak: filosofiaren hizkuntza komuna</h1>
+    <p class="lead">Filosofoek mendeak daramatzate aipatzen goiburu latindar eta greziarrak: zer dioten, nondik datozen eta noiz erabili. Ikas itzazu Errenazimentuko ikasle baten moduan.</p>
+    <div class="filterbar" id="adagiosfilter" role="group" aria-label="Iragazi adagioak"></div>
+    <div id="adagiosbox"></div>
+  </section>
+
   <!-- TARJETAS -->
   <section class="view" id="tarjetas">
     <p class="eyebrow">Tresna</p>
@@ -392,9 +403,14 @@
     <article class="theory">
       <h2>Testu klasikoak eta itzulpenak</h2>
       <ul>
-        <li>Gainerako aipuak eta irakurgai laburrak domeinu publikoko itzulpenetatik datoz, egokituta.</li>
+        <li>Esaldiak: aipu bakoitzak bere egilea, lana eta lekua adierazten ditu, eta hitzez hitzekoak ez direnak parafrasi, formula tradizional edo egotzitako gisa markatzen dira. Itzulpena ez da aipuz aipu identifikatzen: bertsio propioak edo egokituak dira; beraz, lan batean aipatzeko, komeni da edizio batekin alderatzea. XX. eta XXI. mendeetako egileenak aipu labur gisa ematen dira, egilearekin eta lanarekin.</li>
+        <li>Adagioak: domeinu publikoko testu latindar eta grekoak; itzulpen eta iruzkin propioak. Hautaketak eta erreferentzia-zenbakiek Erasmo Rotterdamgoaren <em>Adagia</em> (1500etik 1536ra bitarteko edizioak) eta <em>Collected Works of Erasmus</em> bildumaren ingelesezko itzulpen oharduna (University of Toronto Press, 31-36. liburukiak) jarraitzen dituzte.</li>
         <li>Korapiloak eta zine-fitxak (eszena, galderak eta irakurketa-tranpa): norberak egindakoak. Erantzuten duenaren erantzunen arteko tentsioak seinalatzeko ideia <em>Philosophy Experiments</em> webgunetik dator (philosophyexperiments.com, Jeremy Stangroom).</li>
-        <li>Berridazketa: Platon, Aristoteles, Epikuro, Hobbes, Descartes, Hume, Rousseau, Kant, Mill eta Marxen zatiak jatorrizkoetatik abiatutako bertsio propioak dira, jabari publikokoak; bakoitzaren lau bertsioak lan propioa dira.</li>
+        <li>Berridazketa: Platon, Aristoteles, Epikuro, Hobbes, Descartes, Hume, Rousseau, Kant, Mill eta Marxen zatiak jatorrizkoetatik abiatutako bertsio propioak dira (jatorrizkoak jabari publikokoak dira); bakoitzaren lau bertsioak lan propioa dira.</li>
+        <li>«Spinoza: filosofia sistema gisa» esplorazioa (Filosofia 1., 1. gaia; Filosofiaren Historia, 15. gaia): «Spinoza kontra…» koadroetako pasarteak (<em>Etika</em> I, eranskina; II, 35, eskolioa; III, hitzaurrea; IV, 45, eskolioa; 56. gutuna; <em>Tratatu teologiko-politikoa</em>, hitzaurrea; <em>Tratatu politikoa</em> I, 1) latinezko jatorrizkotik egindako bertsio propioak dira; Spinozaren gainerako esaldi laburren (<em>Etika</em> II, 7; IV, 67; V, 42; <em>Tratatu teologiko-politikoa</em>, 20) itzulpena ez dago identifikatuta.</li>
+        <li>Leibnizen tailerra: testuak geuk eginak dira; aipuak eta datuak hauetan egiaztatu dira: C. I. Gerhardt (arg.), <em>Die philosophischen Schriften von G. W. Leibniz</em>, VII. liburukia («kalkula dezagun»), <em>Monadologia</em> (§ 17), Joachim Bouvetek Leibnizi 1701eko azaroaren 4an idatzitako gutuna eta kalkulu-makinaren gordetako alea (Hannoverreko liburutegia).</li>
+        <li>1. mailako Filosofiaren irakurgaiak: Platon, Aristoteles, Descartes, Bacon, Epikuro, Pico della Mirandola, Darwin, Mill eta Wilderen testuak bertsio propioak dira; Clara Campoamorrek Gorte Eratzaileetan egindako hitzaldia (1931ko urriaren 1a) jatorrizko gaztelaniazko testuan aipatzen da, zati laburretan. Hautaketa eta gidak lan propioak dira.</li>
+        <li>San Agustin, <em>Bizitza zoriontsuaz</em> (2. kap.): irakaslearen euskarazko bertsiotik abiatutako gaztelaniazko itzulpena.</li>
       </ul>
       <h2>Agiri ofizialak</h2>
       <ul>
@@ -405,6 +421,8 @@
         <li>Martín de Bertendona BHIko Filosofia departamentuaren apunteak eta materialak.</li>
         <li>McGraw Hill argitaletxearen Batxilergoko 1. mailako Filosofia liburua.</li>
         <li>Eukeni Acebal, Areté bilduma: <em>Filosofia</em>, <em>Filosofiaren historia</em> eta <em>Preparación de la PAU</em> (CC BY-SA 4.0).</li>
+        <li>Pistak: ibilbideak geuk eginak dira; pista mailakatuen formatua, lausoenetik zehatzenera, bideojokoen gidetako <em>Universal Hint System</em>-etik (UHS) dator.</li>
+        <li>Logikaren txokoa: paradoxak, ariketak eta argudio klasikoak, geuk landuak; paradoxa bakoitzaren jatorria bere fitxan adierazten da.</li>
       </ul>
       <!-- NOTAS-ARETE-INICIO -->
       <h2>Oharrak eta erreferentziak gaika</h2>
@@ -808,6 +826,8 @@
       <h2>Irudiak</h2>
       <ul>
         <li>Wikimedia Commonseko eta museo eta liburutegietako artelanak eta erretratuak (Metropolitan Museum, Rijksmuseum, LACMA, Wellcome Collection, New York Public Library, Library of Congress, Walters Art Museum), domeinu publikoan edo CC0, CC BY eta CC BY-SA lizentziekin. Irudi bakoitzak bere kreditua du.</li>
+        <li>Adagioak: Wikimedia Commonseko margolanak, grabatuak, azalak eta mosaikoak, domeinu publikoan edo CC0 lizentziarekin (Prado Museoa, Londresko National Gallery, British Library, British Museum, Rijksmuseum, Walters Art Museum, Frantziako Liburutegi Nazionala, besteak beste); Montaigneren goiburua eta domina bat.</li>
+        <li>Unsplasheko argazkiak.</li>
         <li>Adimen artifizialarekin sortutako ilustrazioak (Googleren Gemini eta Nano Banana, eta FLUX).</li>
       </ul>
       <h2>Zinema, telesailak eta bideoak</h2>
@@ -882,6 +902,8 @@
 <script src="js/rescrituraview.js"></script>
 <script src="js/nudos.js"></script>
 <script src="js/nudosview.js"></script>
+<script src="js/adagios.js"></script>
+<script src="js/adagiosview.js"></script>
 <!-- mermaid se carga bajo demanda al abrir Esquemas (js/lazy_libs.js) -->
 <script src="js/esquemas.js"></script>
 <script src="js/esquemas_fil.js"></script>
