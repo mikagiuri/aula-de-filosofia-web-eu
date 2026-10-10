@@ -14,7 +14,11 @@ const GLOSARIO = [
   "et": "Greziarrek θαυμάζειν (*thaumázein*) esaten zioten, «miretsi»: Platonentzat eta Aristotelesentzat, hor hasten da filosofia. Gaztelaniazko *asombro* *sombra* («itzala») hitzetik dator: hasieran, «itzal egin, izutu».",
   "area": "Metodoa",
   "tema": "Filosofia · 1. gaia",
-  "def": "Besteei begi-bistakoa iruditzen zaienaren aurrean harritzeko gaitasuna. Platonentzat eta Aristotelesentzat, filosofiaren jatorria da."
+  "def": "Besteei begi-bistakoa iruditzen zaienaren aurrean harritzeko gaitasuna. Platonentzat eta Aristotelesentzat, filosofiaren jatorria da.",
+  "ilustre": [
+   "platon",
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -46,7 +50,10 @@ const GLOSARIO = [
   "et": "Grezierazko ἀρχή (*arkhé*): «printzipioa, jatorria» eta baita «agintea» ere. Hortik *arkeologia* eta *monarkia*.",
   "area": "Metafisika",
   "tema": "Filosofia · 1. gaia",
-  "def": "Guztia nondik datorren adierazten duen jatorrizko printzipioa edo elementua. Tales Miletokoak urarekin identifikatu zuen."
+  "def": "Guztia nondik datorren adierazten duen jatorrizko printzipioa edo elementua. Tales Miletokoak urarekin identifikatu zuen.",
+  "ilustre": [
+   "tales"
+  ]
  },
  {
   "subject": "fil",
@@ -157,7 +164,10 @@ const GLOSARIO = [
   "et": "Latinez: «ausar zaitez jakitera». Horazioren bertso bat da, Kantek Ilustrazioaren goiburu bihurtu zuena.",
   "area": "Metodoa",
   "tema": "Filosofia · 1. gaia",
-  "def": "«Sapere aude» (ausart zaitez jakitera): Kanten leloa; zeure arrazoiaz baliatzeko adorea izan."
+  "def": "«Sapere aude» (ausart zaitez jakitera): Kanten leloa; zeure arrazoiaz baliatzeko adorea izan.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -165,7 +175,10 @@ const GLOSARIO = [
   "et": "Latinezko *evolvere*: «desbiribildu», bildumako liburu bat desbiribiltzen zen bezala.",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
-  "def": "Espezieak denboran zehar aldatzen diren prozesua; Darwinek hautespen naturalaren eta jatorri komunaren bidez azaldu zuen."
+  "def": "Espezieak denboran zehar aldatzen diren prozesua; Darwinek hautespen naturalaren eta jatorri komunaren bidez azaldu zuen.",
+  "ilustre": [
+   "darwin"
+  ]
  },
  {
   "subject": "fil",
@@ -197,7 +210,10 @@ const GLOSARIO = [
   "et": "Latinezko *cultura*, *colere* aditzetik, «landu»: Zizeronek filosofiari *cultura animi* deitu zion, «arimaren lantzea».",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
-  "def": "Gizarte bateko kide gisa bereganatzen diren ezagutza, sinesmen, arte, moral, zuzenbide, ohitura eta azturen multzoa (Tylor)."
+  "def": "Gizarte bateko kide gisa bereganatzen diren ezagutza, sinesmen, arte, moral, zuzenbide, ohitura eta azturen multzoa (Tylor).",
+  "ilustre": [
+   "tylor"
+  ]
  },
  {
   "subject": "fil",
@@ -269,7 +285,10 @@ const GLOSARIO = [
   "et": "Latinez: «pentsatzen duen gauza» eta «gauza hedatua», lekua betetzen duena.",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
-  "def": "Descartesengan: «gauza pentsatzailea» (adimena) eta «gauza zabala» (gorputza, materia)."
+  "def": "Descartesengan: «gauza pentsatzailea» (adimena) eta «gauza zabala» (gorputza, materia).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -293,7 +312,10 @@ const GLOSARIO = [
   "et": "Aristotelesen grezierazko ζῷον πολιτικόν (*zôon politikón*) itzultzen du, «pólisaren animalia».",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
-  "def": "Aristotelek gehitzen duen ezaugarria: komunitatean bizi behar dugu garatzeko eta erabat gizaki izateko."
+  "def": "Aristotelek gehitzen duen ezaugarria: komunitatean bizi behar dugu garatzeko eta erabat gizaki izateko.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -309,7 +331,10 @@ const GLOSARIO = [
   "et": "Latinezko *dignitas*, *dignus* hitzetik, «merezi duena».",
   "area": "Etika",
   "tema": "Filosofia · 2. gaia",
-  "def": "Pertsonaren balio absolutua; horregatik da bere baitan helburu bat eta inoiz ez bitarteko soil bat (Kant)."
+  "def": "Pertsonaren balio absolutua; horregatik da bere baitan helburu bat eta inoiz ez bitarteko soil bat (Kant).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -357,7 +382,10 @@ const GLOSARIO = [
   "et": "Latinezko *circumstantia*: *circum* «inguruan» + *stare* «egon»: nire inguruan dagoena.",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
-  "def": "Nia egiten den ingurune zehatza (garaia, gorputza, gizartea): «ni neu naiz ni eta nire zirkunstantzia» (Ortega)."
+  "def": "Nia egiten den ingurune zehatza (garaia, gorputza, gizartea): «ni neu naiz ni eta nire zirkunstantzia» (Ortega).",
+  "ilustre": [
+   "ortega"
+  ]
  },
  {
   "subject": "fil",
@@ -421,7 +449,11 @@ const GLOSARIO = [
   "et": "Grezierazko ἐμπειρία (*empeiría*), «esperientzia», πεῖρα (*peîra*) hitzetik, «proba, saiakera».",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
-  "def": "Ezagutza guztia esperientzia sentigarritik datorrela dioen korrontea (Locke, Hume)."
+  "def": "Ezagutza guztia esperientzia sentigarritik datorrela dioen korrontea (Locke, Hume).",
+  "ilustre": [
+   "locke",
+   "hume"
+  ]
  },
  {
   "subject": "fil",
@@ -429,7 +461,10 @@ const GLOSARIO = [
   "et": "Latinezko *ratio*, «arrazoia», lehenik «kalkulua, kontua» esan nahi zuena.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
-  "def": "Batez ere arrazoian konfiantza duen korrontea, ezagutzaren iturri gisa (Descartes)."
+  "def": "Batez ere arrazoian konfiantza duen korrontea, ezagutzaren iturri gisa (Descartes).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -437,7 +472,10 @@ const GLOSARIO = [
   "et": "Grezierazko κρίνειν (*krínein*): «bereizi, epaitu, erabaki». Kritikak bereizten du arrazoiak ezagutu dezakeena eta ezin duena.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
-  "def": "Kanten sintesia (apriorismoa): ezagutza esperientziatik jaiotzen da, baina subjektuaren a priori egiturekin ordenatzen du."
+  "def": "Kanten sintesia (apriorismoa): ezagutza esperientziatik jaiotzen da, baina subjektuaren a priori egiturekin ordenatzen du.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -453,7 +491,10 @@ const GLOSARIO = [
   "et": "Grezierazko φαινόμενον (*phainómenon*), «agertzen dena», eta νοούμενον (*nooúmenon*), «pentsatua».",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
-  "def": "Kantengan: fenomenoa agertzen zaiguna da (ezagut daitekeena); noumenoa, gauza bere baitan (ezin ezagutuzkoa)."
+  "def": "Kantengan: fenomenoa agertzen zaiguna da (ezagut daitekeena); noumenoa, gauza bere baitan (ezin ezagutuzkoa).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -517,7 +558,10 @@ const GLOSARIO = [
   "et": "Latinezko *evidentia*, *videre* aditzetik, «ikusi»: argi ikusten dena.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
-  "def": "Egia bat argitasunez eta bereiztasunez agertzen den egoera, zalantzarik gabe (Descartes)."
+  "def": "Egia bat argitasunez eta bereiztasunez agertzen den egoera, zalantzarik gabe (Descartes).",
+  "ilustre": [
+   "descartes"
+  ]
  },
  {
   "subject": "fil",
@@ -627,7 +671,10 @@ const GLOSARIO = [
   "et": "Grezierazko εὐδαιμονία (*eudaimonía*): εὖ (*eû*) «ondo» + δαίμων (*daímon*) «espiritua, jainkotasuna»: «espiritu ona izatea», zoriontsu izatea.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
-  "def": "Ongia zoriontasunarekin identifikatzen duen etika (Aristoteles)."
+  "def": "Ongia zoriontasunarekin identifikatzen duen etika (Aristoteles).",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -643,7 +690,10 @@ const GLOSARIO = [
   "et": "Latinezko *virtus*, «kemena, indarra», *vir* hitzetik, «gizonezkoa». Grezierazko ἀρετή (*areté*) itzultzen du.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
-  "def": "Aristotelesengan, bi muturren arteko erdibidea aukeratzeko ohitura; izaeraren bikaintasuna."
+  "def": "Aristotelesengan, bi muturren arteko erdibidea aukeratzeko ohitura; izaeraren bikaintasuna.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -651,7 +701,10 @@ const GLOSARIO = [
   "et": "*Betebeharra* gaztelaniaz *deber* da, latinezko *debere* (*de-* + *habere*, «eduki»): besteren batengandik zerbait jaso eta itzultzera behartuta egotea.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
-  "def": "Ekintza betebeharrarekin bat datorren arabera epaitzen duen etika (deontologia), ez haren ondorioen arabera (Kant)."
+  "def": "Ekintza betebeharrarekin bat datorren arabera epaitzen duen etika (deontologia), ez haren ondorioen arabera (Kant).",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -659,7 +712,10 @@ const GLOSARIO = [
   "et": "*Inperatiboa*, latinezko *imperare*, «agindu». *Kategorikoa*, grezierazko κατηγορικός (*kategorikós*), «baldintzarik gabe baieztatzen duena».",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
-  "def": "Kanten agindu baldintzagabea: jokatu soilik lege unibertsal bihurtzea nahi dezakezun maximaren arabera."
+  "def": "Kanten agindu baldintzagabea: jokatu soilik lege unibertsal bihurtzea nahi dezakezun maximaren arabera.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -722,7 +778,10 @@ const GLOSARIO = [
   "et": "*Estetikoa*, grezierazko αἴσθησις (*aísthesis*), «sentsazioa, pertzepzioa».",
   "area": "Estetika",
   "tema": "Filosofia · 7. gaia",
-  "def": "Zerbait eder edo itsusitzat baloratzen dugun judizioa; Kantentzat subjektiboa da baina balio unibertsala nahi du."
+  "def": "Zerbait eder edo itsusitzat baloratzen dugun judizioa; Kantentzat subjektiboa da baina balio unibertsala nahi du.",
+  "ilustre": [
+   "kant"
+  ]
  },
  {
   "subject": "fil",
@@ -890,7 +949,10 @@ const GLOSARIO = [
   "et": "Latinezko *apparere*: «erakutsi, agertu».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Gauzak dirudiena, benetan direnaren aurrean. Parmenidesen ustez, ikusten ditugun aldaketa eta aniztasuna itxura hutsa dira."
+  "def": "Gauzak dirudiena, benetan direnaren aurrean. Parmenidesen ustez, ikusten ditugun aldaketa eta aniztasuna itxura hutsa dira.",
+  "ilustre": [
+   "parmenides"
+  ]
  },
  {
   "subject": "fil",
@@ -906,7 +968,10 @@ const GLOSARIO = [
   "et": "Latinezko *accidere* (*ad-* + *cadere* «erori»): zerbaiti «gainera erortzen zaiona», funtsezkoa izan gabe gertatzen zaiona.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Aristotelesentzat, substantzia batean baino existitzen ez den eta alda daitekeen ezaugarria, hala nola kolorea, tamaina edo lekua."
+  "def": "Aristotelesentzat, substantzia batean baino existitzen ez den eta alda daitekeen ezaugarria, hala nola kolorea, tamaina edo lekua.",
+  "ilustre": [
+   "aristoteles"
+  ]
  },
  {
   "subject": "fil",
@@ -937,7 +1002,10 @@ const GLOSARIO = [
   "t": "Turingen testa",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Alan Turingek 1950ean proposatutako proba: idatziz hitz eginez makina bat pertsona batetik bereizten ez badugu, ez genuke arrazoirik izango adimena ukatzeko."
+  "def": "Alan Turingek 1950ean proposatutako proba: idatziz hitz eginez makina bat pertsona batetik bereizten ez badugu, ez genuke arrazoirik izango adimena ukatzeko.",
+  "ilustre": [
+   "turing"
+  ]
  },
  {
   "subject": "fil",
@@ -952,7 +1020,10 @@ const GLOSARIO = [
   "et": "*Arazoa* gaztelaniaz *problema* da, grezierazko πρόβλημα (*próblema*) hitzetik, «aurrean jartzen dena, oztopoa».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "David Chalmersen esapidea (1995): azaltzea zergatik dagoen esperientzia subjektiboa, gorria ikustean sentitzen dena."
+  "def": "David Chalmersen esapidea (1995): azaltzea zergatik dagoen esperientzia subjektiboa, gorria ikustean sentitzen dena.",
+  "ilustre": [
+   "chalmers"
+  ]
  },
  {
   "subject": "fil",
@@ -984,7 +1055,11 @@ const GLOSARIO = [
   "et": "*Bateragarria* gaztelaniaz *compatible* da, latinezko *compati*, «elkarrekin jasan»: beste zerbaitekin bizi daitekeena.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Hobbesen eta Humeren jarrera: askatasuna eta determinismoa batera izan daitezke, aske izatea ez baita kausarik gabe jokatzea, norberaren nahien eta arrazoien arabera jokatzea baizik, derrigortu gabe."
+  "def": "Hobbesen eta Humeren jarrera: askatasuna eta determinismoa batera izan daitezke, aske izatea ez baita kausarik gabe jokatzea, norberaren nahien eta arrazoien arabera jokatzea baizik, derrigortu gabe.",
+  "ilustre": [
+   "hobbes",
+   "hume"
+  ]
  },
  {
   "subject": "fil",
@@ -992,7 +1067,10 @@ const GLOSARIO = [
   "et": "*Kosmologikoa*, grezierazko κόσμος (*kósmos*), «ordena, mundua».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Mundutik abiatzen den arrazoibidea: mugitzaileen eta kausen katea ezin da amaigabe luzatu; beraz, lehen mugitzaile bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak)."
+  "def": "Mundutik abiatzen den arrazoibidea: mugitzaileen eta kausen katea ezin da amaigabe luzatu; beraz, lehen mugitzaile bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak).",
+  "ilustre": [
+   "tomas"
+  ]
  },
  {
   "subject": "fil",
@@ -1000,7 +1078,11 @@ const GLOSARIO = [
   "et": "*Diseinua*, italierazko *disegno*, «marrazkia, plana», latinezko *designare* hitzetik, «markatu, trazatu».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Arrazoibide teleologikoa: naturaren ordenak, erloju batenak bezala, diseinatzaile bat eskatzen du (Paley). Humek kritikatu zuen, eta Darwinek, hautespen naturalarekin."
+  "def": "Arrazoibide teleologikoa: naturaren ordenak, erloju batenak bezala, diseinatzaile bat eskatzen du (Paley). Humek kritikatu zuen, eta Darwinek, hautespen naturalarekin.",
+  "ilustre": [
+   "hume",
+   "darwin"
+  ]
  },
  {
   "subject": "fil",
@@ -1016,7 +1098,10 @@ const GLOSARIO = [
   "et": "Grezierazko θεός (*theós*) «jainkoa» + δίκη (*díke*) «justizia»: Leibnizek asmatu zuen hitza, 1710eko bere liburuaren izenburu gisa.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Leibnizek (1710) fededunak gaizkiaren arazoari ematen dizkion erantzunei jarritako izena; ezagunenetako batek dio gaizkia giza askatasunaren prezioa dela."
+  "def": "Leibnizek (1710) fededunak gaizkiaren arazoari ematen dizkion erantzunei jarritako izena; ezagunenetako batek dio gaizkia giza askatasunaren prezioa dela.",
+  "ilustre": [
+   "leibniz"
+  ]
  },
  {
   "subject": "fil",
