@@ -628,7 +628,7 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
-  "t": "Faltsukeria naturalista",
+  "t": "Falazia naturalista",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Izan behar dena denetik eratortzearen akatsa (izatea/izan beharra): zerbait gertatzeak ez du esan nahi ona denik."
@@ -841,7 +841,7 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
-  "t": "Faltsukeria",
+  "t": "Falazia",
   "et": "Latinezko *fallacia*, «engainua», *fallere* aditzetik, «engainatu».",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",

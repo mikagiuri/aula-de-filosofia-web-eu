@@ -973,16 +973,16 @@ const ESQUEMAS_FIL = {
   "subject": "fil",
   "block": "F1",
   "tema": "Filosofia · Argudiaketa-tailerra",
-  "title": "Faltsukeriak",
-  "mermaid": "flowchart TD\n  fal[\"FALTSUKERIAK\"]:::axis\n  def[\"baliozkoak diruditen baina ez diren argudioak\"]\n  formal[\"formalak: hutsegitea egitura logikoan\"]:::key\n  inf[\"informalak: hutsegitea edukian edo hizkuntzan\"]:::key\n  ah[\"ad hominem: pertsonari erasotzea\"]\n  ap[\"ad populum: gehiengoari deia\"]\n  aver[\"ad verecundiam: autoritateari deia\"]\n  fc[\"kausa faltsua: korrelazioa kausarekin nahastea\"]\n  hp[\"lastozko gizona: aurkariaren tesia desitxuratzea\"]\n  fal --> def\n  fal --> formal\n  fal --> inf\n  inf --> ah\n  inf --> ap\n  inf --> aver\n  inf --> fc\n  inf --> hp\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
+  "title": "Falaziak",
+  "mermaid": "flowchart TD\n  fal[\"FALAZIAK\"]:::axis\n  def[\"baliozkoak diruditen baina ez diren argudioak\"]\n  formal[\"formalak: hutsegitea egitura logikoan\"]:::key\n  inf[\"informalak: hutsegitea edukian edo hizkuntzan\"]:::key\n  ah[\"ad hominem: pertsonari erasotzea\"]\n  ap[\"ad populum: gehiengoari deia\"]\n  aver[\"ad verecundiam: autoritateari deia\"]\n  fc[\"kausa faltsua: korrelazioa kausarekin nahastea\"]\n  hp[\"lastozko gizona: aurkariaren tesia desitxuratzea\"]\n  fal --> def\n  fal --> formal\n  fal --> inf\n  inf --> ah\n  inf --> ap\n  inf --> aver\n  inf --> fc\n  inf --> hp\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
    "pregunta": "Nola ezagutu ona dirudien baina ez den arrazoibide bat?",
-   "raiz": "FALTSUKERIAK",
+   "raiz": "FALAZIAK",
    "raiz_d": "Baliozkoak diruditen baina ez diren argudioak. Formalak: formak huts egiten du. Informalak: edukiak edo hizkuntzak huts egiten du.",
    "ramas": [
     {
      "rel": "formak huts egiten du",
-     "t": "Faltsukeria formalak",
+     "t": "Falazia formalak",
      "k": true,
      "d": "Egitura logikoa okerra da, nahiz eta esaldi bakoitza egia izan daitekeen.",
      "c": [

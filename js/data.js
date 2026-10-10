@@ -733,7 +733,7 @@ const DECKS = {
    ],
    [
     "⚠️",
-    "Faltsukeria",
+    "Falazia",
     "Baliozkoa dirudien baina ez den arrazoibidea: justifikatu gabe konbentzitzen du."
    ],
    [
@@ -1856,7 +1856,7 @@ const QUIZZES = {
     "fb": "Indukzioak kasuetatik abiatuta orokortzen du; bere ondorioa probablea da, ez ziurra."
    },
    {
-    "q": "Faltsukeria bat da…",
+    "q": "Falazia bat da…",
     "o": [
      "argudio egiazko bat.",
      "baliozkoa dirudien baina ez den arrazoibide bat.",
@@ -2215,7 +2215,7 @@ const QUIZZES = {
     "fb": "Estetika: edertasuna, artea eta ederra, itsusia edo sublimoa."
    },
    {
-    "q": "Arrazoibideen zuzentasuna aztertzen duen adarra (baliozkoak faltsukerietatik bereiztea) da…",
+    "q": "Arrazoibideen zuzentasuna aztertzen duen adarra (baliozkoak falazietatik bereiztea) da…",
     "o": [
      "logika.",
      "etika.",
@@ -2275,7 +2275,7 @@ const QUIZZES = {
      "artea.",
      "izatea den bezala: zer esan nahi duen «izan» eta zer existitzen den.",
      "arau moralak.",
-     "faltsukeriak."
+     "falaziak."
     ],
     "a": 1,
     "fb": "Ontologia: izatearen eta existitzen denaren azterketa."
@@ -2440,7 +2440,7 @@ const QUIZZES = {
     "o": [
      "kontraesan bat",
      "tautologia bat",
-     "faltsukeria bat",
+     "falazia bat",
      "silogismo bat"
     ],
     "a": 1,
@@ -2860,11 +2860,11 @@ const QUIZZES = {
     "o": [
      "Gazteen hezkuntzan erlijioaren lekua hartzen duelako.",
      "Gatazkak saihesten dituzten behin betiko egiak eskaintzen dituelako.",
-     "Hiritar kritikoak hezten dituelako eta elkarrizketa eta bakea sustatzen dituelako.",
+     "Herritar kritikoak hezten dituelako eta elkarrizketa eta bakea sustatzen dituelako.",
      "Aurrerabide zientifikoak behar dituen teknikariak prestatzen dituelako."
     ],
     "a": 2,
-    "fb": "UNESCOren ustez, filosofiak hiritar kritikoak hezten ditu, kulturen arteko elkarrizketa sustatzen du eta bakeari eta demokraziari laguntzen die."
+    "fb": "UNESCOren ustez, filosofiak herritar kritikoak hezten ditu, kulturen arteko elkarrizketa sustatzen du eta bakeari eta demokraziari laguntzen die."
    },
    {
     "q": "Zertan bereizten dira jakintza zientifikoak eta jakintza filosofikoak bilatzen dutena?",
@@ -4500,7 +4500,7 @@ const QUIZZES = {
     "q": "Luisek ehunka katu ikusi ditu, eta guztiek zuten bibotea; beraz, hau ondorioztatzen du: «Katu guztiek dute bibotea». Zer arrazoiketa-mota erabiltzen du?",
     "o": [
      "Dedukzio bat, ondorioa premisetatik erabateko beharrez ondorioztatzen delako.",
-     "Ad populum faltsukeria bat, gehiengoak ikusten duenean oinarritzen delako.",
+     "Ad populum falazia bat, gehiengoak ikusten duenean oinarritzen delako.",
      "Dedukzio bat, behatzen duenetik arau orokor batera doalako.",
      "Indukzio bat, kasuetatik abiatuta orokortzen duelako eta probablea baino ez delako."
     ],
@@ -4523,14 +4523,14 @@ const QUIZZES = {
     "o": [
      "Bertan premisak faltsuak edo ez oso fidagarriak izan ohi direlako.",
      "Kasu berri batek agian ez duelako beteko behatutako guztiek betetzen zutena.",
-     "Bere forma logikoa beti delako okerra, faltsukerietan bezala.",
+     "Bere forma logikoa beti delako okerra, falazietan bezala.",
      "Arau orokor batetik abiatzen delako eta gero kasu zehatzetara jaisten delako."
     ],
     "a": 1,
     "fb": "Indukzioak kasu partikularretatik abiatuta orokortzen du: behatutako guztiek zerbait betetzen badute ere, hurrengoak agian ez. Horregatik, zisne zuri asko ikusteak ez du frogatzen guztiak zuriak direnik."
    },
    {
-    "q": "Zertan bereizten da faltsukeria formala informaletik?",
+    "q": "Zertan bereizten da falazia formala informaletik?",
     "o": [
      "Formalean egiturak huts egiten du; informalean, edukiak edo hizkuntzak.",
      "Formala testu idatzietan agertzen da; informala, eguneroko elkarrizketetan.",
@@ -4538,10 +4538,10 @@ const QUIZZES = {
      "Formala argudio baliozkoa da; informala, hala dirudiena baino ez."
     ],
     "a": 0,
-    "fb": "Faltsukeria formaletan forma logikoa okerra da; informaletan, akatsa edukian edo hizkuntzaren erabileran dago, ad hominem-ean bezala."
+    "fb": "Falazia formaletan forma logikoa okerra da; informaletan, akatsa edukian edo hizkuntzaren erabileran dago, ad hominem-ean bezala."
    },
    {
-    "q": "Eztabaida batean, norbaitek honela erantzuten du: «Nola izango du arrazoi pertsona horrek institutuko ordutegiari buruz, beti berandu iristen bada?». Zein faltsukeria egiten du?",
+    "q": "Eztabaida batean, norbaitek honela erantzuten du: «Nola izango du arrazoi pertsona horrek institutuko ordutegiari buruz, beti berandu iristen bada?». Zein falazia egiten du?",
     "o": [
      "Lastozko gizona.",
      "Ad verecundiam.",
@@ -4552,7 +4552,7 @@ const QUIZZES = {
     "fb": "Beste pertsonari erasotzen dio (haren puntualtasun eza), ordutegiari buruzko bere argudioa errefusatu beharrean: ad hominem bat da."
    },
    {
-    "q": "«Telesail honek oso ona izan behar du: mundu guztia ari da ikusten.» Zer faltsukeria da?",
+    "q": "«Telesail honek oso ona izan behar du: mundu guztia ari da ikusten.» Zer falazia da?",
     "o": [
      "Ad verecundiam.",
      "Kausa faltsua.",
@@ -4560,10 +4560,10 @@ const QUIZZES = {
      "Ad populum."
     ],
     "a": 3,
-    "fb": "Telesaila ontzat jotzen du «mundu guztiak» ikusten duelako soilik: gehiengoari deia da, ad populum faltsukeria."
+    "fb": "Telesaila ontzat jotzen du «mundu guztiak» ikusten duelako soilik: gehiengoari deia da, ad populum falazia."
    },
    {
-    "q": "Iragarki batean, futbolari ospetsu batek dio xarabe batek gripea egun batean sendatzen duela, eta jende askok erosten du horregatik. Zer faltsukeria dago?",
+    "q": "Iragarki batean, futbolari ospetsu batek dio xarabe batek gripea egun batean sendatzen duela, eta jende askok erosten du horregatik. Zer falazia dago?",
     "o": [
      "Ad verecundiam, autoritate ez-egoki bati dei egiten diolako.",
      "Ad hominem, hitz egiten duen pertsonan zentratzen delako.",
@@ -4582,10 +4582,10 @@ const QUIZZES = {
      "Ad populum: ideia bat ontzat jotzen du jende askok partekatzen duelako."
     ],
     "a": 2,
-    "fb": "Bi gauza batera handitzeak (korrelazioa) ez du esan nahi batak bestea eragiten duenik: biak nahastea kausa faltsuaren faltsukeria da."
+    "fb": "Bi gauza batera handitzeak (korrelazioa) ez du esan nahi batak bestea eragiten duenik: biak nahastea kausa faltsuaren falazia da."
    },
    {
-    "q": "—Hiriaren erdigunean autoak mugatu beharko genituzke. —Hau da, autoak debekatu nahi dituzu eta denok leku guztietara oinez joatea. Zer faltsukeria egiten du bigarrenak?",
+    "q": "—Hiriaren erdigunean autoak mugatu beharko genituzke. —Hau da, autoak debekatu nahi dituzu eta denok leku guztietara oinez joatea. Zer falazia egiten du bigarrenak?",
     "o": [
      "Ad hominem.",
      "Lastozko gizona.",
@@ -4596,7 +4596,7 @@ const QUIZZES = {
     "fb": "Bigarrenak proposamena desitxuratzen du (mugatzea ez da debekatzea), errazago ezeztatzeko: lastozko gizona da."
    },
    {
-    "q": "«Gaur hamabietan itzultzen uzten badizut, bihar hiruretan itzuli nahiko duzu, gero ez duzu lorik egingo eta ikasketak utziko dituzu.» Zer faltsukeria da?",
+    "q": "«Gaur hamabietan itzultzen uzten badizut, bihar hiruretan itzuli nahiko duzu, gero ez duzu lorik egingo eta ikasketak utziko dituzu.» Zer falazia da?",
     "o": [
      "Kausa faltsua.",
      "Orokorpen presatua.",
@@ -4604,14 +4604,14 @@ const QUIZZES = {
      "Ad populum."
     ],
     "a": 2,
-    "fb": "Lehen urrats batetik abiatuta, gero eta ondorio larriagoak kateatzen ditu, justifikatu gabe: aldapa irristakorraren faltsukeria da."
+    "fb": "Lehen urrats batetik abiatuta, gero eta ondorio larriagoak kateatzen ditu, justifikatu gabe: aldapa irristakorraren falazia da."
    },
    {
     "q": "p ∧ ¬p formula («p eta ez p») faltsua da, p egiazkoa zein faltsua izan. Nola deitzen zaio horrelako formula bati?",
     "o": [
      "Kontraesana.",
      "Tautologia.",
-     "Faltsukeria formala.",
+     "Falazia formala.",
      "Baldintzazkoa."
     ],
     "a": 0,
@@ -4673,10 +4673,10 @@ const QUIZZES = {
     "fb": "Konjuntzioak biderketa baten antzera funtzionatzen du (1·1 = 1, eta edozein 0k 0 ematen du), eta disjuntzioak batuketa baten antzera (1 + 0 = 1)."
    },
    {
-    "q": "Zer desberdintasun dago ad hominem faltsukeriaren eta lastozko gizonarenaren artean?",
+    "q": "Zer desberdintasun dago ad hominem falaziaren eta lastozko gizonarenaren artean?",
     "o": [
      "Lehenak gehiengoari dei egiten dio; bigarrenak, autoritate ez-egoki bati.",
-     "Lehena faltsukeria formala da; bigarrena, faltsukeria informala.",
+     "Lehena falazia formala da; bigarrena, falazia informala.",
      "Lehenak pertsona erasotzen du; bigarrenak haren tesia desitxuratzen du ezeztatzeko.",
      "Lehenak korrelazioa eta kausa nahasten ditu; bigarrenak presaka orokortzen du."
     ],
@@ -4728,7 +4728,7 @@ const QUIZZES = {
     "fb": "Hizkuntza arrunta anbiguoa da; ikurrei esker, arrazoiketen forma zehaztasunez finka daiteke."
    },
    {
-    "q": "Teoriaren arabera, zertarako balio du faltsukeriak ezagutzen ikasteak?",
+    "q": "Teoriaren arabera, zertarako balio du falaziak ezagutzen ikasteak?",
     "o": [
      "Edozein eztabaida irabazteko, arrazoirik ez badugu ere.",
      "Zer premisa diren egiazkoak jakiteko, egiaztatu gabe.",
@@ -4736,7 +4736,7 @@ const QUIZZES = {
      "Baliozkoak diruditen baina ez diren argudioak eraikitzeko."
     ],
     "a": 2,
-    "fb": "Faltsukeriek argudio baliozkoak dirudite, baina ez dira; horiek ezagutzea engainutik eta manipulaziotik babestea da."
+    "fb": "Falaziek argudio baliozkoak dirudite, baina ez dira; horiek ezagutzea engainutik eta manipulaziotik babestea da."
    },
    {
     "q": "«Madrildar guztiak espainiarrak dira. Pertsona hau espainiarra da. Beraz, pertsona hau madrildarra da.» Premisak egiazkoak badira, zer esan dezakegu?",
@@ -5299,7 +5299,7 @@ const QUIZZES = {
     "q": "Zertan bereizten da filosofia politikoa soziologiatik edo zientzia politikotik?",
     "o": [
      "Gizarteak nolakoak izan beharko luketen galdetzen du, ez soilik nolakoak diren",
-     "Gaur egungo hiritarrek nola bozkatzen duten eta nola antolatzen diren deskribatzen du datuekin",
+     "Gaur egungo herritarrek nola bozkatzen duten eta nola antolatzen diren deskribatzen du datuekin",
      "Antzinako gobernuak soilik aztertzen ditu, greziarren polisa kasu",
      "Herrialde bakoitzean indarrean dauden legeak azaltzera mugatzen da"
     ],
@@ -5373,7 +5373,7 @@ const QUIZZES = {
     "fb": "Rousseaurentzat gizaki naturala libre eta berdina da; gizartea da, desberdintasunarekin eta jabetzarekin, hura usteltzen duena."
    },
    {
-    "q": "Rousseaurengan, hiritar bakoitzak obeditzen duen «borondate orokorra» hau da…",
+    "q": "Rousseaurengan, herritar bakoitzak obeditzen duen «borondate orokorra» hau da…",
     "o": [
      "bakoitzaren interes partikularren batura",
      "denen ongi komuna bilatzen duen borondatea",
@@ -5510,7 +5510,7 @@ const QUIZZES = {
      "Ahaleginaren eta merezimendu pertsonalaren fruitu direnean",
      "Gutxien dutenei mesede egiten dietenean bakarrik",
      "Inoiz ez, desberdintasun oro beti baita bidegabea",
-     "Hiritarren gehiengoak bozketa batean onartzen dituenean"
+     "Herritarren gehiengoak bozketa batean onartzen dituenean"
     ],
     "a": 1,
     "fb": "Rawlsek bi printzipio ondorioztatzen ditu: askatasun berdinak guztientzat, eta desberdintasunak justifikatzen direla soilik gutxien dutenei mesede egiten badiete."
@@ -5543,7 +5543,7 @@ const QUIZZES = {
      "Buloen bidezko manipulazioa",
      "Iritzien pluraltasuna",
      "Muturreko desberdintasuna",
-     "Hiritarren axolagabekeria"
+     "Herritarren axolagabekeria"
     ],
     "a": 1,
     "fb": "Teoriak etsaitzat jotzen ditu manipulazioa, muturreko desberdintasuna eta axolagabekeria; pluraltasuna, aldiz, demokraziaren eskakizun bat da."
@@ -5551,7 +5551,7 @@ const QUIZZES = {
    {
     "q": "Teoriaren arabera, zer dira giza eskubideak?",
     "o": [
-     "Estatu bakoitzak bere hiritarrei nahi badu ematen dizkien pribilegioak",
+     "Estatu bakoitzak bere herritarrei nahi badu ematen dizkien pribilegioak",
      "Norberaren herrialdeko legeak betez irabazten diren eskubideak",
      "Bozketaz hautatutako gobernuak bakarrik behartzen dituzten arauak",
      "Pertsona ororen gutxieneko eskakizunak, inongo boterek gainditu ezin dituenak"
@@ -7026,7 +7026,7 @@ const QUIZZES = {
     "fb": "Argudio batean, ondorioa defendatu nahi den proposizioa da, eta premisak hari eusten diotenak."
    },
    {
-    "q": "Zer da faltsukeria bat?",
+    "q": "Zer da falazia bat?",
     "o": [
      "Baliozkoa dirudien arrazoibidea, baliozkoa izan gabe",
      "Egitez faltsua gertatzen den baieztapena",
@@ -7034,10 +7034,10 @@ const QUIZZES = {
      "Inork ezeztatzea lortzen ez duen ondorioa"
     ],
     "a": 0,
-    "fb": "Faltsukeria baliozkoa dirudien argudioa da, baliozkoa izan gabe; faltsukeriak ezagutzeak engainutik eta manipulaziotik babesten gaitu."
+    "fb": "Falazia baliozkoa dirudien argudioa da, baliozkoa izan gabe; falaziak ezagutzeak engainutik eta manipulaziotik babesten gaitu."
    },
    {
-    "q": "Hiri bateko bi pertsona oso atsegin ezagutu ondoren, norbaitek hau ondorioztatzen du: «Hiri horretako jendea oso atsegina da». Zer faltsukeria egiten du?",
+    "q": "Hiri bateko bi pertsona oso atsegin ezagutu ondoren, norbaitek hau ondorioztatzen du: «Hiri horretako jendea oso atsegina da». Zer falazia egiten du?",
     "o": [
      "Kausa faltsua",
      "Aldapa irristakorra",
@@ -7048,7 +7048,7 @@ const QUIZZES = {
     "fb": "Kasu partikular gutxi batzuetatik arau orokor batera jauzi egiten du, eta hori da, hain zuzen, orokortze presakaria."
    },
    {
-    "q": "Zerk bihurtzen du faltsukeria autoritateari deia (ad verecundiam)?",
+    "q": "Zerk bihurtzen du falazia autoritateari deia (ad verecundiam)?",
     "o": [
      "Aipatutako pertsona oso ospetsua izatea",
      "Haren iritzia gehiengoarenarekin bat etortzea",
@@ -7056,7 +7056,7 @@ const QUIZZES = {
      "Gai horretan aditua ez izatea"
     ],
     "a": 3,
-    "fb": "Ad verecundiam faltsukeria autoritate ez denaren, edo jorratutako gaian autoritate ez denaren, ospean oinarritzean datza."
+    "fb": "Ad verecundiam falazia autoritate ez denaren, edo jorratutako gaian autoritate ez denaren, ospean oinarritzean datza."
    },
    {
     "q": "Zertaz arduratzen da logika, teoriaren arabera?",

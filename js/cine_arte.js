@@ -116,12 +116,12 @@ const CINE = [
   "t": "12 hombres sin piedad",
   "year": 1957,
   "autor": "Sidney Lumet",
-  "q": "Ondo argudiatzea: froga aurreiritzitik bereiztea eta faltsukeriak antzematea.",
+  "q": "Ondo argudiatzea: froga aurreiritzitik bereiztea eta falaziak antzematea.",
   "esc": "8. epaimahaikideak krimeneko labana «bakarraren» berdin-berdina den bat ateratzen du; geroago, 10. epaimahaikideak «jende horren» aurka egiten duen hitzaldia, eta gainerakoek nola ematen dioten bizkarra.",
   "pregs": [
    "Zer frogatzen du zehazki bigarren labanak: akusatua errugabea dela, ala beste zerbait? Formulatu ondorio baliozkoa.",
    "10. epaimahaikideak galdu egiten du bere argudioa txarra delako, ala besteek bizkarra ematen diotelako? Gauza bera da? Arrazoitu.",
-   "Aurkitu bi faltsukeria deliberazioan, eta azaldu zer esan nahi duen frogatzeko zama akusazioak duela."
+   "Aurkitu bi falazia deliberazioan, eta azaldu zer esan nahi duen frogatzeko zama akusazioak duela."
   ],
   "trampa": "Akusatua errugabea dela sinetsita irtetea: filmak zalantza arrazoizkoa dagoela baino ez du frogatzen. «Frogatu gabea» eta «faltsua» nahastea akats logikoa da."
  },

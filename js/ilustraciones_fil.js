@@ -1161,7 +1161,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/galeria_museo/temas2/atenas_clasica_View_of_the_Acropolis_of_Athens_and_Mount_Lycabettus_from_the_Orator_s_Bema_on_the_Pnyx_on_23_September_2.jpg",
   "t": "Akropolia Pnyxeko tribunatik ikusita",
-  "pie": "Harrizko tribuna honetatik hitz egiten zieten hizlariek Atenasko batzarrari. Han argudioekin konbentzitu behar zen… edo trikimailu erretorikoekin: faltsukerien lurraldea.",
+  "pie": "Harrizko tribuna honetatik hitz egiten zieten hizlariek Atenasko batzarrari. Han argudioekin konbentzitu behar zen… edo trikimailu erretorikoekin: falazien lurraldea.",
   "tema": "fil-t4",
   "license": "CC0",
   "artist": "George E. Koronaios (argazkia)"
@@ -1393,7 +1393,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/galeria_museo/temas2/feminismo_Olympe_de_Gouges_19178_Découper.jpg",
   "t": "Olympe de Gouges",
-  "pie": "1791n Emakumearen eta Hiritar Emakumearen Eskubideen Adierazpena idatzi zuen, 1789koak biztanleriaren erdia kanpoan uzten zuelako.",
+  "pie": "1791n Emakumearen eta Herritar Emakumearen Eskubideen Adierazpena idatzi zuen, 1789koak biztanleriaren erdia kanpoan uzten zuelako.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": ""
@@ -1401,7 +1401,7 @@ const ILUSTRACIONES = [
  {
   "f": "media/galeria_museo/epocas/feminismo_Suffragette_parade_Mar_3_1913_Wash_D_C_LCCN2001704194.jpg",
   "t": "Desfile sufragista Washingtonen (1913)",
-  "pie": "Milaka emakumek manifestazioa egin zuten boto-eskubidea eskatzeko. Hiritartasun osoa borroka politikoarekin lortu zen: inork ez zuen berez eman.",
+  "pie": "Milaka emakumek manifestazioa egin zuten boto-eskubidea eskatzeko. Herritartasun osoa borroka politikoarekin lortu zen: inork ez zuen berez eman.",
   "tema": "fil-t6",
   "license": "Domeinu publikoa",
   "artist": "George Grantham Bain Collection"

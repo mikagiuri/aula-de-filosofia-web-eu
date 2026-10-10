@@ -782,7 +782,7 @@ const INFOGRAFIAS = {
    {
     "type": "columns",
     "n": "02",
-    "title": "Ohiko faltsukeriak",
+    "title": "Ohiko falaziak",
     "items": [
      {
       "h": "Ad hominem",

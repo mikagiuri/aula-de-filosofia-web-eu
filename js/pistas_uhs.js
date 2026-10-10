@@ -772,7 +772,7 @@ const PISTAS = [
       [
        "Entzuten dutenen gehiengoa konbentzitzen duen argudioa.",
        false,
-       "Konbentzitzea ez da ondo arrazoitzea: faltsukeriek ere konbentzitzen dute."
+       "Konbentzitzea ez da ondo arrazoitzea: falaziek ere konbentzitzen dute."
       ]
      ],
      "ok": "Ondo. Baliozkotasuna premisen eta ondorioaren arteko erlazioaren araberakoa da, ez egiazkoak izatearen araberakoa.",
@@ -944,7 +944,7 @@ const PISTAS = [
    "titulo": "Baliozkotasuna eta egia bereizten dituzu jada",
    "parrafos": [
     "Argudio bat baliozkoa da bere ondorioa premisetatik ateratzen denean; sendoa da, gainera, bere premisak egiazkoak direnean. Argudio sendoak bakarrik bermatzen du ondorioaren egia.",
-    "Jarraitzeko: bilatu gaiko faltsukerien zerrendan baliozkoa izan gabe konbentzitzen duen argudio bat."
+    "Jarraitzeko: bilatu gaiko falazien zerrendan baliozkoa izan gabe konbentzitzen duen argudio bat."
    ]
   }
  },
@@ -1257,7 +1257,7 @@ const PISTAS = [
      },
      {
       "etiqueta": "Definizioa",
-      "titulo": "Kontratu soziala",
+      "titulo": "Gizarte-kontratua",
       "definicion": [
        "<strong>Gizarte-kontratua</strong> akordio hipotetikoa da, gizakiek botere politikoa sortzeko egiten dutena.",
        "Horrela, Estatua <strong>artifizio</strong> bat da: haren legitimitatea ez dator naturatik ezta Jainkoarengandik ere, osatzen dutenen <strong>adostasunetik</strong> baizik.",
