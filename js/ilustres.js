@@ -702,6 +702,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
+   "fil-t6",
    "fil-t7",
    "fil-grandes-preguntas"
   ]
@@ -1046,6 +1047,29 @@ const ILUSTRES = {
    "fil-t3"
   ]
  },
+ "harvey": {
+  "name": "William Harvey",
+  "dates": "1578 – 1657",
+  "born": 1578,
+  "died": 1657,
+  "place": "Folkestone (Ingalaterra)",
+  "role": "medikua eta fisiologoa",
+  "idea": "Odola etengabe dabil gorputzean zehar, ponpa baten gisan jarduten duen bihotzak bultzatuta, eta hala frogatzen dute behaketak eta esperimentuak.",
+  "bio": "<p>William Harvey Ingalaterran jaio zen, Cambridgen ikasi zuen eta mediku gisa Paduako Unibertsitatean prestatu zen, garai hartan Europako medikuntzaren gune handietako bat baitzen. Londresera itzulita, San Bartolome ospitalean lan egin zuen, eta Jakue I.a eta Karlos I.a erregeen medikua izan zen.</p>\n<p>1628an <strong>odol-zirkulazioaren</strong> aurkikuntza argitaratu zuen: bihotzak ponpa baten gisan funtzionatzen du eta odola bultzatzen du, eta odolak gorputza zeharkatzen du zirkuitu itxi batean. Disekzioen, esperimentuen eta kalkuluen bidez frogatu zuen, Galenorengandik jasotako medikuntza tradizionalaren aurka. Descartesen garaiko <strong>iraultza zientifikoaren</strong> parte gisa agertzen da gai-zerrendan; Descartesek ezagutu egin zuen haren lana, eta gorputza <strong>makina</strong> gisa ikusteko erabili zuen, nahiz eta bihotzaren mugimenduaren kausari buruz Harveyrekin ados ez egon.</p>",
+  "obras": [
+   "Animalietan bihotzaren eta odolaren mugimenduari buruz (1628)"
+  ],
+  "anecdota": "<p>John Aubreyk kontatzen du Edgehilleko guduan (1642), Ingalaterrako gerra zibileko lehenengoan, Harveyk Karlos I.a erregearen semeak zituela bere ardurapean. Haiek babesteko, haiekin batera hesi baten ondora erretiratu zen eta, inguruan borrokan ari ziren bitartean, liburu bat atera zuen poltsikotik eta lasai irakurtzen hasi zen. Kanoi-bala bat gertuegi erori zenean bakarrik aldatu zen lekuz. Pasadizoak, agian puztuak, ikertzailea erretratatzen du, ikasketan murgilduta kaosaren erdian ere.</p>",
+  "fuente": "John Aubrey, Bizitza laburrak",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
+  ]
+ },
  "hobbes": {
   "name": "Thomas Hobbes",
   "dates": "1588 – 1679",
@@ -1284,7 +1308,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-marxismos"
   ]
  },
  "leibniz": {
@@ -1682,8 +1707,59 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-t6",
    "fil-t7",
    "fil-grandes-preguntas"
+  ]
+ },
+ "thompson": {
+  "name": "William Thompson",
+  "dates": "1775 – 1833",
+  "born": 1775,
+  "died": 1833,
+  "place": "Cork (Irlanda)",
+  "role": "ekonomialari eta pentsalari sozialista irlandarra",
+  "idea": "Lan egiten duenak eskubidea du ekoizten duen guztirako; jabeek lanik egin gabe beretzat hartzen duten aberastasuna bidegabekeria da.",
+  "bio": "<p>William Thompson Corken jaio zen, Irlandan, 1775ean, merkatari-familia aberats batean. Aita hil zenean, merkataritza-flota bat eta lur batzuk heredatu zituen Corkeko konderriaren mendebaldean, eta han bizi izan zen bere errentarien artean; haien hezkuntza eta laborantza-metodoak hobetzen saiatu zen. Jeremy Benthamen laguna izan zen, eta haren Londresko etxean bizi izan zen denboraldi batez. Ez zen inoiz ezkondu. Rosscarberyn hil zen, Cork ondoan, 1833an.</p>\n<p>Thompson utilitarista gisa hasi zen, baina ondorioztatu zuen zoriontasun handiena ahalik eta jende gehienarentzat ezinezkoa zela langileek <strong>beren lanaren produktu osoa</strong> jasotzen ez zuten bitartean. Aztertu zuen nola kapitalaren jabeek besteek ekoizten dutenaren zati bat beretzat hartzen duten, eta lehia <strong>komunitate kooperatiboez</strong> ordezkatzea proposatu zuen. Anna Wheeler lagunarekin batera, <strong>emakumeen eskubide politikoen</strong> aldeko alegatu bat idatzi zuen, James Millen aurka, botoa gizonentzat gorde nahi baitzuen. Marxek <em>Filosofiaren miseria</em> (1847) eta <em>Kapitala</em> lanetan irakurri eta aipatu zituen ekonomialari sozialista ingelesetako bat da.</p>",
+  "obras": [
+   "Aberastasunaren banaketaren printzipioei buruzko ikerketa (1824)",
+   "Giza arrazaren erdi baten, emakumeen, deia beste erdiaren, gizonen, uzien aurka (1825)",
+   "Lana sarituta (1827)"
+  ],
+  "anecdota": "<p>Thompsonek nahi zuen bere heriotzak ere bere ideiei balio ziezaien. Testamentuan, bere fortunaren zatirik handiena mugimendu kooperatiboari utzi zion, eta bere gorpua zientziari emateko eskatu zuen. Iloba batek, ordea, hileta kristau batekin lurperatu zuen, eta horrek eskandalizatu egin zituen hura ateo gisa ezagutzen zutenak; haren gorpuzkiak lurpetik atera behar izan zituzten haren nahia betetzeko. Haren anai-arrebek testamentua aurkaratu zuten, zoratuta zegoela alegatuz. Auziak hogeita bost bat urte iraun zuen, eta epaiketaren gastuek herentzia jan zuten: ez familiak ez kooperatibek ez zuten ezer jaso.</p>",
+  "fuente": "Thompsonen testamentua eta ondorengo auzia; Corkeko tokiko prentsa",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
+  ]
+ },
+ "feuerbach": {
+  "name": "Ludwig Feuerbach",
+  "dates": "1804 – 1872",
+  "born": 1804,
+  "died": 1872,
+  "place": "Landshut (Bavaria)",
+  "role": "filosofo materialista alemaniarra",
+  "idea": "Jainkoa giza ezaugarri idealizatuen proiekzioa besterik ez da; hura gurtzean, gizakia alienatu egiten da eta bere esentzia propiotik bereizten da.",
+  "bio": "<p>Ludwig Feuerbach Bavarian jaio zen, eta teologia ikasi zuen lehenik eta filosofia gero Berlinen, non Hegelen ikaslea izan zen. Hegeliar gazteen edo ezkerreko hegeliarren taldekoa izan zen. Erlijioari buruzko ideiek unibertsitateko bidea itxi zioten, eta bizitzaren zatirik handiena erretiratuta eman zuen, idazten.</p>\n<p><em>Kristautasunaren esentzia</em> lanean dio erlijioa <strong>proiekzio</strong> bat dela: gizakiak bere ezaugarriak (ontasuna, jakinduria, maitasuna) Jainkoari egozten dizkio, eta, hori eginez, bere burua pobretzen du. <strong>Alienazio</strong> modu bat da. Hegelen idealismoaren aurrean, gizaki zehatz eta sentikorrean oinarritutako <strong>materialismoa</strong> defendatzen du. Gai-zerrendan agertzen da Marx gaztearengan eragin erabakigarria izan zuelako: Marxek alienazioaren ideia hartu zion, eta <em>Feuerbachi buruzko tesiak</em> lanean kritikatu zuen.</p>",
+  "obras": [
+   "Kristautasunaren esentzia (1841)",
+   "Filosofiaren erreformarako behin-behineko tesiak (1842)",
+   "Etorkizuneko filosofiaren printzipioak (1843)"
+  ],
+  "anecdota": "<p>1850ean, Feuerbachek Jacob Moleschott fisiologoak elikadurari buruz idatzitako dibulgazio-liburu baten iruzkina idatzi zuen. Bertan, alemanezko hitz-joko bati esker ospetsu egingo zen esaldi bat utzi zuen: <em>Der Mensch ist, was er isst</em>, «gizakia jaten duena da» (alemanez, «da» eta «jaten du» ia berdin ahoskatzen dira). Txiste serio horrekin bere materialismoa laburbiltzen zuen: gizakia ez da gorpuzgabeko espiritu bat, izaki konkretu, sentikor eta bere baldintza materialen menpeko bat baizik. Kritikariek arrunkeria bat ikusi zuten horretan; berak, gorputzaren defentsa idealismoaren aurrean.</p>",
+  "fuente": "Feuerbach, Moleschotten elikadurari buruzko lanaren iruzkina (1850)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "mill": {
@@ -1790,7 +1866,9 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t5",
-   "fil-grandes-preguntas"
+   "fil-t6",
+   "fil-grandes-preguntas",
+   "fil-marxismos"
   ]
  },
  "mendel": {
@@ -1813,7 +1891,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-marxismos"
   ]
  },
  "wallace": {
@@ -1997,6 +2076,32 @@ const ILUSTRES = {
    "fil-t4"
   ]
  },
+ "unamuno": {
+  "name": "Miguel de Unamuno",
+  "dates": "1864 – 1936",
+  "born": 1864,
+  "died": 1936,
+  "place": "Bilbo",
+  "role": "filosofo, eleberrigile eta poeta",
+  "idea": "Hezur-haragizko gizakia agonian bizi da, etengabeko borrokan hilezkortasuna ukatzen duen arrazoiaren eta hura irrikatzen duen bihotzaren artean.",
+  "bio": "<p>Miguel de Unamuno Bilbon jaio zen, eta Filosofia eta Letrak ikasi zituen Madrilen. 1891tik aurrera grekoko katedraduna izan zen Salamancako Unibertsitatean, eta errektore izatera iritsi zen. 98ko Belaunaldiko figura handietako bat da. Primo de Riveraren diktadura kritikatzeagatik Fuerteventurara erbesteratu zuten 1924an, eta gero Frantzian bizi izan zen erbestean 1930era arte. 1936an jendaurrean egin zien aurre Salamancako altxatuei; kargutik kendu zuten eta handik gutxira hil zen, etxean atxilotuta.</p>\n<p>Unamunok <strong>existentzialismo kristau</strong> bat ordezkatzen du. «Hezur-haragizko gizakia» interesatzen zaio, norbanako zehatza, ez abstrakzioak. <em>Bizitzaren sentimendu tragikoaz</em> lanean gizakia <strong>agonian</strong> dagoen izaki gisa deskribatzen du, hitza borroka esanahi grekoan erabiliz: arrazoiak esaten dio ez dagoela hilezkortasunik, baina bihotzak indar guztiz desiratzen du. Konponbiderik gabeko gatazka horretatik sortzen da <strong>bizitzaren sentimendu tragikoa</strong>. Haren fedea ez da ziurtasun lasaia, zalantza egiten duen fedea baizik. Descartesen «pentsatzen dut, beraz banaiz»-en aurrean, sentimendua eta borondatea jartzen ditu gizakiaren erdigunean.</p>\n<p>Bere pentsamendua eleberrietan ere adierazi zuen, hala nola <em>Lainoa</em> eta <em>San Manuel Bueno, martiria</em> lanetan. XX. mendeko existentzialismoaren aitzindaritzat hartzen da, Kierkegaardekin kidetasunak dituela, eta, Ortega y Gasset eta María Zambranorekin batera, Espainiako filosofia garaikideko ahots nagusietako bat da.</p>",
+  "obras": [
+   "Bizitzaren sentimendu tragikoaz (1913)",
+   "Lainoa (1914)",
+   "Kristautasunaren agonia (1925)",
+   "San Manuel Bueno, martiria (1931)"
+  ],
+  "anecdota": "<p>Unamunok ustekabeko zaletasun bat zuen: paperezko txoritxoak egitea. Solasaldietan, kafetegietan eta etxean tolesten zituen, eta hain serio hartu zituen, non diziplina bat asmatu baitzuen, <strong>kokotologia</strong>, eta tratatu burlesko bat eskaini zion <em>Maitasuna eta pedagogia</em> (1902) eleberriaren amaieran. Solemnitate zientifiko faltsuz, txoritxoak sailkatu eta aztertzen zituen, animalia-espezieak balira bezala. Dena sistema batera murritz daitekeela uste dutenen harrokeriaz barre egiteko modu bat zen, abstrakzioez fidatzen ez zen pentsalari batengan oso berezkoa.</p>",
+  "fuente": "Unamuno, Maitasuna eta pedagogia (1902), «Kokotologiaren tratatu baterako oharrak»",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "weber": {
   "name": "Max Weber",
   "dates": "1864 – 1920",
@@ -2020,7 +2125,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-marxismos"
   ]
  },
  "curie": {
@@ -2142,7 +2248,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t2"
+   "fil-t2",
+   "fil-t6"
   ]
  },
  "duchamp": {
@@ -2245,7 +2352,33 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-marxismos"
+  ]
+ },
+ "horkheimer": {
+  "name": "Max Horkheimer",
+  "dates": "1895 – 1973",
+  "born": 1895,
+  "died": 1973,
+  "place": "Stuttgart (Alemania)",
+  "role": "filosofo eta soziologo alemana",
+  "idea": "Arrazoi ilustratua arrazoi instrumental bihurtuz endekatu da: bitarteko eraginkorrenak kalkulatzen ditu helburuez galdetu gabe, eta, horrela, menderakuntza-tresna bihurtu da.",
+  "bio": "<p>Max Horkheimer Stuttgarten jaio zen 1895ean, industrialarien familia judu batean. Filosofia eta psikologia ikasi zituen, eta 1930ean Frankfurteko Gizarte Ikerketarako Institutuko zuzendari bihurtu zen; institutu hori izan zen <strong>Frankfurteko Eskola</strong> deritzonaren muina. Hitler boterera iritsi zenean, Institutua erbestera joan zen, lehenik Genevara eta gero New Yorkera, Columbiako Unibertsitateari lotuta. 1949an Horkheimer Frankfurtera itzuli zen, Institutua berriro ireki zuen eta unibertsitateko errektore izatera iritsi zen.</p>\n<p>Horkheimerrek <strong>teoria kritikoa</strong> definitu zuen: gizartea deskribatzera mugatzen ez den filosofia, menderakuntza agerian utzi eta emantzipazioari laguntzea bilatzen duena. Adornorekin batera <em>Ilustrazioaren dialektika</em> (1944) idatzi zuen; bertan diote gizakia mitoetatik askatzeko jaio zen arrazoi ilustratua menderakuntza-tresna bihurtu dela azkenean. Hori da <strong>arrazoi instrumentala</strong>: bitarteko eraginkorrenak baino kalkulatzen ez dituen eta helburuak zuzenak diren galdetzeari uko egiten dion arrazionaltasuna. Horrela, teknikak, ekonomiak eta <strong>kultura-industriak</strong> kontrola gizarte-bizitza osora zabaltzen dute.</p>\n<p>Haren lanak Marxen kritika ekonomiatik harago zabaldu zuen, kulturara eta arrazoiaren ideia berera. Eragina izan zuen Habermasengan, teoria kritikoa ekintza komunikatibotik berritu baitzuen, eta hirurogeiko hamarkadako ikasle-mugimenduetan, nahiz eta bera haietatik urrun mantendu zen. Nurenbergen hil zen 1973an.</p>",
+  "obras": [
+   "Teoria tradizionala eta teoria kritikoa (1937)",
+   "Ilustrazioaren dialektika (1944, Adornorekin)",
+   "Arrazoi instrumentalaren kritika (1947)"
+  ],
+  "anecdota": "<p>Georg Lukács filosofo marxistak ospetsu egin zen ziztada bat eskaini zien Horkheimerri, Adornori eta Frankfurteko haien lankideei. 1962an idatzi zuen «Grand Hotel Amildegia»-n kokatu zirela: hotel luxuzko bat, erosotasun guztiekin, amildegiaren ertzera begira, eta handik munduaren hondamendia begiratzen zuten otordu on eta artelanen artean. Lukácsek leporatzen zien gizartea kritikatzen zutela ekintza politikoarekin konprometitu gabe. Txantxak <strong>teoria kritikoari</strong> buruzko funtsezko eztabaida bat laburbiltzen du: nahikoa ote den kritikoki pentsatzea edo errealitatea eraldatu behar ote den.</p>",
+  "fuente": "Lukács, Eleberriaren teoria lanaren 1962ko hitzaurrea",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
   ]
  },
  "gadamer": {
@@ -2342,7 +2475,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-marxismos"
   ]
  },
  "zambrano": {
@@ -2368,7 +2502,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t1"
+   "fil-t1",
+   "fil-t6"
   ]
  },
  "sartre": {
@@ -2397,7 +2532,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-marxismos"
   ]
  },
  "arendt": {
@@ -2710,7 +2846,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-t6"
+   "fil-t6",
+   "fil-marxismos"
   ]
  },
  "baudrillard": {
