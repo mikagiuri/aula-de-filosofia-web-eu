@@ -172,7 +172,7 @@ const DILEMAS = [
   "debate": {
    "epoca": "Antzinaroa eta XVII. mendea",
    "texto": "«Plutarkok kontatzen du atenastarrek Teseoren ontzia gorde zutela ohol ustelak berriez ordezkatuz, eta, hala, ontzia filosofoentzat adibide bihurtu zela: batzuek bera izaten jarraitzen zuela zioten, beste batzuek ezetz.»",
-   "fuente": "Plutarko, Teseoren bizitza, 23. Lockek arazoa birformulatzen du Giza adimenari buruzko entseiua lanean, II, 27 (1690).",
+   "fuente": "Plutarko, Teseoren bizitza, 23. Lockek arazoa birformulatzen du Giza adimenari buruzko saiakera lanean, II, 27 (1690).",
    "unidad": "fil-t2"
   },
   "preguntas": [

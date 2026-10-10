@@ -937,6 +937,114 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
+  "t": "Proposizioa",
+  "et": "Latinezko *propositio* hitzetik, *proponere* aditzetik: «aurrean jarri».",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Baieztatu edo ukatu egiten duen esaldi batek esaten duena, eta horregatik egiazkoa edo faltsua izan daitekeena. «Llueve» eta «Euria ari du» esaldi desberdinak dira, baina proposizio bera adierazten dute. Agindu bat edo galdera bat ez dira proposizioak."
+ },
+ {
+  "subject": "fil",
+  "t": "Judizioa",
+  "et": "Latinezko *iudicium* hitzetik, «erabakia, epaia», *iudex* hitzetik eratorria, «epailea».",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Logika tradizionalean, zerbaiti buruz zerbait baieztatu edo ukatu egiten duen gogoaren egintza. Proposizioa egintza horretan pentsatuta geratzen dena da: judizioa norbaitek egiten du une jakin batean; proposizioa bera da, nork pentsatzen duen gorabehera."
+ },
+ {
+  "subject": "fil",
+  "t": "Proposizio kategorikoa",
+  "et": "*Kategoriko*, grezierazko κατηγορικός (*kategorikós*) hitzetik, κατηγορεῖν (*kategoreîn*) aditzetik: «zerbaiti buruz zerbait baieztatu».",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Bi klase erlazionatzen dituena: subjektu bat (S) eta predikatu bat (P). Kantitatearen (unibertsala edo partikularra) eta kalitatearen (baiezkoa edo ezezkoa) arabera lau mota daude: A «S guztiak P dira», E «S bat ere ez da P», I «S batzuk P dira» eta O «S batzuk ez dira P»."
+ },
+ {
+  "subject": "fil",
+  "t": "Oposizio-karratua",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "A, E, I eta O proposizioak karratu baten izkinetan ordenatzen dituen eskema tradizionala, haien arteko harremanak erakusten dituena: kontraesankorrak (A-O, E-I: beti aurkako balioak), kontrarioak (A-E: ezin dira biak egiazkoak izan), subkontrarioak (I-O: ezin dira biak faltsuak izan) eta subalternoak (A-tik I ateratzen da, eta E-tik O). Gaur egungo logikan kontraesankorrak bakarrik mantentzen dira."
+ },
+ {
+  "subject": "fil",
+  "t": "Existentzia-konpromisoa",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Proposizio batek aipatzen duena existitzen dela ontzat ematea. Aristotelesentzat, baiezkoek hori suposatzen dute; gaur egungo logikarentzat, unibertsalek ez: «adarbakar guztiek adar bat dute» egiazkoa da adarbakarrik ez badago ere. Horregatik, Darapti bezalako silogismoak baliozkoak izateari uzten diote.",
+  "ilustre": [
+   "aristoteles"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Klasea",
+  "et": "Latinezko *classis* hitzetik, «taldea, zatiketa» (jatorriz, hiritar erromatarrak banatzen ziren talde bakoitza).",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Propietate bat duten gauza guztien multzoa: ugaztunen klasea, zenbaki bikoitien klasea. Hedaduraz eman daiteke, kideak zerrendatuz, edo ulermenaz, kideek zer propietate partekatzen duten esanez. Kiderik gabeko klasea klase hutsa da (∅)."
+ },
+ {
+  "subject": "fil",
+  "t": "Kidetasuna eta inklusioa",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Euskaraz «da»-rekin esaten diren bi harreman. Kidetasunak (∈) banako bat klase batekin lotzen du: «Sokrates ∈ gizakiak». Inklusioak (⊆) bi klase lotzen ditu: «gizakiak ⊆ hilkorrak». Inklusioa kateatu egiten da; kidetasuna, ez.",
+  "ilustre": [
+   "socrates"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Bildura, ebakidura eta osagarria",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Klaseekin egiten diren oinarrizko eragiketak. Bildurak (A ∪ B) A-n edo B-n dagoena biltzen du; ebakidurak (A ∩ B), bietan dagoena; osagarriak (Aᶜ), A-n ez dagoen guztia. «Edo», «eta» eta «ez» konektiboei dagozkie."
+ },
+ {
+  "subject": "fil",
+  "t": "De Morganen legeak",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Disjuntzio bat ukatzea haren bi zatiak ukatzea da: ¬(p ∨ q) = ¬p ∧ ¬q («ez bata ez bestea»). Konjuntzio bat ukatzea gutxienez zati bat ukatzea da: ¬(p ∧ q) = ¬p ∨ ¬q. Klaseekin: (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ eta (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. Augustus De Morganek formulatu zituen XIX. mendean.",
+  "ilustre": [
+   "de_morgan"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Euler diagrama",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Klase bakoitza zirkulu batekin irudikatzen duen marrazkia, baieztatzen den harremanaren arabera kokatua: bata bestearen barruan (guztiak), bereizita (bat ere ez) edo gurutzatuta (batzuk). Leonhard Eulerrek zabaldu zuen 1761eko gutunetan. Klaseak nola dauden kokatuta ez badakigu, egoera bat baino gehiago marraztu behar dira.",
+  "ilustre": [
+   "euler"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Venn diagrama",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Klaseak beti gurutzatutako zirkuluekin irudikatzen dituen marrazkia; horrela, eremu posible guztiak agertzen dira. Hutsik daudenak itzaldu egiten dira, eta gutxienez bat dagoen eremua ✕ batekin markatzen da. John Vennek proposatu zuen 1880an; hiru zirkulurekin, silogismo bat baliozkoa den egiazta daiteke.",
+  "ilustre": [
+   "venn"
+  ]
+ },
+ {
+  "subject": "fil",
+  "t": "Russellen paradoxa",
+  "et": "*Paradoxa*, grezierazko παράδοξος (*parádoxos*) hitzetik: παρά (*pará*) «aurka» + δόξα (*dóxa*) «iritzia».",
+  "area": "Logika",
+  "tema": "Filosofia · 4. gaia",
+  "def": "Beren buruaren kide ez diren klase guztien klasea, bere buruaren kide al da? Hala bada, ez da; hala ez bada, bada. Bertrand Russellek Fregeri jakinarazi zion 1902an, eta erakutsi zuen propietate orok ezin duela klase bat definitu.",
+  "ilustre": [
+   "frege",
+   "russell"
+  ]
+ },
+ {
+  "subject": "fil",
   "t": "Ontologia",
   "et": "Grezierazko ὄν, ὄντος (*on, óntos*), «dena», eta λόγος (*lógos*), «azterketa».",
   "area": "Metafisika",

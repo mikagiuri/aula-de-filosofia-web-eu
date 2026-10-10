@@ -6977,6 +6977,155 @@ const QUIZZES = {
    }
   ]
  },
+ "fil-venn-q": {
+  "name": "Proposizioak, klaseak eta Euler eta Venn diagramak (Filosofia 1. · T4)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Esaldi hauetako zeinek adierazten du proposizio bat?",
+    "o": [
+     "Itxi atea!",
+     "Zer ordu da?",
+     "Bihar euria egin dezala!",
+     "Gaur euria ari du Bilbon."
+    ],
+    "a": 3,
+    "fb": "Azkenak bakarrik baieztatzen du egiazkoa edo faltsua izan daitekeen zerbait. Agindu bat, galdera bat edo nahi bat ez dira proposizioak."
+   },
+   {
+    "q": "«Kirolari batzuk ez dira ezkerrak» mota honetako proposizioa da…",
+    "o": [
+     "A",
+     "E",
+     "I",
+     "O"
+    ],
+    "a": 3,
+    "fb": "Partikularra (batzuk) eta ezezkoa (ez): O. Bokalak affIrmo (A, I) eta nEgO (E, O) hitzetatik datoz."
+   },
+   {
+    "q": "«Distira egiten duen guztia ez da urrea» honen baliokidea da…",
+    "o": [
+     "Distira egiten duen ezer ez da urrea (E).",
+     "Distira egiten duen zerbait ez da urrea (O).",
+     "Distira egiten duen guztia urrea da (A).",
+     "Distira egiten duen zerbait urrea da (I)."
+    ],
+    "a": 1,
+    "fb": "Baiezko unibertsal bat (A) ukatzea haren kontraesankorra, O, baieztatzea da: nahikoa da distira egin eta urrea ez den kasu bat."
+   },
+   {
+    "q": "«Ikasturteko azterketa guztiak idatzizkoak dira» faltsua bada, zer dakigu ziur?",
+    "o": [
+     "Azterketa bat ere ez dela idatzizkoa.",
+     "Azterketa batzuk ez direla idatzizkoak.",
+     "Azterketa batzuk idatzizkoak direla.",
+     "Ezer ere ez."
+    ],
+    "a": 1,
+    "fb": "A eta O kontraesankorrak dira: bata faltsua bada, bestea egiazkoa da. E-ri buruz ez dakigu ezer, kontrarioak biak faltsuak izan daitezkeelako."
+   },
+   {
+    "q": "Tranpa-kasua: «Ikasle batzuek gainditu dute». Logikoki ondorioztatzen al da ikasle batzuek ez dutela gainditu?",
+    "o": [
+     "Bai: «batzuk» esateak «ez guztiak» esan nahi du.",
+     "Ez: I bateragarria da guztiek gainditu izanarekin.",
+     "Bai, kontrarioen legeagatik.",
+     "Ikasleak badaude bakarrik."
+    ],
+    "a": 1,
+    "fb": "Elkarrizketan «batzuk» esateak «ez guztiak» iradokitzen du, baina logikak ez du hori esaten: I eta O (subkontrarioak) biak izan daitezke egiazkoak, eta I egiazkoa da guztiek gainditzen badute ere."
+   },
+   {
+    "q": "Zer alde dago «Sokrates ∈ gizakiak» eta «gizakiak ⊆ hilkorrak» artean?",
+    "o": [
+     "Batere ez: biek «da» esaten dute.",
+     "Lehena banako batek klase batekiko duen kidetasuna da; bigarrena, klase bat beste baten barruan egotea (inklusioa).",
+     "Lehena inklusioa da, eta bigarrena, kidetasuna.",
+     "Biak dira kidetasuna."
+    ],
+    "a": 1,
+    "fb": "Inklusioa kateatu egiten da (gizakiak ⊆ hilkorrak ⊆ izaki bizidunak); kidetasuna ez: Sokrates gizakien klaseko kide da, baina ez da espezie bat."
+   },
+   {
+    "q": "Bi klaseren bildura (A ∪ B) konektibo honi dagokio…",
+    "o": [
+     "«eta» (∧)",
+     "«ez» (¬)",
+     "«edo» (∨)",
+     "«baldin…, orduan» (→)"
+    ],
+    "a": 2,
+    "fb": "x ∈ A ∪ B esateak x ∈ A edo x ∈ B esan nahi du. Ebakidura «eta»-ri dagokio, eta osagarria «ez»-ri."
+   },
+   {
+    "q": "De Morganen legeen arabera, (A ∪ B)ᶜ honen berdina da…",
+    "o": [
+     "Aᶜ ∪ Bᶜ",
+     "Aᶜ ∩ Bᶜ",
+     "A ∩ B",
+     "(A ∩ B)ᶜ"
+    ],
+    "a": 1,
+    "fb": "Bilduratik kanpo egotea A-tik kanpo eta, aldi berean, B-tik kanpo egotea da. Aᶜ ∪ Bᶜ-rekin nahastea da akatsik ohikoena: egiaztatu Logikaren txokoko «Multzoen legeak» fitxan."
+   },
+   {
+    "q": "Proposizioen Venn diagrama batean, eremu gris batek esan nahi du…",
+    "o": [
+     "Gutxienez bat dagoela.",
+     "Ez dakigula ezer.",
+     "Hutsik dagoela.",
+     "Ondorioa dela."
+    ],
+    "a": 2,
+    "fb": "Grisa = hutsik; ✕ = gutxienez bat dago; zuria = ez da jakiten. (Eragiketen marrazkietan, ordea, koloreak emaitza den eremua markatzen du.)"
+   },
+   {
+    "q": "Euler diagramen zer eragozpen konpondu zuen Vennek?",
+    "o": [
+     "Eulerrek ezin zituen bi klase baino gehiago marraztu.",
+     "Eulerrekin jakin behar da klaseak nola dauden kokatuta; jakiten ez bada, marrazki bat baino gehiago behar dira.",
+     "Eulerrek karratuak erabiltzen zituen, zirkuluen ordez.",
+     "Eulerren diagramek ez zuten balio silogismorako."
+    ],
+    "a": 1,
+    "fb": "Bi klaseren artean bost egoera daude (Gergonne), eta «S batzuk P dira» horietako laurekin da bateragarria. Vennek eremu guztiak marrazten ditu beti, eta bakoitzaz zer dakigun markatzen du."
+   },
+   {
+    "q": "Tranpa-kasua: «Adarbakar guztiek adar bat dute». Gaur egungo logikarentzat, adarbakarrik ez badago, proposizio hau…",
+    "o": [
+     "Faltsua da, adarbakarrik ez dagoelako.",
+     "Egiazkoa da, ez dagoelako hura faltsu bihurtzen duen adarbakarrik.",
+     "Ez da ez egiazkoa ez faltsua.",
+     "Kontraesankorra da."
+    ],
+    "a": 1,
+    "fb": "A honela irakurtzen da: «edozein gauzatarako, adarbakarra bada, adar bat du»; ez du baieztatzen adarbakarrak badaudenik. Aristotelesek, aldiz, baiezkoek existitzen den zerbaiti buruz hitz egiten dutela suposatzen zuen."
+   },
+   {
+    "q": "Darapti silogismoa (M guztiak P dira; M guztiak S dira; beraz, S batzuk P dira)…",
+    "o": [
+     "Baliozkoa da edozein logikatan.",
+     "Ez da baliozkoa bakar batean ere.",
+     "Baliozkoa da Aristotelesentzat, baina ez gaur egungo logikarentzat, M-rik ez badago.",
+     "M-rik ez badago bakarrik da baliozkoa."
+    ],
+    "a": 2,
+    "fb": "Bi premisa unibertsalek ez dute ✕-rik jartzen Venn diagraman. Gutxienez M bat badagoela gehitu behar da, ondorioa ager dadin."
+   },
+   {
+    "q": "Zer erakutsi zuen Russellen paradoxak (1901-1902)?",
+    "o": [
+     "Aristotelesen logika inkoherentea dela.",
+     "Propietate orok ezin duela klase bat definitu.",
+     "Venn diagramek ez dutela balio hiru klaserako.",
+     "Klase hutsa ez dela existitzen."
+    ],
+    "a": 1,
+    "fb": "Beren buruaren barnean ez dauden klase guztien klasea bere buruaren barnean dago, baldin eta soilik baldin ez badago. Russellek 1902an idatzi zion Fregeri; irtenbidea axiomen bidez finkatzea izan zen zer bilduma diren multzoak."
+   }
+  ]
+ },
  "fil-t4-repaso": {
   "name": "Logika eta argudiaketa (Filosofia 1. · T4 · errepasoa)",
   "subject": "fil",

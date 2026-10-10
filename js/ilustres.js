@@ -1438,6 +1438,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "euler": {
+  "name": "Leonhard Euler",
+  "dates": "1707 – 1783",
+  "born": 1707,
+  "died": 1783,
+  "place": "Basilea (Suitza)",
+  "role": "matematikari suitzarra",
+  "idea": "Klaseen arteko harremanak zirkuluen arteko harreman gisa ikus daitezke: bata bestearen barruan, bereizita edo gurutzatuta.",
+  "bio": "<p>Leonhard Euler Basilean jaio zen, eta Johann Bernoulli matematikariarekin ikasi zuen. Bizitza ia osoa bi zientzia-akademiaren zerbitzuan eman zuen: San Petersburgokoa (1727-1741 eta, berriro, 1766tik hil zen arte) eta Berlingoa (1741-1766). Historiako matematikaririk emankorrenetako bat da: analisiari, zenbakiei, mekanikari, optikari eta astronomiari buruz idatzi zuen. Begi bateko ikusmena galdu zuen 1740 inguruan, eta San Petersburgora itzuli ondoren ia itsu geratu zen; lanean jarraitu zuen, bere kalkuluak diktatuz.</p>\n<p>Filosofiarentzat batez ere <em>Alemaniako printzesa bati gutunak</em> lanagatik da garrantzitsua: Berlinen idatzi zituen, bere garaiko zientzia ikasle gazte bati azaltzeko, eta hiru liburukitan argitaratu ziren (1768-1772). Logikari eskainitako gutunetan (102.etik 108.era, 1761ekoak) proposizioak <strong>zirkuluekin</strong> irudikatu zituen: zirkulu bat beste baten barruan «guztiak» adierazteko, bereizita «bat ere ez» adierazteko, eta gurutzatuta «batzuk» adierazteko.</p>\n<p>Marrazki horiek, <strong>Euler diagramak</strong>, hain egin ziren ezagun, ezen oraindik ere silogismoa irakasteko erabiltzen baitira. Mende bat geroago, John Vennek eraldatu egin zituen, klaseak nola dauden kokatuta ez dakigunean ere balio zezaten.</p>",
+  "obras": [
+   "Infinituen analisirako sarrera (1748)",
+   "Alemaniako printzesa bati gutunak (1768-1772)"
+  ],
+  "fuente": "J. J. O'Connor eta E. F. Robertson, «Leonhard Euler», MacTutor History of Mathematics",
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "lamettrie": {
   "name": "Julien Offray de La Mettrie",
   "dates": "1709 – 1751",
@@ -1840,6 +1862,28 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "de_morgan": {
+  "name": "Augustus De Morgan",
+  "dates": "1806 – 1871",
+  "born": 1806,
+  "died": 1871,
+  "place": "Madurai (India)",
+  "role": "matematikari eta logikari britainiarra",
+  "idea": "«A edo B» ukatzea «ez A eta ez B» baieztatzea da, eta «A eta B» ukatzea «ez A, edo ez B» baieztatzea: haren izena daramaten legeak.",
+  "bio": "<p>Augustus De Morgan Indiako Madurai hirian jaio zen, aita armada britainiarrean zerbitzatzen ari zen garaian. Cambridgeko Trinity College-n ikasi zuen, eta 1827an graduatu zen, bere promozioko emaitzarik onenetako batekin, baina ezin izan zuen unibertsitatean jarraitu: goi-mailako titulua lortzeko proba erlijioso bat gainditu behar zen, eta printzipioz uko egin zion hura egiteari. 1828an, Londresko University College berriko lehen matematika-irakaslea izan zen; han ez zuten proba horiek eskatzen. Bi aldiz egin zuen dimisioa, bidezkotzat jotzen zuena defendatzeagatik.</p>\n<p>XIX. mendean logika berritu zutenen artean handienetako bat izan zen, bere lagun George Boolerekin batera. <em>Logika formala</em> (1847) lanean, silogismo klasikoak landu ezin zituen arrazoiketak aztertu zituen, eta gaur bere izena daramaten legeak formulatu zituen: disjuntzio baten ezeztapena ezeztapenen konjuntzioaren baliokidea da, eta alderantziz.</p>\n<p><strong>De Morganen legeek</strong> berdin balio dute proposizioetarako, klaseetarako eta zirkuitu elektronikoetarako. Londresko Elkarte Matematikoaren sortzaileetako bat eta haren lehen presidentea ere izan zen (1865-1866).</p>",
+  "obras": [
+   "Logika formala (1847)",
+   "Paradoxen bilduma (1872, hil ondoren argitaratua)"
+  ],
+  "fuente": "J. J. O'Connor eta E. F. Robertson, «Augustus De Morgan», MacTutor History of Mathematics",
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "darwin": {
   "name": "Charles Darwin",
   "dates": "1809 – 1882",
@@ -1993,6 +2037,31 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "venn": {
+  "name": "John Venn",
+  "dates": "1834 – 1923",
+  "born": 1834,
+  "died": 1923,
+  "place": "Hull (Ingalaterra)",
+  "role": "logikari eta filosofo britainiarra",
+  "idea": "Arrazoiketa bat egiaztatzeko, eremu posible guztiak marraztu eta hutsik daudenak markatu behar dira.",
+  "bio": "<p>John Venn Hullen jaio zen, kleriko anglikanoen familia batean, eta Cambridgeko Gonville and Caius College-n ikasi zuen; bizitza osoan irakasle izan zen bertan. 1859 inguruan apaiz ordenatu zen, baina 1883an apaizgoa utzi zuen, bere ideiak jada ez zetozelako bat Elizaren doktrinarekin.</p>\n<p><em>Zoriaren logika</em> (1866) lanean defendatu zuen gertaera baten probabilitatea kasu-segida luze batean gertatzen den maiztasuna dela, gaur oraindik eztabaidatzen den ideia. 1880an, <em>Philosophical Magazine</em> aldizkarian proposizioak diagramekin irudikatzeari buruzko artikulu bat argitaratu zuen, eta 1881ean, bere <em>Logika sinbolikoa</em>.</p>\n<p><strong>Venn diagramek</strong> Eulerrenak hobetu zituzten: zirkuluak beti gurutzatuta marrazten dira, eremu posible guztiak ager daitezen, eta hutsik daudenak itzaldu egiten dira. Horrela, marrazki bakar bat nahikoa da silogismo bat baliozkoa den egiaztatzeko. Gaur egun matematikan, estatistikan eta taldeak alderatzen dituen edozein irakasgaitan erabiltzen dira.</p>",
+  "obras": [
+   "Zoriaren logika (1866)",
+   "Logika sinbolikoa (1881)",
+   "Logika enpiriko edo induktiboaren printzipioak (1889)"
+  ],
+  "anecdota": "<p>Vennek makinak eraikitzea zuen zaletasun. Horietako batek kriket-pilotak jaurtitzen zituen, eta Australiako taldeak 1909an Cambridge bisitatu zuenean, makinak lau aldiz kanporatu zuen talde horretako izar handienetako bat. Bere seme John Archibaldekin batera, Cambridgeko Unibertsitateko ikasle ezagun guztien zerrenda bat ere prestatu zuen; lehen zatian 76.000 izen inguru biltzen ditu.</p>",
+  "fuente": "J. J. O'Connor eta E. F. Robertson, «John Venn», MacTutor History of Mathematics",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
   ]
  },
  "james": {
