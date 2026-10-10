@@ -180,6 +180,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-metafisica",
+   "fil-presocraticos",
    "fil-grandes-preguntas"
   ]
  },
@@ -208,6 +209,29 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "anaxagoras": {
+  "name": "Anaxagoras Klazomenaikoa",
+  "dates": "K.a. 500 ing. – 428",
+  "born": -500,
+  "died": -428,
+  "place": "Klazomenai (Jonia, gaur egungo Turkia)",
+  "role": "filosofo presokratikoa",
+  "idea": "Dena nahasitako hazi infinituz osatuta dago, eta adimen batek, Nousak, kosmosa bereizi eta ordenatu zuen zurrunbiloa abiarazi zuen.",
+  "bio": "<p>Anaxagoras Klazomenain jaio zen, Jonian, K.a. 500 inguruan. V. mendearen erdialdera Atenasen finkatu zen, filosofia joniarra hara eraman zuen, eta Periklesen lagun eta aholkulari izan zen. Eguzkia harri gori bat zela zioen, eta horregatik inpietatea leporatu zioten; Atenas utzi behar izan zuen eta Lampsakon hil zen K.a. 428 inguruan. Haren <em>Naturaz</em> liburutik zati batzuk gorde dira.</p>\n<p>Parmenidesen printzipioa onartu zuen: ezer ez da ezerezetik jaiotzen ezta ezerezean desagertzen ere. Horregatik, aldaketa <strong>hazi</strong> (spérmata) infinituen nahaste eta bereizketa gisa azaldu zuen; geroago <strong>homeomeria</strong> deitu zitzaien: kalitate guztien partikula txiki-txikiak. Gauza bakoitzean beste guztien zatiak daude, eta bakoitza dena dirudi nagusi den zatiagatik. Horrela, ogia haragi eta hezur bihur daiteke, jada badauzkalako. Prozesu hori abiarazten duena <strong>Nousa</strong> da, ezerekin nahasten ez den gogo edo adimen bat, osotasunari ordenatu zuen zurrunbilo-mugimendua eman ziona.</p>\n<p>Anaxagoras <strong>pluralistetako</strong> bat da, Enpedokles eta Demokritorekin batera. Nousarekin, printzipio adimendun bat agertzen da lehen aldiz kosmosaren ordenaren kausa gisa. Platonek <em>Fedon</em>en kontatzen duenez, Sokrates ideia horrekin txunditu zen, baina etsi egin zuen Anaxagorasek ia erabiltzen ez zuela eta ia dena kausa mekanikoekin azaltzen zuela ikustean.</p>",
+  "obras": [
+   "Naturaz (zatiak)"
+  ],
+  "anecdota": "<p>Kontatzen da Anaxagorasek bere familiaren ondasunak alde batera utzi zituela natura aztertzeari emateko, eta bere lurrak ardien larre bihurtzen utzi zituela. Norbaitek bere aberriaz ez arduratzea leporatu zionean, zerua seinalatu eta erantzun zuen: «Izugarri arduratzen naiz nire aberriaz». Beste behin, zertarako merezi zuen jaio izana galdetu zioten, eta erantzun zuen: «Zerua eta unibertso osoaren ordena kontenplatzeko». Aristotelesek azken erantzun hori jasotzen du ezagutzari emandako bizitzaren adibide gisa.</p>",
+  "fuente": "Diogenes Laertzio, Bizitzak II; Aristoteles, Eudemorentzako Etika I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-presocraticos"
+  ]
+ },
  "empedocles": {
   "name": "Enpedokles Agrigentokoa",
   "dates": "K.a. 495 ing. – 435 ing.",
@@ -229,7 +253,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-presocraticos"
   ]
  },
  "zenon_elea": {
@@ -247,7 +272,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-presocraticos"
   ]
  },
  "protagoras": {
@@ -299,6 +325,27 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4"
+  ]
+ },
+ "leucipo": {
+  "name": "Leuzipo",
+  "dates": "fl. K.a. 440 ing.",
+  "born": -480,
+  "died": null,
+  "place": "Mileto edo Abdera (ez dakigu ziur)",
+  "role": "filosofo atomista",
+  "idea": "Dena hutsunean mugitzen diren atomo zatiezinez egina dago, eta ezer ez da zoriz gertatzen: dena arrazoi batengatik eta beharrez gertatzen da.",
+  "bio": "<p>Leuzipo <strong>atomismoaren</strong> sortzailea eta <strong>Demokrito</strong>ren maisua da, baina hain pertsonaia iluna da, ezen Antzinaroan bertan Epikurok zalantzan jarri baitzuen existitu ote zen. Ez dakigu ziur non jaio zen ezta noiz hil zen ere; K.a. V. mendearen erdialdean aritu zela baino ez. Haren lanak laster nahastu ziren Demokritorenekin.</p>\n<p>Leuzipok mugimendua ukatzen zuten eleatarrei erantzun zien: onartu zuen izatea ez dela jaiotzen ez suntsitzen, baina partikula txiki-txiki eta zatiezin infinitutan banatu zuen, <strong>atomoetan</strong>, eta onartu zuen badagoela <strong>hutsunea</strong>, haiek mugitzeko. Ikusten dugun guztia atomoak nola elkartzen eta bereizten diren horretatik sortzen da. Esaldi bakar bat gordetzen da ziur harena: «ezer ez da zoriz gertatzen, dena arrazoi batengatik eta beharrez gertatzen da», <strong>determinismoaren</strong> lehen baieztapenetako bat.</p>",
+  "obras": [
+   "Kosmologia handia (egotzia)",
+   "Adimenaz"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-presocraticos"
   ]
  },
  "policleto": {
@@ -375,6 +422,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-metafisica",
+   "fil-presocraticos",
    "fil-grandes-preguntas"
   ]
  },
@@ -474,6 +522,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-presocraticos",
    "fil-helenismo"
   ]
  },
@@ -528,6 +577,7 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
+   "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas"
   ]
@@ -577,6 +627,7 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-t5",
+   "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas"
   ]
