@@ -68,7 +68,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-metafisica",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-grandes-preguntas"
   ]
  },
  "anaximandro": {
@@ -154,7 +155,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-grandes-preguntas"
   ]
  },
  "heraclito": {
@@ -177,7 +179,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "parmenides": {
@@ -201,7 +204,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-metafisica",
-   "fil-presocraticos"
+   "fil-presocraticos",
+   "fil-grandes-preguntas"
   ]
  },
  "empedocles": {
@@ -268,7 +272,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
-   "fil-t3"
+   "fil-t3",
+   "fil-grandes-preguntas"
   ]
  },
  "gorgias": {
@@ -317,7 +322,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "socrates": {
@@ -345,7 +351,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t7",
    "fil-presocraticos",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "democrito": {
@@ -367,7 +374,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "aristipo": {
@@ -443,7 +451,8 @@ const ILUSTRES = {
    "fil-t6",
    "fil-t7",
    "fil-presocraticos",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "diogenes": {
@@ -519,7 +528,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "pirron": {
@@ -567,7 +577,8 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-t5",
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-grandes-preguntas"
   ]
  },
  "zenon": {
@@ -691,7 +702,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "hipatia": {
@@ -761,7 +773,98 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
+  ]
+ },
+ "hildegarda": {
+  "name": "Hildegarda Bingengoa",
+  "dates": "1098 – 1179",
+  "born": 1098,
+  "died": 1179,
+  "place": "Bermersheim (Renania, Alemania)",
+  "role": "abadesa, mistikoa eta konpositorea",
+  "idea": "Gizakia mikrokosmos bat da, Jainkoak sortutako unibertsoaren ordena islatzen duena; beraz, fedeak, natur zientziak eta arteak jakintza bakarra osatzen dute.",
+  "bio": "<p>Hildegarda 1098an jaio zen Bermersheimen, Renanian, familia noble batean. Neskatoa zela, Disibodenbergeko monasterioko bizitza erlijiosoari eman zioten. 1136an monasterio horretako abadesa bihurtu zen, eta geroago bere komentua sortu zuen Rupertsbergen, Bingendik hurbil. Haurtzarotik ikuskariak zituela esan zuen, eta Eugenio III.a aita santuak zabaltzeko baimena eman zion. Aita santuekin, enperadoreekin eta Bernardo Clairvauxkoa bezalako figurekin gutun-harremana izan zuen, eta jendaurrean predikatu zuen, bere garaiko emakume batentzat salbuespenezko zerbait. 1179an hil zen, eta 2012an santu egin eta Elizako doktore aldarrikatu zuten.</p>\n<p>Nortasun <strong>anitzekoa</strong> izan zen: mistikoa, teologoa, medikua, naturalista eta konpositorea. <em>Scivias</em> lanean bere ikuskariak deskribatu eta interpretatu zituen. Medikuntzako eta natur zientzietako lanetan landareei, animaliei, mineralei eta gaixotasunei buruzko ezagutzak bildu zituen. Gizakia <strong>mikrokosmos</strong> gisa ulertzen zuen, «mundu txiki» bat, <strong>makrokosmosa</strong> islatzen duena, hau da, Jainkoak sortutako unibertso ordenatua. Gainera, kantu liturgiko ugari konposatu zituen, baita <em>Ordo Virtutum</em> ere, drama musikal bat, garaiko lan musikalik garrantzitsuenetako bat.</p>\n<p>Haren figurak erakusten du Erdi Aroko filosofia ez zela gizonen eta klerikoen kontua soilik izan, eta jakintzak <strong>fedea, zientzia eta artea batu</strong> zitzakeela. Gaur egun ahaztutako pentsalari emakumeak berreskuratzeko erreferentea da, Hipatia Alexandriakoarekin batera, eta haren musika interpretatzen eta grabatzen jarraitzen da.</p>",
+  "obras": [
+   "Scivias (1141-1151)",
+   "Fisika (Physica)",
+   "Kausak eta sendabideak",
+   "Ordo Virtutum"
+  ],
+  "anecdota": "<p>1178an, laurogei urte beteta, Hildegardak bere monasterioan lurperatzen utzi zuen eskomikatua izandako noble gazte bat, haren ustez hil aurretik Elizarekin adiskidetu zelako. Magontziako agintariek lurpetik ateratzeko agindu zioten, eta berak uko egin zion. Zigor gisa, komentua interdiktupean geratu zen eta mojek ezin izan zuten ofizio jainkotiarra abestu. Hildegardak protesta egin zuen prelatuei idatzitako gutun batean, non musika paradisuko harmoniaren oihartzun gisa defendatzen baitzuen. Zigorra haren heriotza baino pixka bat lehenago kendu zen.</p>",
+  "fuente": "Hildegardak Magontziako prelatuei idatzitako gutuna; Santa Hildegardaren bizitza",
+  "tradicion": false,
+  "vida": [
+   {
+    "a": 1141,
+    "b": 1151,
+    "t": "Scivias idatzi zuen"
+   },
+   {
+    "a": 1158,
+    "b": 1163,
+    "t": "Liber vitae meritorum idatzi zuen"
+   },
+   {
+    "a": 1163,
+    "b": 1174,
+    "t": "Liber divinorum operum idatzi zuen"
+   }
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
+ "averroes": {
+  "name": "Averroes",
+  "dates": "1126 – 1198",
+  "born": 1126,
+  "died": 1198,
+  "place": "Kordoba (al-Andalus)",
+  "role": "filosofo, legelari eta mediku andalusiarra",
+  "idea": "Egiak ezin dio egiari kontraesanik egin: froga filosofikoa eta errebelazioa bat datoz, nahiz eta bakoitza pertsona mota desberdin bati zuzendu.",
+  "bio": "<p>Abu-l-Walid Muhammad ibn Rushd, Mendebaldean Averroes izenez ezaguna, Kordoban jaio zen 1126an. Sevillako eta Kordobako kadi (epailea) izan zen, eta gorte almohadeko medikua. Kalifaren aginduz Aristotelesen lanak iruzkindu zituen, eta horregatik <strong>Iruzkingilea</strong> ezizena eman zioten. 1195 inguruan ospea galdu eta Lucenara erbesteratu zuten; gero birgaitu bazuten ere, Marrakechen hil zen 1198an.</p>\n<p>Averroesek benetako Aristoteles berreskuratu nahi izan zuen, eta filosofia defendatu zuen islamaren aurkakoa zela leporatzen ziotenen aurrean, al-Ghazali kasu. <em>Doktrina erabakigarria</em> lanean esan zuen arrazoiak eta errebelazioak ezin diotela elkarri kontraesanik egin, egia ez baitzaio egiari kontrajartzen. Testu sakratu batek froga batekin talka egiten duela dirudienean, modu alegorikoan interpretatu behar da. Gainera, bereizten zituen frogen bidez konbentzitzen direnak (filosofoak) eta argudio erretoriko edo dialektikoen bidez konbentzitzen direnak. Hortik sortu zen <strong>egia bikoitzaren</strong> teoria, bata fedearentzat eta bestea arrazoiarentzat. Hala ere, formulazio hori haren jarraitzaile latinoei, <strong>averroistei</strong>, zor zaie batez ere, Averroesi berari baino gehiago.</p>\n<p>Haren iruzkinak, latinera itzuliak, erabakigarriak izan ziren Mendebalde kristauak Aristoteles XIII. mendean ezagut zezan. Tomas Akinokoak arretaz irakurri zuen, nahiz eta haren tesi batzuk baztertu, hala nola gizateria osoarentzako adimen bakarrarena.</p>",
+  "obras": [
+   "Doktrina erabakigarria",
+   "Inkoherentziaren inkoherentzia",
+   "Aristotelesi buruzko iruzkinak",
+   "Medikuntzaren orokortasunen liburua"
+  ],
+  "anecdota": "<p>Averroesek ikasle bati kontatu zion nola ezagutu zuen Abu Yaqub Yusuf kalifa almohadea, Ibn Tufayl filosofoari esker. Agurtu bezain laster, kalifak galdetu zion zer pentsatzen zuten filosofoek zeruari buruz: betierekoa zen ala sortua izan zen? Averroesek, beldurtuta, filosofiaz ezer ez zekiela itxuratu zuen. Orduan kalifa gaia Ibn Tufaylekin eztabaidatzen hasi zen, Platon eta Aristoteles aipatuz, gaztea lasaitu eta hitz egin zuen arte. Handik opariekin atera zen eta, handik gutxira, Aristoteles azaltzeko enkarguarekin.</p>",
+  "fuente": "Al-Marrakushi, Almohadeen historia (Kitab al-Muyib)",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
+ "maimonides": {
+  "name": "Maimonides",
+  "dates": "1138 – 1204",
+  "born": 1138,
+  "died": 1204,
+  "place": "Kordoba (al-Andalus)",
+  "role": "filosofoa, medikua eta errabinoa",
+  "idea": "Fedeak eta arrazoiak ez dute elkar kontraesaten; Biblia arrazoiaren argitan irakurri behar da, eta Jainkoaz zer ez den baino ezin dugu esan.",
+  "bio": "<p>Moises ben Maimon, Maimonides, Kordobako familia judu batean jaio zen. Almohadeek hiria konkistatu eta juduak eta kristauak jazarri zituztenean, haren familiak alde egin behar izan zuen; al-Andalusen eta Afrika iparraldean urteak bidaiatzen eman ondoren, Egipton finkatu zen. Han Saladino sultanaren gorteko medikua eta komunitate juduaren gidaria izan zen. Hebreeraz lege juduaren bilduma handi bat idatzi zuen, <em>Mixne Tora</em>, gaur egun oraindik ikasten dena.</p>\n<p>Haren lan filosofiko nagusia, arabieraz idatzia, <em>Harrituen gida</em> da, Bibliak dioenaren eta Aristotelesek irakasten duenaren artean nahasita sentitzen ziren fededunentzat pentsatua. Maimonidesek dio ez dagoela kontraesanik: testu sakratu batek arrazoiaren aurka doala dirudienean, modu ez-literalean interpretatu behar da. Jainkoaz <strong>teologia negatiboa</strong> defendatu zuen: Jainkoak pentsa dezakegun guztia gainditzen duenez, egiaz zer <em>ez</em> den baino ezin dugu esan. Eragin handia izan zuen Tomas Akinokoarengan eta Spinozarengan.</p>",
+  "obras": [
+   "Harrituen gida",
+   "Mixne Tora"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
   ]
  },
  "tomas": {
@@ -801,7 +904,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-metafisica",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "ockham": {
@@ -838,7 +942,34 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t4",
-   "fil-t5"
+   "fil-t5",
+   "fil-grandes-preguntas"
+  ]
+ },
+ "erasmo": {
+  "name": "Erasmo Rotterdamgoa",
+  "dates": "1466 ing. – 1536",
+  "born": 1466,
+  "died": 1536,
+  "place": "Rotterdam (Herbehereak)",
+  "role": "humanista eta teologoa",
+  "idea": "Benetako erlijioa ontasunez eta bakean bizitzea da Ebanjelioari jarraituz, ez zeremoniak ez teologoen eztabaidak; eta horretarako testuak ondo irakurri eta hezi behar da.",
+  "bio": "<p>Erasmo apaiz baten legez kanpoko semea izan zen, eta oso gazte geratu zen umezurtz. Kalonje agustindarren komentu batean sartu eta apaiz ordenatu zuten, baina laster utzi zuen komentuko bizitza ikasteko eta bidaiatzeko: Paris, Ingalaterra, non <strong>Tomas Mororen</strong> lagun mina izan zen, Italia eta Basilea. Europako intelektualik ospetsuena izan zen, «humanisten printzea», eta 1516an Itun Berriaren lehen edizio inprimatua argitaratu zuen grekoz, bere latinezko itzulpenarekin.</p>\n<p><em>Eromenaren laudorioan</em> (1511), Morori eskainian, Eromenak berak burla egiten die gauza alferrez eztabaidatzen duten teologoei, fraide ezjakinei eta gerra egiten duten errege eta aita santuei. Erasmok erlijio xume, barnekoi eta Ebanjelioan oinarritua defendatzen zuen, eta <strong>bakezale</strong> sutsua izan zen. Elizaren gehiegikeriak kritikatu zituen, baina ez zuen harekin hautsi nahi izan: Luterok aukeramen askea ukatu zuenean, Erasmok haren alde idatzi zuen, eta biak elkarren aurka amaitu zuten. Unibertsitate-trukeetarako Europako Erasmus programak haren izena darama gaur egun.</p>",
+  "obras": [
+   "Eromenaren laudorioa",
+   "Zaldun kristauaren eskuliburua",
+   "Borondate askeaz",
+   "Bakearen kexa"
+  ],
+  "anecdota": "<p>Bere garaian esaera bat zebilen: «Erasmok jarri zuen arrautza eta Luterok txitatu zuen», hau da, haren kritikek Eliza prestatu zutela Erreformarako. Erasmok ironiaz erantzun zuen, gutun batean, berak oilo-arrautza bat jarri zuela eta Luterok hartatik oso bestelako txori bat atera zuela.</p>",
+  "fuente": "Erasmo, Johannes Caesariusi gutuna (1524)",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
   ]
  },
  "tomas_moro": {
@@ -862,6 +993,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6"
+  ]
+ },
+ "lutero": {
+  "name": "Martin Luther",
+  "dates": "1483 – 1546",
+  "born": 1483,
+  "died": 1546,
+  "place": "Eisleben (Saxonia, Alemania)",
+  "role": "teologoa eta erreformatzaile erlijiosoa",
+  "idea": "Gizakia fedeaz soilik salbatzen da, eta fededun bakoitzak Biblia zuzenean irakurri eta interpreta dezake, Elizaren agintearen mende egon gabe.",
+  "bio": "<p>Martin Luther Eislebenen jaio zen, Saxonian, 1483an. Zuzenbidea ikasi zuen, baina 1505ean agustindarren ordenan sartu zen. Teologia-irakaslea izan zen Wittenbergeko Unibertsitatean. 1517an bere <strong>95 tesiak</strong> argitaratu zituen induljentzien salmentaren aurka, eta data hori hartzen da <strong>Erreforma protestantearen</strong> hasieratzat. Aita santuak 1521ean eskomikatu zuen, eta ez zuen atzera egin nahi izan Karlos V.a enperadorearen aurrean, Wormseko Dietan. Saxoniako printzeak babestuta, Biblia alemanera itzuli zuen. Jaioterrian hil zen 1546an.</p>\n<p>Lutherrek Elizaren eta aita santuaren agintea zalantzan jarri zuen. Salbazioa fedearen eta Jainkoaren graziaren bidez soilik lortzen dela defendatu zuen, ez obren bidez. Idazteunak fedearen gaietan agintari bakarra direla eta fededun bakoitzak interpreta ditzakeela esan zuen: hori da <strong>azterketa askearen</strong> printzipioa. Gainera, fededunaren eta Jainkoaren arteko harreman zuzena proposatu zuen, bitartekaririk gabe. Horrela, <strong>kontzientzia indibidualaren</strong> garrantzia azpimarratu zuen.</p>\n<p>Erreformak Europaren batasun erlijioso eta intelektuala hautsi zuen, eta erlijio-gerra luzeak eragin zituen. Norbanakoari autonomia handiagoa emanez, Europako kulturaren sekularizazioa bultzatu zuen, eta Descartesen filosofia modernoa sortzen den testuinguruaren parte da. Haren pentsamendua Agustin Hiponakoan inspiratu zen, eta Joan Kalvinok Erreformaren beste adar bat garatu zuen gero.</p>",
+  "obras": [
+   "95 tesiak (1517)",
+   "Kristauaren askatasuna (1520)",
+   "Alemaniako nazioaren noblezia kristauari (1520)",
+   "Borondate esklabua (1525)"
+  ],
+  "anecdota": "<p>1505eko uztailean, Martin Luther zuzenbide-ikasle gaztea Erfurtera itzultzen ari zela, Stotternheim herrixkatik gertu ekaitz batek harrapatu zuen eta tximista bat oso gertu erori zitzaion. Izututa, oihu egin zuen: «Lagun iezadazu, santa Ana, eta fraide egingo naiz!». Aste gutxi batzuk geroago bete zuen bere promesa, aitaren nahiaren aurka, eta Erfurteko agustindarren komentuan sartu zen. Lutherrek berak askotan gogoratu zuen eszena hau, bere bilaketa erlijiosoaren hasiera markatu zuena.</p>",
+  "fuente": "Lutherren beraren lekukotasunak (Mahai-solasak)",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
   ]
  },
  "galileo": {
@@ -914,7 +1071,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t2",
    "fil-metafisica",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "descartes": {
@@ -990,7 +1148,8 @@ const ILUSTRES = {
    "fil-t2",
    "fil-t3",
    "fil-metafisica",
-   "fil-spinoza-sistema"
+   "fil-spinoza-sistema",
+   "fil-grandes-preguntas"
   ]
  },
  "isabel": {
@@ -1013,7 +1172,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "spinoza": {
@@ -1046,7 +1206,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-metafisica",
-   "fil-spinoza-sistema"
+   "fil-spinoza-sistema",
+   "fil-grandes-preguntas"
   ]
  },
  "locke": {
@@ -1074,7 +1235,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t3",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "malebranche": {
@@ -1175,7 +1337,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "montesquieu": {
@@ -1260,7 +1423,8 @@ const ILUSTRES = {
    "fil-t4",
    "fil-t5",
    "fil-t6",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "rousseau": {
@@ -1285,7 +1449,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "baumgarten": {
@@ -1328,7 +1493,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "kant": {
@@ -1360,7 +1526,8 @@ const ILUSTRES = {
    "fil-metafisica",
    "fil-t5",
    "fil-t6",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "lamarck": {
@@ -1410,7 +1577,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t5",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "gouges": {
@@ -1433,7 +1601,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "wollstonecraft": {
@@ -1458,7 +1627,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "schiller": {
@@ -1512,7 +1682,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "mill": {
@@ -1618,7 +1789,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t5"
+   "fil-t5",
+   "fil-grandes-preguntas"
   ]
  },
  "mendel": {
@@ -1744,7 +1916,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t5"
+   "fil-t5",
+   "fil-grandes-preguntas"
   ]
  },
  "frege": {
@@ -1995,7 +2168,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "wittgenstein": {
@@ -2095,6 +2269,27 @@ const ILUSTRES = {
    "fil-t7"
   ]
  },
+ "ryle": {
+  "name": "Gilbert Ryle",
+  "dates": "1900 – 1976",
+  "born": 1900,
+  "died": 1976,
+  "place": "Brighton (Ingalaterra)",
+  "role": "filosofo analitiko britainiarra",
+  "idea": "Dualismo kartesiarra kategoria-akats bat da: gogoa ez da gorputzaren makinaren barruko mamu bat, jarduteko gaitasun eta joera multzo bat baizik.",
+  "bio": "<p>Gilbert Ryle Brightonen (Ingalaterra) jaio zen 1900ean. Oxfordeko Unibertsitatean ikasi eta irakatsi zuen; filosofiako katedraduna izan zen han, eta bi hamarkada baino gehiagoz <em>Mind</em> aldizkariaren zuzendaria, filosofia anglosaxoiko eragin handienekoetako bat. Hizkuntza arruntaren filosofia deritzonaren figura nagusietako bat izan zen: hitzak benetan nola erabiltzen ditugun aztertzen du filosofia horrek. 1976an hil zen.</p>\n<p><em>Gogoaren kontzeptua</em> (1949) lanean Descartesen dualismoa kritikatu zuen, gogoa gorputzaz bestelako substantzia gisa ulertzen baitu, eta ironiaz <strong>makinako mamua</strong> deitu zion. Rylen arabera, dualismo horrek <strong>kategoria-akats</strong> bat egiten du: gogoa beste gauza bat balitz bezala tratatzen du, gogoaz hitz egitea jarduteko gaitasunez eta joerez hitz egitea denean. Gai-zerrendan dualismo kartesiarraren kritikari klasiko gisa agertzen da.</p>",
+  "obras": [
+   "Gogoaren kontzeptua (1949)",
+   "Dilemak (1954)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
  "popper": {
   "name": "Karl Popper",
   "dates": "1902 – 1994",
@@ -2120,7 +2315,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-t4",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "adorno": {
@@ -2200,7 +2396,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "arendt": {
@@ -2228,7 +2425,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "beauvoir": {
@@ -2256,7 +2454,8 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t2",
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "turing": {
@@ -2406,7 +2605,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t6"
+   "fil-t6",
+   "fil-grandes-preguntas"
   ]
  },
  "kuhn": {
@@ -2431,7 +2631,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-grandes-preguntas"
   ]
  },
  "danto": {
@@ -2457,7 +2658,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "dickie": {
@@ -2479,7 +2681,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t7"
+   "fil-t7",
+   "fil-grandes-preguntas"
   ]
  },
  "habermas": {
@@ -2587,6 +2790,32 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "han": {
+  "name": "Byung-Chul Han",
+  "dates": "1959an jaioa",
+  "born": 1959,
+  "died": null,
+  "place": "Seul (Hego Korea)",
+  "role": "filosofo hegokorear-alemaniarra",
+  "idea": "Errendimenduaren gizartean jada ez gaitu kanpoko nagusi batek esplotatzen: geure burua esplotatzen dugu aske garela sinetsita, eta ondorioa nekea eta depresioa dira.",
+  "bio": "<p>Byung-Chul Han Seulen jaio zen 1959an. Metalurgia ikasi zuen Korean, baina laurogeiko hamarkadan Alemaniara joan zen filosofia, literatura eta teologia ikastera Friburgon eta Munichen. Heideggerri buruzko tesi batekin egin zuen doktoretza, eta Karlsruhen eta Berlingo Arteen Unibertsitatean izan da irakasle. Alemanez idazten ditu saiakera laburrak, hizkuntza askotara itzuli direnak.</p>\n<p><em>Nekearen gizartea</em> (2010) lanean dio Foucaultek deskribatutako <strong>diziplina-gizartetik</strong>, debekuetan eta kanpoko kontrolean oinarritua, <strong>errendimenduaren gizartera</strong> igaro garela. Horretan inork ez gaitu kanpotik behartzen: geure buruari exijitzen diogu, dena posible dela dioen leloaren pean. Subjektua bere buruaren enpresaburu bihurtzen da eta <strong>autoesplotatu</strong> egiten da aske dela sinetsita. Bere helburuak lortzen ez dituenean, ez da sistemaren aurka matxinatzen, bere burua errudun egiten du baizik. Hortik dator akiduraren, antsietatearen eta depresioaren epidemia. Hanek <strong>gardentasuna</strong> eta datu digitalen bidezko kontrola ere aztertu ditu.</p>\n<p>Haren lanak Foucault, Heidegger eta Frankfurteko Eskolaren tradizio kritikoarekin egiten du elkarrizketa. Mundu digitalari eta gaur egungo kapitalismoari buruz gehien irakurtzen diren pentsalarietako bat da.</p>",
+  "obras": [
+   "Nekearen gizartea (2010)",
+   "Gardentasunaren gizartea (2012)",
+   "Psikopolitika (2014)",
+   "Bestelakoaren kanporatzea (2016)"
+  ],
+  "anecdota": "<p>Bizitza digitalaren kritikariak nahiago du lurra pantailak baino. Hiru udaberri eta hiru udatan, Hanek lorategi bat landu zuen Berlinen eta liburu bihurtu zuen: <em>Lurraren laudorioa</em> (2018). Kontatzen du loreen izenak ikasi zituela, neguan ere landatzen zuela eta lorategiak itxaroten, zaintzen eta azkartu ezin diren erritmoak onartzen irakatsi ziola. Bere saiakeretan deskribatzen dituen presaren eta autoesplotazioaren aurrean, lurrean eskuekin lan egitea denbora berreskuratzeko modu bat iruditzen zaio.</p>",
+  "fuente": "Byung-Chul Han, Lurraren laudorioa. Bidaia bat lorategira (2018)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-grandes-preguntas"
+  ]
+ },
  "chalmers": {
   "name": "David Chalmers",
   "dates": "1966an jaioa",
@@ -2609,7 +2838,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-grandes-preguntas"
   ]
  },
  "bostrom": {

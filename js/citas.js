@@ -168,6 +168,22 @@ const CITAS = [
   "img": "media/retratos/museo2/ockham.jpg"
  },
  {
+  "c": "Eta argi biziaren ispilu baten modukoa ikusi nuen, eta hartan argitasun distiratsu bat isurtzen zen kreatura ororen gainera.",
+  "a": "Hildegarda Bingengoa",
+  "o": "Scivias-en aurkitu gabeko parafrasia; «argi bizia» Gembloux-ko Guiberti idatzitako gutunetik dator (1175)",
+  "e": "medieval",
+  "id": "hildegarda",
+  "img": "media/retratos/ilustres/hildegarda.jpg"
+ },
+ {
+  "c": "Errebelazioa giza gaitasunaren arabera ulertu behar da, metaforetara eta sinboloetara joz esanezina adierazteko.",
+  "a": "Maimonides",
+  "o": "«Toraren hizkera gizakiena da» printzipioaren parafrasia, Harrituen gida I, 26",
+  "e": "medieval",
+  "id": "maimonides",
+  "img": "media/retratos/museo2/maimonides.jpg"
+ },
+ {
   "c": "Zer da, bada, denbora? Inork galdetzen ez badit, badakit; galdetzen didanari azaldu nahi badiot, ez dakit.",
   "a": "San Agustin",
   "o": "Aitorpenak XI, 14, 17",
