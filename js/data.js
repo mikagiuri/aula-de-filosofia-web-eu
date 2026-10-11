@@ -1111,7 +1111,7 @@ const DECKS = {
    [
     "→",
     "Baldintzazkoa",
-    "«baldin… orduan»: faltsua aurrekaria V eta ondorengoa F direnean soilik."
+    "«baldin… orduan»: faltsua aurrekaria V eta atzekaria F direnean soilik."
    ],
    [
     "↔",
@@ -2389,7 +2389,7 @@ const QUIZZES = {
      "q faltsua den bakoitzean"
     ],
     "a": 2,
-    "fb": "«baldin… orduan»k huts egiten du soilik aurrekaria egiazkoa eta ondorengoa faltsua direnean."
+    "fb": "«baldin… orduan»k huts egiten du soilik aurrekaria egiazkoa eta atzekaria faltsua direnean."
    },
    {
     "q": "p ∨ q disjuntzio inklusiboa faltsua da…",
@@ -4510,7 +4510,7 @@ const QUIZZES = {
    {
     "q": "Badakigu p → q baldintzazkoa egiazkoa dela eta p ere egiazkoa dela. Egia-taularen arabera, zer balio du q-k?",
     "o": [
-     "Faltsua, baldintzazkoak beti ukatzen duelako ondorengoa.",
+     "Faltsua, baldintzazkoak beti ukatzen duelako atzekaria.",
      "Ezin da jakin: q egiazkoa zein faltsua izan daiteke.",
      "Egiazkoa, bi gauzak betetzen diren errenkada bakarra delako.",
      "Faltsua, aurrekari egiazkoa duen baldintzazkoa beti delako faltsua."
@@ -7265,13 +7265,13 @@ const QUIZZES = {
    {
     "q": "«p → q» baldintzazkoan, nola deitzen da q proposizioa?",
     "o": [
-     "Ondorengoa",
+     "Atzekaria",
      "Aurrekaria",
      "Ukapena",
      "Konjuntzioa"
     ],
     "a": 0,
-    "fb": "Baldintzazkoan, p aurrekaria da eta q ondorengoa; baldintzazkoa faltsua da soilik aurrekaria egiazkoa eta ondorengoa faltsua direnean."
+    "fb": "Baldintzazkoan, p aurrekaria da eta q atzekaria; baldintzazkoa faltsua da soilik aurrekaria egiazkoa eta atzekaria faltsua direnean."
    },
    {
     "q": "Zein da lokailu logikoen funtzioa?",

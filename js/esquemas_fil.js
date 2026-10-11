@@ -988,7 +988,7 @@ const ESQUEMAS_FIL = {
      "c": [
       {
        "rel": "adibidez",
-       "t": "Ondorengoa baieztatzea",
+       "t": "Atzekaria baieztatzea",
        "d": "«Euria ari badu, lurra bustitzen da; lurra bustita dago; beraz, euria egin du». Ur-mahuka bat izan zitekeen."
       }
      ]
