@@ -399,7 +399,8 @@ const ILUSTRES = {
    "fil-t7",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "democrito": {
@@ -500,7 +501,8 @@ const ILUSTRES = {
    "fil-t7",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "diogenes": {
@@ -579,7 +581,8 @@ const ILUSTRES = {
    "fil-t7",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "pirron": {
@@ -629,7 +632,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-presocraticos",
    "fil-helenismo",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "zenon": {
@@ -776,7 +780,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-comunidades-perseguidos"
   ]
  },
  "avicena": {
@@ -895,7 +900,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "maimonides": {
@@ -917,6 +923,28 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-grandes-preguntas"
+  ]
+ },
+ "roger_bacon": {
+  "name": "Roger Bacon",
+  "dates": "1220 ing. – 1292 ing.",
+  "born": 1220,
+  "died": 1292,
+  "place": "Ilchester (Ingalaterra)",
+  "role": "filosofo eta zientzialari frantziskotarra",
+  "idea": "Esperientziarik gabe ezin da ezer ziur jakin: zientziak bere baieztapenak egiaztatu behar ditu eta matematikan oinarritu.",
+  "bio": "<p>Roger Baconek Oxforden eta Parisen ikasi eta irakatsi zuen, eta frantziskotarren ordenan sartu zen. 1267 inguruan, Klemente IV.a aita santuak eskatuta, bere <em>Obra nagusia</em> idatzi zuen, bere garaiko jakintza osoa berritzeko proposamena. Miresleek «Doktore miragarria» deitu zioten. Ez da nahastu behar Francis Baconekin, hiru mende eta erdi geroago bizi izan baitzen.</p>\n<p>Baconek kritikatu zuen bere garaiko jakintsuek agintarien iritziaz gehiegi fidatzen zirela. Akatsaren lau kausa aipatu zituen: <strong>autoritate</strong> ez-fidagarri bati jarraitzea, <strong>ohitura</strong>, <strong>gehiengoaren iritzia</strong> eta norberaren ezjakintasuna ezkutatzea, jakin itxurak eginez. Horien aurrean <strong>zientzia esperimentala</strong> eta matematika defendatu zituen. Optika, argiaren errefrakzioa eta lenteak aztertu zituen, eta fantasia ziruditen makinak irudikatu zituen, hala nola arraunlaririk gabeko itsasontziak edo animaliarik gabeko gurdiak. Geroko tradizio batek dio bere ordenak espetxeratu egin zuela bere ideiengatik, baina ez dago froga segururik.</p>",
+  "obras": [
+   "Obra nagusia (Opus maius)",
+   "Obra txikia",
+   "Hirugarren obra"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "tomas": {
@@ -993,6 +1021,7 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
+   "fil-t3",
    "fil-t4",
    "fil-t5",
    "fil-grandes-preguntas"
@@ -1073,6 +1102,76 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "calvino": {
+  "name": "Joan Kalvino",
+  "dates": "1509 – 1564",
+  "born": 1509,
+  "died": 1564,
+  "place": "Noyon (Pikardia, Frantzia)",
+  "role": "teologoa eta erreformatzaile protestantea",
+  "idea": "Jainkoak, subirano absolutuak, betidanik predestinatu du nor salbatuko den, eta fededunak diziplinaz eta arduraz bizi behar du haren hitzaren arabera.",
+  "bio": "<p>Joan Kalvino Noyonen jaio zen, Frantziako iparraldean, 1509an. Teologia eta zuzenbidea ikasi zituen Parisen, Orleansen eta Bourgesen, eta 1533 inguruan Erreformaren ideiekin bat egin zuen. Frantzian jazarrita, Suitzara ihes egin zuen. 1541etik aurrera Genevako bizitza erlijioso eta morala zuzendu zuen, eta protestantismoaren gune handi bihurtu zuen hiria, 1564an hil zen arte.</p>\n<p>Kalvinok Erreformaren bigarren adar handia garatu zuen. Jainkoaren subiranotasun absolutua eta <strong>predestinazioaren</strong> doktrina nabarmendu zituen: Jainkoak aldez aurretik erabaki du nor salbatuko den. Lutherrek bezala, <strong>kontzientzia indibiduala</strong> eta Bibliaren agintea azpimarratu zituen. Gai-zerrendan agertzen da, Erreformak Elizaren batasun intelektuala hautsi zuelako eta filosofia modernoaren testuinguruaren parte delako.</p>",
+  "obras": [
+   "Erlijio kristauaren instituzioa (1536)"
+  ],
+  "anecdota": "<p>1536an, Kalvinok gau bakarra igaro nahi zuen Genevan, Estrasburgorako bidean, han ikasketei lasai eman nahi baitzien bere burua. Baina Guillaume Farel predikaria, han Erreforma ezartzen saiatzen ari zena, jakinaren gainean jarri eta haren bila joan zen. Kalvinok geratzeari uko egin zionean, Farelek solemneki ohartarazi zion Jainkoak madarikatu egingo zituela bere erretiroa eta ikasketak eginkizun hura uzten bazuen. Kalvino, bere kontakizunaren arabera, hain hunkituta geratu zen, non bidaiari uko egin baitzion. Geneva ez zen gehiago haren izenetik bereiziko.</p>",
+  "fuente": "Kalvino, Salmoen iruzkinaren hitzaurrea",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "giordano_bruno": {
+  "name": "Giordano Bruno",
+  "dates": "1548 – 1600",
+  "born": 1548,
+  "died": 1600,
+  "place": "Nola (Napoli ondoan, Italia)",
+  "role": "filosofo eta kosmologoa",
+  "idea": "Unibertsoa infinitua da eta mundu infinituz betea dago; izar bakoitza eguzki bat da, bere planetekin.",
+  "bio": "<p>Giordano Bruno fraide dominikarra izan zen, baina ordena utzi zuen heresia-salaketa jaso ondoren, eta urte luzez Europan barrena ibili zen: Geneva, Tolosa, Paris, Londres, Wittenberg, Praga… Leku guztietan irakatsi eta eztabaidatu zuen, eta askotan agintariekin liskarrean amaitu zuen, katolikoak zein protestanteak izan. 1592an Venezian salatu eta Erromako Inkisizioaren esku utzi zuten. Ia zortzi urteko prozesuaren ondoren, atzera egiteari uko egin zion, eta bizirik erre zuten Erroman, Campo de’ Fiori plazan, 1600ean.</p>\n<p>Brunok <strong>Kopernikoren</strong> teoria onartu zuen, Lurra Eguzkiaren inguruan biraka dabilela dioena, eta askoz harago joan zen: unibertsoa <strong>infinitua</strong> da, ez du erdigunerik, eta izarrak beste mundu batzuez inguratutako eguzkiak dira, agian bizidunak. Jainkoa ez dago munduaz kanpo, natura osoan baizik. Batez ere dogma kristauak ukatzeagatik kondenatu zuten, ez bakarrik bere kosmologiagatik, baina haren irudia pentsamendu-askatasunaren ikur bihurtu zen: 1889an estatua bat altxatu zioten hil zen lekuan.</p>",
+  "obras": [
+   "Unibertso infinituaz eta munduez",
+   "Errautsen afaria",
+   "Kausaz, printzipioaz eta batez"
+  ],
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "francis_bacon": {
+  "name": "Francis Bacon",
+  "dates": "1561 – 1626",
+  "born": 1561,
+  "died": 1626,
+  "place": "Londres (Ingalaterra)",
+  "role": "filosofo, legelaria eta politikaria",
+  "idea": "Jakitea boterea da: zientziak natura behatzetik abiatu behar du eta indukzioz aurrera egin, adimenaren aurreiritzietatik aske.",
+  "bio": "<p>Francis Bacon abokatua eta politikaria izan zen, eta lord kantziler izatera iritsi zen Jakue I.a erregearekin, harik eta 1621ean eroskeriak onartzea leporatu eta karguetatik kendu zuten arte. Orduan azken urteak filosofiari eskaini zizkion. Ez da nahastu behar Roger Baconekin, Erdi Aroko frantziskotarrarekin.</p>\n<p>Bere <em>Novum organum</em>ean («tresna berria»), zeinaren izenburuak Aristotelesen <em>Organon</em>ari erantzuten dion, zientziarako metodo berri bat proposatzen du: kasu asko behatu, alderatu eta pixkanaka lege orokorretara iritsi, hau da, <strong>indukzioa</strong>. Aurretik, <strong>idoloetatik</strong> askatu behar da, gure ezagutza desitxuratzen duten akatsetatik: leinuarenak (giza izaerari dagozkionak), leizearenak (norbanakoarenak), foroarenak (hizkuntzarenak) eta antzokiarenak (heredatutako teoriena). Baconentzat jakintzaren helburua giza bizitza hobetzea da: «jakitea boterea da». <em>Atlantida berria</em>n ikerketa zientifikoaren inguruan antolatutako gizarte bat irudikatu zuen.</p>",
+  "obras": [
+   "Novum organum",
+   "Saiakerak",
+   "Atlantida berria"
+  ],
+  "anecdota": "<p>John Aubreyren arabera, 1626ko elurte-egun batean Baconek jakin nahi izan zuen hotzak haragia kontserbatzen ote zuen. Gurdia gelditu, oilo bat erosi, hilarazi eta berak elurrez bete zuen. Hainbeste hoztu zen, ezen gaixotu eta egun gutxiren buruan hil baitzen. Istorioa ederegi dator esperimentuaren aldeko haren defentsarekin, eta historialariek zalantzan jartzen dute zehazki horrela gertatu izana.</p>",
+  "fuente": "John Aubrey, Bizitza laburrak",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "galileo": {
   "name": "Galileo Galilei",
   "dates": "1564 – 1642",
@@ -1090,6 +1189,32 @@ const ILUSTRES = {
   "anecdota": "<p>Vincenzo Viviani bere ikasle eta biografoaren arabera, hemeretzi urte eskas zituen Galileok Pisako katedralean sabaitik zintzilik kulunkatzen zen lanpara bat behatzen zuen. Pultsua erloju gisa hartuta, egiaztatu zuen kulunkaldi bakoitzak denbora bera irauten zuela, kulunka zabala zein txikia izan. Horrela aurkituko zuen penduluaren isokronismoa. Istorioa agian edertua dago, baina erakusten du zerk bihurtuko zuen aitzindari: eguneroko fenomenoak neurtzea, autoritateez fidatu beharrean.</p>",
   "fuente": "Vincenzo Viviani, Galileoren bizitzaren kontakizun historikoa",
   "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "kepler": {
+  "name": "Johannes Kepler",
+  "dates": "1571 – 1630",
+  "born": 1571,
+  "died": 1630,
+  "place": "Weil der Stadt (Alemania)",
+  "role": "astronomoa eta matematikaria",
+  "idea": "Planetek ez dute zirkulu perfektuetan biratzen, orbita eliptikoetan baizik, Eguzkia fokuetako batean dutela, lege matematiko zehatzei jarraituz.",
+  "bio": "<p>Johannes Kepler Alemaniako hegoaldean jaio zen, teologia eta matematika ikasi zituen Tübingenen, eta gaztetatik kopernikar sutsua izan zen. Pragan Tycho Brahe astronomo daniarraren laguntzaile izan zen, eta hura hiltzean planeten behaketa zehatzak heredatu zituen. Matematikari inperiala izan zen, eta Hogeita Hamar Urteko Gerraren gatazka erlijiosoak bizi izan zituen.</p>\n<p>Braheren datuetatik abiatuta, Keplerrek <strong>planeten mugimenduaren legeak</strong> formulatu zituen, hiru guztira. Ospetsuenak dio planetek <strong>orbita eliptikoak</strong> egiten dituztela, eta ez tradizioak uste zituen zirkulu perfektuak. <strong>Iraultza zientifikoaren</strong> protagonistetako bat bezala agertzen da gai-zerrendan; iraultza horrek Aristotelesen kosmologiaren ordez lege matematikoek gobernatutako unibertsoa jarri zuen. Geroago, Newtonen grabitazioak azaldu zituen haren legeak.</p>",
+  "obras": [
+   "Misterio kosmografikoa (1596)",
+   "Astronomia berria (1609)",
+   "Munduaren harmonia (1619)"
+  ],
+  "anecdota": "<p>1595eko uztailean, Grazen eskolak ematen ari zela, Keplerrek Jupiter eta Saturnoren konjuntzioak marrazten zituen arbelean. Zirkulu baten barruan triangeluak marraztean, beste zirkulu bat agertzen ikusi zuen barnean, eta iruditu zitzaion bien arteko proportzioak planeta horien orbitena gogorarazten zuela. Handik ideia ausart batera jauzi egin zuen: planeten distantziak bost solido erregularrak bata bestearen barruan txertatuz azal zitezkeen. Teoria faltsua zen, baina ordena matematiko batean zuen fede horrek bere legeetaraino gidatu zuen.</p>",
+  "fuente": "Kepler, Unibertsoaren sekretua (Mysterium cosmographicum), hitzaurrea",
+  "tradicion": false,
   "block": "ren",
   "subjects": [
    "fil"
@@ -1251,6 +1376,31 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "pascal": {
+  "name": "Blaise Pascal",
+  "dates": "1623 – 1662",
+  "born": 1623,
+  "died": 1662,
+  "place": "Clermont (Auvernia, Frantzia)",
+  "role": "matematikari, fisikari eta filosofoa",
+  "idea": "Arrazoia indartsua da, baina mugatua: gizakia ihi pentsalari bat da, hauskorra eta handia aldi berean, eta «bihotzak baditu arrazoiak, arrazoiak ezagutzen ez dituenak».",
+  "bio": "<p>Blaise Pascal haur prodigioa izan zen, eta aitak hezi zuen etxean; aita magistratua zen, zientziazalea. 16 urterekin sekzio konikoei buruzko tratatu bat idatzi zuen, eta 19rekin kalkulagailu bat asmatu zuen, <strong>pascalina</strong>, aitari zergen kontuetan laguntzeko. Hutsari eta airearen presioari buruzko esperimentu erabakigarriak egin zituen (1648an haren koinatuak, berak hala eskatuta, neurtu zuen nola jaisten zen merkurioa Puy de Dôme mendira igotzean) eta, Fermatekin izandako gutunetan, <strong>probabilitateen</strong> kalkuluaren oinarriak ezarri zituen.</p>\n<p>1654ko azaroan esperientzia erlijioso bizi bat izan zuen eta Port-Royal abadiako jansenistengana hurbildu zen, korronte katoliko zorrotz batengana. Haien defentsan <em>Probintzialak</em> idatzi zituen, jesuiten aurkako gutun satiriko batzuk. 39 urterekin hil zen, gaixorik, kristautasunaren apologia baterako milaka ohar utzita; <em>Pentsamenduak</em> izenburuarekin argitaratu ziren. Haietan gizakia bi infinituren artean aurkezten du, hilkorra dela jakiteko gai den «ihi pentsalari» gisa; defendatzen du badirela <strong>bihotzaren</strong> bidez ezagutzen diren egiak, eta <strong>apustu</strong> ospetsua planteatzen du: Jainkoa existitzen bada, sinesten duenak dena irabazten du, eta existitzen ez bada, ez du ia ezer galtzen. Descartesen arrazionalismoaren kritikari handienetako bat da.</p>",
+  "obras": [
+   "Hutsari buruzko esperientzia berriak (1647)",
+   "Probintzialak (1656-1657)",
+   "Pentsamenduak (hil ondokoa, 1670)"
+  ],
+  "anecdota": "<p>Hil ondoren, morroi batek koskor bat nabaritu zuen Pascalen jakaren forruan. Josturak desegitean paper tolestu bat aurkitu zuen, eta barruan testu beraren pergaminozko kopia bat: 1654ko azaroaren 23ko gauean dataturiko orrialde bat, «hamar eta erdietatik hamabi eta erdiak arte gutxi gorabehera», «Sua» hitzarekin hasten dena. Gau hartako esperientzia erlijiosoaren kontakizuna da. Pascalek zortzi urtez eraman zuen arropari josita, jantzi batetik bestera aldatuz, inori ezer esan gabe. Gaur <em>Memoriala</em> izenez ezagutzen da.</p>",
+  "fuente": "Pascalen Memoriala (1654), Frantziako Liburutegi Nazionalean gordea",
+  "tradicion": false,
+  "block": "mod",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "spinoza": {
   "name": "Baruch Spinoza",
   "dates": "1632 – 1677",
@@ -1282,7 +1432,8 @@ const ILUSTRES = {
    "fil-t3",
    "fil-metafisica",
    "fil-spinoza-sistema",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-comunidades-perseguidos"
   ]
  },
  "locke": {
@@ -1387,7 +1538,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-t4"
   ]
  },
  "berkeley": {
@@ -1859,7 +2011,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t5",
-   "fil-t6"
+   "fil-t6",
+   "fil-comunidades-perseguidos"
   ]
  },
  "de_morgan": {
@@ -1909,6 +2062,32 @@ const ILUSTRES = {
    "fil-t2",
    "fil-metafisica",
    "fil-t4"
+  ]
+ },
+ "kierkegaard": {
+  "name": "Søren Kierkegaard",
+  "dates": "1813 – 1855",
+  "born": 1813,
+  "died": 1855,
+  "place": "Kopenhage (Danimarka)",
+  "role": "filosofo eta teologo daniarra, existentzialismoaren aitzindaria",
+  "idea": "Garrantzia duen egia ez da sistemena, norberak bizi duena baizik: gizabanako bakoitzak bere burua aukeratu behar du, eta aukera hori larritasunez egiten da.",
+  "bio": "<p>Søren Kierkegaard merkatari aberats eta oso erlijioso baten seme gazteena izan zen; harengandik fede oinazetsu bat heredatu zuen, bai eta idazteari bizitza osoa eskaintzeko aukera eman zion fortuna bat ere. Teologia ikasi zuen Kopenhagen. 1840an Regine Olsenekin ezkontzeko hitza eman zuen, baina urtebete geroago konpromisoa hautsi zuen, hura zoriontsu egin ezin zuela sinetsita; erabaki hark bizitza osoan lagundu zion eta haren obra askotan ageri da. Liburu asko <strong>ezizenez</strong> argitaratu zituen, bakoitza ikuspegi desberdin batekin, irakurlea bere kabuz erabakitzera behartzeko. 42 urterekin hil zen, Daniako Eliza ofizialaren aurkako polemika gogor baten erdian; Eliza horri leporatzen zion kristautasuna ohitura eroso bihurtu izana.</p>\n<p>Kierkegaardek Hegelen sistema handiaren aurka egiten du, dena azaldu nahi baitzuen: sistema horretan ez dago lekurik nola bizi erabaki behar duen <strong>gizabanako</strong> zehatzarentzat. Existentziaren hiru <strong>estadio</strong> deskribatzen ditu: estetikoa, plazerarentzat eta berritasunarentzat bizi dena; etikoa, konpromisoak eta betebeharrak bere gain hartzen dituena; eta erlijiosoa, bermerik gabe fedearen jauzia egiten duena, Abraham bere semea sakrifikatzeko prest zegoenean bezala. <strong>Larritasuna</strong> askatasunak aukeren aurrean sentitzen duen zorabioa da, eta etsipena, norbera izan nahi ez izatea. Horregatik hartzen da XX. mendeko existentzialismoaren aitzindaritzat.</p>",
+  "obras": [
+   "Edo bata edo bestea (1843)",
+   "Beldurra eta ikara (1843)",
+   "Larritasunaren kontzeptua (1844)",
+   "Heriotzarako gaixotasuna (1849)"
+  ],
+  "anecdota": "<p>1846an Kierkegaardek <em>Corsaren</em> («Kortsarioa») kritikatu zuen, Kopenhageko aldizkari satiriko bat, eta aldizkariak karikatura-kanpaina batekin hartu zuen mendekua. Mehe eta makurtuta marrazten zuten, eta, batez ere, prakaren hanka bat bestea baino luzeagoa zuela. Karikaturak hain egin ziren ezagun, ezen haurrek oihuka egiten zioten kalean eta jendeak hatzarekin seinalatzen zuen pasatzean. Kierkegaardek, hirian paseatzea eta mundu guztiarekin hizketan aritzea gustuko baitzuen, umiliazio gisa bizi izan zuen hori, eta are bakartiago geratu zen.</p>",
+  "fuente": "Corsaren (1846); Kierkegaarden egunerokoak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
   ]
  },
  "boole": {

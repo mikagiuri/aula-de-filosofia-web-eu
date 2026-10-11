@@ -1225,7 +1225,10 @@ const GLOSARIO = [
   "et": "Latinezko *fides*: «fedea, konfiantza».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Jarrera honen arabera, Jainkoarengana fedearen bidez iristen da, ez arrazoiaren bidez, eta, beraz, argudioak ez dira bidea; Kierkegaard aipatu ohi da."
+  "def": "Jarrera honen arabera, Jainkoarengana fedearen bidez iristen da, ez arrazoiaren bidez, eta, beraz, argudioak ez dira bidea; Kierkegaard aipatu ohi da.",
+  "ilustre": [
+   "kierkegaard"
+  ]
  }
 ];
 const GLOSARIO_TRAMPAS = {
