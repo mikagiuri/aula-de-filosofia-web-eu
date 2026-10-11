@@ -802,6 +802,7 @@ const CITAS = [
   "a": "Karl Jaspers",
   "o": "Filosofia (1950), I. kap.",
   "e": "contemporanea",
+  "id": "jaspers",
   "img": "media/retratos/citas/jaspers.jpg",
   "sen": "Jaspersek dio filosofia ez dela jakintza amaitu bat, bide bat baizik: funtsezkoa galdetzen jarraitzea da, erantzun bakoitzak galdera berriak irekitzen baititu.",
   "uso": "Filosofia zer den aurkezteko ikasturtearen hasieran, edo filosofiaren eta zientziaren arteko aldeari buruzko disertazio batean."
@@ -1701,6 +1702,7 @@ const CITAS = [
   "a": "Henri Bergson",
   "o": "egotzia; Léon Brunschvicgi gutuna, Spinozaren heriotzaren 250. urteurrena dela eta",
   "e": "contemporanea",
+  "id": "bergson",
   "img": "media/galeria_museo/spinoza_universal/bergson.jpg",
   "sen": "Esaldiak Spinozaren eragin izugarria azpimarratzen du: edozein filosofok, bere pentsamenduaz gain, haren aurrean kokatu beharko luke bere burua.",
   "uso": "Spinozak filosofia moderno eta garaikidearen historian duen garrantzia aurkezteko.",

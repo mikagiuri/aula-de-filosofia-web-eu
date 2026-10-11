@@ -2680,6 +2680,33 @@ const ILUSTRES = {
    "fil-marxismos"
   ]
  },
+ "marcuse": {
+  "name": "Herbert Marcuse",
+  "dates": "1898 – 1979",
+  "born": 1898,
+  "died": 1979,
+  "place": "Berlin (Alemania)",
+  "role": "Frankfurteko Eskolako filosofoa",
+  "idea": "Industria-gizarte aurreratuak behar faltsuak sortzen ditu eta aske sentiarazten gaitu sisteman integratzen gaituen bitartean; horrela, beste bizimodu bat irudikatzeko gaitasuna galtzen da.",
+  "bio": "<p>Herbert Marcuse Berlingo familia judu batean jaio zen. Husserl eta Heideggerrekin ikasi zuen Friburgon, eta Frankfurteko Gizarte Ikerketarako Institutuarekin bat egin zuen. Naziak iritsi zirenean, 1934an Estatu Batuetara erbesteratu zen, eta han, gerran, estatubatuar informazio-zerbitzuentzat lan egin zuen, Alemania nazia aztertuz. Gero hainbat unibertsitatetan izan zen irakasle, azkena Kalifornian.</p>\n<p><em>Eros eta zibilizazioa</em> lanean (1955) Marx eta Freud uztartzen ditu: gizarteak desirak behar baino gehiago erreprimitzen ditu, lana eta ordena mantentzeko. <em>Gizaki unidimentsionala</em> lanean (1964) dio kontsumo-gizarteak <strong>behar faltsuak</strong> sortzen dituela eta protesta bera ere xurgatzen duela; horrela, pertsonek jada ez dute alternatibarik irudikatzen. <strong>Tolerantzia errepresiboari</strong> buruzko saiakerak (1965) defendatzen zuen, berdintasunik gabeko gizarteetan, ideia guztiak berdin tratatzen dituen tolerantzia batek boteretsuen alde egiten duela. Haren ideiek 1968ko ikasle-mugimenduaren zati bat inspiratu zuten, baina kritika serioak ere jaso zituzten: liberal askok tesi horretan desberdin pentsatzen duenari hitza ukatzeko justifikazio bat ikusi zuten, eta ezkerreko beste pentsalari batzuek ezkorregia edo abstraktuegia izatea leporatu zioten. Tolerantziaren mugei buruzko eztabaida bat da, oraindik irekita dagoena.</p>",
+  "obras": [
+   "Arrazoia eta iraultza (1941)",
+   "Eros eta zibilizazioa (1955)",
+   "Gizaki unidimentsionala (1964)",
+   "«Tolerantzia errepresiboa» (1965)"
+  ],
+  "anecdota": "<p>1968ko ikasle-protestetan, Europan eta Estatu Batuetan, manifestari batzuek «hiru M»-ak oihukatzen eta hormetan margotzen zituzten: Marx, Mao eta Marcuse. 70 urteko irakaslea harritu egin zen ikur bihurtuta ikustean, eta ez zuen beti bere burua ezagutu haren izenean esaten zenean. Kalifornian izan zituen ikasleen artean Angela Davis zegoen, gero aktibista ezaguna bihurtuko zena.</p>",
+  "fuente": "1968ko prentsa; Marcuseri egindako elkarrizketak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
+  ]
+ },
  "gadamer": {
   "name": "Hans-Georg Gadamer",
   "dates": "1900 – 2002",
