@@ -45,6 +45,7 @@
         <span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Ikasi</span>
         <div class="navmenu">
           <button data-view="teoria">Teoria</button>
+          <button data-view="esqautor">Laburpenak</button>
           <button data-view="tarjetas">Txartelak</button>
           <button data-view="reto">Erronka</button>
           <button data-view="parejas">Bikoteak</button>
@@ -216,8 +217,14 @@
     </div>
   </section>
 
-  <!-- ESQUEMAS DE AUTOR -->
-  
+  <!-- RESÚMENES (antes «Esquemas de autor») -->
+  <section class="view" id="esqautor">
+    <p class="eyebrow">Ikasi</p>
+    <h1 class="title">Laburpenak</h1>
+    <p class="lead"><strong>Laburpen bat gai bakoitzeko</strong>, testu-formatu garbian: gaiaren galdera, bere atalak kontzeptu eta egileekin, eta ideia nagusia, errepaso-orri batean. <strong>Eskemak</strong> ataleko grafoen osagarri dira.</p>
+    <div class="filterbar" id="eafilter" role="group" aria-label="Filtrar resúmenes"></div>
+    <div id="eabody"></div>
+  </section>
 
   <!-- GALERÍA -->
   <section class="view" id="galeria">
@@ -934,6 +941,8 @@
 <script src="js/esquemas_fil.js"></script>
 <script src="js/esq_grid.js"></script>
 <script src="js/esquemasview.js"></script>
+<script src="js/resumenes_fil.js"></script>
+<script src="js/esquemas_autorview.js"></script>
 <script src="js/sesiones.js"></script>
 <script src="js/sesionesview.js"></script>
 <script src="js/calendarioview.js"></script>
