@@ -885,7 +885,7 @@ const ESQUEMAS_FIL = {
  "FIL-TA-01": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Filosofia · Argudiaketa-tailerra",
+  "tema": "Filosofia · 4. gaia",
   "title": "Argudioa: baliozkotasuna eta egia",
   "mermaid": "flowchart TD\n  arg[\"ARGUDIOA\"]:::axis\n  prem[\"premisak\"]:::key\n  conc[\"ondorioa\"]:::key\n  tipos[\"motak\"]:::key\n  ded[\"deduktiboa: ondorioa beharrez dator\"]\n  ind[\"induktiboa: ondorioa probablea baino ez da\"]\n  eval[\"ebaluazioa\"]:::key\n  val[\"baliozkotasuna: forma zuzena da\"]\n  ver[\"egia: premisak egiazkoak dira\"]\n  sol[\"sendoa: baliozkoa + premisa egiazkoak\"]:::key\n  arg --> prem\n  prem -->|\"hau babesten dute\"| conc\n  arg --> tipos\n  tipos --> ded\n  tipos --> ind\n  arg --> eval\n  eval --> val\n  eval --> ver\n  val -->|\"elkarrekin ematen dute\"| sol\n  ver -->|\"elkarrekin ematen dute\"| sol\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
@@ -972,7 +972,7 @@ const ESQUEMAS_FIL = {
  "FIL-TA-02": {
   "subject": "fil",
   "block": "F1",
-  "tema": "Filosofia · Argudiaketa-tailerra",
+  "tema": "Filosofia · 4. gaia",
   "title": "Falaziak",
   "mermaid": "flowchart TD\n  fal[\"FALAZIAK\"]:::axis\n  def[\"baliozkoak diruditen baina ez diren argudioak\"]\n  formal[\"formalak: hutsegitea egitura logikoan\"]:::key\n  inf[\"informalak: hutsegitea edukian edo hizkuntzan\"]:::key\n  ah[\"ad hominem: pertsonari erasotzea\"]\n  ap[\"ad populum: gehiengoari deia\"]\n  aver[\"ad verecundiam: autoritateari deia\"]\n  fc[\"kausa faltsua: korrelazioa kausarekin nahastea\"]\n  hp[\"lastozko gizona: aurkariaren tesia desitxuratzea\"]\n  fal --> def\n  fal --> formal\n  fal --> inf\n  inf --> ah\n  inf --> ap\n  inf --> aver\n  inf --> fc\n  inf --> hp\nclassDef axis fill:#1f5d5a,color:#fff,stroke:#1f5d5a;\nclassDef key fill:#9a6a22,color:#fff,stroke:#9a6a22;",
   "v2": {
