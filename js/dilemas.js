@@ -70,7 +70,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVII. mendea",
+   "epoca": "Siglo XVII",
    "texto": "«Suposatuko dut, beraz, ez Jainko on-ona, egiaren iturria, baizik eta jenio gaizto bat, guztiz boteretsua eta maltzurra, bere ahalegin guztia ni engainatzen jarri duela.»",
    "fuente": "Descartes, Meditazio metafisikoak, I (1641). «Garuna ontzian» kasu modernoa Hilary Putnamek formulatu zuen 1981ean.",
    "unidad": "fil-t3"
@@ -120,7 +120,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVII. mendea",
+   "epoca": "Siglo XVII",
    "texto": "«Giza adimenak, bere izaeraz beraz, gauzetan aurkitzen duena baino ordena eta erregulartasun handiagoa suposatzeko joera du.»",
    "fuente": "Francis Bacon, Novum Organum, 45. aforismoa (1620).",
    "unidad": "fil-t3"
@@ -170,7 +170,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "Antzinaroa eta XVII. mendea",
+   "epoca": "Antigüedad y siglo XVII",
    "texto": "«Plutarkok kontatzen du atenastarrek Teseoren ontzia gorde zutela ohol ustelak berriez ordezkatuz, eta, hala, ontzia filosofoentzat adibide bihurtu zela: batzuek bera izaten jarraitzen zuela zioten, beste batzuek ezetz.»",
    "fuente": "Plutarko, Teseoren bizitza, 23. Lockek arazoa birformulatzen du Giza adimenari buruzko saiakera lanean, II, 27 (1690).",
    "unidad": "fil-t2"
@@ -221,7 +221,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIII. mendea (Ilustrazioa)",
+   "epoca": "Siglo XVIII (Ilustración)",
    "texto": "«Gizakia hezkuntzaren bidez baino ezin da gizaki bihurtu. Hezkuntzak berarekin egiten duena besterik ez da.»",
    "fuente": "Kant, Pedagogia (1803). Benetako kasua Aveyrongo Victorrena da, Itard doktoreak 1800etik aurrera hezia; Truffautek zinemara eraman zuen Basati txikia (1970) filmean.",
    "unidad": "fil-t2"
@@ -273,7 +273,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XX. mendea",
+   "epoca": "Siglo XX",
    "texto": "«Zerk axola diezaguke, gure bizitzak barrutik nola sentitzen diren ez ezik?» Nozicken erantzuna: gauza jakin batzuk egitea axola zaigu, era jakin batekoak izatea eta guk fabrikatzen duguna baino errealitate sakonago batekin harremanetan egotea.",
    "fuente": "Robert Nozick, Anarkia, Estatua eta utopia (1974), hedonismoaren eta utilitarismoaren aurka.",
    "unidad": "fil-t5"
@@ -325,7 +325,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XX. mendea",
+   "epoca": "Siglo XX",
    "texto": "«Jokatu gizatasuna, bai zure pertsonan bai beste edonorenean, beti helburu gisa eta inoiz ez bitarteko huts gisa tratatzeko moduan.»",
    "fuente": "Kant, Ohituren metafisikaren oinarriak (1785). Dilema Philippa Footek formulatu zuen 1967an; zubiaren aldaera Judith Jarvis Thomsonek planteatu zuen 1976an, eta 1985ean «tranbiaren arazoa» izena eman zion.",
    "unidad": "fil-t5"
@@ -377,7 +377,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "IV.-V. eta XVIII. mendeak",
+   "epoca": "Siglos IV-V y XVIII",
    "texto": "«Gezurra engainatzeko borondatez faltsua esatea da. […] Bekatu ez den gezurren bat badagoela uste duenak bere burua engainatzen du modurik okerrenean.»",
    "fuente": "Agustin Hiponakoa, Gezurrari buruz (395). Kantek tesia berriro hartzen du Filantropiaz gezurra esateko ustezko eskubide bati buruz (1797) lanean.",
    "unidad": "fil-t5"
@@ -428,7 +428,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "K.a. IV. mendea",
+   "epoca": "Siglo IV a. C.",
    "texto": "«Horrelako bi eraztun baleude eta bata justuak jantziko balu eta bestea injustuak, inor ez litzateke hain burdinazkoa izango justizian irauteko. […] Inor ez da justua bere borondatez, behartuta baizik.»",
    "fuente": "Platon, Errepublika, II, 359d-360d.",
    "unidad": "fil-t5"
@@ -478,7 +478,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XX. mendea",
+   "epoca": "Siglo XX",
    "texto": "«Justiziaren printzipioak ezjakintasunaren belo baten atzean aukeratzen dira. Horrek ziurtatzen du aukeraketan inor ez dela mesedetua edo kaltetua izango zori naturalaren edo gizarte-kontingentzien ondorioz.»",
    "fuente": "John Rawls, Justiziaren teoria (1971), §3. Nozickek Anarkia, Estatua eta utopia (1974) lanean erantzuten dio.",
    "unidad": "fil-t6"
@@ -530,7 +530,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "K.a. IV. mendea",
+   "epoca": "Siglo IV a. C.",
    "texto": "«Imajinatu itsasontzi bat, zeinaren jabea denak baino handiagoa eta indartsuagoa den, baina gorra, ikusmen laburrekoa eta nabigazioaz gutxi ulertzen duena, eta marinel batzuk lema lortzeko borrokan, nabigatzeko artea inoiz ikasi gabe.»",
    "fuente": "Platon, Errepublika, VI, 488a-489a (itsasontziaren alegoria). Aristotelesek Politika, III, 11 lanean erantzuten du.",
    "unidad": "fil-t6"
@@ -580,7 +580,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XX. mendea",
+   "epoca": "Siglo XX",
    "texto": "«Erreprodukziorik lortuenean ere zerbait falta da: artelanaren hemen eta oraina, dagoen lekuan duen existentzia errepikaezina.»",
    "fuente": "Walter Benjamin, Artelana bere erreproduzigarritasun teknikoaren garaian (1936). Benetako kasurik ospetsuena Han van Meegerenena da, 1937 eta 1945 artean «Vermeer» faltsuak saldu zituena.",
    "unidad": "fil-t7"
@@ -630,7 +630,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVII. eta XX. mendeak",
+   "epoca": "Siglos XVII y XX",
    "texto": "«Kontzientzia hori atzerantz, iraganeko edozein ekintza edo pentsamenduraino, heda daitekeen neurrian, horraino iristen da pertsona horren nortasuna.»",
    "fuente": "Locke, Giza adimenari buruzko saioa, II, 27, 9 (2. edizioan gehitutako kapitulua, 1694). Zatiketaren kasua Derek Parfitek egin zuen ospetsu («Personal Identity», 1971; Arrazoiak eta pertsonak, 1984).",
    "unidad": "fil-t2"
@@ -682,7 +682,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIII. mendea (Ilustrazioa)",
+   "epoca": "Siglo XVIII (Ilustración)",
    "texto": "«Izan ezazu zeure adimena erabiltzeko adorea! Hori da Ilustrazioaren lema.»",
    "fuente": "Kant, Galdera honi erantzuna: Zer da Ilustrazioa? (1784). Ebidentziarik gabe ezer ez onartzeko araua Descartesen Metodoaren diskurtsoaren lehena da (1637).",
    "unidad": "fil-t3"
@@ -734,7 +734,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "K. a. IV. mendea eta XIII. mendea",
+   "epoca": "Siglo IV a. C. y siglo XIII",
    "texto": "«Izakia modu askotara esaten da, baina gauza bakar bati eta natura bakar bati begira.»",
    "fuente": "Aristoteles, Metafisika, IV, 2, 1003a33. Mendeak geroago, Tomas Akinokoak gauza baten esentzia eta haren existentzia bereizi zituen Izakiaz eta esentziaz lanean (1252-1256 inguruan).",
    "unidad": "fil-metafisica"
@@ -785,7 +785,7 @@ const DILEMAS = [
    }
   ],
   "debate": {
-   "epoca": "XVIII. mendea eta XX. mendea",
+   "epoca": "Siglo XVIII y siglo XX",
    "texto": "«Jokatu soilik aldi berean lege unibertsal bihur dadin nahi izan dezakezun maxima haren arabera.»",
    "fuente": "Kant, Ohituren metafisikaren oinarriak (1785). Lawrence Kohlbergek honelako kasu bat, Heinzen dilema, erabili zuen bere doktore-tesitik (1958) nola arrazoitzen dugun aztertzeko; Carol Gilliganek In a Different Voice (1982) lanean erantzun zion.",
    "unidad": "fil-t5"
