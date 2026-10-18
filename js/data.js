@@ -317,7 +317,7 @@ const DECKS = {
    ],
    [
     "🌳",
-    "Aktua eta potentzia",
+    "Ekintza* eta potentzia",
     "Ekintza: zerbait dagoeneko dena; potentzia: izan daitekeena (ezkurra haritza da potentzian). Aristotelesentzat, aldatzea potentzia bat gauzatzea da."
    ],
    [

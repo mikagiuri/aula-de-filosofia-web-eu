@@ -914,7 +914,7 @@ const RESUMENES_FIL = [
       "d": "substantzia fisiko oro materia eta forma da; forma, gutxi gorabehera, esentziari dagokio, «zer den»-ari"
      },
      {
-      "t": "Aktua eta potentzia",
+      "t": "Ekintza* eta potentzia",
       "d": "aldatzea potentzia bat erreal bihurtzea da, ez ezerezetik izatera igarotzea; horrela erantzuten dio Parmenidesi"
      },
      {
