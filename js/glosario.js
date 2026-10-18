@@ -1175,7 +1175,7 @@ const GLOSARIO = [
   "et": "*Kosmologikoa*, grezierazko κόσμος (*kósmos*), «ordena, mundua».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
-  "def": "Mundutik abiatzen den arrazoibidea: mugitzaileen eta kausen katea ezin da amaigabe luzatu; beraz, lehen mugitzaile bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak).",
+  "def": "Mundutik abiatzen den arrazoibidea: mugitzaileen eta kausen katea ezin da amaigabe luzatu; beraz, lehen motor bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak).",
   "ilustre": [
    "tomas"
   ]

@@ -388,7 +388,7 @@ const DECKS = {
    [
     "🔗",
     "Argudio kosmologikoa",
-    "Mundutik abiatzen da: kausen katea ezin da amaigabe luzatu, eta lehen mugitzaile bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak)."
+    "Mundutik abiatzen da: kausen katea ezin da amaigabe luzatu, eta lehen motor bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak)."
    ],
    [
     "⌚",
@@ -6782,7 +6782,7 @@ const QUIZZES = {
     "o": [
      "Hautespen naturalak diseinu-itxura sor dezakeela diseinatzailerik gabe",
      "Begi bat erlojua baino konplexuagoa dela",
-     "Kausen kateak lehen mugitzaile bat eskatzen duela",
+     "Kausen kateak lehen motor bat eskatzen duela",
      "Gaizkia giza askatasunaren prezioa dela"
     ],
     "a": 0,
