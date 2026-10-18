@@ -2476,6 +2476,33 @@ const ILUSTRES = {
    "fil-t3"
   ]
  },
+ "luxemburgo": {
+  "name": "Rosa Luxemburg",
+  "dates": "1871 – 1919",
+  "born": 1871,
+  "died": 1919,
+  "place": "Zamość (Polonia)",
+  "role": "pentsalari eta iraultzaile marxista",
+  "idea": "Sozialismoa eta demokrazia bereiztezinak dira: gizartea eraldatzeari uko egiten dion erreformismoa zein alderdi bakar baten boterea kritikatu zituen, eta langileen berezko ekimenean konfiantza izan zuen.",
+  "bio": "<p>Rosa Luxemburg 1871n jaio zen Zamośćen, orduan Errusiar Inperioaren mende zegoen Poloniako zatiko hiri batean, familia judu batean. Suitzara joan zen ikastera eta Estatu-zientzietan (zuzenbidea eta ekonomia) doktoratu zen Zuricheko Unibertsitatean 1897an, Poloniaren industria-garapenari buruzko tesi batekin. Ondoren Alemanian kokatu zen, non Alderdi Sozialdemokratan (SPD) sartu eta haren teoriko nabarmenenetako bat bihurtu zen. Lehen Mundu Gerraren aurka irmo agertu zen eta gerraren aurkako bere agitazioagatik kartzelan eman zuen gerraren zati handi bat. Karl Liebknechtekin batera Liga Espartakista sortu zuen eta, 1918ko azken egunetan, Alemaniako Alderdi Komunista. 1919ko urtarrilean, Berlingo altxamendu espartakistan, Freikorps-eko soldaduek atxilotu eta hil egin zuten.</p>\n<p>Luxemburg pentsalari <strong>marxista</strong> izan zen, baina ez zuen inoiz marxismoa sistema itxi gisa ulertu. <em>Gizarte-erreforma ala iraultza?</em> (1899) lanean Eduard Bernsteinekin eztabaidatu zuen, zeinak kapitalismoa eraldatu beharrean pixkanaka hobetzea proposatzen baitzuen; berak defendatu zuen erreformak ez direla nahikoa, horregatik eguneroko ekintzari uko egin gabe. <strong>Masa-grebarengan</strong>, langileen berezko ekintza kolektiboarengan, konfiantza handiagoa zuen goitik zuzendutako alderdi baten kontrolean baino. Horregatik, 1917ko Errusiako Iraultza agurtu bazuen ere, laster kritikatu zuen Leninek eta Trotskik hautatutako batzarra eta gainerako alderdiak ezabatzea: berarentzat, <strong>sozialismoa eta demokrazia</strong> ezin ziren bereizi. Filosofiaren Historiako gai-zerrendan agertzen da, Marx osteko kapitalismoaren kritikan, Lenin eta Clara Zetkinekin batera, marxismoaren barruan iraultzaren, askatasunaren eta demokraziaren arteko harremanari buruzko eztabaida ireki bat izan zela erakusteko.</p>",
+  "obras": [
+   "Gizarte-erreforma ala iraultza? (1899)",
+   "Masa-greba, alderdia eta sindikatuak (1906)",
+   "Kapitalaren metaketa (1913)",
+   "Errusiako iraultza (1918an idatzia)"
+  ],
+  "anecdota": "<p>1917ko abenduan, Breslauko kartzelan preso, Rosa Luxemburgek gutun bat idatzi zion Sofia Liebknecht bere lagunari, Errumaniatik gerra-harrapakin gisa ekarri eta karga astunak arrastaka eramatera behartutako bufalo batzuei buruz. Kontatu zuen soldadu batek zartailuaren kirtenarekin jo zuela animalietako bat odola atera arte, eta bufaloaren begiradak, babesgabe, negar eragin ziola. Eszena hartan gerraren eta zapalduen sufrimendua islatuta ikusi zuen. Gutuna kartzelatik idatzitako bere gutundiaren parte da eta bere bizitza intimoko orririk ezagunenetako bat da.</p>",
+  "fuente": "Rosa Luxemburg, Sofia Liebknechti Breslauko kartzelatik idatzitako gutuna (1917ko abenduaren erdialdea), bere Kartzelatik idatzitako gutunak lanean bilduta",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
+  ]
+ },
  "russell": {
   "name": "Bertrand Russell",
   "dates": "1872 – 1970",
@@ -2500,6 +2527,32 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-t4"
+  ]
+ },
+ "kollontai": {
+  "name": "Aleksandra Kollontai",
+  "dates": "1872 – 1952",
+  "born": 1872,
+  "died": 1952,
+  "place": "San Petersburgo (Errusiar Inperioa)",
+  "role": "iraultzaile eta diplomazialari sovietarra",
+  "idea": "Sozialismoa eta emakumearen emantzipazioa lotu zituen: legezko berdintasuna ez da nahikoa etxeko lana, familia eta maitasun-harremanak aldatzen ez badira.",
+  "bio": "<p>Aleksandra Mijailovna Kollontai 1872an jaio zen San Petersburgon, Errusiako familia aristokratiko batean, baina laster hautsi zuen giro horrekin militantzia sozialistari ekiteko. Ekonomia ikasi zuen Zurichen eta, Europan zehar urteak erbestean eman ondoren, boltxebikeekin bat egin zuen. 1917ko iraultzaren ondoren, Gizarte Laguntzako herri-komisario izendatu zuten, emakume bat sartzen zuen munduko lehen gobernuetako batean. Ondorengo hamarkadetan, gainera, bere herrialdea misio diplomatiko baten buru gisa ordezkatu zuten lehen emakumeetako bat izan zen, Norvegian, Mexikon eta Suedian. Moskun hil zen 1952an.</p>\n<p>Kollontaik <strong>sozialismoa</strong> eta <strong>emakumearen emantzipazioa</strong> lotu zituen: botoak eta legearen aurreko berdintasunak ez direla nahikoa defendatzen zuen etxeko lana, familia eta maitasun-harremanak aldatzen ez badira. Etxeko lanak eta seme-alaben zaintza sozializatzearen alde egin zuen, eta mendekotasun ekonomikotik askatutako maitasunaren <strong>moral berri</strong> bati buruz hausnartu zuen. Alderdiaren barruan bertan <strong>Langile Oposizioa</strong> zuzendu zuen, botere sovietarraren burokratizazioa kritikatzen zuena. Gai-zerrendan marxismoa luzatu eta eztabaidatu zutenen artean agertzen da, eta bere lana erreferentzia izaten jarraitzen du feminismo sozialistentzat, berdintasun ekonomikoaren eta askatasun pertsonalaren arteko harremanari buruzko eztabaida oraindik irekian.</p>",
+  "obras": [
+   "Emakumearen auziaren oinarri sozialak (1909)",
+   "Moral berria eta langile-klasea (1918)",
+   "Langile Oposizioa (1921)",
+   "Utzi bidea Eros hegodunari! (1923)"
+  ],
+  "anecdota": "<p>1923an gobernu sovietarrak Norvegiara bidali zuen bere misio diplomatikoaren buru, eta handik gutxira ofizialki akreditatu zen: bere herrialdea legazio baten buru gisa ordezkatu zuen munduko lehen emakumeetako bat izan zen. Ia hogei urtez jarraitu zuen zerbitzu diplomatikoan, batez ere Suedian. Han, garun-isuri batek gurpil-aulkia erabiltzera behartu ostean osasuna oso ahulduta zuela, 1944an Finlandiaren eta Sobietar Batasunaren arteko gerra amaitzen lagundu zuten harremanetan parte hartu zuen.</p>",
+  "fuente": "Cathy Porter, Alexandra Kollontai. A Biography (Virago, 1980)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-marxismos"
   ]
  },
  "scheler": {
@@ -2650,6 +2703,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "gramsci": {
+  "name": "Antonio Gramsci",
+  "dates": "1891 – 1937",
+  "born": 1891,
+  "died": 1937,
+  "place": "Ales (Italia)",
+  "role": "pentsalari marxista eta politikari italiarra",
+  "idea": "Klase batek ez du indarraren bidez bakarrik menderatzen, hegemoniaren bidez baizik: kulturaren bidez (eskola, prentsa, erlijioa) lortzen duen adostasuna. Horregatik, politika ideien eta zentzu komunaren eremuan ere jokatzen da.",
+  "bio": "<p>Antonio Gramsci 1891n jaio zen Alesen, Sardiniako herri batean (Italia), familia apal eta ugari batean. Haurretik osasun ahula zuela, beka bat lortu eta hizkuntzalaritza ikasi zuen Turingo Unibertsitatean, nahiz eta karrera utzi zuen kazetaritzari eta politikari ekiteko. Turinen, fabrika handien hiri batean, langile-mugimendura hurbildu zen, prentsa sozialistan idatzi zuen eta 1919an <em>Ordena Berria</em> (<em>L'Ordine Nuovo</em>) aldizkaria sortu zuen. 1921ean Italiako Alderdi Komunistaren sortzaileetako bat izan zen eta 1924an diputatu hautatu zuten. Mussoliniren erregimen faxistak 1926an atxilotu zuen, bere parlamentu-immunitatea gorabehera, eta hogei urtetik gorako kartzela-zigorra ezarri zion. Gaixorik eta inoiz osatu gabe, Erroman hil zen 1937an, formalki aske geratu eta egun gutxira.</p>\n<p>Kartzelan bere <em>Kartzelako koadernoak</em> idatzi zituen, bizirik argitaratu ezin izan zituen milaka orrialdeko oharrak. Haren ideiarik ezagunena <strong>hegemoniarena</strong> da: gizarte-klase batek ez dio boterean eusten hertsapenaren bidez bakarrik, baizik eta bere munduaren ikuspegia gizarte osoaren <strong>zentzu komunetik</strong> igarotzea lortzen duenean eskuratzen duen adostasunaren bidez ere, eskolaren, prentsaren, erlijioaren edo kulturaren bitartez. Kultura-lan hori azaltzeko <strong>intelektual organikoez</strong> hitz egin zuen, gizarte-talde bakoitzak bere ideiei forma emateko sortzen dituen pertsonez. Gramsci mendebaldeko marxismo deituaren figura nagusietako bat da, arreta ekonomiatik kulturara eta kontzientziara lekualdatu zuena. Gai-zerrendan bloke horren barruan agertzen da, eta bere hegemonia-kontzeptua gaur egun oso zeinu politiko desberdineko eztabaidetan erabiltzen da, eta horrek bizirik eta eztabaidatua mantentzen du.</p>",
+  "obras": [
+   "Hegoaldeko auzia (1926)",
+   "Kartzelako gutunak (1926-1937an idatziak)",
+   "Kartzelako koadernoak (1929-1935ean idatziak)"
+  ],
+  "anecdota": "<p>1928an Erroman egindako epaiketan, fiskalak zigor oso gogorra eskatu zuen ospetsu egin den esaldi batekin: garun hura hogei urtez funtzionatzen jarraitzea eragotzi behar zen. Auzitegiak hogei urteko, lau hilabeteko eta bost eguneko kartzela-zigorra ezarri zion Gramsciri. Erregimenak bere ideiak isilarazi nahi zituen, baina kartzelan bertan idatzi zituen mundu osoan ezagun egingo zuten <em>Koadernoak</em>.</p>",
+  "fuente": "Giuseppe Fiori, Antonio Gramsciren bizitza (1966); 1928ko prozesuaren aktak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-marxismos"
   ]
  },
  "benjamin": {
