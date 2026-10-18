@@ -1590,6 +1590,30 @@ const ILUSTRES = {
    "fil-t6"
   ]
  },
+ "voltaire": {
+  "name": "Voltaire",
+  "dates": "1694 – 1778",
+  "born": 1694,
+  "died": 1778,
+  "place": "Paris (Frantzia)",
+  "role": "idazle eta filosofo ilustratua",
+  "idea": "Arrazoiak fanatismoaren eta superstizioaren aurka borrokatu behar du; tolerantzia erlijiosoa eta adierazpen-askatasuna gizarte zibilizatu baten baldintzak dira.",
+  "bio": "<p>François-Marie Arouet, Voltaire izenez ezaguna, Parisen jaio zen familia burges batean, eta jesuitekin hezi zen. Bere idazki satirikoengatik bi aldiz eraman zuten Bastillara, eta Ingalaterrara erbesteratu zen; han, askatasun politikoa, Newtonen fisika eta Lockeren filosofia miretsi zituen. Azken urteak Ferneyn eman zituen, Genevatik gertu, eta Ilustrazioko idazlerik ospetsuena izan zen.</p>\n<p>Voltaire <strong>tolerantzia erlijiosoaren</strong> defendatzaile gisa agertzen da gai-zerrendan, <strong>fanatismoaren</strong> aurrean. Injustizia-kasuetan esku hartu zuen, hala nola Jean Calas merkatari protestantearenean, 1762an exekutatua, eta ironiaz kritikatu zuen Elizaren intolerantzia. <em>Candide</em> lanean Leibnizen baikortasunaz burla egin zuen. Hala ere, ilustratu gehienek bezala, ez zien berdintasuna emakumeei zabaldu.</p>",
+  "obras": [
+   "Gutun filosofikoak (1734)",
+   "Candide (1759)",
+   "Tolerantziari buruzko tratatua (1763)",
+   "Hiztegi filosofikoa (1764)"
+  ],
+  "anecdota": "<p>1729an, La Condamine matematikariak akats bat aurkitu zuen Frantziako gobernuak antolatutako loteria batean: sariak txartel guztiak erostea zenbat kostatzen zen baino handiagoak ziren. Voltaire harekin eta beste bazkide batzuekin elkartu zen, hilabetez txartelak masiboki erosi zituzten eta dirutza irabazi zuten. Diru harekin, gero ondo inbertituta, Voltaire aberats eta independente bihurtu zen. Ez zuen babeslerik ez pentsiorik behar izan, eta independentzia ekonomiko horri esker bere garaiko egile gutxik izan zezaketen askatasunez idatzi ahal izan zuen.</p>",
+  "fuente": "Voltaireren biografiak, garaiko lekukotasunetan oinarrituak",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": []
+ },
  "euler": {
   "name": "Leonhard Euler",
   "dates": "1707 – 1783",
