@@ -206,7 +206,8 @@ const ILUSTRES = {
   "temas": [
    "fil-metafisica",
    "fil-presocraticos",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "anaxagoras": {
@@ -400,7 +401,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "democrito": {
@@ -502,7 +504,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "diogenes": {
@@ -583,7 +586,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "pirron": {
@@ -604,7 +608,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t3"
+   "fil-t3",
+   "fil-montaigne-ensayos"
   ]
  },
  "epicuro": {
@@ -634,7 +639,8 @@ const ILUSTRES = {
    "fil-presocraticos",
    "fil-helenismo",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "zenon": {
@@ -656,6 +662,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-helenismo"
+  ]
+ },
+ "ciceron": {
+  "name": "Marko Tulio Zizeron",
+  "dates": "K.a. 106 – 43",
+  "born": -106,
+  "died": -43,
+  "place": "Arpino (Lazio, Italia)",
+  "role": "hizlari, politikari eta filosofo erromatarra",
+  "idea": "Filosofia greziarra latinez pentsa daiteke: Zizeronek erromatarrentzat itzuli zuen, eta eskolak eztabaida baten moduan azaldu zituen, irakurleak erabaki dezan.",
+  "bio": "<p>Marko Tulio Zizeron K.a. 106an jaio zen Arpinon, Erromatik ehun bat kilometrora, familia aberats batean, baina tradizio politikorik gabean. Zuzenbidea eta erretorika ikasi zituen Erroman, eta filosofia Atenasen eta Rodasen; Rodasen <strong>Posidonio</strong> estoikoa entzun zuen. Bere garaiko hizlaririk onena izan zen, eta kontsul izatera iritsi zen K.a. 63an, <strong>Katilinaren</strong> konspirazioa desegin zuenean. Konspiratzaileak epaiketarik gabe exekutatu zituelako, urte eta erdiz erbesteratu behar izan zuen.</p>\n<p>Zesarren diktadurarekin pisu politikoa galdu zuen, eta Tulia alabaren heriotzaren ondoren, K.a. 45ean, filosofian aurkitu zuen babesa. Bi urte baino gutxiagoan idatzi zuen ia bere lan filosofiko guztia: <em>Tuskulanak</em>, <em>Jainkoen naturaz</em>, <em>Igarpenari buruz</em>, <em>Betebeharrez</em>… <strong>Akademia eszeptikoaren</strong> jarraitzailetzat zuen bere burua, hau da, probablea baino ezin dela lortu uste zuen eskola platonikoarena: epikureoen, estoikoen eta akademikoen arrazoiak azaltzen ditu, eta irakurleari uzten dio epaitzen. Horretarako, latinez existitzen ez ziren hitzak sortu behar izan zituen, <em>qualitas</em> («nolakotasuna») kasu. <em>Jainkoen naturaz</em> lanean, estoiko baten ahoan jartzen du munduaren ordenaren argudioa: eguzki-erloju batek edo zerua imitatzen duen esfera batek egile bat badute, unibertsoak ere bai. Haren <em>Hortensius</em> lanak, gaur galduta dagoenak, Agustin Hiponakoa gaztea filosofiara eraman zuen.</p>",
+  "obras": [
+   "Errepublikaz",
+   "Tuskulanak",
+   "Jainkoen naturaz",
+   "Betebeharrez"
+  ],
+  "anecdota": "<p>Zesarren heriotzaren ondoren, Zizeronek Marko Antonio eraso zuen hitzaldi sorta batean, <em>Filipikak</em> izenekoan. Antoniok, Oktaviok eta Lepidok boterea banatu zutenean, Antoniok haren heriotza eskatu zuen. Soldaduek K.a. 43an harrapatu zuten, Formiako bere landetxetik gertu, litera batean ihes egiten saiatzen ari zela. Plutarkok kontatzen duenez, Antoniok haren burua eta eskuak Foroko hizlarien tribunan erakusteko agindu zuen, hainbestetan hitz egin zuen lekuan bertan.</p>",
+  "fuente": "Plutarko, Zizeronen bizitza 47-49",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
   ]
  },
  "seneca": {
@@ -681,7 +713,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-helenismo"
+   "fil-helenismo",
+   "fil-montaigne-ensayos"
   ]
  },
  "plotino": {
@@ -760,7 +793,8 @@ const ILUSTRES = {
    "fil-metafisica",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "hipatia": {
@@ -783,6 +817,32 @@ const ILUSTRES = {
   "temas": [
    "fil-t3",
    "fil-t1-filosofia-mujer",
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "boecio": {
+  "name": "Boezio",
+  "dates": "480 ing. – 524",
+  "born": 480,
+  "died": 524,
+  "place": "Erroma",
+  "role": "filosofo eta politikari erromatarra",
+  "idea": "Benetako zoriontasuna ez dago fortunaren ondasunetan, etorri eta joan egiten baitira, ongi perfektuan baizik, hau da, Jainkoarengan: ongi inperfektuak badaude, perfektu batek egon behar du.",
+  "bio": "<p>Anizio Manlio Severino Boezio 480. urte inguruan jaio zen Erromako familiarik nobleenetako batean, Italia errege germaniarrek gobernatzen zutenean. 510ean kontsul izan zen, eta geroago <em>magister officiorum</em>, <strong>Teodoriko</strong> errege ostrogodoaren gorteko kargu gorenetako bat, Ravennan. Platonen eta Aristotelesen lan guztiak latinera itzultzea eta ados zeudela erakustea jarri zuen helburu. Ezin izan zuen amaitu, baina Aristotelesen logika eta Porfirioren <em>Sarrera</em> itzuli eta iruzkindu zituen. Sei mendez, Europa latindarrak haren liburuekin ikasi zuen logika, eta Porfiriori egindako iruzkinaren bidez iritsi zen Erdi Arora <strong>unibertsalen arazoa</strong>.</p>\n<p>523 inguruan traizioa leporatu zioten, Konstantinoplako enperadorearekin konspiratzea susmatzen zuten senatari bat defendatzeagatik. Paviatik gertu giltzapetu eta exekutatu egin zuten. Kartzelan idatzi zuen <em>Filosofiaren kontsolazioa</em>, Erdi Aroko liburu irakurrienetako bat: Filosofiak bisitatu egiten du, eta irakasten dio fortuna biraka dabilen gurpil bat dela eta ongi gorena Jainkoa dela. III. liburuan arrazoitzen du ongi inperfektuak badaude ongi perfektu batek existitu behar duela; Anselmok eta Tomasen laugarren bideak antzeko arrazoibidea erabiliko dute.</p>",
+  "obras": [
+   "Filosofiaren kontsolazioa (524 inguruan)",
+   "Aristotelesen logikaren itzulpenak eta iruzkinak",
+   "Porfirioren Sarrerari egindako iruzkinak"
+  ],
+  "anecdota": "<p><em>Kontsolazioa</em> eszena batekin hasten da. Boeziok, kartzelan, bertso tristeak idazten ditu, poesiaren Musek lagunduta. Orduan emakume maiestatetsu bat agertzen da, altuera aldakorrekoa: batzuetan altuera arruntekoa dirudi, eta beste batzuetan buruaz zerua ukitzen du. Soineko urratua darama, eskola bakoitzak zati bat eraman baitu. Filosofia da, eta Musak kanporatu eta presoa arrazoiekin sendatzen hasten da.</p>",
+  "fuente": "Boezio, Filosofiaren kontsolazioa I, 1. eta 3. prosak",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
    "fil-comunidades-perseguidos"
   ]
  },
@@ -903,7 +963,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "maimonides": {
@@ -987,7 +1048,8 @@ const ILUSTRES = {
    "fil-t2",
    "fil-metafisica",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "ockham": {
@@ -1175,6 +1237,30 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-comunidades-perseguidos"
+  ]
+ },
+ "montaigne": {
+  "name": "Michel de Montaigne",
+  "dates": "1533 – 1592",
+  "born": 1533,
+  "died": 1592,
+  "place": "Montaigneko gaztelua (Périgord, Frantzia)",
+  "role": "humanista eta saiakeragile frantsesa",
+  "idea": "Aztergairik onena norbera da: norberaren bizitza, aldakorra eta kontraesankorra, zintzotasunez aztertuz ikasten da zer den gizaki izatea eta zein gutxi dakigun ziurtasunez.",
+  "bio": "<p>Michel Eyquem de Montaigne Bordeleko merkatari aberastuen familia batean jaio zen. Aitak modu berezian hezi zuen: sei urte bete arte latinez baino ez zioten hitz egin, eta, horrela, latina izan zen haren lehen hizkuntza. Zuzenbidea ikasi zuen eta Bordeleko Parlamentuko kontseilari izan zen; han, Étienne de La Boétie idazlearekin adiskidetasun bat egin zuen, eta adiskidetasun horrek betiko markatu zuen. 1571n, 38 urterekin, bere gazteluko dorrera erretiratu zen irakurtzeko eta idazteko, nahiz eta bizitza publikora itzuli zen, Bordeleko alkate gisa (1581-1585) eta katolikoen eta protestanteen arteko erlijio-gerretan bitartekari gisa.</p>\n<p>Erretiroan genero berri bat asmatu zuen, <strong>saiakera</strong>: testu labur eta libreak, non bere iritzia «probatzen» duen edozein gairi buruz, adiskidetasunetik eta heriotzatik hasi eta kanibaletara, hezkuntzara edo esperientziara. Montaignek bere burua hartzen du aztergai, eta izaki aldakor eta kontraesanez betea aurkitzen du. Haren jarrera <strong>eszeptikoa</strong> da: «Zer dakit nik?» galdera hartu zuen goiburutzat, oreka-egoeran dagoen balantza batekin. Eszeptizismo horretatik sortzen dira haren tolerantzia eta krudelkeriaren aurkako kritika: «Kanibalez» saiakeran dio barbaro deitzen diogula gure ohitura ez denari. Eragina izan zuen Descartesengan, Pascalengan eta literatura moderno osoan.</p>",
+  "obras": [
+   "Saiakerak (1580; 1588an handituak; hil ondoko edizioa, 1595)",
+   "Italiarako bidaiaren egunkaria (1580-1581ean idatzia, 1774an argitaratua)"
+  ],
+  "anecdota": "<p>Bere dorrera erretiratu zenean, Montaignek berrogeita hamar esaldi baino gehiago margoarazi zituen, grezieraz eta latinez, bere liburutegiko sabaiko habeetan; Bibliatik, eszeptikoengandik, Lukreziorengandik edo Sexto Enpirikorengandik hartu zituen, irakurtzen eta idazten zuen bitartean beti begien aurrean izateko. Gaur egun ere ikus daitezke dorrean, gazteluaren ondoan gordetzen baita. Eta alboan latinezko inskripzio bat grabatuarazi zuen: 38. urtebetetze-egunean erretiratzen zela, «aspalditik gorteko morrontzaz eta kargu publikoez nekatuta», muxa jakintsuen altzora.</p>",
+  "fuente": "Montaigneren dorreko inskripzioak (1571)",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-montaigne-ensayos"
   ]
  },
  "giordano_bruno": {
@@ -1401,7 +1487,8 @@ const ILUSTRES = {
    "fil-t3",
    "fil-metafisica",
    "fil-spinoza-sistema",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "isabel": {
@@ -1450,7 +1537,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-metafisica"
+   "fil-metafisica",
+   "fil-montaigne-ensayos"
   ]
  },
  "spinoza": {
@@ -1485,7 +1573,8 @@ const ILUSTRES = {
    "fil-metafisica",
    "fil-spinoza-sistema",
    "fil-grandes-preguntas",
-   "fil-comunidades-perseguidos"
+   "fil-comunidades-perseguidos",
+   "fil-montaigne-ensayos"
   ]
  },
  "locke": {
@@ -1750,7 +1839,8 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "rousseau": {
@@ -1776,7 +1866,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "baumgarten": {
@@ -1853,7 +1944,61 @@ const ILUSTRES = {
    "fil-t5",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
+  ]
+ },
+ "paley": {
+  "name": "William Paley",
+  "dates": "1743 – 1805",
+  "born": 1743,
+  "died": 1805,
+  "place": "Peterborough (Ingalaterra)",
+  "role": "elizgizon eta filosofo ingelesa",
+  "idea": "Erloju bat aurkitzean norbaitek egin zuela ondorioztatzen badugu, begiak eta izaki bizidunen gainerako organoek, askoz konplexuagoak izanik, diseinatzaile adimendun bat eskatzen dute.",
+  "bio": "<p>William Paley 1743an jaio zen Peterborough-n, eskola bat zuzentzen zuen elizgizon baten semea. Matematika ikasi zuen Cambridgeko Christ’s College-n; han bere promozioko notarik onena atera zuen matematikako azterketetan (1763), eta gero irakasle izan zen. Ingalaterrako Elizako apaiz ordenatu zuten, eta Carlisleko artxidiakono izatera iritsi zen. Haren liburuak Cambridgeko eskuliburu izan ziren hamarkadetan. <em>Filosofia moral eta politikoaren printzipioak</em> (1785) lanak erabilgarritasunaren morala defendatzen du eta esklaboen salerosketa kritikatzen du.</p>\n<p>Haren lanik ospetsuena <em>Teologia naturala</em> da (1802). Irudi batekin hasten da: txilardi bat zeharkatzean harri batekin estropezu egiten badut, pentsa dezaket beti hor egon dela; baina erloju bat aurkitzen badut, haren piezek, denbora neurtzeko doituta daudenez, erlojugile batengan pentsatzera behartzen naute. Ondoren, Paleyk begia, artikulazioak edo hegaztien hegoak aztertzen ditu, naturak diseinu bat erakusten duela ondorioztatzeko. Mende erdi geroago, Darwinek, Cambridgeko ikastetxe berean Paley ikasia zuenak, egokitzapen hori hautespen naturalaren bidez azaldu zuen.</p>",
+  "obras": [
+   "Filosofia moral eta politikoaren printzipioak (1785)",
+   "Kristautasunaren frogen ikuspegi bat (1794)",
+   "Teologia naturala (1802)"
+  ],
+  "anecdota": "<p>Paleyren argudioa euskarririk gabe utzi zuen zientzialaria haren miresle handienetako bat ere izan zen. 1859an, <em>Espezieen jatorria</em> argitaratu zen urte berean, Charles Darwinek lagun bati idatzi zion ia inoiz ez zuela liburu bat <em>Teologia naturala</em> bezainbeste miretsi, eta gaztetan ia buruz errezitatu zezakeela.</p>",
+  "fuente": "Charles Darwinek John Lubbocki idatzitako gutuna, 1859ko azaroaren 22a (Darwin Correspondence Project)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t4"
+  ]
+ },
+ "condorcet": {
+  "name": "Nicolas de Condorcet",
+  "dates": "1743 – 1794",
+  "born": 1743,
+  "died": 1794,
+  "place": "Ribemont (Pikardia, Frantzia)",
+  "role": "matematikaria, filosofo ilustratua eta Frantziako Iraultzako politikaria",
+  "idea": "Gizadiak aurrez finkatutako mugarik gabe aurrera egin dezake arrazoiari, zientziari eta hezkuntzari esker, eta aurrerapen horrek eskubide berberak eskatzen ditu guztientzat: baita emakumeentzat eta esklaboentzat ere.",
+  "bio": "<p>Marie Jean Antoine Nicolas de Caritat, Condorceteko markesa, 1743an jaio zen Ribemonten, Frantziako iparraldean. Bere aita, zaldizkako ofiziala, haurra zela hil zen. Jesuitekin ikasi zuen Reimsen eta Parisko Nafarroako Ikastetxean, eta matematikari eman zion bere burua: 1769an, hogeita bost urte besterik ez zituela, Zientzien Akademian sartu zen, eta 1776tik idazkari iraunkorra izan zen. D’Alemberten eta Turgoten laguna, matematikako artikuluekin lagundu zuen <em>Entziklopediaren</em> <em>Gehigarrian</em>, eta 1782an Frantziako Akademiako kide hautatu zuten. <em>Gehiengoz hartutako erabakien probabilitateari analisia aplikatzeari buruzko saiakera</em> lanean (1785) bozketak matematikaren bidez aztertu zituen, eta aurkitu zuen hiru aukera edo gehiago daudenean gehiengoaren lehentasunek zirkulu bat osa dezaketela: gehiengoak A nahiago du B baino, B nahiago du C baino eta, hala ere, C nahiago du A baino. Hori da «Condorceten paradoxa».</p>\n<p>Condorcetek bere zientzia eskubideen zerbitzura jarri zuen. 1781ean, «M. Schwartz» izengoitiarekin, <em>Beltzen esklabotzari buruzko gogoetak</em> argitaratu zituen; bertan esklabotza gaitzetsi eta pixkanaka ezabatzea proposatzen zuen. Gainera, Beltzen Lagunen Elkarteko (1788) lehen kideetako bat izan zen, eta elkarteko buru ere izan zen. 1790ean artikulu batean defendatu zuen emakumeak herritar gisa onartzea, gizonen eskubide politiko berberekin; garai hartan ia inork ez zuen hori defendatzen. Iraultzan diputatua izanik, 1792an irakaskuntza publikorako plan bat aurkeztu zuen, maila guztietan doakoa eta erlijio-irakaskuntzarik gabea, baina ez zen inoiz aplikatu; lehenago ere defendatua zuen neskek eta mutilek irakaskuntza bera jaso behar zutela. Heriotza-zigorraren aurka ere agertu zen, baita Luis XVI.aren epaiketan ere. Jakobinoen konstituzioa kritikatzeagatik, Konbentzioak atxilotzeko agindua eman zuen 1793ko uztailean. Parisen ezkutatuta, <em>Giza espirituaren aurrerapenen koadro historiko baten zirriborroa</em> idatzi zuen. 1794ko martxoan atxilotu zuten, eta egun gutxi geroago hil zen Bourg-la-Reineko espetxean.</p>",
+  "obras": [
+   "Beltzen esklabotzari buruzko gogoetak (1781)",
+   "Gehiengoz hartutako erabakien probabilitateari analisia aplikatzeari buruzko saiakera (1785)",
+   "Emakumeak herritartasun-eskubidera onartzeaz (1790)",
+   "Irakaskuntza publikoari buruzko bost txosten (1791)",
+   "Giza espirituaren aurrerapenen koadro historiko baten zirriborroa (1795, hil ondoren argitaratua)"
+  ],
+  "anecdota": "<p>1794ko martxoaren 25ean bere ezkutalekua utzi zuenean, Condorcetek bi egun eman zituen Parisko inguruetan noraezean, nekatuta eta goseak. Bere biografoek diotenez, Clamarteko ostatu batean sartu eta arrautzopil bat eskatu zuen. Zenbat arrautza nahi zituen galdetu ziotenean, «dozena bat» erantzun zuen. Kontakizunaren arabera, erantzun horrek agerian utzi zuen inoiz sukaldean aritu ez zen norbait zela, jaun bat, eta ez zela esaten zuen langilea. Gainera paperik ez zeramanez, susmoak piztu zituen eta atxilotu egin zuten. XIX. mendetik errepikatzen den eszena da, agian apainduta, baina ondo erretratatzen du liburuetatik kanpo galduta dagoen jakintsua.</p>",
+  "fuente": "XIX. mendetik bere biografoek errepikatzen duten kontakizun tradizionala; atxiloketaren xehetasunak ez daude ziurtasunez dokumentatuta",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
   ]
  },
  "lamarck": {
@@ -2012,7 +2157,8 @@ const ILUSTRES = {
    "fil-t3",
    "fil-t6",
    "fil-t7",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "thompson": {
@@ -2373,7 +2519,8 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t5",
-   "fil-grandes-preguntas"
+   "fil-grandes-preguntas",
+   "fil-montaigne-ensayos"
   ]
  },
  "frege": {
@@ -2752,7 +2899,8 @@ const ILUSTRES = {
    "fil"
   ],
   "temas": [
-   "fil-t1"
+   "fil-t1",
+   "fil-montaigne-ensayos"
   ]
  },
  "heidegger": {
@@ -3007,7 +3155,8 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7",
-   "fil-marxismos"
+   "fil-marxismos",
+   "fil-montaigne-ensayos"
   ]
  },
  "zambrano": {
