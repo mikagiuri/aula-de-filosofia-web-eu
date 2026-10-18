@@ -1260,7 +1260,7 @@ const ESQUEMAS_FIL = {
      "c": [
       {
        "rel": "balioa alderantzikatzen du",
-       "t": "Ukapena ¬p («ez p»)",
+       "t": "Ezeztapena ¬p («ez p»)",
        "d": "Egiazkoa p faltsua bada; faltsua p egiazkoa bada."
       },
       {

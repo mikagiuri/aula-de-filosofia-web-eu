@@ -473,7 +473,7 @@ const DECKS = {
    ],
    [
     "❌",
-    "Faltsazioa (Popper)",
+    "Ezeztatzea (Popper)",
     "Teoria bat zientifikoa da frogan jar badaiteke eta, printzipioz, ezezta badaiteke."
    ]
   ]
@@ -906,7 +906,7 @@ const DECKS = {
    ],
    [
     "❌",
-    "Faltsazioa (Popper)",
+    "Ezeztatzea (Popper)",
     "Teoria bat zientifikoa da frogan jar badaiteke eta, printzipioz, ezezta badaiteke."
    ],
    [
@@ -1787,12 +1787,12 @@ const QUIZZES = {
     "q": "Popperren arabera, teoria bat zientifikoa da baldin eta…",
     "o": [
      "inork ezin badu eztabaidatu.",
-     "probatu ahal bada eta, printzipioz, errefusatu (faltsutu) ahal bada.",
+     "probatu ahal bada eta, printzipioz, errefusatu (ezeztatu) ahal bada.",
      "zientzialari askok sinesten badute.",
      "oso zaharra bada."
     ],
     "a": 1,
-    "fb": "Faltsazio-irizpidea (Popper): zientifikoa dena probapean jarri ahal izan behar da eta, printzipioz, errefusatu."
+    "fb": "Ezeztatze-irizpidea (Popper): zientifikoa dena probapean jarri ahal izan behar da eta, printzipioz, errefusatu."
    },
    {
     "q": "Zer da baieztapen-alborapena?",
@@ -2058,12 +2058,12 @@ const QUIZZES = {
     "q": "Popperren arabera, teoria bat zientifikoa da baldin eta…",
     "o": [
      "inork ez du eztabaidatzen.",
-     "proban jar daiteke eta, printzipioz, errefusatu (faltsazioa).",
+     "proban jar daiteke eta, printzipioz, errefusatu (ezeztatzea).",
      "oso zaharra bada.",
      "askok sinesten dute."
     ],
     "a": 1,
-    "fb": "Faltsazio-irizpidea: zientifikoak proba jasan behar du eta, printzipioz, errefusagarria izan."
+    "fb": "Ezeztatze-irizpidea: zientifikoak proba jasan behar du eta, printzipioz, errefusagarria izan."
    },
    {
     "q": "«Paradigma» eta «iraultza zientifikoen» kontzeptua honako honena da…",
@@ -4642,13 +4642,13 @@ const QUIZZES = {
    {
     "q": "Zer egiten du NOT ate logiko batek?",
     "o": [
-     "1 bat 0 bihurtzen du eta 0 bat 1, ukapenak bezala.",
+     "1 bat 0 bihurtzen du eta 0 bat 1, ezeztapenak bezala.",
      "1 ematen du bi sarrerek korrontea jasotzen badute soilik.",
      "1 ematen du sarreretako batek gutxienez 1 balio badu.",
      "Bere bi sarrerak batzen ditu, disjuntzioak bezala."
     ],
     "a": 0,
-    "fb": "NOT atea ukapenari dagokio (¬p): balioa alderantzikatzen du, 1etik 0ra eta 0tik 1era."
+    "fb": "NOT atea ezeztapenari dagokio (¬p): balioa alderantzikatzen du, 1etik 0ra eta 0tik 1era."
    },
    {
     "q": "Zergatik du hainbesteko garrantzia logika sinbolikoak filosofiatik kanpo?",
@@ -4664,7 +4664,7 @@ const QUIZZES = {
    {
     "q": "Booleren aljebran, 1 «egiazkoa» eta 0 «faltsua» izanik, konjuntzioak eta disjuntzioak honen antzera funtzionatzen dute…",
     "o": [
-     "batuketa batek eta ukapen batek, hurrenez hurren.",
+     "batuketa batek eta ezeztapen batek, hurrenez hurren.",
      "batuketa batek eta biderketa batek, hurrenez hurren.",
      "bi batuketak, ordenak soilik bereizten dituenak.",
      "biderketa batek eta batuketa batek, hurrenez hurren."
@@ -7267,7 +7267,7 @@ const QUIZZES = {
     "o": [
      "Atzekaria",
      "Aurrekaria",
-     "Ukapena",
+     "Ezeztapena",
      "Konjuntzioa"
     ],
     "a": 0,
@@ -7289,11 +7289,11 @@ const QUIZZES = {
     "o": [
      "Konjuntzioari",
      "Disjuntzioari",
-     "Ukapenari",
+     "Ezeztapenari",
      "Baldintzazkoari"
     ],
     "a": 1,
-    "fb": "OR atea disjuntzioari (∨) dagokio, AND atea konjuntzioari eta NOT atea ukapenari dagozkien bezala."
+    "fb": "OR atea disjuntzioari (∨) dagokio, AND atea konjuntzioari eta NOT atea ezeztapenari dagozkien bezala."
    },
    {
     "q": "Nork erakutsi zuen, XIX. mendearen erdialdean, logika aljebra gisa landu zitekeela?",
