@@ -123,7 +123,7 @@ const ILUSTRACIONES = [
   "pie": "Edertasun klasikoa: proportzioa eta harmonia ideal estetiko gisa.",
   "tema": "fil-t7",
   "license": "Domeinu publikoa",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Venus_de_Milo_Louvre_Ma399_n4.jpg"
  },
  {
@@ -240,7 +240,7 @@ const ILUSTRACIONES = [
   "pie": "Logikaren aljebra: egiazkoa eta faltsua 1 eta 0 gisa.",
   "tema": "fil-t4",
   "license": "Domeinu publikoa",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_George_Boole.png"
  },
  {
@@ -258,7 +258,7 @@ const ILUSTRACIONES = [
   "pie": "Organon: dedukzio baliodunaren lehen teoria.",
   "tema": "fil-t4",
   "license": "Domeinu publikoa",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Aristotle,_set_on_a_restored_bust,_Colosseum.jpg"
  },
  {
@@ -276,7 +276,7 @@ const ILUSTRACIONES = [
   "pie": "Zoriontasuna plazer lasai eta minik ez gisa.",
   "tema": "fil-t5",
   "license": "Domeinu publikoa",
-  "artist": "Unknown artistUnknown artist",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Epikouros_BM_1843.jpg"
  },
  {
@@ -312,7 +312,7 @@ const ILUSTRACIONES = [
   "pie": "Lehen filosofoa: ura, guztiaren printzipio gisa.",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Thales_in_Thomas_Stanley_History_of_Philosophy.jpg"
  },
  {
@@ -393,7 +393,7 @@ const ILUSTRACIONES = [
   "pie": "Zenbakia, errealitatearen gako eta ordena gisa.",
   "tema": "fil-presocraticos",
   "license": "Domeinu publikoa",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Pythagoras_in_the_Roman_Forum,_Colosseum.jpg"
  },
  {
@@ -447,7 +447,7 @@ const ILUSTRACIONES = [
   "pie": "Eboluzioaren teoriak astindu egin zuen gizakia zer den ideia.",
   "tema": "fil-t2",
   "license": "Domeinu publikoa",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Editorial_cartoon_depicting_Charles_Darwin_as_an_ape_(1871).jpg"
  },
  {
@@ -465,7 +465,7 @@ const ILUSTRACIONES = [
   "pie": "Munduaz dakigula uste duguna baino haratago begiratzea.",
   "tema": "fil-t3",
   "license": "Domeinu publikoa",
-  "artist": "AnonymousUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Flammarion.jpg"
  },
  {
@@ -627,7 +627,7 @@ const ILUSTRACIONES = [
   "pie": "Naturaren arabera, konbentziorik gabe, bizi izan zen bikote zinikoa.",
   "tema": "fil-helenismo",
   "license": "Domeinu publikoa",
-  "artist": "Unknown authorUnknown author",
+  "artist": "Unknown author",
   "page": "https://commons.wikimedia.org/wiki/File:Crates_and_Hipparchia_Villa_Farnesina.jpg"
  },
  {
