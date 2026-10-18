@@ -1038,6 +1038,67 @@ const DECKS = {
    ]
   ]
  },
+ "fil-t5-cuidado-cortina": {
+  "name": "Filosofia 1. · Judizio morala, zaintzaren etika eta Cortina (5. gaia)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🪜",
+    "Kohlberg: hiru maila",
+    "Judizio morala hiru mailatan heltzen da (prekonbentzionala, konbentzionala eta postkonbentzionala); garrantzitsua ez da «bai» ala «ez», ematen den arrazoia baizik."
+   ],
+   [
+    "💊",
+    "Heinzen dilema",
+    "Lapurtu behar al du emaztea salbatzen duen sendagaia? Kohlbergek ez du erantzuna puntuatzen, hura justifikatzeko arrazoi mota baizik."
+   ],
+   [
+    "🗣️",
+    "Gilligan: beste ahots bat",
+    "Kohlbergen aurrean, Gilliganek berdin heldua den ahots moral bat deskribatzen du, harremanetatik, erantzukizunetik eta zaintzatik arrazoitzen duena, ez justiziatik soilik."
+   ],
+   [
+    "🤲",
+    "Zaintzaren etika",
+    "Nel Noddings eta Joan Tronto: pertsona zaurgarri eta elkarren mendekoetatik abiatzen gara; morala gugandik mendean dagoenaren beharrak artatzen hasten da."
+   ],
+   [
+    "🩺",
+    "Bioetika",
+    "Beauchamp eta Childress: lau printzipio kasu medikoetarako —autonomia, onginahia, ez-gaitzegitea eta justizia."
+   ],
+   [
+    "🐄",
+    "Animalien etika",
+    "Benthamentzat galdera ez da animaliek arrazoitzen duten, sufritu dezaketen baizik; «espezismoa» (Richard Ryderren terminoa, 1970, Singerrek zabaldua) espeziearengatik diskriminatzea da."
+   ],
+   [
+    "🤖",
+    "AAren etika",
+    "Algoritmoek beren datuetako alborapenak hereda ditzakete; tranbiaren dilema berragertzen da auto autonomoetan, eta nork erantzuten duen galdera."
+   ],
+   [
+    "⚖️",
+    "Gutxienekoak eta gehienekoak (Cortina)",
+    "Gutxienekoak: justiziaz guztiei exijigarri zaiena. Gehienekoak: proposatzen diren baina inposatzen ez diren bizitza zoriontsuaren proiektuak."
+   ],
+   [
+    "🏛️",
+    "Etika zibikoa",
+    "Gizarte plural baten moral komuna: balio partekatuak (askatasuna, berdintasuna, elkartasuna, errespetua, elkarrizketa) eta giza eskubideak, gauza bera sinestera behartu gabe."
+   ],
+   [
+    "💬",
+    "Etika dialogikoa",
+    "Apel eta Habermasekin: arau bat bidezkoa da ukitutako guztiek berdintasunezko elkarrizketa baten ondoren onar balezakete, engainurik eta hertsapenik gabe."
+   ],
+   [
+    "🙅",
+    "Aporofobia",
+    "Cortinak laurogeita hamarreko hamarkadan asmatu zuen terminoa (ABC Cultural, 1995) eta 2017ko liburuan zabaldu zuena: behartsuarekiko eta babesgabearekiko gaitzespena edo beldurra; sarritan xenofobia dirudiena, funtsean, «ekartzen ez duenaren» gaitzespena da."
+   ]
+  ]
+ },
  "fil-arte": {
   "name": "Filosofia 1. · Edertasuna eta artea (T7)",
   "subject": "fil",
@@ -7520,6 +7581,122 @@ const QUIZZES = {
     ],
     "a": 3,
     "fb": "Adorea koldarkeriaren (gabezia) eta zuhurtziagabekeriaren (gehiegikeria) arteko erdibidea da."
+   }
+  ]
+ },
+ "fil-t5-cuidado-cortina": {
+  "name": "Judizio morala, zaintzaren etika eta Cortina (Filosofia 1. · 5. gaia · errepasoa)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Heinzen dileman, zer interesatzen zaio batez ere Kohlbergi?",
+    "o": [
+     "Pertsonak bere erantzuna justifikatzeko erabiltzen duen arrazoi mota",
+     "Pertsonak azkenean baietz ala ezetz erantzuten duen",
+     "Jokabideak gehiengoarentzat ondorio onak dituen ala ez",
+     "Zer onespen- edo gaitzespen-sentimendu adierazten duen"
+    ],
+    "a": 0,
+    "fb": "Kohlbergentzat ez da garrantzitsua «bai» ala «ez», arrazoi mota baizik: horiek agerian jartzen dute garapen moralaren estadioa."
+   },
+   {
+    "q": "Zerk ezaugarritzen du Kohlbergen maila postkonbentzionala?",
+    "o": [
+     "Zigorraren beldurrez obeditzea",
+     "Truke bakoitzean norbere interesa bilatzea",
+     "Taldearen itxaropenak eta indarrean dauden legeak betetzea",
+     "Lege zehatzen gainetik printzipio eta eskubideekin arrazoitzea"
+    ],
+    "a": 3,
+    "fb": "Maila postkonbentzionalean gizarte-kontratuaz, eskubideez eta printzipio unibertsalez arrazoitzen da, lege zehatz baten gainetik egon daitezkeenak."
+   },
+   {
+    "q": "Zertan zetzan Carol Gilliganek Kohlbergi egindako objekzioa?",
+    "o": [
+     "Kohlbergek heldutasuna justiziaren neurriaz bakarrik neurtzen zuela eta zaintzaren ahotsa kanpoan uzten zuela",
+     "Estadioak ez direla ordenan egiten",
+     "Heinzen dilema errazegia zela",
+     "Morala ezin dela zientifikoki aztertu"
+    ],
+    "a": 0,
+    "fb": "Gilliganek defendatu zuen bada berdin heldua den ahots moral bat, harremanetatik, erantzukizunetik eta zaintzatik arrazoitzen duena, ez justiziatik soilik."
+   },
+   {
+    "q": "Zaintzaren etikaren arabera (Noddings, Tronto), zertatik abiatzen da morala pentsatzean?",
+    "o": [
+     "Kontratu bat sinatzen duten banako isolatuetatik",
+     "Pertsona zaurgarri eta elkarren mendekoetatik, harremanean",
+     "Gehienentzako zoriontasun handienaren kalkulutik",
+     "Arrazoiak bere buruari ematen dion inperatibo batetik"
+    ],
+    "a": 1,
+    "fb": "Zaintzaren etika denok zaurgarri eta elkarren mendeko garela abiapuntutzat hartzen da: morala gugandik mendean dagoena artatzen hasten da."
+   },
+   {
+    "q": "Zein dira Beauchamp eta Childressen bioetikaren lau printzipioak?",
+    "o": [
+     "Askatasuna, berdintasuna, anaitasuna eta elkartasuna",
+     "Intentsitatea, iraupena, ziurtasuna eta hedadura",
+     "Autonomia, onginahia, ez-gaitzegitea eta justizia",
+     "Bertutea, betebeharra, ondorioak eta zaintza"
+    ],
+    "a": 2,
+    "fb": "Autonomia, onginahia, ez-gaitzegitea eta justizia dira: jarrera desberdinetatik onargarriak diren tarteko printzipioak."
+   },
+   {
+    "q": "Peter Singerrek «espezismo» deitzen dio honi:",
+    "o": [
+     "Animaliek minik sentitzen dutela ukatzeari",
+     "Izaki bat bere espeziearengatik diskriminatzeari",
+     "Animaliak landareak bezala tratatzeari",
+     "Giza zoriontasuna soilik zenbatzen dela defendatzeari, animaliek arrazoitzen ez dutelako"
+    ],
+    "a": 1,
+    "fb": "Espezismoa espeziearengatik diskriminatzea da, arrazakeriak arrazarengatik diskriminatzen duen bezala; Richard Ryderrek asmatu zuen (1970) eta Singerrek zabaldu. Benthamek jada zioen gakoa sufritu ote dezaketen dela."
+   },
+   {
+    "q": "Ikaskide batek dio: «Cortinaren gutxienekoen etika moral epel bat da, esfortzu gutxikoa, gutxirekin konformatzekoa». Zer ulertu du gaizki?",
+    "o": [
+     "Gutxienekoak benetan hautazkoak direla",
+     "«Gutxienekoak» hedadurari dagokiola (guztiek partekatzen dutena), ez exijentzia-maila baxu bati",
+     "Gutxienekoak pertsona bakoitzak bere kabuz proposatzen dituela",
+     "Gutxienekoak eta gehienekoak gauza bera direla"
+    ],
+    "a": 1,
+    "fb": "Gutxienekoak exijenteak dira (duintasuna, ez-diskriminazioa, eskubideak); «gutxienekoak» izendatzen du, desberdinak izanik, bizikidetzeko bat etorri behar den gutxi hori, ez moral erraz bat."
+   },
+   {
+    "q": "Zer da, Cortinarentzat, etika zibiko bat?",
+    "o": [
+     "Gizarte osoari inposatutako erlijio baten morala",
+     "Guztiak zoriontasunaren ideia bera partekatzera behartzen dituen kode bat",
+     "Gizarte plural baten moral komuna: balio eta eskubide partekatuak, sinesmenak inposatu gabe",
+     "Inori ez gogaitarazteko edozein balio izateari uko egitea"
+    ],
+    "a": 2,
+    "fb": "Etika zibikoa gizarte plural baten zoru partekatua da (askatasuna, berdintasuna, elkartasuna, errespetua, elkarrizketa eta eskubideak), gauza bera sinestera behartzen ez duena."
+   },
+   {
+    "q": "Etika dialogikoaren arabera (Apel eta Habermas), noiz da bidezkoa arau bat?",
+    "o": [
+     "Gehiengoak ematen duenean, nahiz eta ukitutako batzuek onartu ez",
+     "Ukitutako guztiek berdintasunezko elkarrizketa baten ondoren onar lezaketenean, engainurik eta hertsapenik gabe",
+     "Gehienentzat plazer handiena sortzen duenean",
+     "Pertsona bakoitzak bere kabuz ongi iruditzen zaiona erabakitzen duenean"
+    ],
+    "a": 1,
+    "fb": "Diskurtsoaren etikak arauaren baliozkotasuna ukitutako guztien akordio posiblean bilatzen du, berdintasun-baldintzetan argudiatuz."
+   },
+   {
+    "q": "Zer izendatzen du «aporofobia» terminoak, Adela Cortinak asmatua?",
+    "o": [
+     "Atzerritarrekiko beldurra, oro har",
+     "Behartsuarekiko eta babesgabearekiko gaitzespena, beldurra edo nazka",
+     "Autoritate politiko ororekiko gaitzespena",
+     "Jendaurrean hitz egiteko beldurra"
+    ],
+    "a": 1,
+    "fb": "Aporofobia behartsuarekiko gaitzespena da (gr. áporos, behartsua), Cortinak laurogeita hamarreko hamarkadan asmatu eta 2017ko liburuan zabaldu zuen terminoa; dio sarritan xenofobia dirudiena, funtsean, baliabiderik ez duenarekiko gaitzespena dela."
    }
   ]
  },

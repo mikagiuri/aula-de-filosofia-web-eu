@@ -524,6 +524,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t1",
+   "fil-utilidad",
    "fil-presocraticos",
    "fil-helenismo"
   ]
@@ -781,6 +782,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t3",
+   "fil-t1-filosofia-mujer",
    "fil-comunidades-perseguidos"
   ]
  },
@@ -1027,6 +1029,32 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "pizan": {
+  "name": "Christine de Pizan",
+  "dates": "1364 – 1430 ingu.",
+  "born": 1364,
+  "died": 1430,
+  "place": "Venezia; Frantziako gortean bizi izan zen",
+  "role": "idazle eta pentsalaria",
+  "idea": "Europan bere lumatik bizi izan zen lehen emakumea; *La ciudad de las damas* liburuan bere aroko misoginiari argudioekin aurre egin zion eta emakumeen duintasuna eta gaitasun intelektuala defendatu zituen.",
+  "bio": "<p>Jatorri veneziarrekoa, Christine de Pizanek Frantziako Karlos V.aren gortean eman zuen haurtzaroa, non bere aita mediku eta astrologoa baitzen. Hari esker emakumeetan ohikoa ez zen prestakuntza jaso zuen. 25 urterekin alargundu eta seme-alabak bere kargu zituela, berriz ezkondu edo komentu batean sartu beharrean, ia inoiz ikusi gabeko bidea aukeratu zuen: <strong>idazle profesional</strong> gisa bizitzea.</p>\n<p>Bere lanik ezagunena, <em>La ciudad de las damas</em> (1405), alegoria bat da, non hiru irudik —Arrazoiak, Zuzentasunak eta Justiziak— egileari laguntzen baitiote historiako emakume ospetsuz populatutako hiri sinboliko bat eraikitzen, kalumnietatik babestuta. Harekin erantzuten die, puntuz puntu eta argudioekin, emakumea izaki apaltzat aurkezten zuten testuei. Lehenago <strong>Arrosaren auzia</strong> deituaren protagonista izan zen, <em>Roman de la Rose</em>-ren misoginiaren aurkako polemika literario bat.</p>\n<p>«Emakumeen auziaren» aitzindaritzat jotzen da eta, askorentzat, baita feminismoaren aitzindaritzat ere. Erdi Aroaren azken zatiari eta emakumeek idatzitako utopien tradizioari lotuta agertzen da.</p>",
+  "obras": [
+   "La ciudad de las damas",
+   "El libro de las tres virtudes",
+   "La epístola al dios Amor",
+   "Joana Arkukoaren omenezko kanta (Ditié de Jehanne d'Arc)"
+  ],
+  "anecdota": "<p>Simone de Beauvoirrek, <em>Bigarren sexua</em>-n, nabarmentzen du Christine de Pizanen <em>Epístola al dios Amor</em>-ekin «lehen aldiz ikusten dugula emakume bat luma hartzen bere sexuaren defentsan» (parafrasia). Haren heriotzaren mendeak geroago, gizon talde batek «Arrosaren Ordena» bat sortzera iritsi zen polemika hartan bere kausa defendatzeko.</p>",
+  "fuente": "Christine de Pizan, *La ciudad de las damas*; Simone de Beauvoir, *Bigarren sexua* (sarrera); Lola Cabrera Trigoren *El pensamiento en femenino plural* liburutik egokitua (Erein, «En diálogo con…» saila; CC BY-NC-SA 4.0)",
+  "tradicion": true,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1-filosofia-mujer"
+  ]
+ },
  "erasmo": {
   "name": "Erasmo Rotterdamgoa",
   "dates": "1466 ing. – 1536",
@@ -1116,6 +1144,30 @@ const ILUSTRES = {
   ],
   "anecdota": "<p>1536an, Kalvinok gau bakarra igaro nahi zuen Genevan, Estrasburgorako bidean, han ikasketei lasai eman nahi baitzien bere burua. Baina Guillaume Farel predikaria, han Erreforma ezartzen saiatzen ari zena, jakinaren gainean jarri eta haren bila joan zen. Kalvinok geratzeari uko egin zionean, Farelek solemneki ohartarazi zion Jainkoak madarikatu egingo zituela bere erretiroa eta ikasketak eginkizun hura uzten bazuen. Kalvino, bere kontakizunaren arabera, hain hunkituta geratu zen, non bidaiari uko egin baitzion. Geneva ez zen gehiago haren izenetik bereiziko.</p>",
   "fuente": "Kalvino, Salmoen iruzkinaren hitzaurrea",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-comunidades-perseguidos"
+  ]
+ },
+ "servet": {
+  "name": "Miguel Servet",
+  "dates": "1511 – 1553",
+  "born": 1511,
+  "died": 1553,
+  "place": "Villanueva de Sijena (Aragoi)",
+  "role": "mediku eta teologo aragoiarra",
+  "idea": "Defendatu zuen ez dagoela oinarririk Trinitatearen dogmarako eta erlijioan pentsatzeko askatasuna aldarrikatu zuen; odola biriketatik nola pasatzen den ere deskribatu zuen.",
+  "bio": "<p>Miguel Servet 1511n jaio zen Villanueva de Sijenan, Aragoin. Adimen artega eta unibertsala izan zen: zuzenbidea, medikuntza, geografia eta teologia ikasi zituen. Mediku gisa, <em>Restitución del cristianismo</em> bere lanean odolaren <strong>birika-zirkulazioa</strong> edo «txikia» deskribatu zuen: azaldu zuen odola bihotzetik biriketara pasatzen dela, han airearekin nahasten dela eta bihotzera itzultzen dela. Europan ibilbide horren lehen deskribapenetako bat izan zen, nahiz eta ia inork irakurri ez zuen teologia-liburu batean lurperatuta geratu zen.</p>\n<p>Ospea eman ziona eta bizia kostatu zitzaiona bere ideia erlijiosoak izan ziren. Servetek <strong>Trinitatearen</strong> dogma (Jainkoa Aita, Semea eta Espiritu Santua esentzia bakarrean dela) ukatu zuen eta, bere ustez, jatorrizkoa zen kristautasun batera itzultzeko eskatu zuen. Horrek Eliza katolikoaren eta erreformatzaile protestanteen etsai bihurtu zuen. Frantziako Inkisizioak jazarrita, ihes egin eta Genevan amaitu zuen, non <strong>Joan Kalbino</strong> erreformatzailea agintzen baitzuen. Han epaitu eta <strong>sutan erre</strong> zuten 1553an. Haren heriotzak gaur egun ere axola duen eztabaida bat piztu zuen: botere batek, erlijioso edo politikoak, hil al dezake norbait pentsatzen duenagatik? Handik gutxira, Sebastián Castelliónek idatzi zuen indarrez sinestera behartzea eta ideia batengatik hiltzea ezin dela defendatu, <strong>tolerantziarako</strong> lehen dei handietako batean.</p>",
+  "obras": [
+   "Trinitatearen akatsei buruz (De Trinitatis erroribus, 1531)",
+   "Kristautasunaren berrezarpena (Christianismi restitutio, 1553)"
+  ],
+  "anecdota": "<p>Odola biriketatik zirkulatzearen deskribapena ez da medikuntza-tratatu batean agertzen, baizik eta teologia-liburu baten erdian ezkutatuta, <em>Restitución del cristianismo</em>-n. Ale ia guztiak egilearekin batera erre zituzten, eta gutxi batzuk baino ez ziren salbatu; denbora luzez zalantzan jarri zen Servetek hura benetan idatzi ote zuen, ale bakan horiek aurkitu ziren arte. Horregatik aurkikuntza zientifikoa ia oharkabean pasatu zen bere garaian: medikuntzak odolaren ibilbide bera beranduago berraurkitu behar izan zuen, beste bide batzuetatik.</p>",
+  "fuente": "Miguel Servet, Christianismi restitutio (1553), non birika-zirkulazioa deskribatzen baita; erreketatik ihes egin zuten ale bakanetakoa",
   "tradicion": false,
   "block": "ren",
   "subjects": [
@@ -1876,6 +1928,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -1902,6 +1955,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -2602,6 +2656,27 @@ const ILUSTRES = {
    "fil-metafisica"
   ]
  },
+ "maeztu": {
+  "name": "María de Maeztu",
+  "dates": "1881 – 1948",
+  "born": 1881,
+  "died": 1948,
+  "place": "Vitoria-Gasteiz",
+  "role": "pedagogoa",
+  "idea": "Praktikara eraman zuen emakumeen hezkuntza-berdintasuna: Residencia de Señoritas-etik unibertsitaterako eta bere garaiko Espainiako bizitza intelektualerako sarbidea ireki zien gazteei.",
+  "bio": "<p>María de Maeztu y Whitney Vitorian jaio zen 1881ean. Maistra gisa prestatu zen eta gero filosofia ikasi zuen, <strong>Unamuno</strong>ren eta <strong>Ortega y Gasset</strong>en ikasle, eta Alemanian eta Estatu Batuetan osatu zituen ikasketak. Hainbat hizkuntza menderatzen zituen eta laster espainiar hezkuntzako figurarik errespetatuenen artean kokatu zen.</p>\n<p><strong>Institución Libre de Enseñanza</strong>ren inguruan zuzendu zuen, 1915 eta 1936 artean, <strong>Residencia de Señoritas</strong>, bere proiekturik garrantzitsuena: edozein gaztek ikasi, ostatu hartu eta unibertsitaterako presta zitekeen leku bat, espainiar emakumeek oraindik baimen bereziak behar zituzten garai batean hartara iristeko. Handik Gabriela Mistral edo María Montessori bezalako intelektualak pasatu ziren. Instituto-Escuela ere bultzatu zuen eta Liceo Club Femenino-ren lehendakari izan zen.</p>\n<p>Bere pedagogiak ikasle aktiboa defendatzen zuen, ikaskuntza memoristikotik urrun, hezkuntza gizarte-erreformaren motor gisa. Gerra Zibila lehertzean, eta bere anaia Ramiro exekutatu ostean, Argentinara erbesteratu zen, non irakasten jarraitu baitzuen hil arte, Mar del Platan, 1948an. XX. mendeko lehen herenaren espainiar pentsamenduari lotuta agertzen da, Ortegarekin eta María Zambranorekin batera.</p>",
+  "obras": [],
+  "anecdota": "<p>Residencia de Señoritas ostatu bat baino askoz gehiago izan zen: Madrilgo emakume intelektualen topagune bihurtu zen. Bere izaera laikoak sektore kontserbadoreenen erasoak ekarri zizkion, zeinak bere bazkideak «bertuterik eta errukirik gabeko emakume» gisa kalifikatzera iritsi baitziren. Frankismoarekin, Liceoaren eraikin bera Sección Femenina-k okupatu zuen azkenean, bere idealen kontrakoak zituena.</p>",
+  "fuente": "Lola Cabrera Trigoren *El pensamiento en femenino plural* liburutik egokitua (Erein, «En diálogo con…» saila; CC BY-NC-SA 4.0); datak Auñamendi Entziklopediaren (Eusko Ikaskuntza) eta EcuRed-en arabera (1948-1-7an hil zen Mar del Platan; liburuak, okerki, 1952 ematen du)",
+  "tradicion": true,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "ortega": {
   "name": "José Ortega y Gasset",
   "dates": "1883 – 1955",
@@ -2625,6 +2700,7 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t2",
+   "fil-t3",
    "fil-t6"
   ]
  },
@@ -2852,6 +2928,32 @@ const ILUSTRES = {
    "fil-grandes-preguntas"
   ]
  },
+ "gaos": {
+  "name": "José Gaos",
+  "dates": "1900 – 1969",
+  "born": 1900,
+  "died": 1969,
+  "place": "Gijón (Asturias)",
+  "role": "Mexikoko espainiar erbesteko filosofo eta itzultzailea",
+  "idea": "Amerikako espainiar erbesteratuak ez ziren «desterrados» (lurretik botatakoak) hutsak, baizik eta «transterrados»: lurra aldatu zuten, baina beren lur bat izaten jarraitzen zuten, partekatutako hizkuntzagatik eta kulturagatik.",
+  "bio": "<p>José Gaos Gijónen jaio zen 1900ean eta <strong>Ortega y Gasset</strong>en ikaslea izan zen Madrilen. Filosofiako katedraduna, Madrilgo Unibertsitateko errektore izatera iritsi zen Bigarren Errepublikaren eta Gerra Zibilaren urteetan. Gerra amaitzean erbestera joan zen eta 1938an Mexikon kokatu zen, non Unibertsitate Nazionalean (UNAM) eta El Colegio de Méxicon irakatsi baitzuen hil arte, 1969an.</p>\n<p>Mexikon asmatu zuen gogoratzen den hitza: bera bezala Atlantikoaren beste aldean bizitza berregiten zuten espainiar intelektualentzat <strong>«transterrados»</strong> nahiago izan zuen «desterrados» baino, ez baitzuten beren lurra galdu, baizik eta beren hizkuntza hitz egiten zuen herrialde batera lekualdatu baitzuten. Itzultzaile erabakigarria ere izan zen: Heideggerren <em>Ser y tiempo</em> liburuaren bere bertsioa (1951) mende erdiz izan zen liburu horren sarrera gaztelaniazko mundurako. Mexikar filosofoen belaunaldi oso bat prestatu zuen eta ideien historiari eta filosofia zer den berari buruzko lan bat utzi zuen.</p>",
+  "obras": [
+   "De la filosofía",
+   "Confesiones profesionales (1958)",
+   "Historia de nuestra idea del mundo",
+   "«El ser y el tiempo»-ren itzulpena, Heideggerrena (1951)"
+  ],
+  "anecdota": "<p>Gaosek Heideggerren <em>Ser y tiempo</em> itzuli zuenean, gaztelaniaz hitzak asmatu behar izan zituen alemanak oso termino zailekin adierazten zituen ideietarako. Heideggerren <em>Dasein</em>-en bere bertsioa —gizakia «hor-izate» gisa ulertua— hamarkadetan eztabaidatu zen. Itzulpena, Mexikon 1951n argitaratua, mende erdiz izan zen gaztelaniaz eskuragarri zegoen bakarra eta Heidegger gure hizkuntzan hainbat belaunaldik irakurri zuten modua markatu zuen.</p>",
+  "fuente": "M. Heidegger, El ser y el tiempo, José Gaosen itz., Fondo de Cultura Económica, Mexiko, 1951 (itzultzailearen hitzaurrea)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "popper": {
   "name": "Karl Popper",
   "dates": "1902 – 1994",
@@ -3020,6 +3122,7 @@ const ILUSTRES = {
    "fil-t1",
    "fil-t2",
    "fil-t6",
+   "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
   ]
  },
@@ -3275,6 +3378,7 @@ const ILUSTRES = {
   "temas": [
    "fil-t1",
    "fil-t3",
+   "fil-t5",
    "fil-t6",
    "fil-marxismos"
   ]
@@ -3328,6 +3432,32 @@ const ILUSTRES = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "nussbaum": {
+  "name": "Martha Nussbaum",
+  "dates": "1947an jaioa",
+  "born": 1947,
+  "died": null,
+  "place": "New York (AEB)",
+  "role": "filosofo estatubatuarra",
+  "idea": "Justizia ez da herrialde baten aberastasunaren arabera neurtzen, pertsona bakoitzak bizitza duin bat izateko dituen benetako gaitasunen arabera baizik.",
+  "bio": "<p>Martha Nussbaum New Yorken jaio zen 1947an. Harvardeko Unibertsitatean doktoretza egin zuen Aristotelesi buruzko tesi batekin, eta Harvarden, Brownen eta, laurogeita hamarreko hamarkadatik aurrera, Chicagoko Unibertsitatean irakatsi du, non filosofia eta zuzenbidea uztartzen dituen. Filosofia grekoan aditua, etikaz, emozioez, hezkuntzaz eta justiziaz idatzi du. 2012an Gizarte Zientzietako Asturiasko Printzea Saria jaso zuen.</p>\n<p>Amartya Sen ekonomialariarekin batera <strong>gaitasunen ikuspegia</strong> garatu zuen. Aurrerapena BPGaren bidez neurtzeko ohituraren aurrean, dio galdetu behar dela zer egin eta izan dezakeen benetan pertsona bakoitzak. <strong>Oinarrizko gaitasunen</strong> zerrenda bat proposatzen du: bizitza, osasuna, osotasun fisikoa, zentzumenak eta irudimena, emozioak, arrazoi praktikoa, afiliazioa, beste espezieekiko harremana, jolasa eta norberaren ingurunearen gaineko kontrola. Gizarte bat justua da guztiei gaitasun horien gutxieneko bat bermatzen badie. Arreta berezia jartzen die herrialde pobreetako emakumeei, desgaitasuna duten pertsonei eta animaliei. <strong>Humanitateen</strong> balioa ere defendatzen du herritar kritikoak hezteko.</p>\n<p>Haren pentsamenduak Aristotelesen etika, bizitza onean zentratua, eta tradizio liberala uztartzen ditu. John Rawlsen justiziaren teoriarekin elkarrizketa kritikoa du: gizarte-kontratuan parte hartu ezin dutenak kanpoan uzten dituela leporatzen dio. Giza garapenari buruzko eztabaidetan erreferentzia da.</p>",
+  "obras": [
+   "Onaren hauskortasuna (1986)",
+   "Emakumeak eta giza garapena (2000)",
+   "Irabazi asmorik gabe (2010)",
+   "Gaitasunak sortzea (2011)"
+  ],
+  "anecdota": "<p>Filosofiari ekin aurretik, Martha gazteak aktore izan nahi zuen. Unibertsitateko ikasketak utzi zituen denbora batez errepertorioko antzerki-konpainia batean lan egiteko, herrialdean zehar obra klasikoak antzezten ibiltzen zena. Gero unibertsitatera itzuli zen eta greziar hizkuntzan eta literaturan jarri zuen arreta, New Yorkeko Unibertsitatean. Tragediarekiko grina hura ez zen desagertu: <em>Onaren hauskortasuna</em> lanean Sofokles eta Euripides aztertzen ditu, literaturak ere bizitza morala pentsatzen irakasten duela erakusteko.</p>",
+  "fuente": "R. Aviv-en profila The New Yorker aldizkarian (2016) eta elkarrizketak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-utilidad"
   ]
  },
  "butler": {

@@ -287,5 +287,128 @@ const CINE = [
    "Sailkatu Joeren desioak Epikuroren arabera (naturalak eta beharrezkoak, naturalak eta ez beharrezkoak, ez naturalak ez beharrezkoak). Zer esango luke estoiko batek kontzertuaz?"
   ],
   "trampa": "Epikureismoa «gozatu unea» esaldiarekin nahastea: Epikurok plazerak kalkulatzea eskatzen du, eta lasaitasuna (ataraxia) nahiago du bizitasuna baino."
+ },
+ {
+  "tema": "fil-t5",
+  "kind": "cine",
+  "t": "After the Dark",
+  "year": 2013,
+  "autor": "John Huddles",
+  "q": "Hamar pertsona bunker batean eta leku batzuetarako soilik: nork merezi du bizirik irautea eta, batez ere, nork erabakitzen du?",
+  "esc": "Irakasleak jokoa planteatzen du: apokalipsi nuklear baten ondoren leku mugatuak dituen bunker bat dago; ikasle bakoitzak lanbide bat jasotzen du eta guztien artean nor uzten duten kanpoan erabaki behar dute. Bigarren partida batean, irakaslea bera sartzen da bunkerrean eta arauak aldatzen ditu.",
+  "pregs": [
+   "Zein irizpiderekin aukeratzen dute nor salbatu: lanbidearen erabilgarritasunagatik, haren nolakotasunengatik, zozketaz? Defendatu irizpide bat eta esan nor uzten duzun kanpoan.",
+   "Irakasleak jokoa manipulatzen du irabazteko. Horrek ariketa baliogabetzen du ala dilema baten arauak nork jartzen dituen zerbait irakasten du? Argudiatu.",
+   "Pertsona batek taldeari ekartzen dionagatik (irizpide utilitarista) ala bere baitan (duintasuna, Kant) balio du? Aplikatu bi erantzunak bunkerraren banaketari."
+  ],
+  "trampa": "Dilemak «frogatzen» duela zein bizitzak balio duen gehien sinestea: jokoa paperak banatzen eta arauak aldatzen dituenak amarrutua dago. Filmak dilema planteatzen duenaz mesfidatzen irakasten du, ez hura ebazten.",
+  "aviso": "Indarkeria simulazioetan."
+ },
+ {
+  "tema": "fil-t6",
+  "kind": "cine",
+  "t": "Good Bye, Lenin!",
+  "year": 2003,
+  "autor": "Wolfgang Becker",
+  "q": "Seme batek AEDa bizirik dagoela itxurak egiten ditu amari atsekabez heriotza ez ekartzeko: egia, gezur errukitsua eta ideologia.",
+  "esc": "Ama, komunista konbentzitua, koma batetik esnatzen da Harresia erori dela jakin gabe (1989ko azaroa). Medikuak ohartarazten du beste zirrara batek hil egingo lukeela, eta Alexek pisuan jada existitzen ez den AED bat berreraikitzen du: produktuak, albisteak eta asmatutako telediario bat ere bai.",
+  "pregs": [
+   "Justifikatua al dago Alexek amari gezurra esatea hura babesteko? Noraino? Jarri muga eta arrazoitu.",
+   "Alexek birsortzen duen AEDa benetakoa baino atseginagoa da. Gertakariez soilik gezurretan dabil ala sistema bat ere idealizatzen du? Gauza bera al da nostalgiaz gogoratzea eta defendatzea?",
+   "AEDa batez ere zaintzen zuen Estatu bat izan zen (osasuna, enplegua, berdintasuna) ala batez ere zaintzen eta errepresio egiten zuen Estatu bat (Stasi, Harresia, askatasun eza)? Bildu bi aldeetako argudioak, epai itxirik eman gabe."
+  ],
+  "trampa": "«Ostalgiarekin» (AEDaren nostalgia atsegina) soilik geratzea edo haren erabateko gaitzespenarekin soilik, irakurketa bakarra balego bezala: filmak biekin jolasten du eta ez du eztabaida ixten. Norbere bizitzako aro batekiko maitasuna erregimen baten balioespen politikoarekin nahastea zaintzea komeni den jauzi bat da."
+ },
+ {
+  "tema": "fil-t4",
+  "kind": "cine",
+  "t": "Contra",
+  "year": 2021,
+  "autor": "Sönke Wortmann",
+  "q": "Irakasle ziniko batek ikasle bati eztabaidak irabazten irakasten dio: gauza bera al da konbentzitzea eta arrazoia izatea?",
+  "esc": "Abokatu izatea amesten duen kanpoaldeko gazte bat lehen egunean irakasle probokatzaile batekin topo egiten du; eztabaida-lehiaketa nazional baterako prestatzera behartuta, erretorika-trikimailuak irakasten dizkio aurkaria desmuntatzeko.",
+  "pregs": [
+   "Zer irakasten dio irakasleak: hobeto arrazoitzen ala «irabazten»? Gauza bera al dira? Jarri filmetik ateratako gauza bakoitzaren adibide bat.",
+   "Berak eztabaidan garaitzen ikasten du. Horrek arrazoia izatea ematen dio? Bereizi limurtzea, konbentzitzea eta frogatzea.",
+   "Aurkitu bere «trikimailuetan» gutxienez falazia bat (pertsonari erasoa, lastozko gizona, emoziora deia) eta azaldu zergatik funtzionatzen duen tranposoa izan arren."
+  ],
+  "trampa": "Eztabaida bat irabaztea arrazoia izatearekin nahastea: erretorikak publikoa mugitzen du, baina argudio baliozko bat ez dago nork txalotzen duenaren mende. Eta kontrako akatsa: erretorika oro tranpa dela sinestea, arrazoi onekin konbentzitzea zilegi denean."
+ },
+ {
+  "tema": "fil-t6",
+  "kind": "cine",
+  "t": "La ola",
+  "year": 2008,
+  "autor": "Dennis Gansel",
+  "q": "Autokraziari buruzko geletako esperimentu bat eskuetatik joaten da: nola jaiotzen da erregimen totalitario bat, institutu batean ere bai?",
+  "esc": "Wenger irakasleak gelan izena, agurra eta diziplina dituen mugimendu bat muntatzen du, «Olatua», autokrazia azaltzeko; egun gutxitan taldea kohesionatzen da, kanpokoak seinalatzen ditu eta kontua eskuetatik joaten zaio.",
+  "pregs": [
+   "Zer eskaintzen die «Olatuak» ikasleei engaiatzen dituena: kidetasuna, berdintasuna, lider bat? Zein giza behar aprobetxatzen du?",
+   "Wenger gertatzen denaren erantzule da, nahiz eta asmo onez hasi? Non zegoen gelditu behar zuen unea? Argudiatu.",
+   "Filmak «edonork eroriko litzateke» berresten du ala batzuek eusten diotela erakusten du, eta zergatik? Zer behar da masari ez jarraitzeko?"
+  ],
+  "trampa": "«Hau Alemania naziean baino ez zen gertatzen» edo «niri ez litzaidake gertatuko» ikasbide erosoa ateratzea: esperimentua benetako kasu batean inspiratzen da (Ron Jonesen «Hirugarren Olatua», Palo Alto, 1967) eta edonon funtzionatzen duten talde-mekanismoak seinalatzen ditu.",
+  "aviso": "Buruhiltze bat amaieran."
+ },
+ {
+  "tema": "fil-t2",
+  "kind": "cine",
+  "t": "Los dioses deben de estar locos",
+  "year": 1980,
+  "autor": "Jamie Uys",
+  "q": "Zerutik eroritako freskagarri-botila batek Kalahariko herrixka bat nahasten du: zer da «naturala» eta zer kulturala gugan?",
+  "esc": "Beira-botila bat hegazkin txiki batetik erortzen da Kalahariko san talde baten eskuetara; hasieran opari erabilgarria da, baina bakarra denez inbidia eta liskarrak eragiten hasten da, eta «itzultzea» erabakitzen dute munduaren mugara botata.",
+  "pregs": [
+   "Objektua ez da aldatzen; taldean eragiten duena aldatzen da. Zer dio horrek gure desirak eta gatazkak «naturalak» ala ikasiak diren?",
+   "Filmak sanak «errugabe» gisa eta hiria «ero» gisa begiratzen ditu. Gure kulturaren kritika bat da ala haien kulturaren erretratu paternalista bat? Hartu jarrera arrazoiekin.",
+   "Zer dugu «naturaz» eta zer «kulturaz»? Erabili botilaren adibidea bi gauzak bereizteko, edo erabat bereizten ez direla erakusteko."
+  ],
+  "trampa": "Sanen erretratua errealitate etnografiko gisa hartzea: 1980ko komedia bat da, idealizatu eta sinplifikatzen duena («basati onaren» mitoa). Ikustea ere bada nork kontatzen duen istorioa eta nondik galdetzeko ariketa bat."
+ },
+ {
+  "tema": "fil-t5",
+  "kind": "cine",
+  "t": "Criadas y señoras",
+  "year": 2011,
+  "autor": "Tate Taylor",
+  "q": "Etxeko langile beltzak 60ko hamarkadako Mississippin beren bertsioa kontatzen: duintasuna, aitortza eta nork duen ahotsa.",
+  "esc": "Jacksonen (Mississippi), 1963 inguruan, gazte zuri lizentziatu berri batek etxeko zerbitzuko langile beltzen testigantzak biltzen ditu ezkutuan, komuna erabiltzeraino bereizkeria jasaten dutenak.",
+  "pregs": [
+   "Zer ukatzen zaie langileei eskubideez gain: aitortza, ahotsa, duintasuna ere bai? Bereizi jokoan dauden gauza desberdinak.",
+   "Bidegabeak iruditzen zaizkien arau batzuk obeditzen dituzte. Noiz uzten dio arau batek behartzeari? Heteronomia autonomiaren aurrean (Kant): nork jokatzen du modu autonomoan filmean?",
+   "Istorioa emakume zuri batek jartzen du martxan. Ahotsa ematen die langileei ala kentzen die? Bestearen istorioa konta al daiteke hura bereganatu gabe? Argudiatu."
+  ],
+  "trampa": "«Salbatzaile zuriaren» kritika: filmak heroia protagonistei ahotsa «ematen» diena izateko arriskua du. Alborapen hori norbere kontakizunean antzematea ariketaren zati da; gaia bidezkoa izateak ez du nahikoa hura kontatzeko era ere izan dadin."
+ },
+ {
+  "tema": "fil-t3",
+  "kind": "cine",
+  "t": "Lucy",
+  "year": 2014,
+  "autor": "Luc Besson",
+  "q": "«Garuneko % 100 erabiltzen» duen emakume batek dena jakitera iristen da: zer da jakitea eta zerk balio du ezagutza gisa?",
+  "esc": "Droga-dosi bat bere gorputzaren barruan hautsi ostean, Lucy bere garunaren ehuneko gero eta handiagoak «erabiltzen» hasten da eta botereak irabazten ditu: oroimen osoa, materiaren kontrola, ezagutza osorako sarbidea.",
+  "pregs": [
+   "Filma «garunaren % 10 baino ez dugula erabiltzen» horretatik abiatzen da. Egia al da? Egiaztatu datua: horrek aldatzen al du trama osoa nola irakurtzen duzun?",
+   "Lucyk informazioa mugarik gabe metatzen du. Gauza bera al da hori ulertzea, edo jakintsu izatea? Bereizi datuak, ezagutza eta jakinduria.",
+   "Norbaitek «dena» jakingo balu, ikasteko edo erabakitzeko zerbait izaten jarraituko luke? Zer gertatzen zaio askatasunari ezjakintasuna desagertzen denean?"
+  ],
+  "trampa": "«Garunaren % 10aren mitoa» faltsua da: garun ia osoa erabiltzen dugu, ez dena aldi berean izan arren. Filmak bere trama osoa oso hedatuta dagoen akats horren gainean altxatzen du; hura aitortzea da ariketa, ez sinestea.",
+  "aviso": "Ekintza-filmetako indarkeria."
+ },
+ {
+  "tema": "fil-metafisica",
+  "kind": "cine",
+  "t": "Ahaztu nazazu!",
+  "year": 2004,
+  "autor": "Michel Gondry",
+  "q": "Bikote batek bere harremana oroimenetik ezabatzen du: zure oroitzapenak galtzen badituzu, bera izaten jarraitzen al duzu? Nortasun pertsonala.",
+  "esc": "Harreman-hauste baten ondoren, Joelek deskubritzen du bere ohiak bere oroimenetik haren oroitzapen oro ezabatu duela eta gauza bera egitea erabakitzen du; ezabatzean, bere adimenaren barruan, damutu egiten da eta oroitzapenak ezkutatzen saiatzen da haiei eusteko.",
+  "pregs": [
+   "Pertsona baten oroitzapenak ezabatzen badituzu, bera izaten jarraitzen al du? Zerk egiten gaitu garena: oroimenak, gorputzak, beste zerbaitek?",
+   "Joelek oroitzapen mingarriak ere gorde nahi ditu. Zentzurik al du min ematen duena gogoratu nahi izateak? Zer galtzen da hura ezabatzean?",
+   "Amaieran berriro hasten dira gaizki atera daitekeela jakinda. Libre al da eredu bat errepikatzen duena, ala hala dirudi soilik? Lotu denboran zeharreko nortasunarekin."
+  ],
+  "trampa": "«Gure oroitzapenak baino ez garela» pentsatzea: hala balitz, oroimena galtzea existitzeari uztea litzateke. Kasuak ideia hori (Locke) beste batzuen aurrean probatzeko balio du: gorputza, ohiturak, besteekiko loturak."
  }
 ];
