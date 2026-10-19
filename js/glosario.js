@@ -65,7 +65,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Jakintza arrunta",
-  "et": "*Jakin* gaztelaniaz *saber* da, latinezko *sapere*, «zaporea izan» eta baita «zentzua izan» ere.",
+  "et": "*Jakin* gaztelaniaz *saber* da, latinezko *sapere*, «zaporea izan» eta baita «zentzua izan» ere. Aurrekari grekoak τὰ ἔνδοξα (*tà éndoxa*) dira: denek, gehiengoak edo jakintsuek «onartutako iritziak», Aristotelesek abiapuntu hartzen dituenak.",
   "area": "Epistemologia",
   "tema": "Filosofia · 1. gaia",
   "def": "Eguneroko bizitzaren ezagutza berezkoa (zentzu komuna): erabilgarria, baina ez gogoetatsua eta aurreiritziekin."
@@ -73,7 +73,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Jakintza zientifikoa",
-  "et": "*Zientzia*, latinezko *scientia*, *scire* aditzetik, «jakin».",
+  "et": "*Zientzia*, latinezko *scientia*, *scire* aditzetik, «jakin». Grezierazko ἐπιστήμη (*epistéme*) itzultzen du: jakintza sendoa, Platonek iritziaren (δόξα) aurrean jartzen duena.",
   "area": "Epistemologia",
   "tema": "Filosofia · 1. gaia",
   "def": "Gertaeren hurbileko kausak ikertzen ditu behaketaren eta esperimentazioaren bidez; partziala da (zientzia bakoitzak errealitatearen zati bat aztertzen du)."
@@ -207,7 +207,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Kultura",
-  "et": "Latinezko *cultura*, *colere* aditzetik, «landu»: Zizeronek filosofiari *cultura animi* deitu zion, «arimaren lantzea».",
+  "et": "Latinezko *cultura*, *colere* aditzetik, «landu»: Zizeronek filosofiari *cultura animi* deitu zion, «arimaren lantzea». Zizeronen *cultura animi* grezierazko παιδεία (*paideía*) hitzari dagokio, «hezkuntza, prestakuntza».",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Gizarte bateko kide gisa bereganatzen diren ezagutza, sinesmen, arte, moral, zuzenbide, ohitura eta azturen multzoa (Tylor).",
@@ -250,7 +250,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Erlatibismo kulturala",
-  "et": "*Erlatiboa*, latinezko *relativus*, *referre* aditzetik, «harremanetan jarri».",
+  "et": "*Erlatiboa*, latinezko *relativus*, *referre* aditzetik, «harremanetan jarri». Aurrekari grekoa Protagorasen esaldia da, πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος (*pánton khremáton métron estìn ánthropos*), «gizakia da gauza guztien neurria»; Herodotok (III 38) dagoeneko kontatu zuen herri bakoitzak bere ohiturak zituela onentzat.",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Kultura bakoitza bere irizpideen arabera bakarrik balora daitekeela eta bat bera ere ez dela bestea baino hobea defendatzea."
@@ -320,7 +320,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Pertsona",
-  "et": "Latinezko *persona*: aktoreak antzerkian janzten zuen maskara, eta hortik, bakoitzak jokatzen duen papera.",
+  "et": "Latinezko *persona*: aktoreak antzerkian janzten zuen maskara, eta hortik, bakoitzak jokatzen duen papera. *Persona* hitza grezierazko πρόσωπον (*prósopon*) hitzari dagokio, «aurpegia, maskara»; Elizako Aita greziarrek ὑπόστασις (*hypóstasis*) ere erabili zuten Trinitateko pertsonez hitz egiteko.",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Subjektu aske, arrazoidun eta arduratsua, preziorik ez duen duintasun baten eramailea."
@@ -339,7 +339,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Kontzientzia",
-  "et": "Latinezko *conscientia*: *cum* «-ekin» + *scire* «jakin»: «-ekin jakin», norberak dakienaz ohartzea.",
+  "et": "Latinezko *conscientia*: *cum* «-ekin» + *scire* «jakin»: «-ekin jakin», norberak dakienaz ohartzea. Aurrekari grekoa συναίσθησις (*synaísthesis*) da, «norbera hautematea», estoikoena (Hierocles).",
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Mundua hautemateaz gain, hautematen dugula jakitea."
@@ -414,7 +414,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sinesmena",
-  "et": "Latinezko *credere*: «konfiantza izan, sinetsi».",
+  "et": "Latinezko *credere*: «konfiantza izan, sinetsi». Grezieraz, δόξα (*dóxa*), «iritzia», eta πίστις (*pístis*), «konfiantza, fedea»: horrela deitzen dizkie Platonek zientziaren (ἐπιστήμη) aurrean.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Errealitateari dagokiola bermatu gabe ziurtzat onartzen dena (iritzia, doxa)."
@@ -422,7 +422,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Justifikazioa",
-  "et": "Latinezko *iustificare*: *iustus* «zuzena» + *facere* «egin».",
+  "et": "Latinezko *iustificare*: *iustus* «zuzena» + *facere* «egin». Aurrekari grekoa *Teeteto*n (201c-d) eztabaidatzen den definizioa da: jakitea litzateke δόξα ἀληθὴς μετὰ λόγου (*dóxa alethès metà lógou*), «arrazoiak dituen iritzi egiazkoa».",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Sinesmen bat babesten duten eta ezagutza bihurtzen duten arrazoiak."
@@ -507,7 +507,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Erlatibismoa",
-  "et": "Latinezko *relativus*, *referre* aditzetik, «harremanetan jarri».",
+  "et": "Latinezko *relativus*, *referre* aditzetik, «harremanetan jarri». Aurrekari grekoa Protagorasen esaldia da, πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος (*pánton khremáton métron estìn ánthropos*), «gizakia da gauza guztien neurria».",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Egia subjektuaren, kulturaren edo garaiaren menpe dagoela dioen jarrera."
@@ -515,7 +515,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Pertzepzioa",
-  "et": "Latinezko *perceptio*, *percipere* aditzetik (*per-* + *capere* «hartu»): «atzeman».",
+  "et": "Latinezko *perceptio*, *percipere* aditzetik (*per-* + *capere* «hartu»): «atzeman». Aurrekari grekoa αἴσθησις (*aísthesis*) da, «sentsazioa, pertzepzioa»: hortik *estetika*.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Zentzumenek ematen diguten berehalako ezagutza."
@@ -523,7 +523,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Arrazoia",
-  "et": "Latinezko *ratio*, «kalkulua, kontua», *reri* aditzetik, «kalkulatu, pentsatu».",
+  "et": "Latinezko *ratio*, «kalkulua, kontua», *reri* aditzetik, «kalkulatu, pentsatu». Grezierazko λόγος (*lógos*) itzultzen du; printzipioak atzematen dituen ahalmenari, greziarrek νοῦς (*noûs*) ere esaten zioten, «adimena».",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Datu sentigarrietatik abiatuta kontzeptuak eta argudioak lantzen dituen ahalmena."
@@ -531,7 +531,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Kontzeptua",
-  "et": "Latinezko *conceptus*, *concipere* aditzetik, «sortu, barrura bildu».",
+  "et": "Latinezko *conceptus*, *concipere* aditzetik, «sortu, barrura bildu». Aristotelesek ὅρος (*hóros*), «terminoa», deitzen dio silogismo batek lotzen dituen kontzeptu bakoitzari; estoikoek ἔννοια (*énnoia*) erabiltzen dute, «nozioa».",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Objektu-klase baten irudikapen orokor eta abstraktua."
@@ -539,7 +539,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Dedukzioa",
-  "et": "Latinezko *deducere*: «-tik eraman, -tik atera».",
+  "et": "Latinezko *deducere*: «-tik eraman, -tik atera». Aurrekari grekoa da ἀπόδειξις (*apódeixis*), «frogapena», συλλογισμός (*syllogismós*) bidez egina, Aristotelesengan.",
   "area": "Logika",
   "tema": "Filosofia · 3. gaia",
   "def": "Orokorretik partikularrera doan arrazoibidea; premisak egiazkoak badira, ondorioa beharrezkoa da."
@@ -555,7 +555,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ebidentzia",
-  "et": "Latinezko *evidentia*, *videre* aditzetik, «ikusi»: argi ikusten dena.",
+  "et": "Latinezko *evidentia*, *videre* aditzetik, «ikusi»: argi ikusten dena. Grezierazko ἐνάργεια (*enárgeia*) itzultzen du, «argitasuna», epikurtarren eta estoikoen terminoa.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Egia bat argitasunez eta bereiztasunez agertzen den egoera, zalantzarik gabe (Descartes).",
@@ -582,7 +582,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Morala",
-  "et": "Latinezko *mos, moris*: «ohitura».",
+  "et": "Latinezko *mos, moris*: «ohitura». Zizeronek *moralis* sortu zuen grezierazko ἠθικός (*ethikós*) itzultzeko, ἦθος (*êthos*)-tik, «izaera, ohitura».",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Pertsona edo gizarte batek zuzenak jotzen dituen arauen, balioen eta ohituren multzoa."
@@ -606,7 +606,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Kontzientzia morala",
-  "et": "Latinezko *conscientia*: *cum* «-ekin» + *scire* «jakin»: «-ekin jakin», norberak dakienaz ohartzea.",
+  "et": "Latinezko *conscientia*: *cum* «-ekin» + *scire* «jakin»: «-ekin jakin», norberak dakienaz ohartzea. Grezieraz, συνείδησις (*syneídesis*), «norberarekin jakitea»; latinezko *conscientia* haren hitzez hitzeko kalkoa da.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Gure ekintzak onak ala txarrak diren epaitzeko gaitasuna."
@@ -621,7 +621,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Deliberazioa",
-  "et": "Latinezko *deliberare*, *libra*, «balantza», hitzarekin lotu ohi dena: arrazoiak pisatzea.",
+  "et": "Latinezko *deliberare*, *libra*, «balantza», hitzarekin lotu ohi dena: arrazoiak pisatzea. Grezierazko βούλευσις (*boúleusis*) hitzari dagokio: Aristotelesen arabera, gure esku dagoenaz hausnartzen dugu.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Nola jokatu erabaki aurretik arrazoiak eta ondorioak hausnartzea."
@@ -636,7 +636,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Balioa",
-  "et": "Latinezko *valere*: «osasuntsu egon, indarra izan, balio izan».",
+  "et": "Latinezko *valere*: «osasuntsu egon, indarra izan, balio izan». Aurrekari grekoa da ἀξία (*axía*), «balioa», estoikoena: hortik *axiologia*.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Baloratzen dugun eta gure jokabidea bideratzen duen ezaugarria (justizia, askatasuna, elkartasuna…)."
@@ -644,7 +644,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Araua",
-  "et": "Latinezko *norma*, «eskuaira»: zurginak angelu zuzenak marrazteko erabiltzen zuen tresna.",
+  "et": "Latinezko *norma*, «eskuaira»: zurginak angelu zuzenak marrazteko erabiltzen zuen tresna. Grezieraz, νόμος (*nómos*), «legea, ohitura», eta κανών (*kanón*), «erregela», zurginaren beste tresna bat.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Nola jokatu behar dugun agintzen duen araua."
@@ -652,7 +652,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Askatasuna",
-  "et": "Latinezko *libertas*, *liber* hitzetik, «librea».",
+  "et": "Latinezko *libertas*, *liber* hitzetik, «librea». Grezierazko ἐλευθερία (*eleuthería*) itzultzen du; hautatzeko askatasunari dagokionez, greziarrek τὸ ἐφ᾽ ἡμῖν (*tò eph’ hemîn*) erabiltzen zuten, «gure esku dagoena».",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Norberak aukeratzeko eta jokatzeko gaitasuna; erantzukizun moralaren baldintza."
@@ -660,7 +660,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Erantzukizuna",
-  "et": "Latinezko *respondere*, «erantzun»: norberak egiten duenaren erantzuna eman behar izatea.",
+  "et": "Latinezko *respondere*, «erantzun»: norberak egiten duenaren erantzuna eman behar izatea. Aurrekari grekoa τὸ ἐφ᾽ ἡμῖν (*tò eph’ hemîn*) da, «gure esku dagoena»: Aristotelesek borondatez egiten dena soilik laudatzen edo gaitzesten du.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Norberaren ekintzen ondorioen erantzule izatea."
@@ -698,7 +698,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Betebeharraren etika",
-  "et": "*Betebeharra* gaztelaniaz *deber* da, latinezko *debere* (*de-* + *habere*, «eduki»): besteren batengandik zerbait jaso eta itzultzera behartuta egotea.",
+  "et": "*Betebeharra* gaztelaniaz *deber* da, latinezko *debere* (*de-* + *habere*, «eduki»): besteren batengandik zerbait jaso eta itzultzera behartuta egotea. Aurrekari grekoa da τὸ καθῆκον (*tò kathêkon*), «komenigarria», estoikoena, eta Zizeronek *officium* bezala itzuli zuena.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Ekintza betebeharrarekin bat datorren arabera epaitzen duen etika (deontologia), ez haren ondorioen arabera (Kant).",
@@ -736,7 +736,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Justizia",
-  "et": "Latinezko *iustitia*, *ius* hitzetik, «zuzenbidea».",
+  "et": "Latinezko *iustitia*, *ius* hitzetik, «zuzenbidea». Grezierazko δικαιοσύνη (*dikaiosýne*) itzultzen du.",
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Bakoitzari dagokiona ematea; pertsonen arteko tratu ekitatiboa."
@@ -786,7 +786,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sublimea",
-  "et": "Latinezko *sublimis*: «goratua, goian dagoena».",
+  "et": "Latinezko *sublimis*: «goratua, goian dagoena». Grezierazko ὕψος (*hýpsos*) itzultzen du, «altuera», Longinori egotzitako *Sublimeaz* tratatutik.",
   "area": "Estetika",
   "tema": "Filosofia · 7. gaia",
   "def": "Gure neurria gainditzen duenaren esperientzia (handia, indartsua), miresmena eta errespetua pizten dituena."
@@ -794,7 +794,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argudioa",
-  "et": "Latinezko *argumentum*, *arguere* aditzetik, «argitu, frogatu».",
+  "et": "Latinezko *argumentum*, *arguere* aditzetik, «argitu, frogatu». Grezieraz, λόγος (*lógos*); argudio dialektikoari ἐπιχείρημα (*epikheírema*) deitzen zitzaion.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Ondorio bat babesteko ematen diren arrazoien (premisen) multzoa."
@@ -802,7 +802,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Premisa",
-  "et": "Latinezko *praemissa*, «aurrean jarria» (*prae* + *mittere*, «bidali, jarri»).",
+  "et": "Latinezko *praemissa*, «aurrean jarria» (*prae* + *mittere*, «bidali, jarri»). Grezierazko πρότασις (*prótasis*) hitzari dagokio, «aurrean proposatzen dena», Aristotelesen terminoa.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Argudio bat abiatzen den arrazoi edo baieztapen bakoitza."
@@ -810,7 +810,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ondorioa",
-  "et": "Latinezko *concludere*: «itxi».",
+  "et": "Latinezko *concludere*: «itxi». Grezierazko συμπέρασμα (*sympérasma*) itzultzen du, «ixten dena», Aristotelesen terminoa.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Premisekin eutsi nahi den baieztapena."
@@ -818,7 +818,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argudio deduktiboa",
-  "et": "*Dedukzioa*, latinezko *deducere*, «-tik eraman, -tik atera».",
+  "et": "*Dedukzioa*, latinezko *deducere*, «-tik eraman, -tik atera». Aurrekari grekoa da Aristotelesen συλλογισμός (*syllogismós*).",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Premisak egiazkoak badira, ondorioaren egia bermatzen duena."
@@ -826,7 +826,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Argudio induktiboa",
-  "et": "*Indukzioa*, latinezko *inducere*, «-rantz eraman»: kasuetatik arauera.",
+  "et": "*Indukzioa*, latinezko *inducere*, «-rantz eraman»: kasuetatik arauera. *Indukzio*k grezierazko ἐπαγωγή (*epagogé*) itzultzen du.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Ondorioa probabilitate jakin batez babesten duena, bermatu gabe."
@@ -834,7 +834,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Baliozkotasuna",
-  "et": "Latinezko *validus*, «indartsua», *valere* aditzetik, «indarra izan».",
+  "et": "Latinezko *validus*, «indartsua», *valere* aditzetik, «indarra izan». Estoikoek baliozko argudioari συνακτικός (*synaktikós*) deitzen zioten, «ondorioztatzen duena», eta baliozkoa ez zenari ἀσύνακτος (*asýnaktos*).",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Argudio deduktiboaren propietate formala: premisak egiazkoak badira, ondorioa ezin da faltsua izan."
@@ -842,7 +842,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Falazia",
-  "et": "Latinezko *fallacia*, «engainua», *fallere* aditzetik, «engainatu».",
+  "et": "Latinezko *fallacia*, «engainua», *fallere* aditzetik, «engainatu». Grezieraz, σόφισμα (*sóphisma*) edo παραλογισμός (*paralogismós*), Aristotelesen *Ezeztapen sofistikoak* lanean.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Baliozkoa dirudien baina ez den arrazoibidea; engaina dezakeen argudiaketa-akatsa."
@@ -850,7 +850,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Ad hominem",
-  "et": "Latinez: «gizonaren aurka», hau da, pertsonaren aurka eta ez esaten duenaren aurka.",
+  "et": "Latinez: «gizonaren aurka», hau da, pertsonaren aurka eta ez esaten duenaren aurka. Aristotelesek dagoeneko bereizten du πρὸς τὸν λόγον (*pròs tòn lógon*), «argudioari», erantzutea eta πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), «pertsonari», erantzutea (*Ezeztapen sofistikoak* 22), nahiz eta han solaskideari zuzentzeari buruz hitz egin, ez hari eraso egiteari buruz.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Argudiatzen duen pertsonari erasotzea, haren arrazoiak ezeztatu beharrean."
@@ -890,7 +890,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Orokorpen presatua",
-  "et": "*Orokortu* gaztelaniaz *generalizar* da, latinezko *genus, generis*, «mota, espeziea».",
+  "et": "*Orokortu* gaztelaniaz *generalizar* da, latinezko *genus, generis*, «mota, espeziea». Aristotelesek παρὰ τὸ ἁπλῶς ἢ μὴ ἁπλῶς (*parà tò haplôs è mè haplôs*) deitzen duen falaziarekin ahaidetzen da sarri: kasu batean esandakoa, ezer gehiagorik gabe, orokor esanda dagoela hartzea.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Kasu oso gutxitik arau orokor bat ondorioztatzea."
@@ -898,7 +898,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Kausa faltsua",
-  "et": "Latinez, *non causa pro causa*: «kausa ez dena kausatzat hartzea»; aldaera bat da *post hoc, ergo propter hoc*, «honen ondoren, beraz honengatik».",
+  "et": "Latinez, *non causa pro causa*: «kausa ez dena kausatzat hartzea»; aldaera bat da *post hoc, ergo propter hoc*, «honen ondoren, beraz honengatik». Grezieraz, Aristotelesek τὸ μὴ αἴτιον ὡς αἴτιον (*tò mè aítion hos aítion*) deitzen dio, «kausa ez dena, kausatzat»; *Erretorika*n (II 24) «honen ondoren» datorkiona kausatzat hartzearen adibidea jartzen du.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Denborazko segida kausalitatetzat hartzea (post hoc): «honen ondoren, beraz, honen eraginez»."
@@ -922,7 +922,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Printzipio-eskea",
-  "et": "Latinezko *petitio principii* itzultzen du: «abiapuntua onartzeko eskatzea», hain zuzen ere frogatu nahi zena.",
+  "et": "Latinezko *petitio principii* itzultzen du: «abiapuntua onartzeko eskatzea», hain zuzen ere frogatu nahi zena. *Petitio principii*-k, bere aldetik, grezierazko τὸ ἐν ἀρχῇ αἰτεῖσθαι (*tò en arkhêi aiteîsthai*) itzultzen du, Aristotelesena.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Premisetan frogatu nahi den ondorio bera suposatutzat ematea (zirkulartasuna)."
@@ -938,7 +938,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Proposizioa",
-  "et": "Latinezko *propositio* hitzetik, *proponere* aditzetik: «aurrean jarri».",
+  "et": "Latinezko *propositio* hitzetik, *proponere* aditzetik: «aurrean jarri». Aurrekari grekoa da Aristotelesen λόγος ἀποφαντικός (*lógos apophantikós*): egia edo faltsutasuna dagoen esaldia.",
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Baieztatu edo ukatu egiten duen esaldi batek esaten duena, eta horregatik egiazkoa edo faltsua izan daitekeena. «Llueve» eta «Euria ari du» esaldi desberdinak dira, baina proposizio bera adierazten dute. Agindu bat edo galdera bat ez dira proposizioak."
@@ -946,7 +946,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Judizioa",
-  "et": "Latinezko *iudicium* hitzetik, «erabakia, epaia», *iudex* hitzetik eratorria, «epailea».",
+  "et": "Latinezko *iudicium* hitzetik, «erabakia, epaia», *iudex* hitzetik eratorria, «epailea». Grezierazko κρίσις (*krísis*) hitzari dagokio, «erabakia, bereizketa», κρίνειν (*krínein*) aditzetik, «bereiztu, epaitu»: familia berekoak dira *kritika* eta *kriterioa*.",
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Logika tradizionalean, zerbaiti buruz zerbait baieztatu edo ukatu egiten duen gogoaren egintza. Proposizioa egintza horretan pentsatuta geratzen dena da: judizioa norbaitek egiten du une jakin batean; proposizioa bera da, nork pentsatzen duen gorabehera."
@@ -1054,7 +1054,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Itxura",
-  "et": "Latinezko *apparere*: «erakutsi, agertu».",
+  "et": "Latinezko *apparere*: «erakutsi, agertu». Grezieraz, τὸ φαινόμενον (*tò phainómenon*), «agertzen dena»: hortik *fenomenoa*.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Gauzak dirudiena, benetan direnaren aurrean. Parmenidesen ustez, ikusten ditugun aldaketa eta aniztasuna itxura hutsa dira.",
@@ -1073,7 +1073,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Akzidentea",
-  "et": "Latinezko *accidere* (*ad-* + *cadere* «erori»): zerbaiti «gainera erortzen zaiona», funtsezkoa izan gabe gertatzen zaiona.",
+  "et": "Latinezko *accidere* (*ad-* + *cadere* «erori»): zerbaiti «gainera erortzen zaiona», funtsezkoa izan gabe gertatzen zaiona. Grezierazko τὸ συμβεβηκός (*tò symbebekós*) itzultzen du, «gertatzen zaiona», Aristotelesen terminoa.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Aristotelesentzat, substantzia batean baino existitzen ez den eta alda daitekeen ezaugarria, hala nola kolorea, tamaina edo lekua.",
@@ -1084,7 +1084,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Esentzia",
-  "et": "Latinezko *essentia*, *esse* aditzetik, «izan»: gauza bat dena.",
+  "et": "Latinezko *essentia*, *esse* aditzetik, «izan»: gauza bat dena. Grezierazko οὐσία (*ousía*) itzultzeko sortu zen; Aristotelesek τὸ τί ἦν εἶναι (*tò tí ên eînai*) ere esaten du, gauza bakoitzaren «izatea zena».",
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Gauza bat dena, «zer da?» galderari erantzuten diona: izateari utzi gabe gal ezin dezakeena."
@@ -1136,7 +1136,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Determinismoa",
-  "et": "Latinezko *determinare*, «mugak finkatu», *terminus* hitzetik, «mugarria».",
+  "et": "Latinezko *determinare*, «mugak finkatu», *terminus* hitzetik, «mugarria». Aurrekari grekoa da estoikoen εἱμαρμένη (*heimarméne*): kausen kate beharrezkoa.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Tesi honen arabera, gertatzen den guztia aurrekoaren eta naturaren legeen ondorio beharrezkoa da: une bateko munduaren egoera emanda, etorkizun posible bakarra dago."
@@ -1144,7 +1144,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Indeterminismoa",
-  "et": "Latinezko *in-* «ez» + *determinare*, «mugak finkatu», *terminus* hitzetik, «mugarria».",
+  "et": "Latinezko *in-* «ez» + *determinare*, «mugak finkatu», *terminus* hitzetik, «mugarria». Aurrekari grekoa παρέγκλισις (*parénklisis*) da, Lukrezioren *clinamen*: atomoen «desbideratzea», Epikurok beharrezkotasuna hausteko erabiltzen duena.",
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Tesi honen arabera, badira aurrekoetatik nahitaez ondorioztatzen ez diren gertaerak. Zerbait zoriz gertatzeak ez du askea bihurtzen."
