@@ -73,7 +73,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Jakintza zientifikoa",
-  "et": "*Zientzia*, latinezko *scientia*, *scire* aditzetik, «jakin». Grezierazko ἐπιστήμη (*epistéme*) itzultzen du: jakintza sendoa, Platonek iritziaren (δόξα) aurrean jartzen duena.",
+  "et": "*Zientzia*, latinezko *scientia*, *scire* aditzetik, «jakin». Grezierazko ἐπιστήμη (*epistéme*) itzultzen du: jakintza sendoa, Platonek iritziaren (δόξα, *dóxa*) aurrean jartzen duena.",
   "area": "Epistemologia",
   "tema": "Filosofia · 1. gaia",
   "def": "Gertaeren hurbileko kausak ikertzen ditu behaketaren eta esperimentazioaren bidez; partziala da (zientzia bakoitzak errealitatearen zati bat aztertzen du)."
@@ -414,7 +414,7 @@ const GLOSARIO = [
  {
   "subject": "fil",
   "t": "Sinesmena",
-  "et": "Latinezko *credere*: «konfiantza izan, sinetsi». Grezieraz, δόξα (*dóxa*), «iritzia», eta πίστις (*pístis*), «konfiantza, fedea»: horrela deitzen dizkie Platonek zientziaren (ἐπιστήμη) aurrean.",
+  "et": "Latinezko *credere*: «konfiantza izan, sinetsi». Grezieraz, δόξα (*dóxa*), «iritzia», eta πίστις (*pístis*), «konfiantza, fedea»: horrela deitzen dizkie Platonek zientziaren (ἐπιστήμη, *epistéme*) aurrean.",
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Errealitateari dagokiola bermatu gabe ziurtzat onartzen dena (iritzia, doxa)."

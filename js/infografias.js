@@ -8,9 +8,9 @@ const INFOGRAFIAS = {
   "title": "ZER DA<br><em>FILOSOFIA?</em>",
   "kicker": "Filosofia · 1. Batx. · 1. gaia",
   "subtitle": "Harriduratik logosera",
-  "tagline": "φιλοσοφία",
+  "tagline": "φιλοσοφία (philosophía)",
   "author": "«jakinduriarekiko maitasuna»",
-  "ghost": "σοφία",
+  "ghost": "σοφία (sophía)",
   "portrait": null,
   "blocks": [
    {
@@ -491,7 +491,7 @@ const INFOGRAFIAS = {
   "subtitle": "Filosofiaren jaiotza",
   "tagline": "Grezia, K.a. VI. mendea",
   "author": "MYTHOS → LOGOS",
-  "ghost": "λόγος",
+  "ghost": "λόγος (lógos)",
   "portrait": null,
   "blocks": [
    {
