@@ -322,6 +322,12 @@ const DILEMAS = [
     "elige": "B",
     "porque": "Pertsona bertutetsuak ez du formula batekin erabakitzen, izaerarekin baizik: badira gizon on batek egiten ez dituen ekintzak, eta errugabe bat bultzatzea horietako bat da, emaitza hobea izan arren.",
     "ilustre": "aristoteles"
+   },
+   {
+    "quien": "Spinoza",
+    "elige": "—",
+    "porque": "Aukeratu aurretik, hiru galdera: zer dakidan benetan, nork eraiki duen egoera eta zer afektutatik jarduten dudan. Arrazoiak bi gaitzetatik txikiena hautatzen du (Etika, IV, 65), baina pertsonak eta inguruabarrak ezagutu gabe, «bost baten aurka» irudimenaren kalkulu bat da. Bi irteerak beldurrez edo anbizioz egin daitezke, edo irmotasunez eta eskuzabaltasunez: ekintza aske egiten duena ez da emaitza, zergatik jarduten den ulertzea baizik.",
+    "ilustre": "spinoza"
    }
   ],
   "debate": {
