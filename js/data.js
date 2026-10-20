@@ -1150,6 +1150,230 @@ const DECKS = {
    ]
   ]
  },
+ "fil-argumentacion": {
+  "name": "Filosofia 1. · Argudiatu eta falaziak antzeman (T4)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🧩",
+    "Argudioa",
+    "Enuntziatu multzo bat, non batzuk (premisak) beste bat (ondorioa) onartzeko arrazoi gisa eskaintzen diren."
+   ],
+   [
+    "⬇️",
+    "Dedukzioa",
+    "Arrazoiketa bat, non, premisak egiazkoak badira, ondorioak ere egiazkoa izan behar duen: orokorretik partikularrera doa."
+   ],
+   [
+    "⬆️",
+    "Indukzioa",
+    "Behatutako kasuetatik abiatuta orokortzen duen arrazoiketa: ondorioa probablea da, inoiz ez segurua."
+   ],
+   [
+    "🔎",
+    "Abdukzioa",
+    "Azalpen onenerako arrazoiketa: gertaera batzuetatik haiek hobekien azaltzen dituen hipotesia ondorioztatzen da."
+   ],
+   [
+    "🧱",
+    "Argudio sendoa",
+    "Argudio baliozkoa eta, gainera, premisa egiazkoak dituena: ondorioa egiazkoa dela ziurtatzeko modu bakarra."
+   ],
+   [
+    "⚠️",
+    "Falazia",
+    "Zuzena dirudien arrazoiketa okerra, eta horregatik konbentzi dezakeena."
+   ],
+   [
+    "🗣️",
+    "Ad hominem",
+    "Argudiatzen duen pertsonari erasotzen dion falazia, haren argudioari erasan beharrean."
+   ],
+   [
+    "🥊",
+    "Lastozko gizona",
+    "Bestearen jarrera desitxuratzen duen falazia, errazago gezurtatzeko."
+   ],
+   [
+    "🎢",
+    "Aldapa irristakorra",
+    "Froga gabe, lehen urrats batek ondorio hondamendizkoen kate bat ekarriko duela ematen duen falazia."
+   ],
+   [
+    "🔁",
+    "Printzipio-eskea",
+    "Ondorioa premisetan jadanik suposatuta dagoen falazia: frogatu beharrekoa frogatutzat ematen da."
+   ]
+  ]
+ },
+ "fil-etica-teorias": {
+  "name": "Filosofia 1. · Etikaren eztabaidak (T5)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🧠",
+    "Intelektualismo morala",
+    "Sokrates: ongia zer den dakienak egiten du; gaizkia ezjakintasunetik sortzen da."
+   ],
+   [
+    "🌍",
+    "Erlatibismo morala",
+    "Sofistak: ona eta zuzena pertsona edo gizarte bakoitzaren araberakoak dira; ez dago guztientzat baliozko araurik."
+   ],
+   [
+    "🤝",
+    "Unibertsalismo morala",
+    "Badaude gizaki orotarako baliozkoak diren printzipio moralak, edozein dela ere haren kultura."
+   ],
+   [
+    "❓",
+    "Inperatibo hipotetikoa",
+    "Kant: helburu bati baldintzatutako agindua («gainditu nahi baduzu, ikasi»); ez dio helburu hori nahi ez duenari behartzen."
+   ],
+   [
+    "📏",
+    "Inperatibo kategorikoa",
+    "Kant: baldintzarik gabeko agindua. «Jardun soilik lege unibertsal bihurtzea nahi dezakezun maximaren arabera»."
+   ],
+   [
+    "🫶",
+    "Zaintzaren etika",
+    "Gilligan: morala harremanetatik, erantzukizunetik eta zaurgarria denari arreta jartzetik ere sortzen da, ez soilik arau abstraktuetatik."
+   ],
+   [
+    "💬",
+    "Diskurtsoaren etika",
+    "Habermas eta Cortina: arau bat zuzena da eragindako guztiek, elkarrizketa libre baten ondoren, onar baliezaiokete."
+   ],
+   [
+    "🏛️",
+    "Estoizismoa",
+    "Epikteto eta Seneka: gure esku dagoena ez dagoenetik bereiztea, eta arrazoiaren arabera bizitzea."
+   ],
+   [
+    "🧭",
+    "Zuhurtzia",
+    "Aristoteles: φρόνησις (phrónesis), bertutea egoera zehatz bakoitzari aplikatzeko aukera ematen duen jakinduria praktikoa."
+   ],
+   [
+    "⚖️",
+    "Dilema morala",
+    "Bi betebehar edo balio talka egiten duten egoera, biak aldi berean bete ezin direnean."
+   ]
+  ]
+ },
+ "fil-poder": {
+  "name": "Filosofia 1. · Boterea, Estatua eta herritartasuna (T6)",
+  "subject": "fil",
+  "cards": [
+   [
+    "💪",
+    "Boterea",
+    "Besteen jokabidean eragiteko gaitasuna, haien borondatearen aurka bada ere."
+   ],
+   [
+    "🎖️",
+    "Autoritatea",
+    "Zilegitzat onartzen den boterea: aitortzen delako betetzen da, ez indarragatik bakarrik."
+   ],
+   [
+    "✅",
+    "Legitimitatea",
+    "Weber: boterea tradizioagatik, buruzagi baten karismagatik edo lege arrazionalengatik onartzen da."
+   ],
+   [
+    "👑",
+    "Subiranotasuna",
+    "Estatu baten botere gorena, gainetik beste bat ez duena; demokrazian herriarena da."
+   ],
+   [
+    "🪪",
+    "Herritartasuna",
+    "Komunitate politiko bateko kide denaren egoera, eskubide eta betebeharrekin eta bertan parte hartzeko aukerarekin."
+   ],
+   [
+    "🏗️",
+    "Botere-banaketa",
+    "Montesquieu: botere legegilea, betearazlea eta judiziala bereiztea, boterea boterearekin geldiarazteko."
+   ],
+   [
+    "🗽",
+    "Liberalismo politikoa",
+    "Banakoaren askatasuna lehenesten duen eta, hura babesteko, Estatuaren boterea mugatzen duen korrontea."
+   ],
+   [
+    "🔨",
+    "Sozialismoa",
+    "Berdintasuna lehenesten duen eta, desberdintasunak murrizteko, gizarteak ekonomia kontrola dezan defendatzen duen korrontea."
+   ],
+   [
+    "🏴",
+    "Anarkismoa",
+    "Estatua zilegitasunik gabekotzat jotzen duen eta botere hertsatzailerik gabe antolatutako gizarte bat proposatzen duen korrontea."
+   ],
+   [
+    "✋",
+    "Desobedientzia zibila",
+    "Thoreau: lege bidegabe bat publikoki eta modu baketsuan ez betetzea, zigorra onartuz, hura aldatzeko."
+   ]
+  ]
+ },
+ "fil-arte-sociedad": {
+  "name": "Filosofia 1. · Artea, edertasuna eta gizartea (T7)",
+  "subject": "fil",
+  "cards": [
+   [
+    "🎭",
+    "Katarsia",
+    "Aristoteles: tragediak ikuslearengan sortzen duen emozioen (errukiaren eta beldurraren) arazketa."
+   ],
+   [
+    "🏔️",
+    "Sublimea",
+    "Burke eta Kant: neurrigabearen edo izugarriaren aurreko emozioa (ekaitz bat, itsasoa), gainditzen gaituena eta, aldi berean, erakartzen gaituena."
+   ],
+   [
+    "✨",
+    "Jenioa",
+    "Kant: arteari araua ematen dion talentua; eredu diren obra originalak sortzen ditu, eta ezin dira errezeta batekin ikasi."
+   ],
+   [
+    "🎨",
+    "Gustua",
+    "Ederra epaitzeko gaitasuna; Humek praktikarekin eta konparazioarekin hezten den «gustuaren estandar» bat bilatzen zuen."
+   ],
+   [
+    "🖨️",
+    "Erreproduzigarritasun teknikoa",
+    "Benjamin: argazkigintzak eta zinemak obra mugarik gabe kopiatzea ahalbidetzen dute, eta obrak pieza bakarraren «aura» galtzen du."
+   ],
+   [
+    "🏭",
+    "Industria kulturala",
+    "Adorno eta Horkheimer: seriean ekoitzitako kultura salgai gisa, entretenitzen duena baina pentsatzera gonbidatzen ez duena."
+   ],
+   [
+    "🚀",
+    "Abangoardiak",
+    "XX. mendearen hasierako mugimenduak (kubismoa, dadaismoa, surrealismoa), tradizio artistikoarekin hausten dutenak."
+   ],
+   [
+    "🚽",
+    "Ready-made",
+    "Duchamp: artistak aukeratu eta obra gisa erakusten duen objektu arrunta, Iturria (1917) bezala."
+   ],
+   [
+    "💡",
+    "Arte kontzeptuala",
+    "Ideia garrantzitsuena den artea, objektua edo trebetasun teknikoa baino gehiago."
+   ],
+   [
+    "🍬",
+    "Kitscha",
+    "Artistikoa modu gainkargatu edo sentimentalean imitatzen duena, ezer eskatu gabe atsegin emateko."
+   ]
+  ]
+ },
  "fil-logica": {
   "name": "Filosofia 1. · Logika: konektiboak, Boole eta ateak (T4)",
   "subject": "fil",

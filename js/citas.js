@@ -1501,6 +1501,14 @@ const CITAS = [
   "uso": "María Zambranoren arrazoi poetikoa aurkezteko, edo filosofiaren eta literaturaren arteko harremanari buruzko disertazio batean."
  },
  {
+  "c": "Bidegabekeria halakoa bada, non beste baten aurkako bidegabekeriaren eragile izatea eskatzen baitizu, orduan zera diotsut: hautsi legea.",
+  "a": "Thoreau",
+  "o": "Desobedientzia zibila (1849)",
+  "e": "contemporanea",
+  "sen": "Thoreaurentzat, kontzientzia legearen gainetik dago: hari obeditzeak beste baten aurkako bidegabekeria bat egitera behartzen bazaitu, esklabotza edo gerra bidegabe bat adibidez, desobeditu egin behar duzu eta ondorioak onartu.",
+  "uso": "Desobedientzia zibila azaltzeko, edo legearen eta justiziaren arteko harremanari edo obeditzeko betebeharrari buruzko disertazio batean."
+ },
+ {
   "c": "Zoritxarrekoek ez dute mundu honetan beste ezer behar, arreta jartzeko gai diren gizakiak baizik. […] Hurkoarekiko maitasunaren betetasuna, besterik gabe, hau galdetzeko gai izatean datza: «Zein da zure oinazea?».",
   "a": "Simone Weil",
   "o": "«Eskola-ikasketen erabilera onari buruzko gogoetak, Jainkoaren maitasuna lantzeko bide gisa» (1942), in Jainkoaren zain",
