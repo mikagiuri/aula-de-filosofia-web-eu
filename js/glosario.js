@@ -1038,6 +1038,60 @@ const GLOSARIO = [
  },
  {
   "subject": "fil",
+  "t": "Emozioari deia",
+  "id": "g-fil-apelacion-a-la-emocion",
+  "et": "Latinez, *ad misericordiam*, «errukiari», eta *ad baculum*, «makilari», hau da, mehatxuari.",
+  "area": "Logika",
+  "tema": "Argudiatzeko tailerra",
+  "def": "Zerbait onar dadin lortu nahi izatea emozio bat piztuz (pena, beldurra, harrotasuna), arrazoiak eman beharrean."
+ },
+ {
+  "subject": "fil",
+  "t": "Tu quoque",
+  "id": "g-fil-tu-quoque",
+  "et": "Latinez: «zu ere bai». Pertsonaren aurkako erasoaren (ad hominem) aldaera bat da.",
+  "area": "Logika",
+  "tema": "Argudiatzeko tailerra",
+  "def": "Kritika bat baztertzea, kritika egiten duenak ere eskatzen duena betetzen ez duela adieraziz: koherentziarik gabea izan daiteke, baina horrek ez du kritika faltsu bihurtzen."
+ },
+ {
+  "subject": "fil",
+  "t": "Analogia faltsua",
+  "id": "g-fil-falsa-analogia",
+  "et": "*Analogia*, grezierazko ἀναλογία (*analogía*) hitzetik, «proportzioa, bat etortzea».",
+  "area": "Logika",
+  "tema": "Argudiatzeko tailerra",
+  "def": "Bi gauza zerbaitetan bat datozela ondorioztatzea beste gauza batzuetan antzekoak direlako, axola duten desberdintasunak antzekotasunak baino handiagoak direnean."
+ },
+ {
+  "subject": "fil",
+  "t": "Ekibokoa",
+  "id": "g-fil-equivoco",
+  "et": "Latinezko *aequivocus* hitzetik, «ahots berekoa»: hitz bera gauza desberdinetarako. Aristotelesek παρὰ τὴν ὁμωνυμίαν (*parà tèn homonymían*), «homonimiagatik», bezala aztertzen du (*Ezeztapen sofistikoak* 4).",
+  "area": "Logika",
+  "tema": "Argudiatzeko tailerra",
+  "def": "Hitz bera bi zentzu desberdinekin erabiltzea arrazoibide baten barruan, bakarra balitz bezala."
+ },
+ {
+  "subject": "fil",
+  "t": "Galdera konplexua",
+  "id": "g-fil-pregunta-compleja",
+  "et": "*Galdera maltzurra* ere deitzen zaio; latinezko *captiosus*, «harrapatzen duena». Aristotelesek «hainbat galdera bakar bat egiteaz» hitz egiten du (*Ezeztapen sofistikoak* 5).",
+  "area": "Logika",
+  "tema": "Argudiatzeko tailerra",
+  "def": "Onartu ez den zerbait aldez aurretik ematen duen galdera bat egitea, edozein erantzunek hura onar dezan («Utzi al diozu azterketetan kopiatzeari?»)."
+ },
+ {
+  "subject": "fil",
+  "t": "Arrasto faltsua",
+  "id": "g-fil-pista-falsa",
+  "et": "Ingelesezko *red herring* itzultzen du, «sardinzar gorria»: ohiko azalpenaren arabera, usain handiko arrain ketua, ehiza-txakurrak desbideratzen zituena.",
+  "area": "Logika",
+  "tema": "Argudiatzeko tailerra",
+  "def": "Eztabaida beste gai batera desbideratzea, aztertzen ari zen gaiari ez erantzuteko."
+ },
+ {
+  "subject": "fil",
   "t": "Disertazioa",
   "id": "g-fil-disertacion",
   "et": "Latinezko *dissertatio*, *disserere* aditzetik, «ordenaz azaldu, arrazoiak lotu».",

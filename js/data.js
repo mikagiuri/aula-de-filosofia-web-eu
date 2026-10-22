@@ -2730,6 +2730,94 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Tautologia: beti egiazkoa. Beti faltsua balitz, kontraesan bat litzateke."
+   },
+   {
+    "q": "Zenbat errenkada ditu hiru letrako (p, q, r) formula baten egia-taulak?",
+    "o": [
+     "3",
+     "6",
+     "8",
+     "9"
+    ],
+    "a": 2,
+    "fb": "Letra bakoitza V edo F izan daiteke: 2 · 2 · 2 = 8 konbinazio. n letrarekin 2ⁿ errenkada dira; 5ekin jada 32, eta horregatik behar dira 4. mailako legeak eta arauak."
+   },
+   {
+    "q": "Zein formularen baliokidea da p → q?",
+    "o": [
+     "q → p",
+     "¬p ∨ q",
+     "¬p → q",
+     "p ∧ ¬q"
+    ],
+    "a": 1,
+    "fb": "p → q soilik da faltsua p V eta q F denean, ¬p ∨ q bezala. q → p alderantzizkoa da, eta ez da p → q-ren baliokidea. ¬p → q p ∨ q-ren baliokidea da: A ∨ B eta ¬A → B gauza bera direnez, ¬p ∨ q eta ¬¬p → q berdinak dira, hau da, p → q. Eta p ∧ ¬q haren ezeztapena da."
+   },
+   {
+    "q": "Tranpa-kasua: «Euria ari badu, lurra bustita dago.» Esaldi hauetatik zeinek esaten du gauza bera?",
+    "o": [
+     "Lurra bustita badago, euria egin du.",
+     "Euria ari ez badu, lurra ez dago bustita.",
+     "Lurra bustita ez badago, ez dago euria ari.",
+     "Euria ari du eta lurra bustita dago."
+    ],
+    "a": 2,
+    "fb": "Kontrako alderantzizkoa da, ¬q → ¬p, p → q-ren baliokidea. «Lurra bustita badago, euria egin du» (alderantzizkoa) eta «Euririk egiten ez badu, lurra ez dago bustita» (kontrakoa) gauza bera esaten dutela ematen du, baina ez: lurra bustita egon daiteke norbaitek ureztatu duelako. Eta esaldiak ez du esaten euria egiten duenik."
+   },
+   {
+    "q": "De Morganen legeak dio ¬(p ∧ q) honen baliokidea dela…",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬p ∨ ¬q",
+     "¬p ∨ q",
+     "p ∨ q"
+    ],
+    "a": 1,
+    "fb": "Bi gauzak batera ez gertatzea gutxienez bat huts egitea da. ¬p ∧ ¬q (¬(p ∨ q)-ren baliokidea) bietan huts egiten dutela esaten du, hau da, gehiago; ¬p ∨ q-k q ezeztatzea ahazten du, eta p ∨ q-k bi ezeztapenak."
+   },
+   {
+    "q": "Zer da (p → q) ∧ p ∧ ¬q formula?",
+    "o": [
+     "Tautologia.",
+     "Kontraesana.",
+     "Kontingentzia bat.",
+     "Modus ponens baliozko bat."
+    ],
+    "a": 1,
+    "fb": "Egiazkoa izateko, p V eta q F izan beharko lukete; baina orduan p → q F da. Ez dago egiazkoa den lerrorik: kontraesana da. Beste modu batera esanda: p → q, p eta ¬q ezin dira batera egiazkoak izan; horregatik p → q eta p-tik q ondorioztatzen da (modus ponens). Formula ez da arrazoiketa bat, enuntziatu bat baizik: ezin da «modus ponens baliozko bat» izan."
+   },
+   {
+    "q": "Zer da p → q formula, bere horretan?",
+    "o": [
+     "Tautologia.",
+     "Kontraesana.",
+     "Kontingentzia bat.",
+     "Ez da formula bat."
+    ],
+    "a": 2,
+    "fb": "Hiru errenkadatan egiazkoa da eta batean faltsua (p V, q F). Formula kontingenteak dira munduaz hitz egiten dutenak: haien egia gauzak nolakoak diren araberakoa da."
+   },
+   {
+    "q": "Tranpa-kasua: logika klasikoan, zer balio du «Ilargia gaztaz egina badago, orduan 2 + 2 = 5» esaldiak?",
+    "o": [
+     "Faltsua, bi zatiak faltsuak direlako.",
+     "Egiazkoa, aurrekaria faltsua delako.",
+     "Ez egiazkoa ez faltsua.",
+     "Faltsua, bi zatien artean loturarik ez dagoelako."
+    ],
+    "a": 1,
+    "fb": "Baldintzazko materiala faltsua da soilik aurrekaria egiazkoa eta atzekaria faltsua direnean. Aurrekaria faltsua denean egiazkoa da, zatien artean lotura egon ala ez. Hori «baldin»-en erabilera arruntarekin talka egitea arazo ezaguna da («baldintzazko materialaren paradoxak»)."
+   },
+   {
+    "q": "Noiz dio egia-taula batek argudio bat baliozkoa dela?",
+    "o": [
+     "Ondorioa taulako lerro guztietan egiazkoa denean.",
+     "Premisa egiazkoak eta ondorio faltsua dituen lerrorik ez dagoenean.",
+     "Premisa guztiak egiazkoak diren lerroren bat dagoenean.",
+     "Ondorioaren zutabean egiazko lerro gehiago daudenean faltsuak baino."
+    ],
+    "a": 1,
+    "fb": "Premisa egiazkoak eta ondorio faltsua dituen lerro bakar batek aski du baliogabea izateko: kontraadibidea da. Ondorioa lerro guztietan egiazkoa izateak ondorio tautologiko bat deskribatzen du, argudio baliozkoaren kasu berezi bat, eta ez definizioa."
    }
   ]
  },
@@ -7408,6 +7496,762 @@ const QUIZZES = {
     ],
     "a": 1,
     "fb": "Beren buruaren barnean ez dauden klase guztien klasea bere buruaren barnean dago, baldin eta soilik baldin ez badago. Russellek 1902an idatzi zion Fregeri; irtenbidea axiomen bidez finkatzea izan zen zer bilduma diren multzoak."
+   }
+  ]
+ },
+ "fil-validez-q": {
+  "name": "Baliozkotasuna eta egia, dedukzioa eta indukzioa (Filosofia 1. · T4 · ibilbidea, 1. maila)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "«Arrain guztiek hegan egiten dute; katu guztiak arrainak dira; beraz, katu guztiek hegan egiten dute.» Arrazoibide baliozkoa al da?",
+    "o": [
+     "Bai, premisak eta ondorioa faltsuak izan arren.",
+     "Ez, ondorioa faltsua delako: katuek ez dute hegan egiten.",
+     "Ez, bi premisak faltsuak direlako: arrainek ez dute hegan egiten.",
+     "Katuek benetan hegan egingo balute soilik litzateke baliozkoa."
+    ],
+    "a": 0,
+    "fb": "Baliozkotasuna formaren araberakoa da (M oro P da; S oro M da; beraz, S oro P da), ez esaten dena egia izatearen araberakoa: premisak egiazkoak balira, ondorioak ere egiazkoa izan beharko luke. Ondorioa edo premisak faltsuak izatea ez da nahikoa baliogabe bihurtzeko."
+   },
+   {
+    "q": "Lau konbinazio hauetatik, zein da ezinezkoa arrazoibide baliozko batean?",
+    "o": [
+     "Premisa faltsuak eta ondorio faltsua.",
+     "Premisa faltsuak eta ondorio egiazkoa.",
+     "Premisa egiazkoak eta ondorio faltsua.",
+     "Premisa egiazkoak eta ondorio egiazkoa."
+    ],
+    "a": 2,
+    "fb": "Hori da, hain zuzen, baliozkotasunak debekatzen duena: premisak egiazkoak eta ondorioa faltsua izatea. Beste hiru konbinazioak arrazoibide baliozkoetan gerta daitezke (premisaren bat faltsua bada, ez dute ondorio egiazkoa bermatzen)."
+   },
+   {
+    "q": "«Arrain guztiak ugaztunak dira; izurde guztiak arrainak dira; beraz, izurde guztiak ugaztunak dira.» Zer erakusten du adibide honek?",
+    "o": [
+     "Ondorioa egiazkoa bada, bi premisek ere egiazkoak izan behar dutela.",
+     "Premisa faltsuetatik, baliozko moduan, ondorio egiazkoa atera daitekeela.",
+     "Ez dela baliozkoa, izurdeak ez direlako arrainak, ugaztunak baizik.",
+     "Indukzio bat dela, arrainetatik izurdeetara doalako."
+    ],
+    "a": 1,
+    "fb": "Forma baliozkoa da eta ondorioa egiazkoa, baina bi premisak faltsuak dira. Horregatik, ondorio egiazko batek ez du frogatzen premisak egiazkoak direnik, eta premisa faltsu batek ez du ondorio faltsua bermatzen."
+   },
+   {
+    "q": "Tranpa-kasua: «Atenastar guztiak greziarrak dira; Sokrates greziarra da; beraz, Sokrates atenastarra da.» Dena da egia. Baliozkoa al da?",
+    "o": [
+     "Bai: premisak eta ondorioa egiazkoak badira, arrazoiketa baliozkoa da.",
+     "Ez: forma beraren bidez «Aristoteles greziarra da» esaldietik «atenastarra da» esaldira iristen da.",
+     "Bai, Sokrates benetan atenastarra zelako, Atenasen jaioa.",
+     "Ez, premisetako bat faltsua delako: ez dira atenastar guztiak greziarrak."
+    ],
+    "a": 1,
+    "fb": "Aristoteles Estagiran jaio zen: greziarra zen, baina ez atenastarra. Nahikoa da forma bera, premisa egiazkoak eta ondorio faltsua dituen kasu bat forma baliozkoa ez dela erakusteko. Akatsa: «greziarrak» (erdiko terminoa) ez da inoiz bere hedadura osoan hartzen."
+   },
+   {
+    "q": "«Hirurehun zisne ikusi ditut, eta denak zuriak ziren; beraz, zisne guztiak zuriak dira.» Zer arrazoibide mota da, eta zer gertatzen zaio?",
+    "o": [
+     "Dedukzio baliozko bat da, hirurehun behaketak egiazkoak direlako.",
+     "Indukzio bat da: premisak egiazkoak eta ondorioa faltsua izan daitezke.",
+     "Dedukzio baliogabea da, munduan oraindik ikusteko zisneak geratzen direlako.",
+     "Falazia da, kasuetatik inoiz ezin delako orokortu."
+    ],
+    "a": 1,
+    "fb": "Behatutako kasuetatik orokortzen du: indukzioa da. Indar handiagoa edo txikiagoa izan dezake, baina ez da baliozkoa zentzu deduktiboan: premisak egiazkoak eta ondorioa faltsua izan litezke (eta, egia esan, hala da: Australian zisne beltzak daude). Indukzioa egitea ez da akats bat; akatsa indukzio bat dedukzio batekin nahastea da."
+   },
+   {
+    "q": "Arrazoibide hauetatik zein da dedukzio bat?",
+    "o": [
+     "Ikusi ditudan bele guztiak beltzak dira; beraz, bele guztiak beltzak dira.",
+     "Euria ari badu, lurra bustitzen da; euria ari du; beraz, lurra bustitzen da.",
+     "Lurrak eta Martek gauza askotan dute antza; Lurrean bizia dago; beraz, Marten ere bai.",
+     "Lurra bustita dago; ziurrenik euria egin du."
+    ],
+    "a": 1,
+    "fb": "Modus ponens bat da: premisak egiazkoak badira, ondorioa ezin da faltsua izan. Besteak orokortze induktibo bat, analogia bat eta azalpen onenerako inferentzia bat dira: zentzuzkoak izan daitezke, baina ez dute ondorioa bermatzen."
+   },
+   {
+    "q": "Tranpa-kasua: askotan esaten da dedukzioa «orokorretik partikularrera joatea» dela. Definizio ona al da?",
+    "o": [
+     "Bai, hori da zehazki definitzen duena, eta horregatik indukzioaren aurkakoa da.",
+     "Ez guztiz: definitzen duena da premisak egiazkoak badira ondorioa ezin dela faltsua izan.",
+     "Ez: dedukzioa partikularretik orokorrera joatea da, eta indukzioa, alderantziz.",
+     "Bai, eta horregatik «M oro P da; S oro M da; beraz, S oro P da» silogismoa ez da dedukzio bat."
+    ],
+    "a": 1,
+    "fb": "Badira orokorretik orokorrera doazen dedukzioak (silogismo hori, baliozkoa dena) eta partikularretik partikularrera doazenak («Ana badator, Juan dator; Ana dator; beraz, Juan dator»). Dedukzioaren ezaugarria beharrezkotasuna da, ez norabidea."
+   },
+   {
+    "q": "«S guztiak P dira» (A motakoa) proposizioan, zein termino dago banatuta, hau da, zein klaseri buruz hitz egiten da osorik?",
+    "o": [
+     "S bakarrik.",
+     "P bakarrik.",
+     "Biak.",
+     "Bat ere ez."
+    ],
+    "a": 0,
+    "fb": "S guztiei buruz zerbait esaten da, baina ez P guztiei buruz: «txakur guztiak ugaztunak dira» esaldiak ez du ugaztun guztiei buruz hitz egiten. E-n biak banatzen dira; I-n, bat ere ez; O-n, predikatua bakarrik."
+   },
+   {
+    "q": "«S batzuk ez dira P» (O motakoa) proposizioan, zein termino dago banatuta?",
+    "o": [
+     "S bakarrik.",
+     "P bakarrik.",
+     "Biak.",
+     "Bat ere ez."
+    ],
+    "a": 1,
+    "fb": "Zenbait S P-tik kanpo geratzen dela esatean, S hori P klase osotik kanpo geratzen da: P osoari buruz ari da. S-ri buruz, ordea, zati bati buruz bakarrik. Horregatik O ez da konbertitzen: «zenbait P ez da S» esaldian, S banatua geratuko litzateke premisan banatua egon gabe."
+   },
+   {
+    "q": "«M oro P da; S batzuk M dira; beraz, S oro P da.» Zergatik ez da baliozkoa?",
+    "o": [
+     "Bi premisa unibertsal dituelako, eta hori ez dago onartuta.",
+     "Zenbaiti buruz dakiena S guztiei buruz ondorioztatzen duelako.",
+     "Erdiko terminoa ondorioan ere agertzen delako.",
+     "Baliozkoa da: lehen irudiko silogismoa da."
+    ],
+    "a": 1,
+    "fb": "Silogismoaren araua: premisa bat partikularra bada, ondorioak partikularra izan behar du. Baliozkoa «beraz, S batzuk P dira» da (Darii). Batzuei buruz bakarrik dakiguna guztiei buruz ondorioztatzea eskubiderik gabe orokortzea da."
+   },
+   {
+    "q": "«Arrain bat ere ez da ugaztuna; ugaztun batek ere ez du zakatzez arnasten.» Zer ondorioztatzen da arrainei eta zakatzez arnasten dutenei buruz?",
+    "o": [
+     "Ezein arrainek ez duela brankiekin arnasten, Celarent-en bezala.",
+     "Arrain guztiek brankiekin arnasten dutela, jakin bagenekien bezala.",
+     "Ezer ez: bi premisa ezezkoetatik ez da ezer ondorioztatzen.",
+     "Zenbait arrainek brankiekin arnasten dutela, gutxienez batek."
+    ],
+    "a": 2,
+    "fb": "Bi premisa ezezkoek S eta P M-tik kanpo daudela baino ez dute esaten; ez dute ezer esaten S eta P elkarren artean nola dauden. «Ezein arrainek ez du brankiekin arnasten» gainera faltsua da (arrainek brankiekin arnasten dute), eta «arrain guztiek brankiekin arnasten dute», egia izan arren, ez da premisetatik ondorioztatzen. Celarent-ek premisa baiezko bat du."
+   },
+   {
+    "q": "Tranpa-kasua: «Ikasle batzuk kirolariak dira; kirolari batzuk musikariak dira; beraz, ikasle batzuk musikariak dira.» Baliozkoa al da?",
+    "o": [
+     "Bai: ondorioa egia izan daiteke, eta institutu askotan hala da.",
+     "Ez: kirolari ikasleak eta musikariak desberdinak izan daitezke.",
+     "Bai, «izan» -aren iragankortasunagatik: batzuei balio dienak besteei ere balio die.",
+     "Ez, hiru termino dituelako, eta silogismo batek bi baino ezin dituelako izan."
+    ],
+    "a": 1,
+    "fb": "Bi premisa partikularretatik ez dator ezer, eta erdiko terminoa («kirolariak») ez dago banatuta bietako batean ere. Ondorioa egia izan daitekeela ez da nahikoa: formak premisa egiazkoak eta ondorio faltsua onartzen ditu. Hiru termino izatea ohikoa da silogismo batean."
+   }
+  ]
+ },
+ "fil-formalizar-q": {
+  "name": "Formalizatu enuntziatuen logikan (Filosofia 1. · T4 · ibilbidea, 3. maila)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "p: «festara joaten naiz»; q: «gonbidatzen naute». «Festara joango naiz, gonbidatzen banaute bakarrik» honela formalizatzen da…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 0,
+    "fb": "«…bada bakarrik» egiturak baldintza beharrezkoa sartzen du: «…bada bakarrik» daraman zatia atzekarian doa. Joaten banaiz, gonbidatu nautelako da (p → q). Gonbidatzea ez da nahikoa ni joateko: hori q → p litzateke."
+   },
+   {
+    "q": "Letra berberekin, «Festara joango naiz gonbidatzen banaute» honela formalizatzen da…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "q ∧ p"
+    ],
+    "a": 1,
+    "fb": "«Baldin» hutsak aurrekaria sartzen du, esaldiaren amaieran joan arren: gonbidatzen banaute, banoa (q → p). «Festara joango naiz gonbidatzen banaute bakarrik» (p → q) esaldiarekin alderatuta, tranpa ikusten da: «baldin» eta «soilik baldin» baldintzazkoa alderantzikatzen dute. q ∧ p-k gonbidatzen nautela eta banoala baieztatuko luke, eta esaldiak ez du horietako bat ere baieztatzen."
+   },
+   {
+    "q": "«Festara joango naiz, baldin eta soilik baldin gonbidatzen banaute» honela formalizatzen da…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "(p → q) ∨ (q → p)"
+    ],
+    "a": 2,
+    "fb": "Bibaldintzazkoak bi baldintzak batzen ditu: gonbidatzea beharrezkoa eta nahikoa da ni joateko. (p → q) ∧ (q → p)-ren baliokidea da. ∧-ren ordez ∨ jarrita tautologia bat litzateke, ezer esaten ez duena."
+   },
+   {
+    "q": "p: «irteten naiz»; q: «euria ari du». Tranpa-kasua: «Irtengo naiz, euria ari ez badu behintzat» honela formalizatzen da…",
+    "o": [
+     "¬q → p",
+     "q → ¬p",
+     "p ↔ ¬q",
+     "p ∧ ¬q"
+    ],
+    "a": 0,
+    "fb": "«Salbu eta» «ez bada»-ren baliokidea da: euria egiten ez badu, irtengo naiz (¬q → p), eta hori p ∨ q-ren berdina da. Esaldiak ez du esaten zer egingo dudan euria egiten badu; q → ¬p («euria egiten badu, ez naiz irtengo») edo p ↔ ¬q («irtengo naiz euria egiten ez badu soilik») bezala irakurtzeak esaldian ez dagoen zerbait gehitzen du. Eta p ∧ ¬q-k irteten naizela eta euria ez egiten duela baieztatzen du."
+   },
+   {
+    "q": "p: «ikasten du»; q: «lan egiten du». «Ez du ikasten, ezta lan egiten ere» honela formalizatzen da…",
+    "o": [
+     "¬(p ∧ q)",
+     "¬p ∧ ¬q",
+     "¬p ∧ q",
+     "¬p → q"
+    ],
+    "a": 1,
+    "fb": "«Ez… ez…»-k bi gauzak batera ezeztatzen ditu: ¬p ∧ ¬q, De Morganen arabera ¬(p ∨ q)-ren baliokidea. Aldiz, ¬(p ∧ q)-k bi gauzak batera ez dituela egiten baino ez du esaten: bat egin lezake. ¬p ∧ q-k «ikasten du» bakarrik ezeztatzen du, eta ¬p → q-k, ikasten ez badu, lan egiten duela esaten du."
+   },
+   {
+    "q": "Letra berberekin, «Ez da egia ikasten eta lan egiten duenik» honela formalizatzen da…",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬(p ∧ q)",
+     "¬p ∨ q",
+     "¬p ∧ q"
+    ],
+    "a": 1,
+    "fb": "Konjuntzio osoa ezeztatzen da: ez ditu bi gauzak batera egiten. Bateragarria da ikastea eta lan ez egitea, edo alderantziz. ¬p ∧ ¬q-k gehiago esaten du: bietako bat ere ez duela egiten. ¬p ∨ q eta ¬p ∧ q-k «lan egiten du» «ez»-tik kanpo uzten dute, eta esaldiak dena batera ezeztatzen du."
+   },
+   {
+    "q": "p: «zu zatoz»; q: «ni noa». «Edo zu zatoz edo ni noa, baina ez biak» honela formalizatzen da…",
+    "o": [
+     "p ∨ q",
+     "(p ∨ q) ∧ ¬(p ∧ q)",
+     "(p ∨ q) ∧ (¬p ∧ ¬q)",
+     "¬p ∨ ¬q"
+    ],
+    "a": 1,
+    "fb": "«Edo» esklusiboa da: gutxienez bat eta ez biak. ¬(p ↔ q)-ren baliokidea da. Logikaren ∨ inklusiboa da, eta biak datozenean ere egiazkoa da; ¬p ∨ ¬q-k ez datozela biak baino ez du esaten. Eta (p ∨ q) ∧ (¬p ∧ ¬q) kontraesana da: «ez biak» ez da «bietako bat ere ez»."
+   },
+   {
+    "q": "p: «garestia da»; q: «erosi egiten dut». «Garestia da; hala ere, erosi egiten dut» honela formalizatzen da…",
+    "o": [
+     "p → q",
+     "p ∧ q",
+     "¬p ∧ q",
+     "p → ¬q"
+    ],
+    "a": 1,
+    "fb": "«Hala ere», «baina» eta «arren» egiturek bi gauzak baieztatzen dituzte: konjuntzio bat dira. Kontraste-ñabardura («espero zenuke ez erostea») benetakoa da, baina enuntziatuen logikak ez du jasotzen."
+   },
+   {
+    "q": "p: «ikasten duzu»; q: «distraitu egiten zara»; r: «gainditu egiten duzu». «Ikasten baduzu eta distraitzen ez bazara, gainditu egiten duzu» honela formalizatzen da…",
+    "o": [
+     "p ∧ (¬q → r)",
+     "(p ∧ ¬q) → r",
+     "p ∧ ¬q ∧ r",
+     "(p → r) ∧ ¬q"
+    ],
+    "a": 1,
+    "fb": "Aurrekaria «ikasten duzu eta ez zara distraitzen» osoa da, beraz parentesi artean doa: (p ∧ ¬q) → r. p ∧ (¬q → r)-k ikasten duzula baieztatzen du, eta «ez zara distraitzen» baldintza gisa soilik jartzen du."
+   },
+   {
+    "q": "Letra berberekin, «Ikasten duzu, eta distraitzen ez bazara, gainditu egiten duzu» honela formalizatzen da…",
+    "o": [
+     "(p ∧ ¬q) → r",
+     "p ∧ (¬q → r)",
+     "p → (¬q ∧ r)",
+     "p ∧ ¬q ∧ r"
+    ],
+    "a": 1,
+    "fb": "Orain ikasten duzula baieztatzen da, eta gainera baldintzazko bat: p ∧ (¬q → r). Alderatu «Ikasten baduzu eta distraitzen ez bazara, gainditzen duzu» esaldiarekin, hau da (p ∧ ¬q) → r: letra berdinek, parentesi desberdinekin, gauza desberdinak diote. Adibidez, ikasten ez baduzu, (p ∧ ¬q) → r egiazkoa da eta p ∧ (¬q → r) faltsua."
+   },
+   {
+    "q": "Tranpa-kasua: norbaitek agintzen du «gainditzen baduzu, bizikleta oparituko dizut» (p → q). Ez duzu gainditzen, eta bizikleta oparitzen dizu. Agindua hautsi al du?",
+    "o": [
+     "Bai: oparitu behar nizun, gainditzen zenuen kasuan bakarrik.",
+     "Ez: gainditu eta oparitu ez banizu soilik egingo nuke huts.",
+     "Bai, promesa, egiaz, bibaldintzazko bat zelako.",
+     "Ezin da jakin, zer esan nahi zuen galdetu gabe."
+    ],
+    "a": 1,
+    "fb": "p → q faltsua da soilik p egiazkoa eta q faltsua direnean. Elkarrizketan askotan «gainditzen baduzu bakarrik» ulertzen da, hau da, bibaldintzazko bat; baina esandakoa baldintzazko bat da, eta agindua bete egiten da."
+   },
+   {
+    "q": "p: «botoa ematen duzu»; q: «18 urte dituzu». «Botoa emateko, beharrezkoa da 18 urte izatea» honela formalizatzen da…",
+    "o": [
+     "q → p",
+     "p → q",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 1,
+    "fb": "Baldintza beharrezkoa atzekarian doa: botoa ematen baduzu, 18 urte dituzulako da. 18 urte izatea ez da nahikoa botoa emateko (erroldan egon behar da, adibidez); beraz, q → p faltsua litzateke."
+   },
+   {
+    "q": "p: «euria ari du»; q: «partida bertan behera geratzen da». «Nahikoa da euria egitea partida bertan behera gera dadin» honela formalizatzen da…",
+    "o": [
+     "p → q",
+     "q → p",
+     "p ↔ q",
+     "p ∧ q"
+    ],
+    "a": 0,
+    "fb": "«Aski da...-rekin» baldintza nahikoa sartzen du, aurrekarian doana: euria egiten badu, partida bertan behera uzten da. Partida beste arrazoi batzuengatik ere bertan behera utz liteke, beraz ezin da alderantzikatu (q → p) ezta euria beharrezkoa dela esan ere (p ↔ q). Eta esaldiak ez du euria egiten duenik baieztatzen, p ∧ q-k egingo lukeen bezala."
+   },
+   {
+    "q": "p: «euria ari du»; q: «hotz egiten du». «Ez du euria ari, baina hotz egiten du» honela formalizatzen da…",
+    "o": [
+     "¬(p ∧ q)",
+     "¬p ∧ q",
+     "¬p → q",
+     "¬(p ∨ q)"
+    ],
+    "a": 1,
+    "fb": "«Ez» horrek «euria ari du» zatiari bakarrik eragiten dio, eta «baina» konjuntzio bat da. ¬(p ∧ q)-k bi gauzak aldi berean gertatzen direla ukatzen du, eta hori askoz gutxiago da."
+   },
+   {
+    "q": "p: «euria ari du»; q: «irteten naiz»; r: «zinemara noa». «Euria ari badu, ez naiz irteten, ezta zinemara joaten ere» honela formalizatzen da…",
+    "o": [
+     "(p → ¬q) ∧ ¬r",
+     "p → (¬q ∧ ¬r)",
+     "p → ¬(q ∧ r)",
+     "¬p → (q ∧ r)"
+    ],
+    "a": 1,
+    "fb": "Bi ezeztapenak euriaren menpe daude: batera doaz atzekarian. (p → ¬q) ∧ ¬r-k zinemara ez noala baieztatzen du, euria egin zein ez. p → ¬(q ∧ r)-k gutxiago esaten du: bi gauzak batera ez ditudala egiten baino ez."
+   }
+  ]
+ },
+ "fil-cuantif-q": {
+  "name": "Kuantifikatzaileak, oposizio-karratua eta konbertsioa (Filosofia 1. · T4 · ibilbidea, 6. maila)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "«S guztiak P dira» honela idazten da kuantifikatzaileekin…",
+    "o": [
+     "∀x (Sx ∧ Px)",
+     "∀x (Sx → Px)",
+     "∃x (Sx → Px)",
+     "∀x (Px → Sx)"
+    ],
+    "a": 1,
+    "fb": "Edozein gauzatarako: S bada, P da. ∧-rekin esango luke dena dela S eta P aldi berean, askoz indartsuagoa den zerbait; ∀x (Px → Sx) «P guztiak S dira» da."
+   },
+   {
+    "q": "Tranpa-kasua: «S batzuk P dira» honela idazten da…",
+    "o": [
+     "∃x (Sx → Px)",
+     "∃x (Sx ∧ Px)",
+     "∀x (Sx ∧ Px)",
+     "∃x Sx → ∃x Px"
+    ],
+    "a": 1,
+    "fb": "Badago gutxienez S eta P den gauza bat. ∃x (Sx → Px) ia hutsa da: egiazkoa da S ez den zerbait existitu bezain laster, gauza horretarako baldintzazkoa egiazkoa delako. ∃-rekin ∧ doa; ∀-rekin, →."
+   },
+   {
+    "q": "«S bat ere ez da P» honela idazten da…",
+    "o": [
+     "∀x (Sx → ¬Px)",
+     "∀x ¬(Sx → Px)",
+     "∃x (Sx ∧ ¬Px)",
+     "∀x ¬Sx"
+    ],
+    "a": 0,
+    "fb": "Edozein gauzarentzat: S bada, ez da P. ¬∃x (Sx ∧ Px)-ren baliokidea da. ∃x (Sx ∧ ¬Px) O da («zenbait S ez da P»), askoz gutxiago esaten duena; ∀x ¬(Sx → Px)-k dena S dela eta P ez dela esango luke, eta ∀x ¬Sx-k ez dagoela S bat ere."
+   },
+   {
+    "q": "«S batzuk ez dira P» honela idazten da…",
+    "o": [
+     "∃x (Sx ∧ ¬Px)",
+     "∃x ¬(Sx ∧ Px)",
+     "¬∃x (Sx ∧ ¬Px)",
+     "∀x (Sx → ¬Px)"
+    ],
+    "a": 0,
+    "fb": "Gutxienez gauza bat dago S dena eta P ez dena. ∃x ¬(Sx ∧ Px) egiazkoa litzateke S ez den edozein gauzarekin; ¬∃x (Sx ∧ ¬Px) A da («S guztiak P dira»), eta ∀x (Sx → ¬Px), E («ezein S ez da P»)."
+   },
+   {
+    "q": "∀x Px («dena da P») proposizioaren ezeztapena hau da…",
+    "o": [
+     "∀x ¬Px",
+     "∃x ¬Px",
+     "¬∃x ¬Px",
+     "∃x Px"
+    ],
+    "a": 1,
+    "fb": "Dena ez izan dadin P, aski da P ez den zerbait egotea. ∀x ¬Px («ezer ez da P») kontrarioa da, ez kontraesankorra: biak faltsuak izan daitezke aldi berean. ¬∃x ¬Px ∀x Px-ren baliokidea da: ez du ezeztatzen, errepikatzen du."
+   },
+   {
+    "q": "P: «aurkezten da»; A: «gainditzen du». «Aurkezten direnetatik ez dute denek gainditzen» honela idazten da…",
+    "o": [
+     "∀x (Px → ¬Ax)",
+     "∃x (Px ∧ ¬Ax)",
+     "¬∀x (Px ∧ Ax)",
+     "∃x (¬Px ∧ Ax)"
+    ],
+    "a": 1,
+    "fb": "A bat ezeztatzean O bat ateratzen da: norbait aurkezten da eta ez du gainditzen (¬∀x (Px → Ax)-ren baliokidea). ∀x (Px → ¬Ax)-k inork ez duela gainditzen esango luke, askoz gehiago; ¬∀x (Px ∧ Ax) betetzen da aurkezten ez den norbait egotearekin."
+   },
+   {
+    "q": "Tranpa-kasua. S: «bazkidea da»; E: «sar daiteke». «Bazkideak bakarrik sar daitezke» honela idazten da…",
+    "o": [
+     "∀x (Sx → Ex)",
+     "∀x (Ex → Sx)",
+     "∃x (Sx ∧ Ex)",
+     "∀x (Sx ↔ Ex)"
+    ],
+    "a": 1,
+    "fb": "«Soilik S-ak dira E» «E guztiak dira S» esan nahi du: norbait sar badaiteke, bazkidea da. Ez du esaten bazkide guztiak sar daitezkeenik (hori ∀x (Sx → Ex) litzateke): zigortutako bazkide bat sar ez liteke."
+   },
+   {
+    "q": "Q: «maite du». Alderatu «∀x ∃y Qxy» (denek maite dute norbait) eta «∃y ∀x Qxy» (badago denek maite duten norbait). Zer erlazio dago haien artean?",
+    "o": [
+     "Gauza bera esaten dute.",
+     "Bigarrenak lehena inplikatzen du, baina ez alderantziz.",
+     "Lehenak bigarrena inplikatzen du, baina ez alderantziz.",
+     "Bietako batek ere ez du bestea inplikatzen."
+    ],
+    "a": 1,
+    "fb": "Denek maite duten norbait badago, bakoitzak maite du norbait (pertsona hori). Baina bakoitzak norbait maitatzeak ez du derrigortzen pertsona bera izatea. Kuantifikatzaileen ordenak aldatu egiten du esaten dena."
+   },
+   {
+    "q": "∀x (Px → Qy) formulan, zein aldagai dago aske?",
+    "o": [
+     "x",
+     "eta",
+     "Biak.",
+     "Bat ere ez."
+    ],
+    "a": 1,
+    "fb": "x ∀x-k lotuta dago; y ez du inongo kuantifikatzailek lotzen. Horregatik, formula ez da egiazkoa ez faltsua, harik eta y-k nori buruz hitz egiten duen esan arte: «hura altua da» bezala da, hura nor den jakin gabe."
+   },
+   {
+    "q": "P: «bikoitia da»; I: «bakoitia da». Inferentzia hauetatik zein da baliozkoa?",
+    "o": [
+     "∃x Px ∧ ∃x Ix-tik ∃x (Px ∧ Ix) ondorioztatzen da.",
+     "∃x (Px ∧ Ix)-tik ∃x Px ∧ ∃x Ix ondorioztatzen da.",
+     "Biak.",
+     "Bat ere ez."
+    ],
+    "a": 1,
+    "fb": "Zerbait bikoitia eta bakoitia bada, badago zerbait bikoitia eta badago zerbait bakoitia. Baina alderantziz ez: badaude zenbaki bikoitiak eta badaude zenbaki bakoitiak, eta bat ere ez da biak. ∃ ∧-ren gainean banatzen da norabide batean, baina ez da biltzen bestean."
+   },
+   {
+    "q": "Tranpa-kasua: «Herensuge guztiek sua botatzen dute» eta «Herensuge batzuek sua botatzen dute». Gaur egungo logikarentzat, herensugerik ez badago…",
+    "o": [
+     "Biak faltsuak dira, ez dagoelako dragoirik.",
+     "Lehena egiazkoa da eta bigarrena faltsua.",
+     "Biak egiazkoak dira, inork gezurtatzen ez dituelako.",
+     "Bat ere ez da egiazkoa ez faltsua: existitzen ez den zerbaiti buruz ari dira."
+    ],
+    "a": 1,
+    "fb": "∀x (Dx → Fx) egiazkoa da hura ezeztatzen duen herensugerik ez badago; ∃x (Dx ∧ Fx)-k herensuge bat behar du. Horregatik, gaur egungo logikan, A-tik ez dator I: subjektu hutsaren arazoa da (existentzia-konpromisoa)."
+   },
+   {
+    "q": "Oposizio-karratuaren zein erlazio mantentzen da berdin irakurketa tradizionalean eta gaurkoan?",
+    "o": [
+     "Kontrarioak (A eta E): ez dira inoiz batera egiazkoak.",
+     "Azpikontrarioak (I eta O): ez dira inoiz batera faltsuak.",
+     "Subalternoak: A-tik I ondorioztatzen da.",
+     "Kontraesankorrak (A eta O, E eta I)."
+    ],
+    "a": 3,
+    "fb": "A eta O, eta E eta I, beti dute aurkako balioa, hitz egiten den gauzak egon ala ez. Beste hiru erlazioak S-ren bat existitzen dela suposatzearen mende daude, eta huts egiten dute subjektu hutsarekin."
+   },
+   {
+    "q": "Konbertsio hauetatik zein da baliozkoa beste inolako suposiziorik gabe?",
+    "o": [
+     "«S bat ere ez da P» → «P bat ere ez da S».",
+     "«S guztiak P dira» → «P guztiak S dira».",
+     "«S batzuk ez dira P» → «P batzuk ez dira S».",
+     "«S guztiak P dira» → «P batzuk S dira»."
+    ],
+    "a": 0,
+    "fb": "E eta I besterik gabe konbertitzen dira. A ez: txakur guztiak ugaztunak dira, baina ugaztun guztiak ez dira txakurrak. A-ren «mugapenezko» konbertsioa («S guztiak P dira» esaldiatik «zenbait P S da» esaldira) S bat dagoenean bakarrik balio du."
+   },
+   {
+    "q": "Tranpa-kasua: «Animalia batzuk ez dira txakurrak». Konbertitu al daiteke «Txakur batzuk ez dira animaliak» proposiziora?",
+    "o": [
+     "Bai: O I bezala konbertitzen da, S eta P trukatuz.",
+     "Ez: O ez da konbertitzen, eta hemen zerbait faltsura eramaten du.",
+     "Bai, munduan gutxienez txakur bat badago.",
+     "Logika tradizionalean soilik, txakurrak daudela suposatzen zuena."
+    ],
+    "a": 1,
+    "fb": "Kontraadibideak dena esaten du: premisa egiazkoa, ondorio faltsua. O-n predikatua banatuta dago eta subjektua ez; tokiz aldatzean animalia guztiei buruz hitz egiten da, eskubiderik gabe."
+   },
+   {
+    "q": "Darapti: «M oro P da; M oro S da; beraz, S batzuk P dira». Gaur egungo logikan…",
+    "o": [
+     "Besterik gabe baliozkoa da, Aristotelesen logikan bezala.",
+     "Ez; baliozkoa da zenbait M dagoela gehitzen bada.",
+     "Baliozkoa da munduan ezein M ez badago soilik.",
+     "Ez da baliozkoa inola ere, ezta premisak gehituta ere."
+    ],
+    "a": 1,
+    "fb": "Bi premisa unibertsalek ez dute esaten M-rik dagoenik, eta ondorioak bai, zerbait existitzen dela baieztatzen du. M-rik ez badago, premisak egiazkoak dira eta ondorioa faltsua izan daiteke. «Badago M-ren bat» premisarekin, berriro da baliozkoa."
+   }
+  ]
+ },
+ "fil-boole-q": {
+  "name": "Klaseak, multzoak eta Booleren aljebra: lege bera bost hizkuntzatan (Filosofia 1. · T4 · ibilbidea, 5. maila)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Booleren aljebran, x · y biderkadurari hau dagokio…",
+    "o": [
+     "konjuntzioa (∧), ebakidura (∩) eta AND atea",
+     "disjuntzioa (∨), bildura (∪) eta OR atea",
+     "ezeztapena (¬), osagarria (Aᶜ) eta NOT atea",
+     "baldintzazkoa (→), inklusioa (A ⊆ B) eta IMPLY atea"
+    ],
+    "a": 0,
+    "fb": "x · y-k 1 balio du soilik x-k eta y-k 1 balio dutenean, p ∧ q egiazkoa den bezala soilik biak egiazkoak direnean, eta elementu bat A ∩ B-n dagoen bezala soilik A-n eta B-n badago."
+   },
+   {
+    "q": "Booleren aljebran, 1 + 1 = 1. Zein konektibori dagokio batura hori?",
+    "o": [
+     "∧-ri",
+     "∨-ri",
+     "¬-ri",
+     "↔-ri"
+    ],
+    "a": 1,
+    "fb": "Booleren baturak 1 balio du gutxienez batugai batek 1 balio badu: ∨ inklusiboa da, bildura eta OR atea. Horregatik 1 + 1 ez da 2, 1 baizik («egiazkoa edo egiazkoa» egiazkoa da)."
+   },
+   {
+    "q": "Ohiko zenbakiekin, x-k eta y-k 0 edo 1 bakarrik balio badute, zer kalkuluk ematen du zehazki x ∨ y-ren balioa?",
+    "o": [
+     "x + y",
+     "x · y",
+     "x + y − x · y",
+     "(x + y) · (1 − x · y)"
+    ],
+    "a": 2,
+    "fb": "x = y = 1 denean, x + y 2 litzateke; x · y kentzeak 1era zuzentzen du, eta gainerako kasuetan ez du ezer aldatzen. x · y ∧ da, eta (x + y) · (1 − x · y)-k 0 ematen du x = y = 1 denean: «edo» esklusiboa da, ez inklusiboa."
+   },
+   {
+    "q": "Ohiko zenbakiekin (0 eta 1), x-ren ezeztapena hau da…",
+    "o": [
+     "−x",
+     "1 − x",
+     "x − 1",
+     "1 / x"
+    ],
+    "a": 1,
+    "fb": "x = 1 bada, 0 ematen du; x = 0 bada, 1. Multzoetan osagarria da (Aᶜ), eta zirkuituetan NOT atea."
+   },
+   {
+    "q": "De Morganen legea, ¬(p ∧ q) ↔ ¬p ∨ ¬q, Booleren aljebran idatzita, hau da…",
+    "o": [
+     "(x · y)′ = x′ · y′",
+     "(x · y)′ = x′ + y′",
+     "(x + y)′ = x′ + y′",
+     "x′ · y′ = x + y"
+    ],
+    "a": 1,
+    "fb": "«Biak batera» ez izatea «batek huts egiten du edo besteak» da. Multzoetan, (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ; zirkuituetan, NAND bat bi NOT-en OR bat da. (x · y)′ = x′ · y′ ohiko akatsa da: ezeztapena banatzea eragiketa aldatu gabe."
+   },
+   {
+    "q": "Zeri dagozkio tautologia eta kontraesana multzoetan?",
+    "o": [
+     "U unibertsoari eta ∅ multzo hutsari.",
+     "∅ multzo hutsera eta U unibertsora, hurrenkera horretan.",
+     "Bildurari eta ebakidurari.",
+     "A multzo bati eta bere Aᶜ osagarriari."
+    ],
+    "a": 0,
+    "fb": "Tautologia bat kasu guztietan da egiazkoa, U-k elementu guztiak dituen bezala; kontraesan bat bakar batean ere ez, ∅-k bat ere ez duen bezala. Booleren aljebran 1 eta 0 dira, eta zirkuitu batean, beti piztuta edo beti itzalita dagoen lanpara."
+   },
+   {
+    "q": "Booleren aljebran, x + x honen berdina da…",
+    "o": [
+     "2x",
+     "x",
+     "0",
+     "1"
+    ],
+    "a": 1,
+    "fb": "Idenpotentzia da: p ∨ p eta p baliokideak dira, eta A ∪ A = A. Ohiko zenbakiekin 1 + 1 = 2 da: horregatik idazten du zubien taulak ∨ honela: x + y − x · y."
+   },
+   {
+    "q": "Xurgapen-legea, p ∨ (p ∧ q) ↔ p, multzoetan, hau da…",
+    "o": [
+     "A ∪ (A ∩ B) = A",
+     "A ∩ (A ∪ B) = B",
+     "A ∪ B = A",
+     "(A ∩ B)ᶜ = A"
+    ],
+    "a": 0,
+    "fb": "A-n dagoena, edo A-n eta B-n aldi berean dagoena, A-n dagoena da, besterik gabe: zati komuna A-ren barruan zegoen jada. Lege bikia A ∩ (A ∪ B) = A da."
+   },
+   {
+    "q": "Berdintza hauetatik zeinek balio du Booleren aljebran, baina ez ohiko zenbakiekin?",
+    "o": [
+     "x · (y + z) = x · y + x · z",
+     "x + y · z = (x + y) · (x + z)",
+     "x · (y + z + w) = x · y + x · z + x · w",
+     "x · 1 = x"
+    ],
+    "a": 1,
+    "fb": "Beste banatze-legea da, p ∨ (q ∧ r) ↔ (p ∨ q) ∧ (p ∨ r). x = y = z = 1 denean, ezkerrean 1 + 1 = 2 ematen du eta eskuinean 2 · 2 = 4 ohiko zenbakietan, baina 1 Booleren aljebran. Besteek bi lekuetan balio dute."
+   },
+   {
+    "q": "A − B multzoen diferentziari (A-n dagoena eta B-n ez dagoena) hau dagokio…",
+    "o": [
+     "p → q",
+     "p ∧ ¬q",
+     "¬(p ∧ q)",
+     "p ∨ ¬q"
+    ],
+    "a": 1,
+    "fb": "A-n egotea eta B-n ez egotea: p ∧ ¬q, hau da, A ∩ Bᶜ. Bitxia bada ere, baldintzazkoaren ezeztapena da: ¬(p → q) ↔ p ∧ ¬q."
+   },
+   {
+    "q": "NAND batek 0 ematen du soilik bere bi sarrerek 1 balio dutenean. Zein formulari dagokio?",
+    "o": [
+     "¬p ∧ ¬q",
+     "¬(p ∧ q)",
+     "¬(p ↔ q)",
+     "p ∧ q"
+    ],
+    "a": 1,
+    "fb": "NAND «NOT AND» da: konjuntzioaren ezeztapena, De Morganen arabera ¬p ∨ ¬q dena. ¬p ∧ ¬q NOR da, 1 ematen duena bi sarrerek 0 balio dutenean soilik; ¬(p ↔ q) XOR da, 0 ematen duena bi batekin, baina baita bi zerorekin ere."
+   },
+   {
+    "q": "Russellen paradoxak bere buruaren kide ez diren klase guztien R klasea hartzen du. Zer gertatzen da R R-ren kide den galdetzean?",
+    "o": [
+     "Baietz, kide dela, eta ez dagoela arazorik.",
+     "Ezetz, ez dela kide, eta ez dagoela arazorik.",
+     "Kide dela baldin eta soilik baldin ez bada: kontraesan bat.",
+     "Galderak ez duela zentzurik enuntziatuen logikan, baina bai Booleren aljebran."
+    ],
+    "a": 2,
+    "fb": "R ∈ R bada, bere baitan ez egotearen baldintza betetzen du; beraz, R ∉ R; eta R ∉ R bada, baldintza betetzen du; beraz, R ∈ R. Irtenbidea izan zen edozein propietatek klase bat definitzea ez onartzea: multzoen teoriaren axiomek esaten dute zein dauden."
+   }
+  ]
+ },
+ "fil-relaciones-q": {
+  "name": "Erlazioen propietateak eta mundu txikiak (Filosofia 1. · T4 · ibilbidea, 8. maila)",
+  "subject": "fil",
+  "items": [
+   {
+    "q": "Zer propietate ditu «baino altuagoa izan» erlazioak?",
+    "o": [
+     "Erreflexiboa, simetrikoa eta iragankorra.",
+     "Iragankorra eta asimetrikoa; ez da erreflexiboa.",
+     "Simetrikoa eta iragankorra, baina ez erreflexiboa.",
+     "Erreflexiboa soilik: bakoitza bere burua baino altuagoa da."
+    ],
+    "a": 1,
+    "fb": "Ana Bea baino altuagoa bada eta Bea Carla baino, Ana Carla baino altuagoa da (iragankorra); Ana Bea baino altuagoa bada, Bea ez da Ana baino altuagoa (asimetrikoa); eta inor ez da bera baino altuagoa."
+   },
+   {
+    "q": "«Bezain altua izan» erlazioa…",
+    "o": [
+     "Erreflexiboa, simetrikoa eta iragankorra.",
+     "Simetrikoa, baina ez iragankorra: kateetan huts egiten du.",
+     "Iragankorra, baina ez simetrikoa, «-ren baino altuagoa» bezala.",
+     "Simetrikoa soilik, garaiera aldatu egiten delako."
+    ],
+    "a": 0,
+    "fb": "Bakoitza bere burua bezain altua da; a b bezain altua bada, b a bezain altua da; eta a b bezain altua bada eta b c bezain altua, a c bezain altua da: baliokidetasun-erlazioa da. Baliokidetasun-erlazio batek gauzak taldetan banatzen ditu (hemen, garaieren arabera)."
+   },
+   {
+    "q": "Iragankorra al da «-ren laguna izan»?",
+    "o": [
+     "Bai, beti: nire lagunen lagunak nire lagunak dira.",
+     "Ez: lagun baten laguna ez da beti zure laguna.",
+     "Bai, simetrikoa delako, eta simetrikoa iragankorra delako.",
+     "Ez, ez delako simetrikoa ezta erreflexiboa ere."
+    ],
+    "a": 1,
+    "fb": "Simetrikoa da (adiskidetasuna elkarrekikoa bada, behintzat), baina ez iragankorra: nahikoa da a b-ren laguna izatea, b c-rena, eta a c-ren laguna ez izatea. Simetria eta iragankortasuna independenteak dira."
+   },
+   {
+    "q": "Tranpa-kasua: «-ren anaia edo arreba izan» simetrikoa da. Iragankorra al da?",
+    "o": [
+     "Bai: nire anai-arreben anai-arrebak nire anai-arrebak dira, eta hori iragankortasuna da.",
+     "Ez: Ana Bearen arreba da eta Bea Anarena, baina Ana ez da bere buruaren arreba.",
+     "Bai, aitaren eta amaren aldeko anai-arrebak badira, eta ez aitaren edo amaren aldeko soilik.",
+     "Ezin da jakin familia osoa ezagutu gabe."
+    ],
+    "a": 1,
+    "fb": "Iragankortasunak balio behar du katea hasierara itzultzen denean ere (a b-rekin, b a-rekin): a bere buruaren arreba izatera behartuko luke. Ia iragankorra ez da iragankorra: kontraadibide bat nahikoa da."
+   },
+   {
+    "q": "Zenbaki arruntetan, «-ren zatitzailea izan» (3 12ren zatitzailea da) erreflexiboa eta iragankorra da. Zer propietate ez du?",
+    "o": [
+     "Erreflexiboa.",
+     "Iragankorra.",
+     "Simetrikoa.",
+     "Bat ere ez: guztiak ditu."
+    ],
+    "a": 2,
+    "fb": "3k 12 zatitzen du, baina 12k ez du 3 zatitzen. Antisimetrikoa da: a-k b zatitzen badu eta b-k a zatitzen badu, orduan a = b. Erreflexiboa, antisimetrikoa eta iragankorra: ordena (partzial) bat da."
+   },
+   {
+    "q": "Erlazio bat simetrikoa eta iragankorra bada, erreflexiboa ere bada?",
+    "o": [
+     "Bai: a R b eta b R a-tik a R a ondorioztatzen da, iragankortasunez, besterik gabe.",
+     "Ez: nahikoa da ezerekin erlazionatuta ez dagoen zerbait egotea.",
+     "Bai, beti, probatzen den edozein munduan.",
+     "Asimetrikoa bada bakarrik."
+    ],
+    "a": 1,
+    "fb": "«a R b eta b R a-tik a R a ondorioztatzen da» argudioak beste zerbaitekin erlazionatuta dauden gauzentzat soilik balio du. {a, b} munduan R = {(a, a)} denean, R simetrikoa eta iragankorra da, baina ez erreflexiboa: b ez dago bere buruarekin erlazionatuta."
+   },
+   {
+    "q": "Erlazio bat asimetrikoa bada (a R b bada, orduan ez b R a), zer ondorioztatzen da?",
+    "o": [
+     "Iragankorra dela, «-ren baino altuagoa izatea» bezala.",
+     "Irreflexiboa dela: ezer ez dagoela bere buruarekin erlazionatuta.",
+     "Erreflexiboa dela: dena dago bere buruarekin erlazionatuta.",
+     "Ezer ez: asimetriak ez du ezer esaten a R a-ri buruz."
+    ],
+    "a": 1,
+    "fb": "a R a bada, b = a hartuta, asimetriak ez a R a eskatuko luke: kontraesana. Alderantzizkoak ez du balio: «-ren anaia edo arreba izan» irreflexiboa eta simetrikoa da."
+   },
+   {
+    "q": "Erlazio bat iragankorra eta irreflexiboa bada, asimetrikoa al da?",
+    "o": [
+     "Bai: a R b eta b R a badira, a R a litzateke, eta hori debekatuta dago.",
+     "Ez: iragankortasunak eta irreflexibotasunak ez dute ezer esaten simetriari buruz.",
+     "Simetrikoa ere bada soilik, adiskidetasuna bezala.",
+     "Mundu finituetan soilik, bikote guztiak aztertu daitezkeen tokian."
+    ],
+    "a": 0,
+    "fb": "Hiru urratseko frogapena da. Horregatik «baino altuagoa izan» asimetrikoa da hori egiaztatu beharrik gabe: nahikoa da ikustea iragankorra dela eta inor ez dela bera baino altuagoa."
+   },
+   {
+    "q": "Mundu txiki bat: gauzak a, b eta c dira, eta R = {(a, b), (b, c)}. Iragankorra al da R?",
+    "o": [
+     "Bai: a-tik c-ra b-tik pasatuz iristen da.",
+     "Ez: (a, b) eta (b, c) ditu, baina ez (a, c).",
+     "Bai, ez delako simetrikoa ezta erreflexiboa ere.",
+     "Ezin da jakin munduaren beste gauza batzuk ezagutu gabe."
+    ],
+    "a": 1,
+    "fb": "Iragankorra izateko, bi urratseko bide bat dagoen bakoitzean lasterbidea ere egon behar da. Hemen (a, c) falta da. Gehitzen bada, R iragankorra bihurtzen da."
+   },
+   {
+    "q": "Mundu berean (a, b, c; R = {(a, b), (b, c)}), egiazkoa al da «∀x ∃y Rxy», «gauza bakoitza beste zerbaitekin erlazionatuta dago»?",
+    "o": [
+     "Bai.",
+     "Ez: c ez dago ezerekin erlazionatuta.",
+     "Bai, hiru bikote daudelako.",
+     "Ez, a-k ez duelako gezirik jasotzen."
+    ],
+    "a": 1,
+    "fb": "x bakoitza begiratu behar da: a-k badu bere y (b), b-k badu berea (c), baina c-k ez du bat ere. a-k gezirik ez jasotzea garrantzitsua litzateke ∀y ∃x Rxy-rentzat, ez esaldi honentzat."
+   },
+   {
+    "q": "Mundu berean, egiazkoa al da «∃x ∀y ¬Ryx», «badago zerbait, ezer harekin erlazionatuta ez dagoena»?",
+    "o": [
+     "Bai: ezer ez dago a-rekin erlazionatuta.",
+     "Ez: denak jasotzen du geziren bat.",
+     "Bai: c ez dago ezerekin erlazionatuta.",
+     "Ezin da jakin."
+    ],
+    "a": 0,
+    "fb": "Ryx-ek «y x-rekin erlazionatuta dago» esan nahi du: ezein gezirik iristen ez zaion x bat bilatzen dugu, eta hori a da. «c ez dago ezerrekin erlazionatuta» erantzunak norabidea nahasten du: c-tik ez da gezirik ateratzen, baina bati iristen zaio (b-tik)."
+   },
+   {
+    "q": "Tranpa-kasua: hiru gauzako mundu batean erlazio simetriko eta iragankor asko probatzen dituzu, eta denak erreflexiboak ateratzen dira. Frogatuta geratzen al da erlazio simetriko eta iragankor oro erreflexiboa dela?",
+    "o": [
+     "Bai, asko probatu badira.",
+     "Ez: mundu txiki batek gezurtatu dezake, baina ez frogatu; eta gainera faltsua da.",
+     "Bai, mundu horretako guztiak probatzen badira.",
+     "Ez, hiru gauza gutxi direlako; hamarrekin edo ehunekin frogatuta egongo litzateke."
+    ],
+    "a": 1,
+    "fb": "Frogatzeko mundu guztietan balio behar da, eta kasu-kopuru batek ez du hori ziurtatzen. Hemen, gainera, kontraadibidea dago: {a, b} munduan, R = {(a, a)} simetrikoa eta iragankorra da, baina ez erreflexiboa, b ez dagoelako bere buruarekin erlazionatuta. 8. mailaren muga da."
    }
   ]
  },
