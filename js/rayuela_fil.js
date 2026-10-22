@@ -653,7 +653,7 @@ const RAYUELA_FIL = {
    "pregunta": "Beste zerbait aukera zenezakeen?",
    "opciones": [
     {
-     "t": "Ez: gertatzen den guztia aurrekoaren ondorio beharrezkoa da, nire erabakiak ere bai.",
+     "t": "Ez: gertatzen den guztia aurrekoaren efektu beharrezkoa da, nire erabakiak ere bai.",
      "to": "92",
      "marca": "m-determinismo"
     },
@@ -1902,7 +1902,7 @@ const RAYUELA_FIL = {
     4
    ],
    "titulo": "Kontraesana: determinismoa eta errua",
-   "texto": "Egiten duzun guztia aurrekoaren ondorio beharrezkoa bada —zure geneena, zure garunarena, zure naturarena—, inork ezin izango zukeen beste modu batera jokatu. Baina orduan, zer eskubiderekin errudun jotzen, zigortzen edo zoriontzen dugu inor? Moral osoak ematen du jakintzat aukeratu dezakegula.",
+   "texto": "Egiten duzun guztia aurrekoaren efektu beharrezkoa bada —zure geneena, zure garunarena, zure naturarena—, inork ezin izango zukeen beste modu batera jokatu. Baina orduan, zer eskubiderekin errudun jotzen, zigortzen edo zoriontzen dugu inor? Moral osoak ematen du jakintzat aukeratu dezakegula.",
    "pregunta": "Nola irteten zara hemendik?",
    "opciones": [
     {

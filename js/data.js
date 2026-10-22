@@ -6878,7 +6878,7 @@ const QUIZZES = {
      "Metafisika alferrikakoa dela, fisikak dagoeneko erantzun baitie haren galdera guztiei"
     ],
     "a": 1,
-    "fb": "Kasu tranpa: baieztapen metafisikoak zentzurik gabeak direla esatea Vienako Zirkuluaren tesia da, XX. mendekoa, eta Kant baino urrunago joan zen. Kantek esperientzian eman daitekeenera mugatu zuen ezagutza zientifikoa."
+    "fb": "Tranpa-kasua: baieztapen metafisikoak zentzurik gabeak direla esatea Vienako Zirkuluaren tesia da, XX. mendekoa, eta Kant baino urrunago joan zen. Kantek esperientzian eman daitekeenera mugatu zuen ezagutza zientifikoa."
    },
    {
     "q": "Zergatik ondorioztatu zuen Parmenidesek aldaketa itxura hutsa dela?",
@@ -6911,7 +6911,7 @@ const QUIZZES = {
      "Dualismoa, pentsamenduaz eta hedaduraz hitz egiten duelako"
     ],
     "a": 2,
-    "fb": "Kasu tranpa: bi gauza aipatzen baditu ere, Spinozarentzat ez dira bi substantzia, substantzia bakar baten bi atributu baizik; horregatik da monismoa. Descartesen dualismoak, aldiz, bi substantziaz hitz egiten du: pentsatzailea (res cogitans) eta hedatua (res extensa)."
+    "fb": "Tranpa-kasua: bi gauza aipatzen baditu ere, Spinozarentzat ez dira bi substantzia, substantzia bakar baten bi atributu baizik; horregatik da monismoa. Descartesen dualismoak, aldiz, bi substantziaz hitz egiten du: pentsatzailea (res cogitans) eta hedatua (res extensa)."
    },
    {
     "q": "Monismoak, dualismoak eta pluralismoak erantzuten diote zenbat oinarrizko errealitate dauden galderari. Zer galderari erantzuten diote materialismoak eta idealismoak?",
@@ -6922,7 +6922,7 @@ const QUIZZES = {
      "Errealitatea den bezala ezagut dezakegun"
     ],
     "a": 1,
-    "fb": "Kasu tranpa: bi galdera desberdin dira, eta elkarrekin konbinatzen dira. Kopuruak (monismoa, dualismoa, pluralismoa) eta izaerak (materialismoa, idealismoa) ematen dute, adibidez, monismo materialista (Demokrito, Hobbes) eta monismo idealista (Berkeley)."
+    "fb": "Tranpa-kasua: bi galdera desberdin dira, eta elkarrekin konbinatzen dira. Kopuruak (monismoa, dualismoa, pluralismoa) eta izaerak (materialismoa, idealismoa) ematen dute, adibidez, monismo materialista (Demokrito, Hobbes) eta monismo idealista (Berkeley)."
    },
    {
     "q": "Zure mugikor zehatza substantzia bat da. Zer dira, Aristotelesentzat, haren kolorea, zorroa edo geratzen zaion bateria?",
@@ -6944,7 +6944,7 @@ const QUIZZES = {
      "Dagoen lekua"
     ],
     "a": 0,
-    "fb": "Kasu tranpa: brontzea materia da, eta irudia, forma. Substantzia fisiko oro materiaz eta formaz osatuta dago (hilemorfismoa), eta forma, oro har, esentziari dagokio. Kolorea eta lekua akzidenteak dira."
+    "fb": "Tranpa-kasua: brontzea materia da, eta irudia, forma. Substantzia fisiko oro materiaz eta formaz osatuta dago (hilemorfismoa), eta forma, oro har, esentziari dagokio. Kolorea eta lekua akzidenteak dira."
    },
    {
     "q": "Nola erantzun zion Aristotelesek Parmenidesi aldaketari buruz?",
@@ -6988,7 +6988,7 @@ const QUIZZES = {
      "Funtzionalismoa"
     ],
     "a": 2,
-    "fb": "Kasu tranpa: identitatearen teoriak (Place, Smart) dio egoera mentalak gure garuneko egoerak direla; mina hori baino ez balitz, olagarroak ezin izango luke sentitu. Funtzionalismoa hain zuzen hori konpontzeko sortu zen: mina bere funtzioaren arabera definitzen da, materiala edozein dela ere."
+    "fb": "Tranpa-kasua: identitatearen teoriak (Place, Smart) dio egoera mentalak gure garuneko egoerak direla; mina hori baino ez balitz, olagarroak ezin izango luke sentitu. Funtzionalismoa hain zuzen hori konpontzeko sortu zen: mina bere funtzioaren arabera definitzen da, materiala edozein dela ere."
    },
    {
     "q": "Makina batek idatziz hitz egiten du, eta ez dugu pertsona batetik bereizten. Zer erantzungo luke Searlek gela txinatarraren argudioarekin?",
@@ -6999,7 +6999,7 @@ const QUIZZES = {
      "Makinak esperientzia subjektiboa duela, guk bezala"
     ],
     "a": 1,
-    "fb": "Kasu tranpa: makinak ulertzen duela ondorioztatzea pertsona batetik bereizten ez dugulako Turingen testaren ideia da (1950). Searlek (1980) objekzio hau egiten du: ikurrak haien formagatik erabil daitezke (sintaxia), haien esanahia ulertu gabe (semantika)."
+    "fb": "Tranpa-kasua: makinak ulertzen duela ondorioztatzea pertsona batetik bereizten ez dugulako Turingen testaren ideia da (1950). Searlek (1980) objekzio hau egiten du: ikurrak haien formagatik erabil daitezke (sintaxia), haien esanahia ulertu gabe (semantika)."
    },
    {
     "q": "Zer da «kontzientziaren arazo zaila», David Chalmersen ustez?",
@@ -7054,7 +7054,7 @@ const QUIZZES = {
      "Bai, indeterminismoak eta libertarismoak gauza bera esan nahi dutelako"
     ],
     "a": 1,
-    "fb": "Kasu tranpa: indeterminismoa (badira aurrekoetatik nahitaez ondorioztatzen ez diren gertaerak) ez da libertarismoa (benetan askeak gara). Zoriak ez du erabaki bat zureagoa egiten."
+    "fb": "Tranpa-kasua: indeterminismoa (badira aurrekoetatik nahitaez ondorioztatzen ez diren gertaerak) ez da libertarismoa (benetan askeak gara). Zoriak ez du erabaki bat zureagoa egiten."
    },
    {
     "q": "Hobbesek eta Humek diote aske izatea norberaren nahien eta arrazoien arabera jokatzea dela, inork behartu gabe, egintzek kausak izan arren. Zer jarrera da hau?",
@@ -7065,7 +7065,7 @@ const QUIZZES = {
      "Libertarismoa"
     ],
     "a": 2,
-    "fb": "Kasu tranpa: libertarismoak (Sartre) dio determinismoa faltsua dela, gutxienez gure erabakietan; konpatibilismoak onartzen du agian dena determinatuta dagoela, eta askatasuna derrigortzerik eza bezala ulertzen du, ez kausarik eza bezala. Determinismo gogorrak (Holbach) ondorioztatzen du askatasuna ilusio bat dela."
+    "fb": "Tranpa-kasua: libertarismoak (Sartre) dio determinismoa faltsua dela, gutxienez gure erabakietan; konpatibilismoak onartzen du agian dena determinatuta dagoela, eta askatasuna derrigortzerik eza bezala ulertzen du, ez kausarik eza bezala. Determinismo gogorrak (Holbach) ondorioztatzen du askatasuna ilusio bat dela."
    },
    {
     "q": "Nondik abiatzen da Anselmo Canterburykoaren argudio ontologikoa?",
@@ -7087,7 +7087,7 @@ const QUIZZES = {
      "Existentzia ez da kontzeptu bati gehitzen zaion propietatea"
     ],
     "a": 1,
-    "fb": "Kasu tranpa: objekziorik larriena ez da «eta nork sortu zuen Jainkoa?», zergatik gelditu katea Jainkoarengan eta ez unibertsoan baizik. Existentzia kontzeptuaren propietatea ez dela Kantek argudio ontologikoari egindako objekzioa da, eta mundu inperfektuarena, Humek diseinuaren argudioari egindako kritika."
+    "fb": "Tranpa-kasua: objekziorik larriena ez da «eta nork sortu zuen Jainkoa?», zergatik gelditu katea Jainkoarengan eta ez unibertsoan baizik. Existentzia kontzeptuaren propietatea ez dela Kantek argudio ontologikoari egindako objekzioa da, eta mundu inperfektuarena, Humek diseinuaren argudioari egindako kritika."
    },
    {
     "q": "Zer erakutsi zuen Darwinek diseinuaren argudioari dagokionez?",
@@ -7131,7 +7131,7 @@ const QUIZZES = {
      "Gauza bera dira: biek ukatzen dute Jainkoa existitzen dela"
     ],
     "a": 2,
-    "fb": "Kasu tranpa: agnostizismoak (T. H. Huxleyren terminoa, 1869) dio ezin dugula jakin; fideismoak (Kierkegaard aipatu ohi da) dio Jainkoarengana iristeko bidea fedea dela, ez argudioak. Jainkoa existitzen dela ukatzea ateismoa da."
+    "fb": "Tranpa-kasua: agnostizismoak (T. H. Huxleyren terminoa, 1869) dio ezin dugula jakin; fideismoak (Kierkegaard aipatu ohi da) dio Jainkoarengana iristeko bidea fedea dela, ez argudioak. Jainkoa existitzen dela ukatzea ateismoa da."
    }
   ]
  },
