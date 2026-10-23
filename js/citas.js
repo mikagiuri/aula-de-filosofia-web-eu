@@ -958,6 +958,16 @@ const CITAS = [
   "uso": "Unamunoren pentsamendua eta bizitzaren sentimendu tragikoa aurkezteko, edo heriotzaren aurrean arrazoiari eta fedeari buruzko disertazio batean."
  },
  {
+  "c": "Likidoa denbora luzez bere forma gordetzen ez duena da.",
+  "a": "Zygmunt Bauman",
+  "o": "Modernitate likidoa (2000), Hitzaurrea",
+  "e": "contemporanea",
+  "id": "bauman",
+  "img": "media/retratos/ilustres/bauman.jpg",
+  "sen": "Baumanek likidoen irudia erabiltzen du gure garaia deskribatzeko: lanak, harremanak eta identitateak ez dira jada sendoak ezta iraunkorrak ere, etengabe aldatzen dute forma.",
+  "uso": "Baumanen modernitate likidoa azaltzeko, edo prekarietateari, kontsumoari eta gaur egungo gizarteko harremanei buruzko eztabaidetan."
+ },
+ {
   "c": "Edukirik gabeko pentsamenduak hutsak dira; kontzepturik gabeko intuizioak, itsuak.",
   "a": "Immanuel Kant",
   "o": "Arrazoimen hutsaren kritika (1781), Logika transzendentala, Sarrera, I (A 51 / B 75)",
