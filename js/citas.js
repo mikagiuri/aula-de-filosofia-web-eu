@@ -485,6 +485,16 @@ const CITAS = [
   "uso": "Lockeren naturazko egoera eta eskubide naturalak azaltzeko, edo Hobbesekin eta Rousseaurekin alderatzeko."
  },
  {
+  "c": "Askok inoiz existitu ez diren eta benetan ezagutu ez diren errepublikak eta printzerriak irudikatu dituzte; izan ere, hain da handia nola bizi den eta nola bizi beharko litzatekeen arteko tartea, non egiten dena egin beharko litzatekeenagatik uzten duenak bere hondamendia ikasten baitu, bere iraupena baino gehiago.",
+  "a": "Makiavelo",
+  "o": "Printzea (1513) XV",
+  "e": "modernoa",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg",
+  "sen": "Makiavelok politika moraletik bereizten du: gobernatzen duenak gizakiak benetan nola jokatzen duten hartu behar du kontuan, ez errepublika idealak, boterea gorde nahi badu.",
+  "uso": "Makiaveloren errealismo politikoa eta politika modernorako igarotzea azaltzeko, edo etikari eta politikari buruzko eztabaidetan."
+ },
+ {
   "c": "Kristaua gauza guztien jauna da eta ez dago inoren mende. Kristaua gauza guztien zerbitzaria da eta guztien mende dago.",
   "a": "Martin Luther",
   "o": "Kristauaren askatasuna (1520), § 1",
@@ -1359,6 +1369,17 @@ const CITAS = [
   "img": "media/retratos/museo/rousseau.jpg",
   "sen": "Emilio-n, Rousseauk Sofiarentzat, Emilioren etorkizuneko emaztearentzat, gizonei atsegin emateko eta haiek zerbitzatzeko pentsatutako hezkuntza proposatzen du, harentzat diseinatzen duen askatasunezko hezkuntzaren oso bestelakoa.",
   "uso": "Ilustrazioan berdintasunaren eta emakumeen bazterketaren arteko kontraesana azaltzeko, edo Mary Wollstonecraftek Rousseauri egindako kritika aurkeztean."
+ },
+ {
+  "c": "Bata eta bestea izan nahiko litzateke; baina, biak batzea zaila denez, askoz seguruagoa da beldurra eragitea maitatua izatea baino, bietako bat falta behar denean.",
+  "a": "Makiavelo",
+  "o": "Printzea (1513) XVII",
+  "e": "modernoa",
+  "id": "maquiavelo",
+  "img": "media/retratos/museo2/maquiavelo.jpg",
+  "sen": "Makiavelorentzat, agintariak gizakiak nolakoak diren hartu behar du abiapuntutzat, ez nolakoak izan beharko luketen: maitasuna ezegonkorra denez, beldurrak kontrol seguruagoa ematen du, betiere gorrotatua izatera iritsi gabe.",
+  "uso": "Makiaveloren errealismo politikoa eta politikaren eta moralaren arteko bereizketa azaltzeko, edo boterearen inguruko eztabaidetan.",
+  "trampa": "Makiavelori «xedeak bitartekoak justifikatzen ditu» egozten zaio, baina esaldi hori ez da Printzea-n agertzen."
  },
  {
   "c": "Adabakiak gara denok, eta hain ehundura itxuragabe eta askotarikoa dugu, ezen pieza bakoitzak, une bakoitzak, bere jokoa egiten baitu. Eta gu eta geu artean gu eta beste baten artean bezainbesteko aldea dago.",
