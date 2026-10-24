@@ -1091,7 +1091,7 @@ const ESQUEMAS_FIL = {
       {
        "rel": "honetatik irteteko",
        "t": "Denak denen aurkako gerra",
-       "d": "«Gizakia otsoa da gizakiarentzat»: beldurra eta segurtasunik eza dira nagusi."
+       "d": "«Gizakia otsoa da gizakiarentzat» (Hobbesek ezagun egin zuen Plautoren esaldia): beldurra eta segurtasunik eza dira nagusi."
       }
      ]
     },

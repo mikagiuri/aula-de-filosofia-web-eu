@@ -1024,7 +1024,7 @@ const ILUSTRACIONES = [
  },
  {
   "f": "media/retratos/museo2/isabel-bohemia.jpg",
-  "t": "Isabel Bohemiakoa (Gerard van Honthorst)",
+  "t": "Elisabet Bohemiakoa (Gerard van Honthorst)",
   "pie": "1643ko gutunetan galdetu zion Descartesi nola mugi dezakeen hedadurarik gabeko adimen batek gorputza. Dualismoari egindako eragozpen handia da.",
   "tema": "fil-metafisica",
   "license": "Domeinu publikoa",

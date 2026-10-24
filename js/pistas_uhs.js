@@ -4360,7 +4360,7 @@ const PISTAS = [
       "etiqueta": "Hiru kontraktualista",
       "titulo": "Naturazko egoeratik Estatura",
       "definicion": [
-       "<strong>Hobbes</strong>: «denak denen aurkako gerra» («gizakia otso da gizakiarentzat») → beldurragatik, denek beren boterea subirano bati lagatzen diote → monarkia absolutua (Leviatana).",
+       "<strong>Hobbes</strong>: «denak denen aurkako gerra» («gizakia otsoa da gizakiarentzat», berak ospetsu egin zuen Plautoren esaldia) → beldurragatik, denek beren boterea subirano bati lagatzen diote → monarkia absolutua (Leviatana).",
        "<strong>Locke</strong>: bake ez-segurua, eskubide naturalekin (bizitza, askatasuna, jabetza) → itun mugatua → Estatu liberala, botere-banaketarekin eta tiranoaren aurka matxinatzeko eskubidearekin.",
        "<strong>Rousseau</strong>: «basati ona» aske eta berdin da; gizarteak usteltzen du → itun bat, non bakoitza borondate orokorraren mende jartzen den → demokrazia."
       ],

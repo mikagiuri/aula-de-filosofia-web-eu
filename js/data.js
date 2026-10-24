@@ -5845,7 +5845,7 @@ const QUIZZES = {
     "fb": "Hannah Arendtek aztertu zuen totalitarismoa askatasuna, aniztasuna eta bizitza publikoa deuseztatzen dituen botere gisa."
    },
    {
-    "q": "«Gizakia otso da gizakiarentzat» esaldiak naturazko egoera laburbiltzen du, honen arabera…",
+    "q": "Plautoren «gizakia otsoa da gizakiarentzat» esaldiak, XVII. mendean ospetsu egin zenak, naturazko egoera laburbiltzen du, honen arabera…",
     "o": [
      "Hobbes",
      "Locke",
@@ -5853,7 +5853,7 @@ const QUIZZES = {
      "Aristoteles"
     ],
     "a": 0,
-    "fb": "Hobbesek naturazko egoera denen aurkako denen gerra gisa deskribatzen du, non «gizakia otso den gizakiarentzat»."
+    "fb": "Hobbesek, Plautoren esaldi hau ospetsu egin zuenak, naturazko egoera denen aurkako denen gerra gisa deskribatzen du, non «gizakia otsoa den gizakiarentzat»."
    },
    {
     "q": "Zati bakoitzak bere zeregina harmonian betetzen duen hiri justuaren ideia honetatik dator…",

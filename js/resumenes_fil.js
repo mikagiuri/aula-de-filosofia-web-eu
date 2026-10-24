@@ -936,7 +936,7 @@ const RESUMENES_FIL = [
      {
       "t": "Substantzia-dualismoa",
       "d": "gogoa ez da fisikoa; haren zailtasuna elkarreragina da: nola mugitzen du besoa?",
-      "a": "Descartes, Isabel Bohemiakoa"
+      "a": "Descartes, Elisabet Bohemiakoa"
      },
      {
       "t": "Identitatearen teoria",

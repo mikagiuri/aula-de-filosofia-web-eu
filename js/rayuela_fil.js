@@ -1532,8 +1532,8 @@ const RAYUELA_FIL = {
     7.4,
     8.5
    ],
-   "titulo": "Isabel Bohemiakoak Descartesi idazten dio",
-   "texto": "Haga, 1643. Isabel Bohemiakoak, hogeita lau urteko printzesa erbesteratu batek, gutun batean galdetzen dio Descartesi nola mugi dezakeen gorputza arimak, lekurik betetzen ez badu. Descartesek erantzuten dio, baina bera ez da konbentzituta geratzen. Haren eragozpenak dualismoaren zailtasun handia izaten jarraitzen du.",
+   "titulo": "Elisabet Bohemiakoak Descartesi idazten dio",
+   "texto": "Haga, 1643. Elisabet Bohemiakoak, hogeita lau urteko printzesa erbesteratu batek, gutun batean galdetzen dio Descartesi nola mugi dezakeen gorputza arimak, lekurik betetzen ez badu. Descartesek erantzuten dio, baina bera ez da konbentzituta geratzen. Haren eragozpenak dualismoaren zailtasun handia izaten jarraitzen du.",
    "pregunta": "Zer ondorioztatzen duzu?",
    "opciones": [
     {
@@ -2242,7 +2242,7 @@ const RAYUELA_FIL = {
    ],
    "titulo": "Dualismoa",
    "texto": "Uste duzu errealitatea ez dela materian agortzen: gugan badago gorputzaz bestelako gogo edo arima bat eta, mundu fisikotik haratago, agian dena azaltzen duen oinarri bat. Platonen lerroa da, zeinarentzat arima hilezkorra baita, eta Descartesena, pentsatzen duen gauza eta gauza hedatua bereizi zituena eta bere ziurtasunen bermea Jainkoarengan bilatu zuena.",
-   "abierto": "Gogoak lekurik betetzen ez badu, nola mugi dezake gorputza? Isabel Bohemiakoak 1643an Descartesi egin zion eragozpena da.",
+   "abierto": "Gogoak lekurik betetzen ez badu, nola mugi dezake gorputza? Elisabet Bohemiakoak 1643an Descartesi egin zion eragozpena da.",
    "reflexion": "Gogoa gorputzaz bestelako zerbait al da?",
    "autores": [
     {

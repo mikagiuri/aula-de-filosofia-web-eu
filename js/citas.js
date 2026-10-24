@@ -798,6 +798,15 @@ const CITAS = [
   "uso": "Millengan plazeraren kalitateen arteko bereizketa eta Benthamekiko aldea azaltzeko, edo zoriontasunari buruzko eztabaidetan."
  },
  {
+  "c": "Jokatu zure ekintzaren ondorioak Lurrean benetako giza bizitza batek irauteko moduarekin bateragarriak izan daitezen.",
+  "a": "Jonas",
+  "o": "Erantzukizunaren printzipioa (1979), 1. kap., V",
+  "e": "contemporanea",
+  "img": "media/retratos/citas/jonas.jpg",
+  "sen": "Jonasek inperatibo berri bat formulatzen du aro teknologikorako: gure botereak etorkizuna suntsi dezakeenez, etorriko diren belaunaldiak kontuan hartuta jokatu behar dugu.",
+  "uso": "Erantzukizunaren etika eta Kantekiko alderaketa azaltzeko, edo ekologiari eta teknologiari buruzko eztabaidetan."
+ },
+ {
   "c": "Ni neu naiz eta nire zirkunstantzia, eta hura salbatzen ez badut, neu ere ez naiz salbatzen.",
   "a": "José Ortega y Gasset",
   "o": "Kixoteari buruzko meditazioak (1914), «Irakurlea…»",
