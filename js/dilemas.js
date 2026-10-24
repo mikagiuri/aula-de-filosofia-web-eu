@@ -49,7 +49,7 @@ const DILEMAS = [
     "quien": "Descartes (arrazionalismoa)",
     "elige": "A",
     "porque": "Berak ere jenio gaizto bat imajinatu zuen, gauza guztietan engainatzen zuena, eta lur sendo bat aurkitu zuen: guztiaz zalantza egin dezaket, zalantzan ari naizela izan ezik; eta «pentsatzen dut» horretatik abiatuta mundua berreraiki zuen. Zalantza metodo bat da, ez helmuga bat.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Pirron (eszeptizismoa)",
@@ -60,13 +60,13 @@ const DILEMAS = [
     "quien": "Hume (enpirismoa)",
     "elige": "A",
     "porque": "Onartzen du arrazoiak ezin duela frogatu kanpoko mundua existitzen denik, baina natura eszeptizismoa baino indartsuagoa da: bulegotik irten bezain laster, jolastu, afaldu eta munduan sinesten duzu. Sinesmena ez da frogatzen, bizi egiten da.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "Fenomenoak ezagutzen ditugu, ez gauza bere baitan; baina hori ez da engainu bat, ezagutza ororen baldintza baizik. Mundua, guk esperimentatzen dugun bezala, objektiboa da izaki arrazional guztientzat, eta hori nahikoa da.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -100,7 +100,7 @@ const DILEMAS = [
     "quien": "Aristoteles",
     "elige": "A",
     "porque": "Kasu asko ikusi dituenaren esperientzia (empeiria) jakintza praktikoaren jatorria da; mediku zuhurrak partikularra ezagutzen du, printzipio orokorrek iristen ez dutena.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Bacon eta zientzia modernoa",
@@ -111,7 +111,7 @@ const DILEMAS = [
     "quien": "Hume",
     "elige": "B",
     "porque": "Ohiturak ikusi genuena errepikatuko dela espero izatera garamatza; hogeita hamar urteko ohitura ez da froga bat, hogeita hamar urteko aztura da. Jakintsu batek bere sinesmena ebidentziaren neurrira egokitzen du.",
-    "ilustre": "hume"
+    "biografia": "hume"
    },
    {
     "quien": "Popper (XX. mendea)",
@@ -160,13 +160,13 @@ const DILEMAS = [
     "quien": "Platon",
     "elige": "B",
     "porque": "Benetako nia arima da, ez gorputza ez haren funtzioak; prozesuak funtzioak bakarrik kopiatzen baditu, gorputza kopiatzen du, eta arima ez da fabrikatzen.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Hume",
     "elige": "B",
     "porque": "Neure burua bilatzen dudanean, pertzepzio solteak baino ez ditut aurkitzen; «nia» sorta bat da, fikzio erabilgarri bat. «Zu izaten jarraituko duzun» galderak ez du erantzunik, halakorik ez dagoelako.",
-    "ilustre": "hume"
+    "biografia": "hume"
    }
   ],
   "debate": {
@@ -200,19 +200,19 @@ const DILEMAS = [
     "quien": "Aristoteles",
     "elige": "A",
     "porque": "Gizakia, berez, hitz egiten duen eta polisean bizi den animalia da; komunitatetik kanpo bizi dena «piztia da edo jainkoa da». Heztea, potentzian dagoeneko dena izaten laguntzea da.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "Gizakia ona eta askea jaiotzen da, eta gizarteak kateatzen du; basoko haurra ez da gizatasun-akats bat, deformatu gaitzaten aurretik garenaren erakusgarri bat baizik.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Kant",
     "elige": "A",
     "porque": "Gizakia hezi behar den kreatura bakarra da; hezkuntzaren bidez soilik irits daiteke gizaki izatera. Ez dago gizatasunik diziplinarik eta kulturarik gabe.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Marx eta antropologia kulturala",
@@ -251,25 +251,25 @@ const DILEMAS = [
     "quien": "Epikuro (hedonismoa)",
     "elige": "A",
     "porque": "Baldintzekin: kontuan hartzen den plazera minik eta beldurrik eza da (ataraxia); minik gabeko makina batek bere ideala betetzen du, huts egingo duen beldurrik ez badago behintzat.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Bentham eta Mill (utilitarismoa)",
     "elige": "A",
     "porque": "Benthamek plazer-kantitatea neurtuko luke eta baietz esango luke; Millek goi-mailako eta behe-mailako plazerak bereizten ditu («hobe Sokrates asegabe bat ergel ase bat baino») eta zalantzan egongo litzateke.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristoteles (eudaimonia)",
     "elige": "B",
     "porque": "Zoriontasuna ez da sentsazio bat, arimaren jarduera bat baizik, bertutearen araberakoa; jarduten ez dena ez da ongi bizi.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Programatutako bizitza batek autonomiari uko egiten dio; duintasuna norberak bere buruari legea ematean datza, ez estimuluen hartzaile izatean.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -303,31 +303,31 @@ const DILEMAS = [
     "quien": "Bentham (utilitarismoa)",
     "elige": "A",
     "porque": "Bost bizitzak bat baino gehiago balio dute edozein kalkulutan; nola salbatu, xehetasun bat da. Geldiarazten gaituzten emozioak sineskeria moralaren hondarrak dira.",
-    "ilustre": "bentham"
+    "biografia": "bentham"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Gizona bultzatzea bitarteko huts gisa tratatzea da, eta hori inperatibo kategorikoak debekatzen du. Tranbia desbideratzeak ez du hura erabiltzen: haren heriotza ondorio bat da, ez tresna.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Tomas Akinokoa (efektu bikoitzaren doktrina)",
     "elige": "B",
     "porque": "Ondorio txarra duen ekintza bat zilegia izan daiteke, baldin eta gaitza ez bada ez bitartekoa ez helburua, albo-ondorio proportzionatu bat baizik. Palankak araua betetzen du; bultzadak, ez.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Aristoteles",
     "elige": "B",
     "porque": "Pertsona bertutetsuak ez du formula batekin erabakitzen, izaerarekin baizik: badira gizon on batek egiten ez dituen ekintzak, eta errugabe bat bultzatzea horietako bat da, emaitza hobea izan arren.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Spinoza",
     "elige": "—",
     "porque": "Aukeratu aurretik, hiru galdera: zer dakidan benetan, nork eraiki duen egoera eta zer afektutatik jarduten dudan. Arrazoiak bi gaitzetatik txikiena hautatzen du (Etika, IV, 65), baina pertsonak eta inguruabarrak ezagutu gabe, «bost baten aurka» irudimenaren kalkulu bat da. Bi irteerak beldurrez edo anbizioz egin daitezke, edo irmotasunez eta eskuzabaltasunez: ekintza aske egiten duena ez da emaitza, zergatik jarduten den ulertzea baizik.",
-    "ilustre": "spinoza"
+    "biografia": "spinoza"
    }
   ],
   "debate": {
@@ -361,25 +361,25 @@ const DILEMAS = [
     "quien": "Kant",
     "elige": "B",
     "porque": "Gezurra beti da betebeharraren aurkakoa, eskubide ororen iturria suntsitzen duelako: hitzarekiko konfiantza. Baina Kantek ez du egia osoa esatera behartzen, faltsua dena ez baieztatzera soilik: isiltzea edo gaia desbideratzea zilegia da.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Mill (utilitarismoa)",
     "elige": "A",
     "porque": "Egiak sufrimendua baino ez badu sortzen eta ezin badu ezer aldatu, gezurra da ekintza zuzena. Nahiz eta Millek gehitzen duen: egiazkotasunaren araua hain da erabilgarria, salbuespenek oso bakanak izan behar dutela.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Aristoteles (bertutearen etika)",
     "elige": "B",
     "porque": "Pertsona zuhurrak ez luke gezurrik esango, baina ez luke egia harri bat bezala botako ere: aitonarekin egoteko modu egokia aurkituko luke, une egokian. Bertutea ez dago arauan, taktuan baizik.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Agustin Hiponakoa",
     "elige": "B",
     "porque": "Gezurraren aurkako bi tratatu idatzi zituen: gezurrik ez da zilegia, ezta bizitza bat salbatzen duena ere, gezurra esaten duenak babesten duenak baino gehiago balio duen zerbait galtzen duelako.",
-    "ilustre": "agustin"
+    "biografia": "agustin"
    }
   ],
   "debate": {
@@ -418,19 +418,19 @@ const DILEMAS = [
     "quien": "Platon (Sokrates)",
     "elige": "B",
     "porque": "Errepublika osoa da erantzuna: justizia arimaren harmonia da, eta injustua, eraztuna eduki arren, bere desioek tiranizatutako arimarekin bizi da. Eraztunik ez du horretatik salbatzen.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Hobbes",
     "elige": "A",
     "porque": "Naturazko egoeran bakoitzak guztirako eskubidea du; legeek behartzen dute, babesten dituen ezpata bat dagoelako. «Ezpatarik gabeko itunak hitz hutsak dira».",
-    "ilustre": "hobbes"
+    "biografia": "hobbes"
    },
    {
     "quien": "Kant",
     "elige": "B",
     "porque": "Morala ez dago ondorioen mende, ezta ikusia izatearen mende ere: ekintza bat ona da bere maxima lege unibertsal izan badaiteke, eta «inork ikusten ez nauenean lapurtuko dut» ezin da izan.",
-    "ilustre": "kant"
+    "biografia": "kant"
    }
   ],
   "debate": {
@@ -464,7 +464,7 @@ const DILEMAS = [
     "quien": "Rawls (liberalismo berdinzalea)",
     "elige": "B",
     "porque": "Ezjakintasunaren beloaren pean, izaki arrazional batek maximin estrategia aukeratzen du: lekurik txarrena ahalik eta onena izatea. Hortik datoz bere bi printzipioak: oinarrizko askatasunak guztientzat, eta desberdintasunak, okerren daudenei mesede egiten dietenean bakarrik.",
-    "ilustre": "rawls"
+    "biografia": "rawls"
    },
    {
     "quien": "Nozick (libertarismoa)",
@@ -475,7 +475,7 @@ const DILEMAS = [
     "quien": "Aristoteles",
     "elige": "B",
     "porque": "Justizia bakoitzari berea merezimenduaren arabera ematea da, baina hiria guztien bizitza onerako existitzen da, eta muturretako polis bat, oso aberatsak eta oso pobreak dituena, ez da hiri bat, gerran dauden bi hiri baizik.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Marx",
@@ -514,25 +514,25 @@ const DILEMAS = [
     "quien": "Platon",
     "elige": "A",
     "porque": "Hiria itsasontzi bat bezalakoa da: nabigatzen ez dakienak ez du lemarik eraman behar. Demokraziak masa hobekien lausengatzen duenari ematen dio boterea, eta hortik jaiotzen da tiranoa. Dakitenek gobernatu behar dute, filosofoek.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Aristoteles",
     "elige": "B",
     "porque": "Banaka jakintsuak ez diren askok, bilduta, gutxi batzuek baino hobeto epaitu dezakete, bakoitzak plater bat dakarren otordu bat bezala. Gainera, zapatak daramatzanak zapatariak baino hobeto daki non estutzen duten.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Rousseau",
     "elige": "B",
     "porque": "Subiranotasuna herriarena da eta ezin da eskuordetu: legea justua da borondate orokorrak nahi duelako, ez aditu batek diktatzen duelako. Besteei erabakitzen uzten dien herri bat ez da jada askea.",
-    "ilustre": "rousseau"
+    "biografia": "rousseau"
    },
    {
     "quien": "Mill",
     "elige": "A",
     "porque": "Erdizka: sufragio unibertsala defendatzen zuen, baina proposatzen zuen ikasienek boto bat baino gehiago izatea. «Gehiengoaren tiraniari» errege batenari bezainbesteko beldurra zion.",
-    "ilustre": "mill"
+    "biografia": "mill"
    }
   ],
   "debate": {
@@ -566,13 +566,13 @@ const DILEMAS = [
     "quien": "Platon",
     "elige": "A",
     "porque": "Ironiaz: Platonentzat koadro oro kopia baten kopia da jada, egiatik hiru gradutara; faltsifikazioak engainu-gradu bat gehiago besterik ez dio gehitzen jada engainua zenari.",
-    "ilustre": "platon"
+    "biografia": "platon"
    },
    {
     "quien": "Kant (judizio estetikoa)",
     "elige": "B",
     "porque": "Gustuaren judizioa interesik gabea da: ederrak atsegin ematen digu objektuaren existentziak, jatorriak edo erabilgarritasunak axola izan gabe. Koadroa astelehenean ederra bazen, asteartean ere hala da.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Hegel eta estetika erromantikoa",
@@ -616,7 +616,7 @@ const DILEMAS = [
     "quien": "Locke (enpirismoa)",
     "elige": "A",
     "porque": "Bai, baina arazo batekin: nortasun pertsonala kontzientziaren eta oroimenaren jarraitutasuna da, eta bi gorputzek gordetzen dute zure kontzientzia. Haren irizpideak dio biak zu zarela, eta pertsona bat ezin da bi izan: Lockek planteatu ez zuen kasua da.",
-    "ilustre": "locke"
+    "biografia": "locke"
    },
    {
     "quien": "Parfit (XX. mendea)",
@@ -632,7 +632,7 @@ const DILEMAS = [
     "quien": "Descartes (arrazionalismoa)",
     "elige": "B",
     "porque": "Beste arrazoi batengatik: gogoa, pentsatzen duen gauza, zatiezina da, gorputza ez bezala; ezin da hemisferioekin batera erditik zatitu. Kirurgialariak zatitzen duena gorputza da, ez nia.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    }
   ],
   "debate": {
@@ -666,25 +666,25 @@ const DILEMAS = [
     "quien": "Kant (Ilustrazioa)",
     "elige": "A",
     "porque": "Ilustratzea norberaren adimena erabiltzera ausartzea da. Arrazoiaren azterketari eusten ez dion beldur heredatu batek ez zaitu gidatu behar: hari erabakitzen uztea adin-txikitasunean jarraitzea da.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Descartes (arrazionalismoa)",
     "elige": "A",
     "porque": "Haren metodoaren lehen araua: ebidentziaz ezagutzen ez den ezer ez onartzea inoiz egiazkotzat. Aurreiritzi batek ez du autoritaterik irabazten oso errotuta egoteagatik.",
-    "ilustre": "descartes"
+    "biografia": "descartes"
    },
    {
     "quien": "Epikuro",
     "elige": "A",
     "porque": "Natura nola dabilen ezagutzeak oinarririk gabeko beldurretatik askatzeko balio du. Oihala atomoak dira, beste guztia bezala; hari beldur izatea beldur huts bati zure lasaitasuna kentzen uztea da.",
-    "ilustre": "epicuro"
+    "biografia": "epicuro"
    },
    {
     "quien": "Hume (enpirismoa)",
     "elige": "B",
     "porque": "Ñabardurekin: arrazoiak berak bakarrik ez gaitu ekintzara eramaten; sentimenduek eta ohiturak erabakitzen dute egiten dugun ia guztia, eta argudiorik gabeko ukapen bat ez da zoramena, gizatiarra baizik. Egin behar ez duena da artileari buruzko sinesmen bihurtzea.",
-    "ilustre": "hume"
+    "biografia": "hume"
    }
   ],
   "debate": {
@@ -718,25 +718,25 @@ const DILEMAS = [
     "quien": "Aristoteles",
     "elige": "A",
     "porque": "Erreala, lehenik, substantzia zehatzak dira, beren kabuz existitzen direnak: pertsona horiek. Spiderman beste zerbaitetan bakarrik existitzen da, komikietan eta buruetan: bada, baina modu eratorrian. Izakia modu askotara esaten da.",
-    "ilustre": "aristoteles"
+    "biografia": "aristoteles"
    },
    {
     "quien": "Tomas Akinokoa",
     "elige": "A",
     "porque": "Ondo jakin dezakezu zer den Spiderman, haren esentzia, existitu gabe. Zerbaiten esentzia ezagutzeak ez dio existentziarik ematen, eta herrixkak Spidermani falta zaiona du hain zuzen: existitzen da.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Berkeley (idealismoa)",
     "elige": "A",
     "porque": "Izatea hautematea da, baina hautematen den guztiak ez du berdin balio: zentzumenen ideiak, biziak eta ordenatuak, nire borondatearen mende ez daudenak, dira gauza errealak; irudimenak fabrikatzen dituenak, Spiderman bezala, ahulagoak dira eta nire mende daude.",
-    "ilustre": "berkeley"
+    "biografia": "berkeley"
    },
    {
     "quien": "Nietzsche",
     "elige": "B",
     "porque": "Bizi dugun mundutik «mundu egiazko» bat bereizten duenaz mesfidatzen da: Idoloen ilunabarra liburuan kontatzen du nola bukatu zuen «mundu egiazko» hori alegia bihurtuta. Axola duena bizitza batean eragiten duena da, eta Spidermanek zure bizitzan egiten duena erreala da.",
-    "ilustre": "nietzsche"
+    "biografia": "nietzsche"
    }
   ],
   "debate": {
@@ -770,19 +770,19 @@ const DILEMAS = [
     "quien": "Tomas Akinokoa",
     "elige": "A",
     "porque": "Premia larrian, gauza guztiak komunak dira: bizitza bat salbatzeko, norberarena edo besterena, besteren gauza hartzea ez da berez lapurtzea. Jabetza bizitzaren zerbitzurako dago, ez alderantziz.",
-    "ilustre": "tomas"
+    "biografia": "tomas"
    },
    {
     "quien": "Mill (utilitarismoa)",
     "elige": "A",
     "porque": "Ondorioak kontatu: salbatutako bizitza batek askoz gehiago pisatzen du dirua irabazten jarraituko duen laborategi bati egindako kaltea baino. Hala ere, ohartarazpen bat gehituko luke: arrazoia duela uste duenean lapurtzeko ohitura orokor batek ondorio txarrak izango lituzke guztiontzat.",
-    "ilustre": "mill"
+    "biografia": "mill"
    },
    {
     "quien": "Kant (betebeharraren etika)",
     "elige": "B",
     "porque": "Probatu zure maxima: «behar dudala uste dudanean lapurtuko dut»; lege unibertsal bihurtuta, jabetza eta konfiantza suntsitzen ditu. Laguntzeko betebeharra badago, baina ez du baimentzen beste baten eskubidea urratzea; Kantek esan zuen premiazko kasu batean ekintza zigorrik gabe gera daitekeela, baina ez duela horregatik zuzena izaten.",
-    "ilustre": "kant"
+    "biografia": "kant"
    },
    {
     "quien": "Gilligan (zaintzaren etika)",

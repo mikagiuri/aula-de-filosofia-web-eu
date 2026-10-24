@@ -39,7 +39,7 @@
   <div class="wrap bar-in">
     <a class="brand" href="#fil"><span class="owl" aria-hidden="true">🦉</span> Filosofia Gela</a>
     <nav class="tabs" id="tabs" aria-label="Atalak">
-      <div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Ikasi</span><div class="navmenu"><button data-view="fil" aria-current="true">Teoria</button><button data-view="pilares">Zutabeak</button><button data-view="tarjetas">Txartelak</button><button data-view="mapas">Mapak eta infografiak</button><button data-view="glosario">Hiztegia</button><button data-view="etimos">Erroak</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Praktikatu</span><div class="navmenu"><button data-view="cuestionarios">Galdetegiak</button><button data-view="pistas">Pistak</button><button data-view="rescritura">Berridazketa</button><button data-view="dilemas">Eztabaidatu</button></div></div><button data-view="logica">Logika</button><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Idatzi eta irakurri</span><div class="navmenu"><button data-view="disertaciones">Disertazioak</button><button data-view="lecturas">Irakurgaiak</button></div></div><div class="navsec navsplit"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Historia</span><div class="navmenu"><button data-view="biografias">Biografiak</button><button data-view="adagios">Adagioak</button><button data-view="galeria">Galeria</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Jokoak</span><div class="navmenu"><button data-view="rayuela">Txingoka filosofikoa</button><button data-view="leibniz">Tailerrak</button></div></div>
+      <div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Ikasi</span><div class="navmenu"><button data-view="fil" aria-current="true">Teoria</button><button data-view="pilares">Zutabeak</button><button data-view="tarjetas">Txartelak</button><button data-view="mapas">Mapak eta infografiak</button><button data-view="diccionario">Hiztegia</button><button data-view="etimos">Erroak</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Praktikatu</span><div class="navmenu"><button data-view="cuestionarios">Galdetegiak</button><button data-view="pistas">Pistak</button><button data-view="rescritura">Berridazketa</button><button data-view="dilemas">Eztabaidatu</button></div></div><button data-view="logica">Logika</button><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Idatzi eta irakurri</span><div class="navmenu"><button data-view="disertaciones">Disertazioak</button><button data-view="lecturas">Irakurgaiak</button></div></div><div class="navsec navsplit"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Historia</span><div class="navmenu"><button data-view="biografias">Biografiak</button><button data-view="adagios">Adagioak</button><button data-view="galeria">Galeria</button></div></div><div class="navsec"><span class="navgroup" role="button" tabindex="0" aria-haspopup="true" aria-expanded="false">Jokoak</span><div class="navmenu"><button data-view="rayuela">Txingoka filosofikoa</button><button data-view="leibniz">Tailerrak</button></div></div>
     </nav>
     <button class="navtoggle" id="navtoggle" aria-label="Ireki atalen menua" aria-expanded="false">☰</button>
     <button class="theme" id="helpbtn" title="Nola erabili webgunea" aria-label="Nola erabili webgunea">?</button>
@@ -187,7 +187,7 @@
   </section>
 
   <!-- RESÚMENES (antes «Esquemas de autor») -->
-  <section class="view" id="esqautor">
+  <section class="view" id="resumenes">
     <p class="eyebrow">Ikasi</p>
     <h1 class="title">Laburpenak</h1>
     <p class="lead"><strong>Laburpen bat gai bakoitzeko</strong>, testu-formatu garbian: gaiaren galdera, bere atalak kontzeptu eta egileekin, eta ideia nagusia, errepaso-orri batean. <strong>Eskemak</strong> ataleko grafoen osagarri dira.</p>
@@ -205,14 +205,14 @@
     <div class="galgrid" id="galgrid"></div>
   </section>
 
-  <!-- GLOSARIO -->
-  <section class="view" id="glosario">
+  <!-- DICCIONARIO -->
+  <section class="view" id="diccionario">
     <p class="eyebrow">Erreferentzia</p>
     <h1 class="title">Hiztegia</h1>
     <p class="lead">Ikasgaiaren hiztegia: Filosofia 1. mailako <strong>terminoak</strong> beren definizioarekin, departamentuaren liburutik ateratakoak. Bilatu hitzaren arabera edo iragazi <strong>blokearen</strong> eta <strong>arloaren</strong> arabera.</p>
-    <div class="filterbar" id="glofilter" role="group" aria-label="Iragazi hiztegia"></div>
-    <div class="glocount" id="glocount"></div>
-    <div class="glolist" id="glolist"></div>
+    <div class="filterbar" id="dicfilter" role="group" aria-label="Iragazi hiztegia"></div>
+    <div class="diccount" id="diccount"></div>
+    <div class="diclist" id="diclist"></div>
   </section>
 
   <!-- ÉTIMOS -->
@@ -247,7 +247,7 @@
   </section>
 
   <section class="view" id="epocas">
-    <!-- (12-10) Índice de las fichas de época (epocas_fichas.js), que antes solo se abrían desde Ilustres; cada tarjeta lleva el cosmos de su época. -->
+    <!-- (12-10) Índice de las fichas de época (epocas_fichas.js), que antes solo se abrían desde Biografías; cada tarjeta lleva el cosmos de su época. -->
     <p class="eyebrow">Historia</p>
     <h1 class="title">Aroak</h1>
     <p class="lead">Zazpi fitxa, Antzinako Greziatik gaur egunera: aro bakoitzean zer aldatu zen gizartean, politikan, zientzian, artean eta pentsamenduan, eta nola irudikatzen zen kosmosa.</p>
@@ -337,11 +337,11 @@
     <div id="itin-quiz"></div>
   </section>
 
-  <section class="view" id="reto">
+  <section class="view" id="retos">
     <p class="eyebrow">Tresna</p>
-    <h1 class="title">Juego · Reto</h1>
+    <h1 class="title">Erronkak</h1>
     <p class="lead">Errepasatu jolasean: denboraren aurka, abiaduragatiko eta segidagatiko puntuekin. Zure markarik onena nabigatzaile honetan gordetzen da.</p>
-    <div id="retobox"></div>
+    <div id="retosbox"></div>
   </section>
 
   
@@ -1076,7 +1076,7 @@
 <script src="js/tarjetas_img.js"></script>
 <script src="js/flashcards.js"></script>
 <script src="js/quiz.js"></script>
-<script src="js/retoview.js"></script>
+<script src="js/retosview.js"></script>
 <script src="js/theory.js"></script>
 <script src="js/theoryview.js"></script>
 <script src="js/retratos_museo.js"></script>
@@ -1092,8 +1092,8 @@
 <script src="js/lecturasview.js"></script>
 <script src="js/disertaciones.js"></script>
 <script src="js/disertacionesview.js"></script>
-<script src="js/pau.js"></script>
-<script src="js/pauview.js"></script>
+<script src="js/prepara_PAU.js"></script>
+<script src="js/prepara_PAUview.js"></script>
 <script src="js/comentario.js"></script>
 <script src="js/comentarioview.js"></script>
 <script src="js/diapositivas.js"></script>
@@ -1105,9 +1105,9 @@
 <script src="js/mapsview.js"></script>
 <script src="js/infografias.js"></script>
 <script src="js/infografiasview.js"></script>
-<script src="js/glosario.js"></script>
-<script src="js/glosario_grids.js"></script>
-<script src="js/glosarioview.js"></script>
+<script src="js/diccionario.js"></script>
+<script src="js/diccionario_grids.js"></script>
+<script src="js/diccionarioview.js"></script>
 <script src="js/biografias.js"></script>
 <script src="js/videos_eu.js"></script>
 <script src="js/epocas_fichas.js"></script>
@@ -1166,7 +1166,7 @@
 <script src="js/esq_grid.js"></script>
 <script src="js/esquemasview.js"></script>
 <script src="js/resumenes_fil.js"></script>
-<script src="js/esquemas_autorview.js"></script>
+<script src="js/resumenesview.js"></script>
 <script src="js/sesiones.js"></script>
 <script src="js/sesionesview.js"></script>
 <script src="js/calendarioview.js"></script>
@@ -1189,7 +1189,7 @@
 <script src="js/compacto.js"></script>
 <script src="js/nav_toc.js"></script>
 <script src="js/lazy_libs.js"></script>
-<script>window.USO_CONFIG={"url":"https://script.google.com/macros/s/AKfycbzBE41zf12MG7pFbgwgjbOQPriNBJZz4vSigkE-gIjWgSx67pQ-K1IgI4qoRpMlIaQT/exec","grupos":{"fil":["1C","1D","1G"]},"version":"v275"};</script>
+<script>window.USO_CONFIG={"url":"https://script.google.com/macros/s/AKfycbzBE41zf12MG7pFbgwgjbOQPriNBJZz4vSigkE-gIjWgSx67pQ-K1IgI4qoRpMlIaQT/exec","grupos":{"fil":["1C","1D","1G"]},"version":"v276"};</script>
 <script src="js/uso.js"></script>
 <script>
   /* PWA: registra el service worker (offline + instalable). Falla en silencio

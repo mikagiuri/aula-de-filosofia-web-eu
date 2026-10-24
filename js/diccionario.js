@@ -1,5 +1,5 @@
-// Generado por web_i18n/i18n_rebuild.js (eu) a partir de web/js/glosario.js. No editar a mano: editar la memoria tm/eu.json y regenerar.
-const GLOSARIO = [
+// Generado por web_i18n/i18n_rebuild.js (eu) a partir de web/js/diccionario.js. No editar a mano: editar la memoria tm/eu.json y regenerar.
+const DICCIONARIO = [
  {
   "subject": "fil",
   "t": "Filosofia",
@@ -17,7 +17,7 @@ const GLOSARIO = [
   "area": "Metodoa",
   "tema": "Filosofia · 1. gaia",
   "def": "Besteei begi-bistakoa iruditzen zaienaren aurrean harritzeko gaitasuna. Platonentzat eta Aristotelesentzat, filosofiaren jatorria da.",
-  "ilustre": [
+  "biografia": [
    "platon",
    "aristoteles"
   ]
@@ -57,7 +57,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · 1. gaia",
   "def": "Guztia nondik datorren adierazten duen jatorrizko printzipioa edo elementua. Tales Miletokoak urarekin identifikatu zuen.",
-  "ilustre": [
+  "biografia": [
    "tales"
   ]
  },
@@ -185,7 +185,7 @@ const GLOSARIO = [
   "area": "Metodoa",
   "tema": "Filosofia · 1. gaia",
   "def": "«Sapere aude» (ausart zaitez jakitera): Kanten leloa; zeure arrazoiaz baliatzeko adorea izan.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -197,7 +197,7 @@ const GLOSARIO = [
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Espezieak denboran zehar aldatzen diren prozesua; Darwinek hautespen naturalaren eta jatorri komunaren bidez azaldu zuen.",
-  "ilustre": [
+  "biografia": [
    "darwin"
   ]
  },
@@ -236,7 +236,7 @@ const GLOSARIO = [
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Gizarte bateko kide gisa bereganatzen diren ezagutza, sinesmen, arte, moral, zuzenbide, ohitura eta azturen multzoa (Tylor).",
-  "ilustre": [
+  "biografia": [
    "tylor"
   ]
  },
@@ -320,7 +320,7 @@ const GLOSARIO = [
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Descartesengan: «gauza pentsatzailea» (adimena) eta «gauza zabala» (gorputza, materia).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -350,7 +350,7 @@ const GLOSARIO = [
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Aristotelek gehitzen duen ezaugarria: komunitatean bizi behar dugu garatzeko eta erabat gizaki izateko.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -371,7 +371,7 @@ const GLOSARIO = [
   "area": "Etika",
   "tema": "Filosofia · 2. gaia",
   "def": "Pertsonaren balio absolutua; horregatik da bere baitan helburu bat eta inoiz ez bitarteko soil bat (Kant).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -428,7 +428,7 @@ const GLOSARIO = [
   "area": "Antropologia",
   "tema": "Filosofia · 2. gaia",
   "def": "Nia egiten den ingurune zehatza (garaia, gorputza, gizartea): «ni neu naiz ni eta nire zirkunstantzia» (Ortega).",
-  "ilustre": [
+  "biografia": [
    "ortega"
   ]
  },
@@ -503,7 +503,7 @@ const GLOSARIO = [
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Ezagutza guztia esperientzia sentigarritik datorrela dioen korrontea (Locke, Hume).",
-  "ilustre": [
+  "biografia": [
    "locke",
    "hume"
   ]
@@ -516,7 +516,7 @@ const GLOSARIO = [
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Batez ere arrazoian konfiantza duen korrontea, ezagutzaren iturri gisa (Descartes).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -528,7 +528,7 @@ const GLOSARIO = [
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Kanten sintesia (apriorismoa): ezagutza esperientziatik jaiotzen da, baina subjektuaren a priori egiturekin ordenatzen du.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -549,7 +549,7 @@ const GLOSARIO = [
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Kantengan: fenomenoa agertzen zaiguna da (ezagut daitekeena); noumenoa, gauza bere baitan (ezin ezagutuzkoa).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -624,7 +624,7 @@ const GLOSARIO = [
   "area": "Epistemologia",
   "tema": "Filosofia · 3. gaia",
   "def": "Egia bat argitasunez eta bereiztasunez agertzen den egoera, zalantzarik gabe (Descartes).",
-  "ilustre": [
+  "biografia": [
    "descartes"
   ]
  },
@@ -751,7 +751,7 @@ const GLOSARIO = [
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Ongia zoriontasunarekin identifikatzen duen etika (Aristoteles).",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -772,7 +772,7 @@ const GLOSARIO = [
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Aristotelesengan, bi muturren arteko erdibidea aukeratzeko ohitura; izaeraren bikaintasuna.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -784,7 +784,7 @@ const GLOSARIO = [
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Ekintza betebeharrarekin bat datorren arabera epaitzen duen etika (deontologia), ez haren ondorioen arabera (Kant).",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -796,7 +796,7 @@ const GLOSARIO = [
   "area": "Etika",
   "tema": "Filosofia · 5. gaia",
   "def": "Kanten agindu baldintzagabea: jokatu soilik lege unibertsal bihurtzea nahi dezakezun maximaren arabera.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -870,7 +870,7 @@ const GLOSARIO = [
   "area": "Estetika",
   "tema": "Filosofia · 7. gaia",
   "def": "Zerbait eder edo itsusitzat baloratzen dugun judizioa; Kantentzat subjektiboa da baina balio unibertsala nahi du.",
-  "ilustre": [
+  "biografia": [
    "kant"
   ]
  },
@@ -1141,7 +1141,7 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Proposizio batek aipatzen duena existitzen dela ontzat ematea. Aristotelesentzat, baiezkoek hori suposatzen dute; gaur egungo logikarentzat, unibertsalek ez: «adarbakar guztiek adar bat dute» egiazkoa da adarbakarrik ez badago ere. Horregatik, Darapti bezalako silogismoak baliozkoak izateari uzten diote.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -1161,7 +1161,7 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Euskaraz «da»-rekin esaten diren bi harreman. Kidetasunak (∈) banako bat klase batekin lotzen du: «Sokrates ∈ gizakiak». Inklusioak (⊆) bi klase lotzen ditu: «gizakiak ⊆ hilkorrak». Inklusioa kateatu egiten da; kidetasuna, ez.",
-  "ilustre": [
+  "biografia": [
    "socrates"
   ]
  },
@@ -1180,7 +1180,7 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Disjuntzio bat ukatzea haren bi zatiak ukatzea da: ¬(p ∨ q) = ¬p ∧ ¬q («ez bata ez bestea»). Konjuntzio bat ukatzea gutxienez zati bat ukatzea da: ¬(p ∧ q) = ¬p ∨ ¬q. Klaseekin: (A ∪ B)ᶜ = Aᶜ ∩ Bᶜ eta (A ∩ B)ᶜ = Aᶜ ∪ Bᶜ. Augustus De Morganek formulatu zituen XIX. mendean.",
-  "ilustre": [
+  "biografia": [
    "de_morgan"
   ]
  },
@@ -1191,7 +1191,7 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Klase bakoitza zirkulu batekin irudikatzen duen marrazkia, baieztatzen den harremanaren arabera kokatua: bata bestearen barruan (guztiak), bereizita (bat ere ez) edo gurutzatuta (batzuk). Leonhard Eulerrek zabaldu zuen 1761eko gutunetan. Klaseak nola dauden kokatuta ez badakigu, egoera bat baino gehiago marraztu behar dira.",
-  "ilustre": [
+  "biografia": [
    "euler"
   ]
  },
@@ -1202,7 +1202,7 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Klaseak beti gurutzatutako zirkuluekin irudikatzen dituen marrazkia; horrela, eremu posible guztiak agertzen dira. Hutsik daudenak itzaldu egiten dira, eta gutxienez bat dagoen eremua ✕ batekin markatzen da. John Vennek proposatu zuen 1880an; hiru zirkulurekin, silogismo bat baliozkoa den egiazta daiteke.",
-  "ilustre": [
+  "biografia": [
    "venn"
   ]
  },
@@ -1214,7 +1214,7 @@ const GLOSARIO = [
   "area": "Logika",
   "tema": "Filosofia · 4. gaia",
   "def": "Beren buruaren kide ez diren klase guztien klasea, bere buruaren kide al da? Hala bada, ez da; hala ez bada, bada. Bertrand Russellek Fregeri jakinarazi zion 1902an, eta erakutsi zuen propietate orok ezin duela klase bat definitu.",
-  "ilustre": [
+  "biografia": [
    "frege",
    "russell"
   ]
@@ -1236,7 +1236,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Gauzak dirudiena, benetan direnaren aurrean. Parmenidesen ustez, ikusten ditugun aldaketa eta aniztasuna itxura hutsa dira.",
-  "ilustre": [
+  "biografia": [
    "parmenides"
   ]
  },
@@ -1257,7 +1257,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Aristotelesentzat, substantzia batean baino existitzen ez den eta alda daitekeen ezaugarria, hala nola kolorea, tamaina edo lekua.",
-  "ilustre": [
+  "biografia": [
    "aristoteles"
   ]
  },
@@ -1295,7 +1295,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Alan Turingek 1950ean proposatutako proba: idatziz hitz eginez makina bat pertsona batetik bereizten ez badugu, ez genuke arrazoirik izango adimena ukatzeko.",
-  "ilustre": [
+  "biografia": [
    "turing"
   ]
  },
@@ -1315,7 +1315,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "David Chalmersen esapidea (1995): azaltzea zergatik dagoen esperientzia subjektiboa, gorria ikustean sentitzen dena.",
-  "ilustre": [
+  "biografia": [
    "chalmers"
   ]
  },
@@ -1354,7 +1354,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Hobbesen eta Humeren jarrera: askatasuna eta determinismoa batera izan daitezke, aske izatea ez baita kausarik gabe jokatzea, norberaren nahien eta arrazoien arabera jokatzea baizik, derrigortu gabe.",
-  "ilustre": [
+  "biografia": [
    "hobbes",
    "hume"
   ]
@@ -1367,7 +1367,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Mundutik abiatzen den arrazoibidea: mugitzaileen eta kausen katea ezin da amaigabe luzatu; beraz, lehen motor bat, lehen kausa bat, izaki beharrezko bat eskatzen du (Tomas Akinokoaren bost bideak).",
-  "ilustre": [
+  "biografia": [
    "tomas"
   ]
  },
@@ -1379,7 +1379,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Arrazoibide teleologikoa: naturaren ordenak, erloju batenak bezala, diseinatzaile bat eskatzen du (Paley). Humek kritikatu zuen, eta Darwinek, hautespen naturalarekin.",
-  "ilustre": [
+  "biografia": [
    "hume",
    "darwin"
   ]
@@ -1401,7 +1401,7 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Leibnizek (1710) fededunak gaizkiaren arazoari ematen dizkion erantzunei jarritako izena; ezagunenetako batek dio gaizkia giza askatasunaren prezioa dela.",
-  "ilustre": [
+  "biografia": [
    "leibniz"
   ]
  },
@@ -1422,12 +1422,12 @@ const GLOSARIO = [
   "area": "Metafisika",
   "tema": "Filosofia · M",
   "def": "Jarrera honen arabera, Jainkoarengana fedearen bidez iristen da, ez arrazoiaren bidez, eta, beraz, argudioak ez dira bidea; Kierkegaard aipatu ohi da.",
-  "ilustre": [
+  "biografia": [
    "kierkegaard"
   ]
  }
 ];
-const GLOSARIO_TRAMPAS = {
+const DICCIONARIO_TRAMPAS = {
  "fil": [
   [
    "Mitoa",
