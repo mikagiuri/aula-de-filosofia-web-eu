@@ -604,154 +604,151 @@ const DILEMAS = [
   "grupo": "fil-humano",
   "id": "fil-fision",
   "emoji": "👥",
-  "etiqueta": "Nortasuna eta biziraupena",
-  "titulo": "Esnatzen diren biak",
-  "situacion": "Istripu baten ondoren, zure gorputzak ez du konponbiderik, baina zure garunak bai. Kirurgialariek modu bakarrean salba zaitzakete: bi hemisferioak bereizi eta bakoitza gorputz desberdin batera transplantatuz. Ebakuntza asmatua da, baina zerbait errealetik abiatzen da: badira hemisferio bakarrarekin bizi diren pertsonak, eta beste batzuei bi hemisferioen arteko lotura moztu zaie. Demagun erdi bakoitzak zure bizitza mental osoa gordetzen duela. Bi gorputzak esnatzen dira. Biek gogoratzen dute zure haurtzaroa, biek ezagutzen dute zure familia, zure maniak eta asmoak dituzte, eta biek diote zu direla, sinesmen beraz. Baimena sinatu aurretik, zer gertatzea espero duzun galdetzen dizute.",
-  "a": "Biziraungo dut, bitan bada ere: axola zaidana —nire oroitzapenak, nire izaera, nire asmoak— bizirik egongo da bietan, eta hori da biziraupenari eskatzen niona.",
-  "b": "Ez dut biziraungo: pertsona bat ezin da bi izan; biek eskubide bera badute ni izateko, ez da bat ere ni, eta esnatzen direnak nire antza duten bi pertsona berri dira.",
-  "pregunta": "Zerk egiten du pertsona bat denboran zehar bera izaten jarraitzea? Eta nortasuna bitan hauts badaiteke, nortasuna al da benetan axola zaiguna biziraupenean?",
-  "enjuego": "Nortasun pertsonalaren irizpideak (oroimena, gorputza, kontakizuna) mugaraino eramanda, eta norbanako bera izatearen (nortasun numerikoa) eta berdina izatearen (nortasun kualitatiboa) arteko aldea.",
+  "etiqueta": "Identitatea eta biziraupena",
+  "titulo": "Tokioko eskanerra",
+  "situacion": "2090. urtea. Bilbotik Tokiora joateko, jada inork ez du hegazkinik hartzen: kabina batean sartzen zara, eskaner batek zure gorputzeko atomo bakoitzaren kokapena erregistratzen du, kabinak jatorrizkoa desegiten du eta, Tokion, makina batek berriro eraikitzen zaitu, berdin-berdin, segundo gutxitan. Hogei aldiz egin duzu, eta beti irten zara iritsiera-kabinatik zure oroitzapen, mania eta asmoekin. Gaur zerbaitek huts egin du: eskanerrak erregistratu zaitu, baina Bilboko kabinak ez zaitu desegin. Hemen jarraitzen duzu, eserita, bihotza ahoan duzula, teknikari batek esan dizunean Tokion norbait irten dela zu zarela dioena, eta zure amari deitu berri diola. Enpresak barkamena eskatu dizu eta hurrengo bidaiarako txartel bat oparitu dizu. Onartuko duzun ala ez erabaki behar duzu.",
+  "a": "Bidaiatuko dut: helmugan nire memoria, izaera eta proiektuak dituen norbait agertzen bada, horixe da bizirik jarraitzeari eska diezaiokedan guztia; gaurko hutsegiteak erakusten du bi tokitan jarrai dezakedala aldi berean.",
+  "b": "Ez dut bidaiatuko: hutsegiteak frogatu du Tokion irteten dena kopia bat dela; jatorrizkoa begira gera badaiteke, aurreko bidaia bakoitzean norbait hil zen Bilbon eta beste bat jaio zen Tokion.",
+  "pregunta": "Zerk egiten du egun batetik bestera zu izaten jarraitzea: zure gorputzak, zure memoriak ala beste zerbaitek? Zure kopia perfektu bat egongo balitz, bietatik zein izango zinateke zu, eta axola beharko lizuke?",
+  "enjuego": "Identitate pertsonalaren irizpideak (gorputza, memoria eta jarraitutasun psikologikoa) kopia batek proban jarrita, eta norbanako bera izatearen (identitate numerikoa) eta guztiz berdina izatearen (identitate kualitatiboa) arteko aldea.",
   "escuelas": [
    {
     "quien": "Locke (enpirismoa)",
     "elige": "A",
-    "porque": "Bai, baina arazo batekin: nortasun pertsonala kontzientziaren eta oroimenaren jarraitutasuna da, eta bi gorputzek gordetzen dute zure kontzientzia. Haren irizpideak dio biak zu zarela, eta pertsona bat ezin da bi izan: Lockek planteatu ez zuen kasua da.",
+    "porque": "Zure kontzientzia iristen den bitartean zara pertsona bera: zure egintzak gogoratu eta bereak bezala sentitzen dituena zu zara, edozein atomoz egina dagoela ere. Arazoa da haren irizpideak emaitza bera ematen duela Bilbokoarentzat eta Tokiokoarentzat, eta Lockek ez zuela inoiz pentsatu pertsona errepikatu batean.",
     "biografia": "locke"
    },
    {
     "quien": "Parfit (XX. mendea)",
     "elige": "A",
-    "porque": "Zatiketaren kasutik ondorio harrigarri bat atera zuen: biziraupenean axola zaiguna ez da nortasuna, jarraitutasun psikologikoa baizik (oroitzapenak, izaera, asmoak). Bikoiztea ez da hiltzearen antzekoa: biziraupenaren oso antzekoa da."
+    "porque": "Halako makina bat irudikatu zuen Arrazoiak eta pertsonak liburuan, eta ondorio kezkagarri bat atera zuen: baliteke «bietatik zein naiz ni?» galderak erantzunik ez izatea, eta ez da ezer gertatzen, garrantzitsua ez baita identitatea, zure memoriak, izaerak eta asmoek jarraitzea baizik. Kabinan bidaiatzea hegazkinez bidaiatzea bezain ona litzateke ia."
    },
    {
     "quien": "Thomas Reid",
     "elige": "B",
-    "porque": "Pertsona zatiezina da: ezin da pertsona erdi bat izan, ezta bi aldi berean ere. Oroimenak nortasuna erakusten du, baina ez du sortzen; biek zure oroitzapenak izateak ez ditu zu bihurtzen."
+    "porque": "Pertsona ezin da zatitu ezta errepikatu ere: zu zara edo ez zara. Zure bizitza gogoratzeak ez zaitu zu bihurtzen; zu zarenaren seinale bat baino ez da. Tokiokoak zure oroitzapenak ditu, fotokopia batek jatorrizkoaren testua duen bezala."
    },
    {
     "quien": "Descartes (arrazionalismoa)",
     "elige": "B",
-    "porque": "Beste arrazoi batengatik: gogoa, pentsatzen duen gauza, zatiezina da, gorputza ez bezala; ezin da hemisferioekin batera erditik zatitu. Kirurgialariak zatitzen duena gorputza da, ez nia.",
+    "porque": "Zu pentsatzen duen gauza bat zara, gorputzaz bestelakoa. Makinak materia neurtu eta erreproduzitzen du: zure itxura eta garuna dituen gorputz bat kopiatzen du, baina ezerk ez du bermatzen zu zaren gogoa harekin batera bidaiatzen denik.",
     "biografia": "descartes"
    }
   ],
   "debate": {
    "epoca": "Siglos XVII y XX",
-   "texto": "«Kontzientzia hori atzerantz, iraganeko edozein ekintza edo pentsamenduraino, heda daitekeen neurrian, horraino iristen da pertsona horren nortasuna.»",
-   "fuente": "Locke, Giza adimenari buruzko saioa, II, 27, 9 (2. edizioan gehitutako kapitulua, 1694). Zatiketaren kasua Derek Parfitek egin zuen ospetsu («Personal Identity», 1971; Arrazoiak eta pertsonak, 1984).",
+   "texto": "«[Pertsona] izaki pentsatzaile eta adimendun bat da, arrazoimena eta hausnarketa dituena, eta bere burua bera bezala har dezakeena, pentsatzen duen gauza bera bezala, denbora eta toki desberdinetan.»",
+   "fuente": "Locke, Giza adimenari buruzko saioa, II, 27, 9 (2. argitalpena, 1694). Kopia bat uzten duen teleportagailua Derek Parfitek planteatu zuen Arrazoiak eta pertsonak lanean (1984), 10. kapituluan.",
    "unidad": "fil-t2"
   },
   "preguntas": [
-   "Biak zu bazarete, norena da zure etxea, zure mugikorra, zure lekua institutuan? Eta batek delitu bat egiten badu, bestea ere zigortuko dugu?",
-   "Thomas Reidek zioen oroimenak ez duela nortasuna sortzen, erakutsi baizik: izan zinen haurra zu zinen, gogoratzen ez baduzu ere. Zer dago orduan, oroimenaz gain, zu izatea egiten duena?",
-   "Bietako bat bakarrik esnatuko dela esango balizute, albiste hobea ala okerragoa irudituko litzaizuke? Zergatik da arraroa «bat» «bi» baino hobea iruditzea?"
+   "Biak zu bazarete, nork egingo du lo gaur gauean zure ohean, eta nor joango da bihar institutura? Eta Tokiokoak kontratu bat sinatzen badu, zu behartzen zaitu?",
+   "Hutsegitea gertatu aurretik, hogei aldiz bidaiatu zenuen batere kezkatu gabe. Zerbait aldatu da bidaia haietan, ala haiei buruz dakizuna bakarrik?",
+   "Urteen poderioz, zure gorputzeko atomo asko beste batzuek ordezkatzen dituzte. Zertan da hori kabinaren desberdina, abiaduraz gain?"
   ],
-  "ysi": "Eta gorputzetako bat inoiz esnatuko ez balitz? Ia denek esango lukete bestean biziraun duzula. Baina orduan, bigarrena esnatzeak ezin du zure biziraupena zure heriotza bihurtu. Hala egiten badu, zure nortasuna zuri gertatzen ez zaizun zerbaiten mende dago.",
-  "dato": "Kasuari bidea ematen dioten ebakuntzak badaude: epilepsia larria duten pertsona batzuei hemisferioen arteko lotura (gorputz kailukara) moztu zaie, eta haur batzuei hemisferio oso bat kendu edo deskonektatu zaie; askok bizitza normala egiten jarraitzen dute. Roger Sperryk 1981ean jaso zuen Nobel saria garun banatua zuten pazienteak aztertzeagatik. Ez dagoena transplantea da: zati hori da pentsamendu-esperimentua."
+  "ysi": "Eta Bilboko kabinak ondo funtzionatuko balu, baina minutu bateko atzerapenarekin? Minutu horretan biak egongo lirateke, eta gero Tokiokoa bakarrik. Hori bidaiatzea bada, minutu batek ez luke hiltzea bihurtu beharko; eta hiltzea bada, zergatik ez zen hiltzea atzerapena segundo baten milarena zenean?",
+  "dato": "Teleportazioa badago, baina ez pertsonena ezta objektuena ere: partikula baten egoera kuantikoa bidaltzen da. 2017an, talde txinatar batek Tibetetik Micius satelitera egin zuen, 1.400 km-rainoko distantzietan. Eta xehetasun bitxi bat dago: fisika kuantikoaren legeek ez dute uzten egoera ezezagun bat kopiatzen (klonatze ezaren teorema, 1982koa); beraz, teleportazio horretan jatorrizko egoera beti suntsitzen da irteera-puntuan."
  },
  {
   "subject": "fil",
   "grupo": "fil-conocer",
   "id": "fil-jersey",
-  "emoji": "🧶",
+  "emoji": "🖋️",
   "etiqueta": "Sinesmena eta arrazoia",
-  "titulo": "Hiltzailearen jertsea",
-  "situacion": "Bigarren eskuko denda batean artilezko jertse on bat aurkitzen duzu: garbia, zure neurrikoa eta oso merkea. Saltzaileak, zintzoa baita, nondik datorren kontatzen dizu: hainbat hilketagatik zigortutako gizon batena izan zen, eta maiz janzten zuen. Garbitegi industrial batetik pasatu da, eta beste inork ez daki. Badakizu artileak ez duela ezer gordetzen eta gaiztakeria ez dela arropari itsasten zaion substantzia bat. Hala ere, zalantza egiten duzu. Eraman ala esekitokian utzi erabaki behar duzu.",
-  "a": "Eramango dut: badakit oihalak ez duela ezer gordetzen, eta defendatu ezin dudan sinesmen batek ez luke nire ordez erabaki behar.",
-  "b": "Utziko dut: azaldu ezin badut ere, ukapen horrek zerbait esaten du nitaz, eta sentitzen dudan guztiak ez du arrazoiaren azterketa gainditu behar existitzeko eskubidea izateko.",
-  "pregunta": "Justifika daitekeena bakarrik sinetsi behar al da? Zer egiten dugu oinarririk gabekoak direla dakigun baina sentitzeari utzi ezin diegun sinesmenekin?",
-  "enjuego": "Jakitearen eta sinestearen arteko aldea, mitotik logosera igarotzea txikian (bakoitzaren barruan) eta susmo deseroso bat: zure zenbat sinesmenek funtzionatzen duten jertseak bezala, konturatu gabe.",
+  "titulo": "Epailearen luma",
+  "situacion": "Antzinako gauzen azoka batean luma estilografiko eder bat ikusi duzu: urrezko punta, gorputz beltza; primeran idazten du eta marka oneko boligrafo bat baino merkeagoa da. Hilabeteak daramatzazu apunteak hartzeko bat bilatzen. Saltzaileak, saltzen duena ondo ezagutzen duenak, haren istorioa kontatu dizu: Europako diktadura bateko epaile batena izan zen, eta urteetan erabili zuen heriotza-zigorrak sinatzeko. Garbitu eta zaharberritu egin dute, eta postu honetatik kanpo inork ez daki xehetasun hori. Badakizu metalak eta tintak ez dutela gordetzen erabili zituenaren ezer. Hala ere, eskuan duzunean, zerbaitek geldiarazten zaitu. Erosiko duzun ala ez erabaki behar duzu.",
+  "a": "Erosiko dut: luma batek ez du ez memoriarik ez errurik, eta ez dut nahi nik neuk oinarririk gabea dela dakidan sentsazio batek nire ordez erabakitzea.",
+  "b": "Ez dut erosiko: ezer frogatu ezin badut ere, hartzean sentitzen dudanak zerbait esaten du mundua nola ikusten dudan, eta nire erabaki guztiek ez dute argudioen epaitegi batetik pasatu beharrik.",
+  "pregunta": "Justifika dezakegunaren arabera bakarrik sinetsi eta jokatu behar al dugu? Zer egin oinarririk gabea dela dakigun baina joaten ez den sentsazio batekin?",
+  "enjuego": "Jakitearen eta sinestearen arteko aldea, bakoitzaren barruan mitotik logosera egiten den urratsa, eta beren burua arrazionaltzat duten pertsonengan funtzionatzen jarraitzen duen pentsamendu magikoa.",
   "escuelas": [
    {
     "quien": "Kant (Ilustrazioa)",
     "elige": "A",
-    "porque": "Ilustratzea norberaren adimena erabiltzera ausartzea da. Arrazoiaren azterketari eusten ez dion beldur heredatu batek ez zaitu gidatu behar: hari erabakitzen uztea adin-txikitasunean jarraitzea da.",
+    "porque": "Ilustratzea norberaren adimena erabiltzera ausartzea da, inork, ezta jasotako beldur batek ere, eskutik eraman gabe. Zure arrazoimenak luma luma bat besterik ez dela badio, sentsazioari men egitea zeure kabuz pentsatzeari uko egitea da.",
     "biografia": "kant"
    },
    {
-    "quien": "Descartes (arrazionalismoa)",
+    "quien": "William K. Clifford (XIX. mendea)",
     "elige": "A",
-    "porque": "Haren metodoaren lehen araua: ebidentziaz ezagutzen ez den ezer ez onartzea inoiz egiazkotzat. Aurreiritzi batek ez du autoritaterik irabazten oso errotuta egoteagatik.",
-    "biografia": "descartes"
-   },
-   {
-    "quien": "Epikuro",
-    "elige": "A",
-    "porque": "Natura nola dabilen ezagutzeak oinarririk gabeko beldurretatik askatzeko balio du. Oihala atomoak dira, beste guztia bezala; hari beldur izatea beldur huts bati zure lasaitasuna kentzen uztea da.",
-    "biografia": "epicuro"
+    "porque": "«Sinesmenaren etika» saiakeran defendatu zuen froga nahikorik gabe sinestea beti dagoela gaizki, oinarririk gabeko sinesmen bakoitzak sinesbera izatera ohitzen gaituelako. Luma zikindua balego bezala jokatzea, egitez, eutsi ezin zaion zerbait sinestea da."
    },
    {
     "quien": "Hume (enpirismoa)",
     "elige": "B",
-    "porque": "Ñabardurekin: arrazoiak berak bakarrik ez gaitu ekintzara eramaten; sentimenduek eta ohiturak erabakitzen dute egiten dugun ia guztia, eta argudiorik gabeko ukapen bat ez da zoramena, gizatiarra baizik. Egin behar ez duena da artileari buruzko sinesmen bihurtzea.",
+    "porque": "Arrazoimenak berak bakarrik ez gaitu ekintzara bultzatzen: sentimenduek eta ohiturak erabakitzen dute. Argudiorik gabe zerbaitek geldiarazten bazaitu, ez da erokeria, giza izaera baizik; zentzugabea litzateke metala aldatu dela pentsatzea.",
     "biografia": "hume"
+   },
+   {
+    "quien": "Pascal (XVII. mendea)",
+    "elige": "B",
+    "porque": "Bihotzak baditu bere arrazoiak, arrazoimenak ezagutzen ez dituenak. Gauza batzuk sentimenduaz atzematen ditugu frogaren bidez baino lehen, eta ez dira horregatik gutxiago gureak."
    }
   ],
   "debate": {
-   "epoca": "Siglo XVIII (Ilustración)",
-   "texto": "«Izan ezazu zeure adimena erabiltzeko adorea! Hori da Ilustrazioaren lema.»",
-   "fuente": "Kant, Galdera honi erantzuna: Zer da Ilustrazioa? (1784). Ebidentziarik gabe ezer ez onartzeko araua Descartesen Metodoaren diskurtsoaren lehena da (1637).",
+   "epoca": "Siglos XVIII y XIX",
+   "texto": "«Gaizki dago, beti, edonon eta edonorentzat, froga nahikorik gabe ezer sinestea.»",
+   "fuente": "William K. Clifford, «Sinesmenaren etika» (1877). Norberaren adimena erabiltzeko gonbitea Kantena da: Erantzuna galdera honi: zer da Ilustrazioa? (1784).",
    "unidad": "fil-t3"
   },
   "preguntas": [
-   "Saiatu idazten zergatik ez zenukeen jantziko. Arrazoi bat da, ala arrazoi itxura duen sentimendu bat?",
-   "Jantziko zenuke zure abeslari gogokoenak kontzertu batean eraman zuen izerditako bat? Baietz bada, ez al zaude gauza bera sinesten, baina alderantziz?",
-   "Nola bereizten duzu, barrutik, defenda zenezakeen sinesmen bat defenda ezin duzun batetik? Desberdin sumatzen dira?"
+   "Idatzi esaldi batean zergatik ez zenukeen erabiliko. Gero irakurri: argudio bat da, ala argudioz mozorrotutako sentimendu bat?",
+   "Luma miresten duzun idazle batena izan balitz, diru gehiago ordainduko zenuke. Sinesmen bera da, baina alderantziz?",
+   "Ba al dago alderik luma zerbait «itsatsiko» dizun beldurrez baztertzearen eta biktimekiko errespetuz baztertzearen artean? Bi arrazoi horietatik zeinek eusten dio hobeto azterketa bati?"
   ],
-  "ysi": "Eta inork ez balizu kontatu norena zen? Pentsatu gabe jantziko zenuke. Aldatu den bakarra entzun duzun esaldi bat da: zerk ukitzen dizu azala, artileak ala istorioak?",
-  "dato": "Paul Rozin psikologoak eta haren lankideek laurogeiko hamarkadatik aztertzen dute «kutsadura magiko» hori: gauzek ukitu zituenaren zerbait gordetzen dutelako sinesmena. Jende askok uko egiten dio gaizto edo gaixo batek eraman zuen jertse garbi bat janzteari, inolako arriskurik ez dagoela onartu arren."
+  "ysi": "Eta saltzailea oker egon balitz eta luma beste epaile batena balitz, inoiz inor kondenatu ez zuen batena? Eskuan luma bera izango zenuke. Zure sentsazioa aldatzen bada, ez zetorren lumatik, kontatu dizuten istoriotik baizik.",
+  "dato": "James Frazer antropologoak, Urrezko adarra lanean (1890-1915), «magia kutsakorra» deitu zion elkar ukitu duten gauzak bereizi ondoren ere lotuta jarraitzen dutelako sinesmenari. Ideiak bizirik dirau: 2011ko ikerketa batean, George Newman, Gil Diesendruck eta Paul Bloom ohartu ziren jendeak gutxiago ordainduko lukeela miresten duen famatu baten jantzi batengatik, saldu aurretik garbitu eta desinfektatu dutela esaten badiote, garbiketarekin pertsonaren zerbait joan izan balitz bezala."
  },
  {
   "subject": "fil",
   "grupo": "fil-conocer",
   "id": "fil-existir",
-  "emoji": "🕸️",
-  "etiqueta": "Izatea eta existitzea",
-  "titulo": "Herrixka eta superheroia",
-  "situacion": "Pentsatu Ugandako herrixka batean: hirurehun bat pertsona, lurra lantzen dutenak, abereak zaintzen dituztenak, elkar ezagutzen dutenak eta elkarri laguntzen diotenak; bakoitzak izena, aurpegia eta historia ditu, eta goizero esnatzen da zu bezala. Duela une bat ez zenekien existitzen zirenik, eta handik gutxira ahaztuta izango dituzu. Pentsatu orain Spidermanengan: badakizu nor dagoen maskararen azpian, zergatik hil zen bere osaba, eta arratsalde oso batez eztabaida zenezake erabaki batean asmatu zuen ala ez. Spiderman ez da existitzen; hirurehun pertsonak, bai. Lagun batek galdetzen dizu bietako zein den errealagoa zuretzat.",
-  "a": "Herrixka: existitzea ez dago nik jakitearen edo niri axola izatearen mende; pertsona horiek errealak dira inork haietan pentsatzen ez badu ere, eta Spiderman ez da erreala, mundu erdiak harengan pentsatzen badu ere.",
-  "b": "Nolabait, Spiderman: nire ideietan, erabakietan eta elkarrizketetan eragiten du; existitzen den baina ezertan ukitzen ez nauena, niretzat, ia existituko ez balitz bezala da.",
-  "pregunta": "Zer da erreala izatea? Gauza bera al da existitzea eta norbaiten bizitzan presente egotea? Nola «dira» irudimenean bakarrik existitzen diren gauzak?",
-  "enjuego": "Esentziaren eta existentziaren arteko bereizketa (zerbait zer den jakiteak ez du bermatzen existitzen denik), izateko modu desberdinak eta metafisikaren galdera zaharra: zer dagoen benetan, guri nola eragiten digun kontuan hartu gabe.",
+  "emoji": "🧵",
+  "etiqueta": "Izan eta existitu",
+  "titulo": "Jostuna eta pertsonaia",
+  "situacion": "Begiratu soinean daramazun kamisetaren etiketari: «Made in Bangladesh». Norbaitek moztu eta josi zuen, agian zure adineko edo zure amaren adineko emakume batek, Dhakako tailer batean, gau hartan afaria prestatzeko erabili zituen esku berberekin. Orain zure azala ukitzen duen zerbait ukitu zuen, baina ez dakizu haren izena eta ez zenuen inoiz harengan pentsatu. Pentsa orain ordu gehien eman dizkiozun bideojokoaren protagonistan: haren iragana, ahotsa eta beldurrak ezagutzen dituzu, ehunka aldiz erabaki duzu haren ordez, eta harekin amets ere egin duzu. Hura ez da existitzen; emakumea, bai. Lagun batek galdetu dizu bietako zeinek betetzen duen leku gehiago zure bizitzan, eta horrek aldatzen ote duen bietako zein den errealagoa.",
+  "a": "Jostuna: existitzea ez dago nik hura ezagutzearen edo harengan pentsatzearen menpe; erreala da inork gogoratzen ez badu ere, eta pertsonaia ez da erreala milioika lagunek jokatzen badute ere.",
+  "b": "Nolabait, pertsonaia: nire oroitzapenetan, nire elkarrizketetan eta sentitzen dudanean dago; existitzen den baina nire bizitzan inolako arrastorik uzten ez duena, niretzat, ia existituko ez balitz bezala da.",
+  "pregunta": "Zer esan nahi du zerbait erreala izateak? Gauza bera al da existitzea eta norbaiten bizitzan presente egotea? Nola «dira» istorio batean bakarrik existitzen diren gauzak?",
+  "enjuego": "Esentziaren eta existentziaren arteko bereizketa (zerbait nolakoa den jakiteak ez du bermatzen existitzen denik), izateko modu desberdinak eta metafisikaren oinarrizko galdera: zer dagoen benetan, guri zenbat eragiten digun alde batera utzita.",
   "escuelas": [
    {
     "quien": "Aristoteles",
     "elige": "A",
-    "porque": "Erreala, lehenik, substantzia zehatzak dira, beren kabuz existitzen direnak: pertsona horiek. Spiderman beste zerbaitetan bakarrik existitzen da, komikietan eta buruetan: bada, baina modu eratorrian. Izakia modu askotara esaten da.",
+    "porque": "Zentzu betean existitzen direnak substantzia zehatzak dira, emakume hori bezala, berez dena. Pertsonaia beste zerbaitetan baino ez da: programa batean, pantaila batean eta jokatzen dutenen buruetan. Bada hura ere, baina bigarren mailako modu batean.",
     "biografia": "aristoteles"
    },
    {
-    "quien": "Tomas Akinokoa",
+    "quien": "Kant (Ilustrazioa)",
     "elige": "A",
-    "porque": "Ondo jakin dezakezu zer den Spiderman, haren esentzia, existitu gabe. Zerbaiten esentzia ezagutzeak ez dio existentziarik ematen, eta herrixkak Spidermani falta zaiona du hain zuzen: existitzen da.",
-    "biografia": "tomas"
+    "porque": "Pertsonaia xehetasun guztiekin deskriba dezakezu, eta ez diozu existentziarik gehituko: existitzea ez da gauza baten ezaugarri bat gehiago. Pentsatutako ehun taleroek (bere garaiko txanponak) benetako ehun taleroen ezaugarri berak dituzte; falta zaiena munduan egotea da.",
+    "biografia": "kant"
    },
    {
-    "quien": "Berkeley (idealismoa)",
-    "elige": "A",
-    "porque": "Izatea hautematea da, baina hautematen den guztiak ez du berdin balio: zentzumenen ideiak, biziak eta ordenatuak, nire borondatearen mende ez daudenak, dira gauza errealak; irudimenak fabrikatzen dituenak, Spiderman bezala, ahulagoak dira eta nire mende daude.",
-    "biografia": "berkeley"
+    "quien": "Meinong (XX. mendea)",
+    "elige": "B",
+    "porque": "Ñabardurekin: badira existitzen ez diren objektuak, eta, hala ere, egiazko ezaugarriak dituztenak; egia da zure pertsonaia ausarta dela eta orbain bat duela. Ez existitzeak ez du ezer bihurtzen: bere izateko modua du."
    },
    {
     "quien": "Nietzsche",
     "elige": "B",
-    "porque": "Bizi dugun mundutik «mundu egiazko» bat bereizten duenaz mesfidatzen da: Idoloen ilunabarra liburuan kontatzen du nola bukatu zuen «mundu egiazko» hori alegia bihurtuta. Axola duena bizitza batean eragiten duena da, eta Spidermanek zure bizitzan egiten duena erreala da.",
+    "porque": "Ez da fidatzen «mundu egiazko» bat bizi dugun mundutik bereizten dutenez; garrantzitsua bizitza batean eragiten duena eta bizitza hori biziago egiten duena da. Pertsonaiak sentiarazten eta erabakiarazten dizuna zure errealitatearen parte da.",
     "biografia": "nietzsche"
    }
   ],
   "debate": {
-   "epoca": "Siglo IV a. C. y siglo XIII",
-   "texto": "«Izakia modu askotara esaten da, baina gauza bakar bati eta natura bakar bati begira.»",
-   "fuente": "Aristoteles, Metafisika, IV, 2, 1003a33. Mendeak geroago, Tomas Akinokoak gauza baten esentzia eta haren existentzia bereizi zituen Izakiaz eta esentziaz lanean (1252-1256 inguruan).",
+   "epoca": "Siglo IV a. C. y siglo XVIII",
+   "texto": "«“Izan” ez da, argi eta garbi, predikatu erreal bat, hau da, gauza baten kontzeptuari gehi dakiokeen zerbaiten kontzeptua.»",
+   "fuente": "Kant, Arrazoimen hutsaren kritika (1781), A 598 / B 626; han dakar ehun taleroen adibidea. Dena modu askotara esaten dela Aristotelesek esana zuen Metafisikan (IV, 2).",
    "unidad": "fil-metafisica"
   },
   "preguntas": [
-   "Zer egiten du gaur zure bizitzan hirurehun pertsona horien existentziak, Spidermanek egiten ez duena? Erantzuna «ezer ez» bada, existitzeak ez duela axola esan nahi du?",
-   "Zenbakiak, legeak edo promesak ere ezin dira ukitu. Herrixka bezala existitzen dira, Spiderman bezala ala hirugarren modu batean?",
-   "Egunen batean herrixka horretara bidaiatu eta bertakoak ezagutuko bazenitu, zer aldatuko litzateke: haiek ala zure harremana haiekin?"
+   "Zer aldatuko litzateke gaur zure bizitzan jostuna existituko ez balitz? Eta pertsonaia desagertuko balitz? Bigarren galerak min handiagoa ematen badizu, zerbait erakusten du existitzen denari buruz, ala axola zaizunari buruz bakarrik?",
+   "Egia esanez esan daiteke zure pertsonaiak orbain bat duela bekainean. Zeri buruz da egia esaldi hori, bekain hori duen inor ez badago?",
+   "Zenbakiak, joko baten arauak edo promesak ere ezin dira ukitu. Jostuna bezala existitzen dira, pertsonaia bezala, ala hirugarren modu batean?"
   ],
-  "ysi": "Eta jakingo bazenu herrixka horretan neskato bat dagoela diru gutxirekin sendatzen den gaixotasun batez hil daitekeena, eta zuk ordain zenezakeela? Spidermanek gehiago pisatuko luke oraindik? Zure erantzuna aldatzen bada, erreala ez zen axola zitzaizuna, zerbait eska diezazukeena baizik.",
-  "dato": "«Existitu» latinezko exsistere hitzetik dator: «irten, agertu, nabarmendu». Existitzen dena kanpoan dagoena da, ez buru batean bakarrik. Zerbait zer den jakitearen eta existitzen dela jakitearen arteko bereizketa Avicenak eta Tomas Akinokoak garatu zuten: ondo jakin dezakezu zer den herensuge bat, bat ere existitu gabe."
+  "ysi": "Eta etiketan haren izena, argazkia eta berak idatzitako esaldi bat etorriko balira? Harengan ez litzateke ezer aldatuko: lehendik ere existitzen zen. Zure buruan duen lekua baino ez litzateke aldatuko. Horrekin zure erantzuna aldatzen bada, agian ez zinen existitzen denaz ari, aurrean duzunaz baizik.",
+  "dato": "2013ko apirilaren 24an Rana Plaza erori zen, Dhakako kanpoaldean zegoen zortzi solairuko eraikin bat, josteko tailerrez betea: Europan saltzen ziren marketarako arropa josten zuten 1.100 pertsona baino gehiago hil ziren. Gaur egun ere Bangladesh munduko arropa-esportatzaile handienetako bat da."
  },
  {
   "subject": "fil",
