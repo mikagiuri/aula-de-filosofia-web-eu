@@ -320,7 +320,7 @@ const DILEMAS = [
    {
     "quien": "Aristoteles",
     "elige": "B",
-    "porque": "Pertsona bertutetsuak ez du formula batekin erabakitzen, izaerarekin baizik: badira gizon on batek egiten ez dituen ekintzak, eta errugabe bat bultzatzea horietako bat da, emaitza hobea izan arren.",
+    "porque": "Pertsona bertutetsuak ez du formula batekin erabakitzen, izaerarekin baizik: badira gizaki on batek egiten ez dituen ekintzak, eta errugabe bat bultzatzea horietako bat da, emaitza hobea izan arren.",
     "biografia": "aristoteles"
    },
    {

@@ -829,7 +829,7 @@ const PISTAS = [
       ],
       "comprobacion": {
        "boton": "Egiaztatuz amaitu",
-       "pregunta": "Amnesia osoa duen gizon batek ez du bere bizitzako ezer gogoratzen. Zer arazo sortzen dio horrek oroimenaren irizpideari?",
+       "pregunta": "Amnesia osoa duen gizaki batek ez du bere bizitzako ezer gogoratzen. Zer arazo sortzen dio horrek oroimenaren irizpideari?",
        "opciones": [
         [
          "Bizitza hori bizi izan zuen pertsona jada ez dela irudituko litzateke, eta hori absurdoa dirudi.",

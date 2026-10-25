@@ -950,7 +950,7 @@ const DICCIONARIO = [
   "subject": "fil",
   "t": "Ad hominem",
   "id": "g-fil-ad-hominem",
-  "et": "Latinez: «gizonaren aurka», hau da, pertsonaren aurka eta ez esaten duenaren aurka. Aristotelesek dagoeneko bereizten du πρὸς τὸν λόγον (*pròs tòn lógon*), «argudioari», erantzutea eta πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), «pertsonari», erantzutea (*Ezeztapen sofistikoak* 22), nahiz eta han solaskideari zuzentzeari buruz hitz egin, ez hari eraso egiteari buruz.",
+  "et": "Latinez: «gizakiaren aurka», hau da, pertsonaren aurka eta ez esaten duenaren aurka. Aristotelesek dagoeneko bereizten du πρὸς τὸν λόγον (*pròs tòn lógon*), «argudioari», erantzutea eta πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), «pertsonari», erantzutea (*Ezeztapen sofistikoak* 22), nahiz eta han solaskideari zuzentzeari buruz hitz egin, ez hari eraso egiteari buruz.",
   "area": "Logika",
   "tema": "Argudiatzeko tailerra",
   "def": "Argudiatzen duen pertsonari erasotzea, haren arrazoiak ezeztatu beharrean."
