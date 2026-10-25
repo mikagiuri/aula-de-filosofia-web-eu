@@ -947,6 +947,224 @@ const PISTAS = [
   }
  },
  {
+  "id": "fil-emociones",
+  "subject": "fil",
+  "tema": "2. gaia · Zer da gizakia?",
+  "unidad": "fil-t2",
+  "materia": "Filosofia 1. · Antropologia",
+  "titulo": "Zer da emozio bat?",
+  "lede": "Zarata bat gauez sukaldean, eta segundo horretan gorputzean eta buruan gertatzen dena. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Zer piezak osatzen dute emozio bat?",
+    "intro": [
+     "Kale ilun batean zoaz, eta norbait korrika hasten da zure atzean. Ezer pentsatu aurretik, pultsua bizkortu egiten zaizu. Gero ikusten duzu autobusa hartzeko bakarrik zihoala korrika. Zer gertatu zaizu zehazki?"
+    ],
+    "pistas": [
+     "Kokatzeko: ikara horretan badago <em>gorputzean</em> gertatzen den zerbait (pultsua, arnasa, muskuluak tenk) eta barrutik <em>sentitzen</em> duzun zerbait.",
+     "Baina ez da dardara hutsa: ikarak egoeraz <em>zerbait esaten du</em>. Gorputzak «hau arriskutsua da» ondorioztatu izan balu bezala da, zuk pentsatu aurretik.",
+     "Eta zerbait egitera bultzatzen zaitu: ihes egitera, geldirik geratzera, buelta ematera. Emozioek jarduteko joera bat dakarte.",
+     "<strong>Emozio</strong> batek lau pieza biltzen ditu: gorputz-aldaketa bat, bizipen bat, egoeraren <strong>balioespen</strong> bat eta jarduteko joera bat. Horregatik da gorputzaren eta gogoaren batasuna (psikosomatikoa) garela erakusten duen adibiderik onena."
+    ],
+    "comprobacion": {
+     "pregunta": "Pieza hauetako zein EZ da emozio baten parte, atalaren arabera?",
+     "opciones": [
+      [
+       "Lasai pentsatu ondoren hartutako erabaki bat.",
+       true
+      ],
+      [
+       "Gorputzeko aldaketa bat.",
+       false,
+       "Pultsua edo arnasa aldatzen dira: funtsezko pieza da."
+      ],
+      [
+       "Egoeraren balioespen bat.",
+       false,
+       "Emozioak egoera «epaitzen» du: arriskua, iraina, galera."
+      ],
+      [
+       "Jarduteko joera bat.",
+       false,
+       "Beldurrak ihes egitera edo geldirik geratzera bultzatzen du: hori ere emozioaren parte da."
+      ]
+     ],
+     "ok": "Ondo: emozioa lasai hausnartu aurretik iristen da.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Emozioa, aldartea eta sentimendua",
+      "definicion": [
+       "Haserretu egiten zara norbaitek ilaran aurrea hartzen dizulako. → <strong>Emozioa</strong>: laburra, bizia eta objektu argi batekoa.",
+       "Egun osoa daramazu umore txarrean, eta ez dakizu zergatik. → <strong>Aldartea</strong>: luzeagoa, lausoa, objektu argirik gabea.",
+       "Betidanik diozu maitasuna zure amonari. → <strong>Sentimendua</strong>: kontziente, iraunkor eta izendatu bihurtutako emozioa."
+      ],
+      "parrafos": [
+       "Antonio Damasiok honela ordenatzen du: emozioa lehenik gorputzean gertatzen da, eta sentimendua gorputzaren egoera horretaz adimenak egiten duen pertzepzioa da."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "Gaur itzalita zaude, eta ez zenuke jakingo zergatik esaten. Zer da?",
+       "opciones": [
+        [
+         "Aldarte bat.",
+         true
+        ],
+        [
+         "Emozio bat.",
+         false,
+         "Emozioak objektu argi bat du; hemen ez dakizu zergatik den."
+        ],
+        [
+         "Sentimendu bat.",
+         false,
+         "Sentimendua pentsatua eta izendatua da, eta norbaitengana edo zerbaitengana zuzendu ohi da."
+        ],
+        [
+         "Judizio moral bat.",
+         false,
+         "Ez zaude epaitzen zerbait ondo ala gaizki dagoen."
+        ]
+       ],
+       "ok": "Zuzen: lausoa eta objektu argirik gabea.",
+       "mal": "Begiratu berriro adibideei.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Zer da emozio bat",
+      "definicion": [
+       "<strong>Emozioa</strong> erantzun labur bat da, gorputz-aldaketa bat, bizipen bat, egoeraren balioespen bat eta jarduteko joera bat batzen dituena.",
+       "Darwinek (1872) emozio askotan bizirauten lagundu zuten erantzun heredatuak ikusi zituen, eta, gainera, besteei zer gertatzen zaigun <strong>jakinarazten</strong> dietenak.",
+       "<strong>Aldartetik</strong> (lausoa eta iraunkorra) eta <strong>sentimendutik</strong> (emozio kontziente eta luzea) bereizten da."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Darwinen arabera, zertarako balio dute emozio askok?",
+       "opciones": [
+        [
+         "Bizirauteko eta besteei zer gertatzen zaigun jakinarazteko.",
+         true
+        ],
+        [
+         "Ezertarako: funtziorik gabeko hondarrak dira.",
+         false,
+         "Darwinek funtzio argia ikusi zien biziraupenean."
+        ],
+        [
+         "Artea egiteko bakarrik.",
+         false,
+         "Arteak adierazi egiten ditu, baina haien jatorria askoz zaharragoa da."
+        ],
+        [
+         "Beste animaliak engainatzeko bakarrik.",
+         false,
+         "Alderantziz, hobeto esanda: nazka-aurpegi batek zintzotasunez ohartarazten dio taldeari."
+        ]
+       ],
+       "ok": "Zuzen: biziraupena eta komunikazioa.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Emozioak gorputzaren erreakzioak dira ala judizioak? Eta hezi egin al daitezke?",
+    "intro": [
+     "Badakizu hegazkina autoa baino seguruagoa dela, eta, hala ere, urdaila uzkurtzen zaizu aireratzean. Nork agintzen du hor: zure gorputzak ala zure buruak?"
+    ],
+    "pistas": [
+     "Kokatzeko: William Jamesek (1884) ohiko ordenari buelta eman zion: ez gara dardarka hasten beldur garelako; beldur gara dardarka gaudela ohartzen garelako. Emozioa gorputzaren aldaketen pertzepzioa litzateke.",
+     "Walter Cannonek eragotzi zion ia berdinak diren gorputz-aldaketak emozio desberdinekin batera agertzen direla, beldurrarekin eta haserrearekin, adibidez: gorputza bakarrik ez da nahikoa zer sentitzen dugun jakiteko.",
+     "Beste tradizioak, estoikoengandik datorrenak eta gaur Martha Nussbaumek defendatzen duenak, <em>judizio</em> bat ikusten du emozioan: norbaitengatik pena sentitzea pertsona hori zure bizitzarentzat garrantzitsua zela epaitzea da. Hala bada, emozio batek asma dezake edo huts egin dezake.",
+     "Eta huts egin dezakeena <strong>zuzendu</strong> egin daiteke. Aristotelesek jada uste zuen beldurra edo haserrea behar denean eta neurri egokian sentitzen ikasten dela. Hegazkinaren beldurrak muga erakusten du: badira lasai egiten dugun judizioa baino azkarragoak diren balioespenak."
+    ],
+    "comprobacion": {
+     "pregunta": "Emozio batek judizio bat badu, zer ondorioztatzen da?",
+     "opciones": [
+      [
+       "Zuzena edo okerra izan daitekeela, eta, beraz, zuzendu eta hezi egin daitekeela.",
+       true
+      ],
+      [
+       "Inoiz ez duela huts egiten, bakoitzak sentitzen duena sentitzen duelako.",
+       false,
+       "Judizio bat badu, huts egin dezake, edozein judiziok huts egiten duen bezala."
+      ],
+      [
+       "Gorputzak ez duela ezertan parte hartzen.",
+       false,
+       "Judizioaren teoriek ez dute gorputza ukatzen; gakoa balioespena dela diote."
+      ],
+      [
+       "Asko pentsatzen duten pertsonek bakarrik dutela.",
+       false,
+       "Denok balioesten dugu gertatzen zaiguna, une batean bada ere."
+      ]
+     ],
+     "ok": "Hain zuzen: epaitzen badu, hobeto epaitzen ikas dezake.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Bi teoria-familia",
+      "titulo": "Gorputza, judizioa eta hezkuntza",
+      "definicion": [
+       "<strong>Teoria fisiologikoak</strong> (James): emozioa gorputzaren aldaketen pertzepzioa da. Cannonen eragozpena: gorputz antzekoak, emozio desberdinak.",
+       "<strong>Judizioaren teoriak</strong> (estoikoak, Nussbaum): emozioa axola zaigunaren balioespen bat da. Eragozpena: badira dakigunari eusten dioten emozioak.",
+       "Jaiotzetikoak ala eraikiak? Paul Ekmanek kultura askotan ezagutzen ziren aurpegiak aurkitu zituen (poza, tristura, beldurra, haserrea, nazka, ustekabea); Lisa Feldman Barrettek dio garunak emozio bakoitza ikasitako kontzeptuekin eraikitzen duela."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer eragotzi zion Walter Cannonek William Jamesi?",
+       "opciones": [
+        [
+         "Emozio desberdinak, beldurra eta haserrea adibidez, oso antzekoak diren gorputz-aldaketekin batera doazela.",
+         true
+        ],
+        [
+         "Emozioek ez dutela zerikusirik gorputzarekin.",
+         false,
+         "Cannonek ez zuen gorputza ukatzen; emozioak bereizteko nahikoa ez dela zioen."
+        ],
+        [
+         "Animaliek bakarrik dituztela emozioak.",
+         false,
+         "Eztabaida giza emozioei buruzkoa zen."
+        ],
+        [
+         "Emozio guztiak ikasiak direla.",
+         false,
+         "Hori Barretten jarrera da, hobeto esanda, mende bat geroago."
+        ]
+       ],
+       "ok": "Zuzen: gorputza bakarrik ez da nahikoa.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu zer den emozio bat",
+   "parrafos": [
+    "Emozio batek gorputza, bizipena, balioespena eta jarduteko joera batzen ditu. Jamesek gorputzean jartzen du; estoikoek eta Nussbaumek, judizio batean. Judizio bat badu, hezi egin daiteke, Aristotelesek uste zuen bezala.",
+    "2. gaiko <a href=\"#teoria/fil-t2/4\">«Gorputza eta gogoa»</a> atalean duzu garatuta, «Emozioak: balioesten duen gorputza» azpiatalean. Jarraitzeko: «Natura ala kultura gara?»."
+   ],
+   "siguiente": "fil-naturaleza-cultura"
+  }
+ },
+ {
   "id": "fil-naturaleza-cultura",
   "subject": "fil",
   "tema": "2. gaia · Zer da gizakia?",
@@ -1153,13 +1371,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Nola antola dezake Estatu batek kulturen arteko elkarbizitza?",
+    "intro": [
+     "Zure institutuan jatorri askotako ikasleak daude. Zerk izan behar du berdina guztientzat, eta zer alda daiteke familia bakoitzaren arabera: jaien egutegia, jantokiko menua, arropa, eskoletako hizkuntza?"
+    ],
+    "pistas": [
+     "Kokatzeko: desberdina denaren aurreko jarrerak pertsonalak dira, baina herrialde batean hizkuntza, erlijio eta ohitura desberdinetako komunitateak bizi direnean, <em>Estatuak</em> ere erabaki behar du: zein hizkuntzatan irakasten den, zein jai diren lanegun, nork erabakitzen duen menua.",
+     "Erantzunak bost eredutan multzokatzen dira, gutxiengoei zer eskatzen dieten kontuan hartuta: <em>segregazioa</em> (bereizita bizitzea, apartheidean bezala), <em>asimilazioa</em> (jatorriko kultura atzean uztea) eta <em>integrazioa</em> (arau publiko komunak eta, eremu pribatuan, norberaren kultura).",
+     "Beste biak: <em>kulturaniztasuna</em> (Estatuak taldeak aitortzen ditu eta eskubide berezi batzuk ematen dizkie, Kanadak 1971tik egin zuen bezala) eta <em>pluraltasun kulturartekoa</em> (elkarrizketa bat, non kultura guztiak, gehiengoarena ere bai, aldatzen diren elkarrekin bizitzean).",
+     "Eztabaidagarriena <strong>kulturaniztasuna</strong> da. Will Kymlickak defendatzen du, gutxiengo nazionalak eta talde etorkinak bereiziz; Brian Barryk erantzuten du legeak berbera izan behar duela guztientzat; Susan Moller Okinek galdetu zuen talde bat babesteak haren barruko emakumeak zapaltzen dituzten ohiturak babes ditzakeen. Eztabaida irekita dago."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer eskatzen die gutxiengoei integrazioaren ereduak?",
+     "opciones": [
+      [
+       "Arau publiko komun batzuk onartzea, eremu pribatuan norberaren kultura gordez.",
+       true
+      ],
+      [
+       "Jatorriko kultura erabat atzean uztea.",
+       false,
+       "Hori asimilazioa da."
+      ],
+      [
+       "Bereizita bizitzea, eskola eta eskubide desberdinekin.",
+       false,
+       "Hori segregazioa da."
+      ],
+      [
+       "Ezer ez: Estatuak talde gisa eskubide bereziak ematen dizkie.",
+       false,
+       "Hori kulturaniztasunetik hurbilago dago."
+      ]
+     ],
+     "ok": "Ondo: komuna eremu publikoan, norberarena eremu pribatuan.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Bost eredu",
+      "titulo": "Elkarbizitzaren ereduak",
+      "definicion": [
+       "<strong>Segregazioa</strong>: bereizita bizitzea. <strong>Asimilazioa</strong>: gehiengoaren kultura hartzea. <strong>Integrazioa</strong>: arau publiko komunak eta norberaren kultura eremu pribatuan.",
+       "<strong>Kulturaniztasuna</strong>: taldeen aitorpena eta eskubideak. <strong>Pluraltasun kulturartekoa</strong>: kultura guztiak aldatzen diren elkarrizketa.",
+       "Kulturaniztasunaren alde: Kymlicka eta Charles Taylor (aitorpena ukatzeak ere kalte egiten du). Aurka: Barry (lege bera guztientzat) eta Okinen galdera, talde bakoitzaren barruko emakumeei buruzkoa."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer bereizten du Will Kymlickak eskubide desberdinak defendatzeko?",
+       "opciones": [
+        [
+         "Gutxiengo nazionalak, lurralde batean bizi zirenak jada, eta talde etorkinak.",
+         true
+        ],
+        [
+         "Aberatsak eta pobreak.",
+         false,
+         "Haren bereizketa ez da ekonomikoa, gutxiengo moten artekoa baizik."
+        ],
+        [
+         "Kultura onak eta txarrak.",
+         false,
+         "Kymlickak ez ditu kulturak beren balioaren arabera sailkatzen."
+        ],
+        [
+         "Gazteak eta adinekoak.",
+         false,
+         "Ez du adinez hitz egiten."
+        ]
+       ],
+       "ok": "Zuzen: bi gutxiengo mota, eskubide desberdinak.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu zer den natura eta zer den kultura",
    "parrafos": [
     "Naturak gaitasunak ematen dizkigu eta kulturak garatzen ditu: besteekiko harremanik gabe, Aveyrongo Victorri gertatu zitzaion bezala, gaitasun horiek ez dira gauzatzera iristen.",
-    "Eta senak bizimodu bakar bat finkatzen ez digunez, egiten goaz: Picok duintasuna deitu zion, eta Ortegak, historia. Jarraitzeko: «Askeak gara ala dena dago determinatuta?»."
+    "Eta senak bizimodu bakar bat finkatzen ez digunez, egiten goaz: Picok duintasuna deitu zion, eta Ortegak, historia. Jarraitzeko: «Askeak gara ala dena dago determinatuta?».",
+    "Elkarbizitzaren bost ereduak 2. gaiko <a href=\"#teoria/fil-t2/3\">«Kultura, identitatea eta aniztasuna»</a> atalean dituzu."
    ],
    "siguiente": "fil-libertad"
   }
@@ -1586,15 +1884,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Fida gaitezke hautematen eta gogoratzen dugunaz?",
+    "intro": [
+     "Lau urte zenituenekoaren oroitzapen oso bizi bat duzu. Zuk gogoratzen duzu, ala kontatu dizutena eta ikusi dituzun argazkiak gogoratzen dituzu?"
+    ],
+    "pistas": [
+     "Kokatzeko: pertzepzioa ez da grabatzen duen kamera bat, iragazki bat baizik. 1999ko esperimentu batean, bideo batean paseak zenbatzen ari zirenen erdiek ez zuten ikusi pista zeharkatzen zuen gorilaz mozorrotutako norbait: begiratzea ez da ikustea.",
+     "Gainera, garunak osatu egiten du jasotzen duena: Müller-Lyerren ilusioan, bi lerro berdin desberdinak iruditzen zaizkigu, neurtu ondoren ere. Eta zenbait nolakotasun, kolorea adibidez, neurri batean gure ikusmen-sistemak jartzen ditu.",
+     "Oroimena ere ez da artxibo bat: <em>berreraiki</em> egiten du. Elizabeth Loftusek erakutsi zuen galderako hitz batek («talka egin zuten» eta ez «elkar ukitu zuten») aldatu egiten duela istripu batetik gogoratzen dena, eta haurtzaroko gertaera faltsu bat «gogoratzera» ere irits daitekeela.",
+     "Horrek ez du esan nahi ezer ez dugula ezagutzen: zentzumenek eta oroimenak ondo funtzionatzen dute egunero. Ondorioa <strong>errealismo kritikoak</strong> defendatzen duena da: errealitatera dugun sarbidea partziala eta zuzengarria da, eta <strong>kanpoko egiaztapena</strong> behar da (beste lekuko batzuk, dokumentuak, tresnak). Oso ziurra den oroitzapen bat ez da horregatik oroitzapen zehatza."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer erakusten dute Elizabeth Loftusen esperimentuek oroimenari buruz?",
+     "opciones": [
+      [
+       "Oroimenak berreraiki egiten duela: oroitzapen bat aldatu egin daiteke geroago entzuten dugunarekin, eta txertatu ere egin daiteke.",
+       true
+      ],
+      [
+       "Oroimenak gertaerak gertatu ziren bezala gordetzen dituela.",
+       false,
+       "Hori da, hain zuzen, haren esperimentuek zalantzan jartzen dutena."
+      ],
+      [
+       "Haurrek bakarrik dituztela oroitzapen faltsuak.",
+       false,
+       "Haren parte-hartzaileak helduak ziren."
+      ],
+      [
+       "Iraganaz ezer ezin dugula inoiz ezagutu.",
+       false,
+       "Oroitzapenak egiaztatzeko eskatzen dute, ez haiei uko egiteko."
+      ]
+     ],
+     "ok": "Hain zuzen: gogoratzea berregitea da.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Iturri hutsegileak",
+      "titulo": "Pertzepzioa eta oroimena",
+      "definicion": [
+       "<strong>Pertzepzioa</strong>: arreta selektiboa (gorila ikusezina), garunak osatu egiten du (Müller-Lyer), subjektuak jartzen dituen nolakotasunak (kolorea).",
+       "<strong>Oroimen berreraikitzailea</strong>: Bartlett (1932) eta Loftus; oroitzapenak eskemekin eta geroago entzuten dugunarekin berregiten dira.",
+       "<strong>Errealismo kritikoa</strong>: ezagutzen dugu, baina modu partzialean eta zuzengarrian; lekuko baten segurtasunak ez du bermatzen gogoratzen duenaren zehaztasuna."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer proposatzen du errealismo kritikoak hutsegite horien aurrean?",
+       "opciones": [
+        [
+         "Modu partzialean eta zuzengarrian ezagutzen dugula, eta kanpoko egiaztapena behar dela.",
+         true
+        ],
+        [
+         "Ezin dugula ezer ezagutu, inola ere.",
+         false,
+         "Hori eszeptizismo erradikala litzateke; errealismo kritikoa ez da horraino iristen."
+        ],
+        [
+         "Nahikoa dela gogoratzen denaz oso ziur egotea.",
+         false,
+         "Segurtasunak ez du zehaztasuna bermatzen."
+        ],
+        [
+         "Gehiengoak esaten duenak bakarrik balio duela.",
+         false,
+         "Lekuko, dokumentu eta tresnekin egiaztatzea eskatzen du, ez bozkatzea."
+        ]
+       ],
+       "ok": "Zuzen: zuzengarria eta egiaztagarria.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu zer den jakitea",
    "parrafos": [
     "Definizio klasikoaren arabera, Platonengandik datorrenaren arabera, jakitea sinesmen egiazko eta justifikatu bat izatea da: zerbait sinestea, egia izatea eta arrazoi onak izatea.",
-    "Gettierrek erakutsi zuen hori guztia bete eta zortez asma daitekeela, erloju geldiarekin bezala. Jarraitzeko: «Zerk egiten du zientifiko teoria bat?»."
+    "Gettierrek erakutsi zuen hori guztia bete eta zortez asma daitekeela, erloju geldiarekin bezala. Jarraitzeko: «Zerk egiten du zientifiko teoria bat?».",
+    "Pertzepzioa eta oroimena iturri hutsegile gisa 3. gaiko <a href=\"#teoria/fil-t3/1\">«Zer ezagut dezakegu? Giza ezagutza»</a> atalean dituzu."
    ],
    "siguiente": "fil-ciencia"
+  }
+ },
+ {
+  "id": "fil-posverdad",
+  "subject": "fil",
+  "tema": "3. gaia · Zer ezagut dezakegu?",
+  "unidad": "fil-t3",
+  "materia": "Filosofia 1. · Ezagutzaren teoria",
+  "titulo": "Zergatik sinesten ditugu gauza faltsuak informazioaren aroan?",
+  "lede": "Gertaera alternatiboak, bakoitzaren taldea, diruagatik engainatzen duena eta oihartzun-ganbera baten eta iragazki-burbuila baten arteko aldea. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Zer du arraroa «gertaera alternatiboez» hitz egiteak?",
+    "intro": [
+     "Bi pertsona eztabaidan ari dira kontzertu batera zenbat jende joan zen. Batak «hamar mila» dio; besteak, «hiru mila». Azkenean, lehenengoak honela amaitzen du: «Tira, nik nire gertaerak ditut eta zuk zureak». Eztabaidan jarraitu daiteke?"
+    ],
+    "pistas": [
+     "Kokatzeko: <em>gertaera</em> bat gertatu zena da; <em>interpretazio</em> bat, gertatutakoaz pentsatzen duguna. Gertaera beraren interpretazio desberdinak egon daitezke.",
+     "Hiru mila pertsona joan baziren, eztabaida daiteke arrakasta ala porrota izan zen. Ezin dena da aldi berean hiru mila eta hamar mila joan izana.",
+     "Horregatik, «gertaera alternatiboak», Etxe Zuriko aholkulari batek 2017an zifra faltsu bat defendatzeko erabili zuen adierazpena, ia oximoron bat da, terminoetan kontraesan bat.",
+     "Talde bakoitzak «bere» gertaerak baditu, desadostasunerako <strong>oinarri komuna</strong> galtzen da: jada ez da eztabaidatzen gertatu zenak zer esan nahi duen, zer gertatu zen baizik. Horri deitzen zaio <strong>posegia</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "Zergatik egiten dute ezinezko eztabaida «gertaera alternatiboek»?",
+     "opciones": [
+      [
+       "Desadostasunerako oinarri den gertaeren oinarri komuna desagertzen delako.",
+       true
+      ],
+      [
+       "Inork ez duelako gertaerak interpretatzeko eskubiderik.",
+       false,
+       "Interpretatzea zilegi da: ezin direnak gertaera bateraezinak dira."
+      ],
+      [
+       "Gertaerak beti aspergarriak direlako.",
+       false,
+       "Arazoa ez da interesa, baizik eta partekatutako gertaerarik gabe ez dagoela eztabaidarik."
+      ],
+      [
+       "Zifra guztiak faltsuak direlako.",
+       false,
+       "Badira egiazta daitezkeen zifrak: hain zuzen, hori da galtzen dena."
+      ]
+     ],
+     "ok": "Ondo: gertaera komunik gabe ez dago arrazoizko desadostasunik.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Zergatik nahiago dugun bertsio bat",
+      "definicion": [
+       "<strong>Gehiegizko informazioa</strong>: egunean hainbeste titular, ez dagoela ezer egiaztatzeko astirik; Herbert Simonek (1971) ohartarazi zuen informazio ugariak arreta urria sortzen duela.",
+       "<strong>Talde-identitatea</strong>: 1954an, bi unibertsitatetako zaleek partida zakar bera ikusi zuten, eta talde bakoitzak arerioaren falta askoz gehiago «ikusi» zituen.",
+       "<strong>Arrazoibide motibatua</strong>: zer ondorio nahi duen badakien abokatu batek bezala arrazoitzen dugu, ez epaile inpartzial batek bezala."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "Zer erakusten du 1954ko partidaren esperimentuak?",
+       "opciones": [
+        [
+         "Talde batekoa izateak eragina duela ikusi dugula uste dugunean.",
+         true
+        ],
+        [
+         "Futbol amerikarra oso bortitza dela.",
+         false,
+         "Partida zakarra zen, baina interesgarria da zale-talde bakoitzak nola ikusi zuen."
+        ],
+        [
+         "Epaileek beti huts egiten dutela.",
+         false,
+         "Azterlanak ez zuen epailea ebaluatzen, ikusleak baizik."
+        ],
+        [
+         "Unibertsitate bateko jendeak beste batekoak baino gezur gehiago esaten duela.",
+         false,
+         "Bi taldeei berdin gertatu zitzaien."
+        ]
+       ],
+       "ok": "Zuzen: bakoitzaren taldeak kolorea ematen dio ikusten duenari.",
+       "mal": "Begiratu berriro adibideei.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Postegia",
+      "definicion": [
+       "<strong>Posegia</strong>: iritzia osatzerakoan gertaerek emozioek eta aurretiko sinesmenek baino pisu txikiagoa duten egoera. Hitzaren erabilera 2016an ugaldu zen.",
+       "<strong>Gertaera</strong> bat gertatu zena da; <strong>interpretazio</strong> bat, horretaz pentsatzen duguna. Interpretazio alternatiboak egon daitezke, ez gertaera alternatiboak.",
+       "Gehiegizko informazioak eragiten duen nekeaz gain, <strong>talde-identitateak</strong> ere eragina du: sinesmenez aldatzea geureei traizio egitea bezala senti daiteke."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "2019ko metaanalisi zabal baten arabera, non gertatzen da arrazoibide motibatua?",
+       "opciones": [
+        [
+         "Antzeko mailan ezkerrean eta eskuinean.",
+         true
+        ],
+        [
+         "Ezkerrean bakarrik.",
+         false,
+         "Azterlanak antzeko mailan aurkitu zuen bietan."
+        ],
+        [
+         "Eskuinean bakarrik.",
+         false,
+         "Azterlanak antzeko mailan aurkitu zuen bietan."
+        ],
+        [
+         "Ikasketa gutxiko pertsonengan bakarrik.",
+         false,
+         "Ez da ikasketen kontua: adimenaren joera orokor bat da."
+        ]
+       ],
+       "ok": "Zuzen: ez da ideologia bakar baten kontua.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Nork engainatzen du, zertarako, eta nola ixten gara lehendik pentsatzen dugunean?",
+    "intro": [
+     "2016an, Balkanetako hiri txiki bateko mutil batzuk Estatu Batuetako hauteskundeei buruzko albisteak asmatzen aritzen ziren. Berdin zitzaien nork irabazi. Zergatik egiten zuten?"
+    ],
+    "pistas": [
+     "Kokatzeko: <em>boterearengatik</em> engainatzen da (botoak, arerio bat hondoratzea, akats bat estaltzea) eta <em>diruagatik</em>: mutil haiei klik bakoitzak publizitate-diru sarrerak ematen zizkien.",
+     "Harry Frankfurtek gezurtia eta txarlatana bereizi zituen: gezurtiak oraindik kontuan hartzen du egia, ezkutatzeko bada ere; txarlatanari berdin zaio egia, komeni zaiona esaten du. Horregatik iruditzen zitzaion gezurra baino etsai okerragoa egiarentzat.",
+     "Gero, nola ixten garen. <em>Oihartzun-ganbera</em> guk eraikitzen dugu: nori jarraitu eta nori isilarazi aukeratzen dugu, gurea bezalako ahotsak bakarrik entzun arte.",
+     "<strong>Iragazki-burbuila</strong>, ordea, jarri egiten digute: lehenago sakatutakoaren arabera ikusten duguna pertsonalizatzen duten algoritmoen ondorioa da. Ez dugu aukeratzen, eta ez dugu ikusten zer uzten duen kanpoan. Batetik desberdin pentsatzen duenari entzunez irteten da; bestetik, iturriak aldatuz."
+    ],
+    "comprobacion": {
+     "pregunta": "Zerk bereizten du oihartzun-ganbera bat iragazki-burbuila batetik?",
+     "opciones": [
+      [
+       "Oihartzun-ganbera guk eraikitzen dugu; burbuila algoritmo batek sortzen du, guk ikusi gabe.",
+       true
+      ],
+      [
+       "Gauza bera dira, bi izenekin.",
+       false,
+       "Ondorioan antzekoak dira, baina ez nork eraikitzen dituen."
+      ],
+      [
+       "Burbuila guk eraikitzen dugu; oihartzun-ganbera algoritmo batek sortzen du.",
+       false,
+       "Alderantziz da."
+      ],
+      [
+       "Oihartzun-ganbera internetetik kanpo bakarrik dago.",
+       false,
+       "Mezularitza-talde batean edo sare sozial batean gerta daiteke."
+      ]
+     ],
+     "ok": "Hain zuzen: bata aukeratu egiten da, bestea jarri egiten digute.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Engainua eta itxialdia",
+      "titulo": "Txarlatana, ganbera eta burbuila",
+      "definicion": [
+       "Harry Frankfurt (<em>On Bullshit</em>, 1986): <strong>txarlatana</strong> egiarekiko axolagabea da, eta horregatik da gezurtia baino arriskutsuagoa.",
+       "Hannah Arendt («Egia eta politika», 1967): gezur sistematikoak ez du hainbeste faltsua sinestea eragiten, ezer ez sinestea baizik.",
+       "<strong>Oihartzun-ganbera</strong> (C. Thi Nguyen): guk baztertu eta desprestigiatzen ditugu beste ahotsak. <strong>Iragazki-burbuila</strong> (Eli Pariser, 2011): algoritmoak eragiten du ez iristea. Badira diagnostikoari ñabardurak egiten dizkiotenak (Hugo Mercier): uste baino sinesbera gutxiago gara."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Frankfurten arabera, zergatik da txarlatana gezurtia baino okerragoa?",
+       "opciones": [
+        [
+         "Txarlatanari axolagabe zaiolako egia; gezurtiak, behintzat, kontuan hartzen du, ezkutatzeko.",
+         true
+        ],
+        [
+         "Txarlatanak beti gauza faltsuak esaten dituelako.",
+         false,
+         "Gauza egiazkoak esan ditzake: berdin zaio egiazkoak izan ala ez."
+        ],
+        [
+         "Txarlatanak ozenago hitz egiten duelako.",
+         false,
+         "Ez da bolumen kontua, egiarekin duen harremanarena baizik."
+        ],
+        [
+         "Gezurtiak inoiz kalterik egiten ez duelako.",
+         false,
+         "Gezurrak kalte egiten du; Frankfurtek dio axolagabekeriak kalte handiagoa egiten duela."
+        ]
+       ],
+       "ok": "Zuzen: egiarekiko axolagabekeria.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu nola dabilen posegia",
+   "parrafos": [
+    "Interpretazio alternatiboak egon daitezke, ez gertaera alternatiboak. Faltsua sinesten dugu nekeagatik, garen taldeagatik eta abokatuek bezala arrazoitzen dugulako; boterea edo dirua bilatzen duenak engainatzen du, eta txarlatanak ez dio egiari begiratu ere egiten.",
+    "3. gaiko <a href=\"#teoria/fil-t3/5\">«Posegia eta fake newsak»</a> atalean duzu. Jarraitzeko: «Fida gaitezke hautematen eta gogoratzen dugunaz?», «Zer da zerbait jakitea, eta ez bakarrik sinestea?» Pistan."
+   ]
   }
  },
  {
@@ -1808,6 +2400,221 @@ const PISTAS = [
    "parrafos": [
     "Indukzioak ezin du lege orokor bat guztiz frogatu, baina kontrako kasu bakar bat aski da hura ezeztatzeko. Popperrek asimetria hori bihurtu zuen bere irizpide: zientifikoa da teoria ezeztagarria, huts egiteko arriskua hartzen duena.",
     "Zientziak aurrera egiten du proban jartzen diren hipotesien bidez, Semmelweisek egin zuen bezala. Jarraitzeko: «Metodo hipotetiko-deduktiboa: Semmelweisen kasua» esplorazioa."
+   ]
+  }
+ },
+ {
+  "id": "fil-mujer-ciencia",
+  "subject": "fil",
+  "tema": "3. gaia · Zer ezagut dezakegu?",
+  "unidad": "fil-t3",
+  "materia": "Filosofia 1. · Ezagutzaren teoria",
+  "titulo": "Zergatik daude emakume gutxi zientziaren historian?",
+  "lede": "Data jakineko oztopoak, beste batzuek eraman zituzten merezimenduak eta datu baten eta azalpen baten arteko aldea. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Ezer frogatzen al du zientziaren historiako liburuetan emakume gutxi egoteak?",
+    "intro": [
+     "Begiratu zientziaren historiako liburu bat, eta zenbatu emakumeen izenak. Gutxi aterako dira. Norbaitek ondorioztatzen du: «Okerrago moldatuko ziren». Ondorio ona al da?"
+    ],
+    "pistas": [
+     "Kokatzeko: kausa gaitasunean bilatu aurretik, galdetu behar da nork <em>zezakeen</em> ikasi, ikertu eta argitaratu garai bakoitzean.",
+     "<em>Oztopo formalak</em> egon ziren, lege batean edo estatutu batzuetan idatziak, data daitezkeenak: Espainian, 1910eko martxoaren 8ko Errege Agindua arte, emakume baten unibertsitateko matrikula bakoitza goi-agintariei kontsultatu behar zitzaien.",
+     "Eta <em>oztopo informalak</em> egon ziren, inongo paperetan ez daudenak: finantziaziorik, lanposturik edo zu hartuko zaituen talderik eza, emakumeari «dagokionari» buruzko aurreiritziak. Horiek datuekin neurtu behar dira.",
+     "Beraz, «liburuetan emakume gutxi» egoteak ez du esan nahi «gaitasun gutxiago»: <strong>oztopoak</strong> zeudela esan nahi du. Batzuek gaur ere badiraute: 2022ko abenduaz geroztik, Afganistanen debekatuta dute emakumeek unibertsitatean ikastea."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer da oztopo formal bat?",
+     "opciones": [
+      [
+       "Arau batean idatzitako debeku edo muga bat, data daitekeena.",
+       true
+      ],
+      [
+       "Inork ozenki esaten ez duen aurreiritzi bat.",
+       false,
+       "Hori oztopo informala litzateke: ez dago idatzita."
+      ],
+      [
+       "Emakumeek zientziarekiko duten interes falta.",
+       false,
+       "Hori ez da oztopo bat, eta gainera, hain zuzen, frogatu beharko litzatekeena da."
+      ],
+      [
+       "Laborategiko jantzi-arau bat.",
+       false,
+       "Oztopo formal batek sarbidea eragozten edo mugatzen du: ikastea, ikertzea, akademia batean sartzea."
+      ]
+     ],
+     "ok": "Ondo: idatzia eta data jakinekoa.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Data jakineko oztopoak",
+      "definicion": [
+       "1872: María Elena Maseras Medikuntzan matrikulatzen da Bartzelonan, berariazko baimen batekin, Espainiako unibertsitate batean lehena.",
+       "1911: Parisko Académie des sciences erakundeak Marie Curie baztertzen du, Nobel saria jasoa zuen arren.",
+       "1945: Royal Society-k bere lehen bi emakumezko kideak onartzen ditu; 1988: Margarita Salas, Zientzia Zehatz, Fisiko eta Naturalen Errege Akademiako lehen emakumea.",
+       "1926: Felisa Martín Bravo donostiarra, Espainian Fisikan doktore izan zen lehen emakumea."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "Zer gertatu zitzaion Marie Curieri 1911n Académie des sciences erakundearekin?",
+       "opciones": [
+        [
+         "Baztertu egin zuten, Nobel saria jasoa zuen arren.",
+         true
+        ],
+        [
+         "Lehendakari izendatu zuten.",
+         false,
+         "Alderantziz izan zen: baztertu egin zuten."
+        ],
+        [
+         "Bere lehen Nobel saria eman zioten.",
+         false,
+         "Nobel saria bazuen jada; Académie-k baztertu egin zuen."
+        ],
+        [
+         "Onartutako lehen emakumea izan zen.",
+         false,
+         "Hautatutako lehena askoz geroago iritsi zen, 1962an."
+        ]
+       ],
+       "ok": "Zuzen: ezta Nobel sari batekin ere.",
+       "mal": "Begiratu berriro datak.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Matilda efektua",
+      "definicion": [
+       "Robert K. Mertonek <strong>Mateo efektua</strong> (1968) deitu zion meritua dagoeneko ospetsua denari emateari, lana partekatua izan arren.",
+       "Margaret W. Rossiterrek erakutsi zuen (1993) banaketa bidegabe horrek batez ere emakumeei egiten diela kalte, eta <strong>Matilda efektua</strong> deitu zion, Matilda Joslyn Gage sufragistagatik.",
+       "Asko aipatzen diren kasuak: Nettie Stevens eta sexu-kromosomak; Lise Meitner eta fisio nuklearra; Rosalind Franklin eta DNAren «51. argazkia»; Jocelyn Bell eta lehen pulsarra."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Zer deskribatzen du Matilda efektuak?",
+       "opciones": [
+        [
+         "Emakumeen ekarpenei ez zaiela kasurik egiten edo gizonezko lankideei egozten zaizkiela.",
+         true
+        ],
+        [
+         "Emakumeek merezi dituztenak baino sari gehiago jasotzen dituztela.",
+         false,
+         "Hain zuzen, kontrakoa da."
+        ],
+        [
+         "Zientzialari ospetsuek gutxiago lan egiten dutela.",
+         false,
+         "Efektuak meritua nola banatzen den aztertzen du, ez zenbat lan egiten den."
+        ],
+        [
+         "Emakumeek nahiago dutela ez argitaratu.",
+         false,
+         "Argitaratutakoa nola aitortzen den aztertzen du, ez lehentasunak."
+        ]
+       ],
+       "ok": "Zuzen: beste bati doan meritua.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Nola igaro datu batetik azalpen batera tranparik egin gabe?",
+    "intro": [
+     "Euskadin, 2024an, emakumeak Administrazio publikoko I+Gko langileen % 58,7 ziren, eta enpresetako langileen % 31,2. Zergatik?"
+    ],
+    "pistas": [
+     "Kokatzeko: <em>datu</em> batek zer gertatzen den esaten du; <em>azalpen</em> batek, zergatik. Datu bera hainbat azalpenekin etor daiteke bat.",
+     "Hemen hiru, gutxienez: enpresa horiek batez ere ingeniaritzan aritzea, emakume gutxik lortzen duten tituluan; estereotipoek neskei txikitatik gogoa kentzea; edo emakumeak okerrago kontratatzea. Bakoitzak datu desberdinak behar ditu egiaztatzeko.",
+     "Kontuz jauzi errazarekin: bi gauza elkarrekin joateak (<em>korrelazio</em> batek) ez du frogatzen batak bestea eragiten duenik. Kausaz hitz egiteko gehiago behar da: onena, gauza bakar bat aldatzen den esperimentu bat.",
+     "Hori egin zuten Corinne Moss-Racusinek eta bere taldeak (2012): curriculum <strong>bera</strong> bidali zuten, batzuetan «John» izenarekin eta besteetan «Jennifer» izenarekin. «John» gaitasun handiagokotzat jo zuten eta soldata handiagoa eskaini zioten. Gainerako guztia berdina zenez, hemen bai, kausaz hitz egin daiteke: inork nahi gabe diskriminatzen duen <strong>alborapen</strong> bat."
+    ],
+    "comprobacion": {
+     "pregunta": "Zergatik ematen du «John» eta «Jennifer» esperimentuak kausaz hitz egiteko aukera?",
+     "opciones": [
+      [
+       "Curriculumak berdin-berdinak zirelako, eta izena bakarrik aldatzen zelako.",
+       true
+      ],
+      [
+       "Unibertsitate askok parte hartu zutelako.",
+       false,
+       "Kopuruak laguntzen du, baina gakoa da gauza bakar bat aldatzen zela."
+      ],
+      [
+       "Aldizkari ospetsu batek argitaratu zuelako.",
+       false,
+       "Aldizkariak ez du kausa ematen: esperimentuaren diseinuak ematen du."
+      ],
+      [
+       "Gizonek bakarrik ebaluatzen zutelako.",
+       false,
+       "Irakasle gizonek eta emakumeek ebaluatzen zuten, eta bi taldeek berdin jokatu zuten."
+      ]
+     ],
+     "ok": "Hain zuzen: alde bakarra, izenarena.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Datuak eta kausak",
+      "titulo": "Datua, azalpena, alborapena eta diskriminazioa",
+      "definicion": [
+       "<strong>Datu</strong> batek deskribatu egiten du; <strong>azalpen</strong> batek zergatik esaten du. <strong>Korrelazio</strong> batek (elkarrekin doazen bi gauza) ez du kausa bat frogatzen.",
+       "<strong>Alborapena</strong> joera bat da, askotan inkontzientea, judizio bat alde batera makurtzen duena; <strong>diskriminazioa</strong> tratu desberdin eta bidegabea da. Alborapen batek nahi gabe diskrimina dezake, eta hori egiazta daiteke.",
+       "Eta Matilda efektuak joera bat deskribatzen du: kasu bakoitza agiriekin eztabaidatzen da. Jocelyn Bellek berak esan du zentzuzkoa iruditu zitzaiola Nobel saria bere zuzendariarentzat izatea."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "«Nire institutuko batxilergo teknologikoan neska gutxiago daude». Zer da esaldi hori?",
+       "opciones": [
+        [
+         "Datu bat, egiaztatu beharko liratekeen hainbat azalpenekin bateragarria.",
+         true
+        ],
+        [
+         "Neska gutxiago zergatik dauden azaltzen duen azalpen bat.",
+         false,
+         "Zer gertatzen den esaten du, ez zergatik."
+        ],
+        [
+         "Diskriminazioaren froga bat.",
+         false,
+         "Egon daiteke edo ez: datu horrekin bakarrik, ez da jakiten."
+        ],
+        [
+         "Neskei teknologiak interesik ez diela frogatzen duen proba bat.",
+         false,
+         "Hori azalpen posibleetako bat da, ez frogatutako zerbait."
+        ]
+       ],
+       "ok": "Zuzen: datu batek azalpenak eskatzen ditu.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu zientziaren historia datuekin irakurtzen",
+   "parrafos": [
+    "Zientziaren historian emakume gutxi egotea oztopoek, formalek eta informalek, eta Matilda efektuak azaltzen dute, ez gaitasun faltak.",
+    "Datu bat ez da azalpen bat: kausez hitz egiteko datu gehiago edo esperimentu bat behar dira. 3. gaiko <a href=\"#teoria/fil-t3/7\">«Zientzia, teknologia, artea eta gizartea»</a> atalean duzu."
    ]
   }
  },
@@ -2449,13 +3256,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zer da gaur adimen artifiziala, eta zer arrisku eztabaidatzen dira?",
+    "intro": [
+     "Txatbot bati liburu bat laburtzeko eskatzen diozu, eta oso ondo egiten du. Ulertu al du liburua? Eta zer zerikusi du duela hirurogeita hamar urteko Turingen makinarekin?"
+    ],
+    "pistas": [
+     "Kokatzeko: AA ez da pentsamendu-esperimentu bat bakarrik: benetako diziplina da, 1956an Dartmouth College-n egindako topaketa batean jaioa. Bi bide jarraitu ditu: AA <em>sinbolikoa</em>, arauak eskuz idazten dituena, eta <em>ikasketa automatikoa</em>, bere parametroak milioika adibidetatik abiatuta doitzen dituena.",
+     "Bigarren bide horretatik datoz hizkuntza-eredu handiak: ondoren zein hitz etortzea den probableena kalkulatzen dute, mugikorreko osatze automatikoak bezala, baina eskala erraldoian. Zuzen idazten dute, inork gramatikarik irakatsi ez dien arren; Searleren galdera itzultzen da: badakite zer esaten duten?",
+     "Komeni da bereiztea AA <em>ahula edo estua</em>, zeregin zehatz bat ebazten duena (itzultzea, proteinak iragartzea), eta AA <em>orokorra</em>, giza zeregin intelektual orori aurre egin ahal izango liokeena. Aditu gehienen ustez, dagoen guztia estua da. (Kontuz: Searlek «ahula» eta «indartsua» beste zentzu batean erabiltzen zituen.)",
+     "Etorkizunari buruz, eztabaida irekita dago: batzuek <strong>singularitate</strong> batez hitz egiten dute, non makina batek beste batzuk etengabe hobetuko lituzkeen, eta haren helburuak gureekin bat ez etortzearen arazoaz (Bostrom); beste batzuek, Melanie Mitchellek edo Emily Benderrek kasu, gogorarazten dute sistema horiek ez dutela zentzu komunik eta badirela dagoeneko gertatzen diren kalteak: alborapenak, desinformazioa, energia-gastua eta boterearen pilaketa. Eta galdera premiazko bat geratzen da: <strong>nork erantzuten du</strong> makina batek erabakitzen duenean?"
+    ],
+    "comprobacion": {
+     "pregunta": "Zerk bereizten du AA estua AA orokorretik?",
+     "opciones": [
+      [
+       "Estuak zeregin zehatz bat ebazten du; orokorrak giza zeregin intelektual orori aurre egin ahal izango lioke.",
+       true
+      ],
+      [
+       "Estua edozertan pertsona bat baino okerragoa da.",
+       false,
+       "Bere zeregin zehatzean edozein pertsona baino hobea izan daiteke."
+      ],
+      [
+       "Orokorra badago jada, eta egunero erabiltzen dugu.",
+       false,
+       "Aditu gehienen ustez, dagoen AA guztia estua da."
+      ],
+      [
+       "Estuak arauak erabiltzen ditu, eta orokorrak adibideak.",
+       false,
+       "Hori beste bereizketa bat da: bi bideena, sinbolikoa eta ikasketarena."
+      ]
+     ],
+     "ok": "Hain zuzen: zeregin bat, edozein zereginen aurrean.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "IA",
+      "titulo": "AA, aztergai",
+      "definicion": [
+       "<strong>Bi bide</strong>: AA sinbolikoa (eskuz idatzitako arauak: gardena, baina zurruna) eta ikasketa automatikoa (adibideetatik ikasten du: malgua, baina iluna).",
+       "<strong>Bi helburu</strong>: AA estua (zeregin bat) eta AA orokorra (edozein zeregin). Singularitatea AA orokor batek bere burua etengabe hobetuko lukeen puntua litzateke.",
+       "<strong>Arriskuak</strong>, eztabaidan: kontrolaren edo lerrokatzearen arazoa (Bostrom), gaur egungo kalteei erreparatzeko eskatzen dutenen aurrean (Mitchell, Bender). Hiru galdera: ulertzen al du?, badu gogorik?, nork erantzuten du?"
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer da kontrolaren edo lerrokatzearen arazoa?",
+       "opciones": [
+        [
+         "Nola ziurtatu gu baino gaitasun handiagoko sistema batek benetan nahi duguna bilatuko duela.",
+         true
+        ],
+        [
+         "Nola saihestu makina bat gaizto bihurtzea.",
+         false,
+         "Bostromek azpimarratzen du arriskua ez litzatekeela gaiztakeria, gureekin lerrokatu gabeko helburu batzuk baizik."
+        ],
+        [
+         "Nola lortu ordenagailuek argindar gutxiago gastatzea.",
+         false,
+         "Energia-gastua beste kezka bat da, desberdina."
+        ],
+        [
+         "Nola lerrokatu testua dokumentu batean.",
+         false,
+         "Hemen «lerrokatzeak» esan nahi du AAren helburuak gureekin bat etortzea."
+        ]
+       ],
+       "ok": "Zuzen: guk nahi duguna nahi izatea.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Orain eztabaida dezakezu makina batek pentsatzen duen",
    "parrafos": [
     "Turingek jokabidearen arabera epaitzea proposatu zuen: makina pertsona batetik bereizten ez badugu, ez dago adimena ukatzeko arrazoirik. Searlek gela txinatarrarekin objektatu zuen ikurrak erabiltzea ez dela haiek ulertzea. Erantzunik ezagunenak dio txinera ulertuko lukeena sistema osoa dela (pertsona, eskuliburua eta gela), eta hala ere geratuko litzateke Chalmersek 1995ean kontzientziaren arazo zaila deitu ziona.",
-    "Pentsatzeko: gaur egungo txatbot batek gaindituko luke Turing-en testa? Eta gaindituko balu, konbentzituko zintuzke esaten duena ulertzen duela?"
+    "Pentsatzeko: gaur egungo txatbot batek gaindituko luke Turing-en testa? Eta gaindituko balu, konbentzituko zintuzke esaten duena ulertzen duela?",
+    "AA aztergai gisa metafisikako gaiko <a href=\"#teoria/fil-metafisica/5\">«Gogoa eta gorputza gaur: pentsa dezake adimen artifizial batek?»</a> atalean duzu."
    ]
   }
  },
@@ -3098,13 +3985,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zergatik arrazoitzen dugu gaizki, eta zertan bereizten da alborapen bat falazia batetik?",
+    "intro": [
+     "Bate batek eta pilota batek, biek batera, 1,10 euro balio dute. Bateak pilotak baino euro bat gehiago balio du. Zenbat balio du pilotak? Erantzun azkar."
+    ],
+    "pistas": [
+     "Kokatzeko: ia denek «10 zentimo» esaten dute, eta faltsua da: orduan bateak 1,10 balioko luke eta guztira 1,20 izango litzateke. Pilotak 5 zentimo balio ditu. Erantzun azkarra berez atera da, eta inork ez du egiaztatu.",
+     "Daniel Kahnemanek pentsatzeko bi modurekin azaltzen du: <em>1. sistema</em>, azkarra eta automatikoa, inpresioak ematen dituena, eta <em>2. sistema</em>, motela eta nekosoa, egiaztatzen duena. Akatsak agertzen dira bigarrenak, presaz edo alferkeriaz, lehenaren erantzuna ontzat ematen duenean.",
+     "Lasterbide horiei <em>heuristiko</em> deritze: ia beti asmatzen duten arau errazak, kasu jakin batzuetan beti modu berean huts egiten dutenak. Amos Tverskyk eta Kahnemanek hiru deskribatu zituzten 1974an: adierazgarritasuna, eskuragarritasuna eta ainguraketa. <em>Alborapen kognitiboa</em> akats sistematiko hori da.",
+     "Falaziarekiko aldea: <strong>falazia</strong> argudio baten akatsa da, begi-bistan dago norbaitek esaten duenean; <strong>alborapena</strong> argudiorik egon aurretik jarduten duen adimenaren joera bat da, eta ez da logika jakite hutsarekin zuzentzen. Laburrean: falazia testuan dago; alborapena, hura idazten edo irakurtzen duenarengan."
+    ],
+    "comprobacion": {
+     "pregunta": "Zein da alborapen baten eta falazia baten arteko aldea?",
+     "opciones": [
+      [
+       "Falazia argudio baten akatsa da; alborapena, argudiatu aurretik jarduten duen adimenaren joera bat.",
+       true
+      ],
+      [
+       "Gauza bera dira, bi izenekin.",
+       false,
+       "Ahaideak dira, baina bata argudioan dago eta bestea adimenean."
+      ],
+      [
+       "Alborapena beti da nahita egina, eta falazia inoiz ez.",
+       false,
+       "Alborapenak inkontzienteak izan ohi dira."
+      ],
+      [
+       "Falazia matematiketan bakarrik agertzen da.",
+       false,
+       "Edozein eztabaidatan agertzen da."
+      ]
+     ],
+     "ok": "Hain zuzen: testua adimenaren aurrean.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Alborapenak",
+      "titulo": "Heuristikoak eta alborapenak",
+      "definicion": [
+       "<strong>Adierazgarritasuna</strong>: probablea kasu tipiko baten antzaren arabera epaitzea. <strong>Eskuragarritasuna</strong>: ohikoa adibide bat burura zein erraz datorkigun kontuan hartuta epaitzea. <strong>Ainguraketa</strong>: edozein zifrak bere aldera eramaten du gure kalkulua.",
+       "<strong>Berrespen-alborapena</strong>: arrazoia ematen digun hori bilatzea eta gogoratzea. Baconek jada ikusi zuen 1620an, «tribuaren idoloen» artean.",
+       "Laguntzen du kontrakoa kontuan hartzeak, gu gezurta gaitzakeen datua bilatzeak eta besteekin pentsatzeak: bakoitzaren alborapenak hobeto ikusten dira kanpotik."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Hegazkin-istripuei buruzko hainbat albiste ikusi ondoren, hegazkina autoa baino arriskutsuagoa iruditzen zaizu. Zein heuristiko ari da lanean?",
+       "opciones": [
+        [
+         "Eskuragarritasuna: ohikoa burura datozkizun adibideen arabera epaitzen duzu.",
+         true
+        ],
+        [
+         "Ainguraketa.",
+         false,
+         "Ez dago zure kalkulua bere aldera eramaten duen zifrarik."
+        ],
+        [
+         "Adierazgarritasuna.",
+         false,
+         "Ez duzu kasu tipiko batekin alderatzen; azken adibideek eramaten zaituzte."
+        ],
+        [
+         "Bat ere ez: hegazkina arriskutsuagoa da.",
+         false,
+         "Egindako kilometro bakoitzeko jende askoz gehiago hiltzen da errepidean."
+        ]
+       ],
+       "ok": "Zuzen: gogoratzen duzuna ohikoagoa dirudi.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu falazia bat ezagutzen",
    "parrafos": [
     "Falazia bat ona dirudien baina bere arrazoiek ondorioa babesten ez duten argudio bat da. Informalek arreta desbideratzen dute (ad hominem, lastozko gizona, dilema faltsua); formalek beren egituragatik huts egiten dute, atzekaria baieztatzeak bezala.",
-    "Haiek salatzen dituen galdera beti bera da: arrazoi hauek benetan babesten al dute ondorio hau? Jarraitzeko: «Zerk egiten du baliozko argudio bat?»."
+    "Haiek salatzen dituen galdera beti bera da: arrazoi hauek benetan babesten al dute ondorio hau? Jarraitzeko: «Zerk egiten du baliozko argudio bat?».",
+    "Alborapen kognitiboak 4. gaiko <a href=\"#teoria/fil-t4/12\">«Falaziak»</a> atalean dituzu, «Zergatik arrazoitzen dugu gaizki» azpiatalean."
    ]
   }
  },
@@ -3528,14 +4495,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Unibertsalak al dira giza eskubideak?",
+    "intro": [
+     "Norbaitek dio: «Giza eskubideak mendebaldeko asmakizun bat dira; kultura bakoitzak bere balioak ditu». Beste batek erantzuten du: «Orduan, inork ezingo luke torturaz kexatu inon». Nork du arrazoi?"
+    ],
+    "pistas": [
+     "Kokatzeko: erlatibismoaren eztabaida da, eskubideetara eramana. 1948ko Adierazpena <em>unibertsal</em> gisa aurkezten da, gizaki ororentzat baliozkoa.",
+     "Estatu batzuek zalantzan jarri zuten. <em>Kairoko Adierazpenak</em> (1990) eskubideak lege islamikoaren argitan irakurtzea proposatu zuen, eta <em>Bangkokeko Adierazpenak</em> (1993) asiar balioak deritzenak eta Estatu bakoitzaren subiranotasuna azpimarratu zituen zerrenda komun baten aurrean.",
+     "1993 hartan bertan, <em>Vienako Konferentziak</em> berretsi zuen eskubideak unibertsalak direla, nahiz eta testuinguru bakoitzari erreparatuz aplikatu behar diren.",
+     "Azpian galdera filosofiko bat dago: zertan <strong>oinarritzen</strong> dira eskubideak —giza naturan, akordio batean, duintasunean— eta zerbaitek denak behar ditzake oinarri partekaturik gabe? Eztabaida irekia da, eta lehen ikusi duzun <strong>gutxieneko unibertsalismoa</strong> erantzunetako bat da."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer berretsi zuen 1993ko Vienako Konferentziak?",
+     "opciones": [
+      [
+       "Giza eskubideak unibertsalak direla, nahiz eta testuinguru bakoitzari erreparatuz aplikatzen diren.",
+       true
+      ],
+      [
+       "Estatu bakoitzak erabakitzen duela zer eskubide aitortzen dituen.",
+       false,
+       "Hori Bangkokeko Adierazpenetik hurbilago dago, eta horri erantzun zion Vienak."
+      ],
+      [
+       "Eskubideak erlijio baten argitan irakurri behar direla.",
+       false,
+       "Hori Kairoko proposamena zen (1990)."
+      ],
+      [
+       "1948ko Adierazpena baliogabetuta geratzen zela.",
+       false,
+       "Kontrara: haien unibertsaltasuna berretsi zuen."
+      ]
+     ],
+     "ok": "Hain zuzen: unibertsalak, testuinguruari erreparatuz.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Unibertsaltasuna",
+      "titulo": "Unibertsalak ala erlatiboak",
+      "definicion": [
+       "<strong>Kairo (1990)</strong>: eskubideak, lege islamikoaren argitan irakurrita. <strong>Bangkok (1993)</strong>: asiar balioak eta Estatu bakoitzaren subiranotasuna.",
+       "<strong>Viena (1993)</strong>: eskubideak unibertsalak dira, testuinguruari erreparatuz aplikatuta.",
+       "Funtsezko gaia <strong>oinarria</strong> da: giza natura, akordioa edo duintasuna. Gai honetako erlatibismoaren eta unibertsalismoaren arteko eztabaidarekin lotzen da."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer azpimarratzen zuen 1993ko Bangkokeko Adierazpenak?",
+       "opciones": [
+        [
+         "Asiar balioak deritzenak eta Estatu bakoitzaren subiranotasuna, zerrenda komun baten aurrean.",
+         true
+        ],
+        [
+         "Eskubideak lege islamikoaren arabera irakurtzea.",
+         false,
+         "Hori Kairoko Adierazpena zen."
+        ],
+        [
+         "Eskubideen unibertsaltasuna, ñabardurarik gabe.",
+         false,
+         "Vienak berretsi zuen."
+        ],
+        [
+         "Eskubide sozialak ezabatzea.",
+         false,
+         "Ez zen horri buruzkoa."
+        ]
+       ],
+       "ok": "Zuzen: asiar balioak eta subiranotasuna.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu zein den erlatibismoari buruzko eztabaida",
    "parrafos": [
     "Ohituren aniztasuna gertaera bat da, baina ez du frogatzen moral orok gauza bera balio duenik. Eta erlatibismoak arazoak ditu: erreformatzailea beti egongo litzateke oker eta ez legoke aurrerapen moralik.",
-    "Gutxieneko unibertsalismoak balio komun gutxi batzuk bilatzen ditu, aniztasuna errespetatzeari utzi gabe kritikatzeko aukera ematen dutenak. Jarraitzeko: «Gutxienekoen etika ala gehienekoen etika?» jarduera."
+    "Gutxieneko unibertsalismoak balio komun gutxi batzuk bilatzen ditu, aniztasuna errespetatzeari utzi gabe kritikatzeko aukera ematen dutenak. Jarraitzeko: «Gutxienekoen etika ala gehienekoen etika?» jarduera.",
+    "Eskubideen unibertsaltasunari buruzko eztabaida 6. gaiko <a href=\"#teoria/fil-t6/6\">«Giza eskubideak eta zuzenbide-estatua»</a> atalean duzu."
    ]
+  }
+ },
+ {
+  "id": "fil-etica-aplicada",
+  "subject": "fil",
+  "tema": "5. gaia · Etikaren galderak",
+  "unidad": "fil-t5",
+  "materia": "Filosofia 1. · Etika",
+  "titulo": "Zer zor diegu naturari, etorriko direnei eta urrun daudenei?",
+  "lede": "Zerk egiten duen arazo bat etika aplikatukoa, eta eztabaidatzen den hiru eremu: ingurumena, enpresa eta urruneko pobrezia. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Noiz da arazo bat etika aplikatukoa, eta nori zor diogu begirunea?",
+    "intro": [
+     "Udalbatzaren osoko bilkura batean eztabaidatzen da baso bat moztu behar ote den, berrehun pertsonari lana emango dien industrialde bat eraikitzeko. Legezkoa da. Hor amaitzen al da eztabaida?"
+    ],
+    "pistas": [
+     "Kokatzeko: egunkariko arazo oro ez da etika aplikatukoa. Hala izateko, <em>arrazoizko desadostasun</em> bat egon behar da, informatuta dauden eta asmo oneko pertsonen artean, eta legeari begiratzea ez da nahikoa izan behar: zerbait legezkoa izan daiteke eta moralki eztabaidagarria.",
+     "Ingurumen-etikaren lehen galdera da <em>nori</em> zor diogun begirunea. <em>Antropozentrismoarentzat</em>, gizakiei bakarrik: basoa garrantzitsua da behar dugulako.",
+     "Paul Taylorren <em>biozentrismoak</em> izaki bizidun guztietara zabaltzen du; Aldo Leopolden <em>ekozentrismoak</em>, lurzoru, ur, landare eta animalien komunitate osora: ona da komunitate horren oreka babesten duena.",
+     "Bigarren galderak denborari begiratzen dio: Hans Jonasek ohartarazi zuen teknikak oraindik jaio ez direnei kalte egin diezaiekeela, eta gizakiaren bizitzak Lurrean jarraitu ahal izan dezan jokatzea proposatu zuen. <strong>Garapen iraunkorrak</strong> (Brundtland txostena, 1987) politikara eraman zuen: gaurko beharrei erantzutea, <strong>etorkizuneko belaunaldiei</strong> beren beharrei erantzuteko aukera kendu gabe."
+    ],
+    "comprobacion": {
+     "pregunta": "Leopolden ekozentrismoarentzat, noiz da ona ekintza bat?",
+     "opciones": [
+      [
+       "Lurzoru, ur, landare eta animalien komunitate osoaren oreka babesten duenean.",
+       true
+      ],
+      [
+       "Gizakiei onura egiten dienean, gainerakoari kalte egin arren.",
+       false,
+       "Hori antropozentrismotik hurbilago dago."
+      ],
+      [
+       "Izaki bizidun bakoitza banan-banan errespetatzen duenean.",
+       false,
+       "Hori, hobeto esanda, Taylorren biozentrismoa da; Leopoldek komunitate osoari begiratzen dio."
+      ],
+      [
+       "Legezkoa denean.",
+       false,
+       "Etika aplikatua, hain zuzen, legea nahikoa ez den lekuan hasten da."
+      ]
+     ],
+     "ok": "Ondo: osotasuna, ez izaki bizidun bakoitza bakarrik.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Hiru erantzun basoaren aurrean",
+      "definicion": [
+       "«Kontserbatu egin behar da, ura, airea eta paseoak ematen dizkigulako». → <strong>Antropozentrismoa</strong>.",
+       "«Basoko zuhaitz eta animalia bakoitzak berez du garrantzia». → <strong>Biozentrismoa</strong> (Taylor).",
+       "«Axola duena ekosistemak osotasun gisa funtzionatzen jarraitzea da». → <strong>Ekozentrismoa</strong> (Leopold)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "«Ibaia babestu behar da edateko behar dugulako». Zer jarrera da?",
+       "opciones": [
+        [
+         "Antropozentrismoa.",
+         true
+        ],
+        [
+         "Biozentrismoa.",
+         false,
+         "Argudioak gizakiok behar duguna bakarrik hartzen du kontuan."
+        ],
+        [
+         "Ekozentrismoa.",
+         false,
+         "Ez du ekosistemaren orekaz hitz egiten, gure beharraz baizik."
+        ],
+        [
+         "Bat ere ez: ez da argudio morala.",
+         false,
+         "Bai, hala da: zerbait babesteko arrazoi bat ematen du."
+        ]
+       ],
+       "ok": "Zuzen: ibaiak guregatik du garrantzia.",
+       "mal": "Begiratu berriro adibideei.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Etika aplikatua eta ingurumen-etika",
+      "definicion": [
+       "Arazo bat <strong>etika aplikatukoa</strong> da arrazoizko desadostasuna badago eta legeak ez badu konpontzen.",
+       "<strong>Antropozentrismoak</strong>, <strong>biozentrismoak</strong> eta <strong>ekozentrismoak</strong> modu desberdinean erantzuten diote nori zor diogun begirunea galderari.",
+       "Hans Jonasek (<em>Erantzukizunaren printzipioa</em>, 1979) etorkizuneko belaunaldiekiko betebeharrak gehitu zituen; Brundtland txostenak <strong>garapen iraunkor</strong> bihurtu zituen."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Zer da garapen iraunkorra Brundtland txostenaren arabera?",
+       "opciones": [
+        [
+         "Gaurko beharrei erantzutea, etorkizuneko belaunaldiei beren beharrei erantzuteko aukera kendu gabe.",
+         true
+        ],
+        [
+         "Ekoizteari uztea, natura ez kaltetzeko.",
+         false,
+         "Ez du garapena geldiaraztea eskatzen, etorkizuna hipotekatu gabe egitea baizik."
+        ],
+        [
+         "Orain ahalik eta gehien haztea.",
+         false,
+         "Horrek, hain zuzen, etorkizuneko belaunaldiak ahazten ditu."
+        ],
+        [
+         "Gune naturalak bakarrik babestea.",
+         false,
+         "Giza beharrez hitz egiten du, gaurkoez eta biharkoez."
+        ]
+       ],
+       "ok": "Zuzen: gaur, biharri kendu gabe.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zer erantzukizun dute enpresek, eta zer zor diegu urrunean gosez daudenei?",
+    "intro": [
+     "Haur bat ikusten duzu sakonera txikiko urmael batean itotzen. Sartzen bazara, zure kirol-oinetako berriak hondatuko dira. Sartu behar al duzu? Orain pentsa ezazu milaka kilometrora goseak hiltzen ari den haur batean. Distantziak zerbait aldatzen al du?"
+    ],
+    "pistas": [
+     "Kokatzeko: ia denek esango lukete haurra urmaeletik atera behar dela. Peter Singerrek (1972) ondorio deseroso bat atera zuen hortik: hala bada, zure diruaren zati bat ere eman beharko zenuke urruneko haurrak salbatzeko, distantziak ez baitu ezer aldatzen moralki.",
+     "Haren kritikariek alde desberdinetatik erantzuten dute: batzuek, laguntzea eskuzabala dela baina ez derrigorrezkoa, eta inork ez dituela bere proiektuak sakrifikatu behar; beste batzuek, Thomas Poggek kasu, arazoa ez dela bakoitzaren karitatea, herrialde pobreei kalte egiten dieten nazioarteko merkataritza-arauak baizik.",
+     "Enpresan bi ideiak egiten dute talka: Milton Friedmanentzat (1970), haren erantzukizun sozial bakarra legearen barruan dirua irabaztea da; R. Edward Freemanentzat (1984), eragiten dien <em>interes-talde</em> guztien aurrean erantzuten du: langileak, bezeroak, hornitzaileak, bizilagunak.",
+     "Bangladesheko Rana Plaza eraikina erori zenean (2013), Europako markentzat josten zuten tailerretako mila eta ehun langile baino gehiago hil ziren, eta galdera lehen planora ekarri zuen: noraino iristen da urruneko hornitzaile bati erosten dionaren erantzukizuna? Horrela probatzen ditu etika aplikatuak teoriak: Singerrek <strong>utilitarista</strong> gisa arrazoitzen du; haren kritikariek, <strong>betebeharraren</strong>, baimenaren eta justiziaren ideiekin."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer ondorioztatzen du Peter Singerrek urmaelaren kasutik?",
+     "opciones": [
+      [
+       "Gertuko haurra salbatu behar baduzu, urrunekoei ere lagundu behar diezula: distantziak ez du ezer aldatzen moralki.",
+       true
+      ],
+      [
+       "Hurbil daudenekiko bakarrik ditugula betebeharrak.",
+       false,
+       "Hori da, hain zuzen, Singerrek ukatzen duena."
+      ],
+      [
+       "Kirol-oinetakoek bizitza batek baino gehiago balio dutela.",
+       false,
+       "Kontrara: inork ez luke hori pentsatuko, eta hortik abiatzen da haren argudioa."
+      ],
+      [
+       "Pobrezia pobreen errua dela.",
+       false,
+       "Singerrek ez du erruez hitz egiten, egin behar dugunaz baizik."
+      ]
+     ],
+     "ok": "Hain zuzen: distantzia ez da arrazoi morala.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Enpresa eta pobrezia",
+      "titulo": "Etika aplikatuaren bi eremu",
+      "definicion": [
+       "<strong>Enpresa-etika</strong>: Friedman (legearen barruan dirua irabaztea bakarrik), Freemanen aurrean (interes-talde guztien aurrean erantzutea). Adela Cortinak gehitzen du enpresa batek konfiantza sortu edo suntsitu ere egiten duela.",
+       "<strong>Urruneko pobrezia</strong>: Singer (laguntzeko betebeharra, urmaeleko haurrarekin bezala), laguntza eskuzabaltasuntzat eta ez betebeharrtzat dutenen aurrean, eta Poggeren aurrean (merkataritzako arau bidegabeak aldatzea).",
+       "Kasu bakoitzean ikusten da nola ematen dioten teoria etikoek (ondorioak, betebeharrak, justizia) erantzun desberdinak arazo zehatz bati."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer defendatzen du Freemanek Friedmanen aurrean?",
+       "opciones": [
+        [
+         "Enpresa batek eragiten dien talde guztien aurrean erantzuten duela, ez bere akziodunen aurrean bakarrik.",
+         true
+        ],
+        [
+         "Enpresek ez dutela dirurik irabazi behar.",
+         false,
+         "Freemanek ez du irabazia ukatzen; noren aurrean erantzuten den zabaltzen du."
+        ],
+        [
+         "Legea betetzea bakarrik dela kontuan hartzekoa.",
+         false,
+         "Hori, hobeto esanda, Friedmanen jarrera da."
+        ],
+        [
+         "Enpresek beren irabazi guztiak kausa sozialetara bideratu behar dituztela.",
+         false,
+         "Ez du hori eskatzen: kaltetu guztiak kontuan hartzea eskatzen du."
+        ]
+       ],
+       "ok": "Zuzen: interes-taldeak.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badituzu ezagun etika aplikatuaren zenbait eremu",
+   "parrafos": [
+    "Arazo bat etika aplikatukoa da arrazoizko desadostasuna dagoenean eta legea nahikoa ez denean. Ingurumenean eztabaidatzen da nori zor diogun begirunea eta zer zor diegun etorriko direnei; enpresan, noren aurrean erantzuten duen; eta urruneko pobrezian, laguntzea betebeharra den.",
+    "5. gaiko <a href=\"#teoria/fil-t5/11\">«Zaintzaren etika eta etika aplikatua gaur»</a> atalean duzu. Jarraitzeko: «Ondorioek kontatzen dute ala asmoek?»."
+   ],
+   "siguiente": "fil-consecuencias"
   }
  },
  {
@@ -3742,13 +5004,309 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zergatik jartzen dituzte betebeharraren etikek mugak, eta ez helburuak?",
+    "intro": [
+     "Jendetza batek hainbat hildako eragingo dituzten istiluak sortzeko mehatxua egiten du, epaile batek norbait krimen batengatik zigortzen ez badu. Epaileak badaki akusatua errugabea dela. Zigortu egin behar al du, bizitza gehiago salbatzeko?"
+    ],
+    "pistas": [
+     "Kokatzeko: ondorioak bakarrik kontatuko balira, bizitzen kontuak zigorraren alde egingo lukeela dirudi. Baina ia guztiok sentitzen dugu epaileak ezin duela hori egin. H. J. McCloskeyk planteatu zuen kasua 1957an.",
+     "Arrazoia betebeharraren etiken egituran dago: haien arauak ez dira ahalik eta gehiagotan lortu beharreko <em>helburuak</em>, bakoitzak egin dezakeenaren <em>mugak</em> baizik. «Ez zigortu errugabe bat» ez da gehiago betetzen bat zigortuz beste zigor batzuk saihesteko.",
+     "Hortik hiru ezaugarri. Garrantzitsua da kalte bat <em>egitearen</em> eta hura <em>ez saihestearen</em> arteko aldea. Badira <em>baimenak</em> norberaren bizitzaz arduratzeko, guztien ona maximizatu beharrik gabe.",
+     "Eta batzuek <strong>atalase</strong> bat onartzen dute: hondamendi baten aurrean, mugak amore eman lezake. Horrela, betebeharraren etika ez da itsua ondorioekiko: ondorioak dena ez direla dio. 2. mailan garatuta ikusiko duzu, utilitarismoaren aurrean."
+    ],
+    "comprobacion": {
+     "pregunta": "Betebeharraren etika batentzat, zer da «ez zigortu errugabe bat» araua?",
+     "opciones": [
+      [
+       "Egin dezakedanaren muga bat, ez maximizatu beharreko helburu bat.",
+       true
+      ],
+      [
+       "Helburu bat: zigortutako errugabeen kopurua ahalik eta txikiena izan dadin lortu behar da, nolanahi ere.",
+       false,
+       "Ondorioetan oinarritzen den batek horrela ulertuko luke; betebeharraren etikak muga gisa ikusten du."
+      ],
+      [
+       "Komeni denean salta daitekeen gomendio bat.",
+       false,
+       "Muga bat da, nahiz eta batzuek atalase bat onartzen duten hondamendien aurrean."
+      ],
+      [
+       "Epaileentzako bakarrik den arau bat.",
+       false,
+       "Egitura edozein betebeharrentzat da baliozkoa: gezurrik ez esatea, ez hiltzea…"
+      ]
+     ],
+     "ok": "Hain zuzen: muga bat, ez helburu bat.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Betebeharraren egitura",
+      "titulo": "Mugak, baimenak eta atalaseak",
+      "definicion": [
+       "<strong>Mugak, ez helburuak</strong>: betebeharrek egin dezakedana murrizten dute; ez dira maximizatu beharreko helburuak.",
+       "<strong>Egitea eta ez saihestea</strong>: ez da gauza bera kalte bat eragitea eta hura ez eragoztea. <strong>Baimenak</strong>: nire proiektuei eman diezaieket neure burua, guztien ona maximizatu beharrik gabe.",
+       "<strong>Atalasea</strong>: batzuek onartzen dute mugak amore ematen duela hondamendi baten aurrean. Gainera, Kantek bereizten ditu betebeharra<em>gatik</em> jokatzea eta betebeharraren <em>arabera</em> jokatzea (interesagatik zintzoa den dendaria)."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer erakusten du McCloskeyren epailearen kasuak?",
+       "opciones": [
+        [
+         "Badirela egin behar ez diren gauzak, ondorioak hobeak iruditu arren.",
+         true
+        ],
+        [
+         "Beti bizitzarik gehien salbatu behar direla.",
+         false,
+         "Hori litzateke kasuak zalantzan jartzen duen erantzun utilitarista."
+        ],
+        [
+         "Epaileek ez diotela jendetzari entzun behar.",
+         false,
+         "Egia da, baina kasuak zerbait orokorragoa irakasten du: betebeharraren mugak."
+        ],
+        [
+         "Justizia ez dela existitzen.",
+         false,
+         "Kontrakoa erakusten du: justiziak mugak jartzen dituela."
+        ]
+       ],
+       "ok": "Zuzen: badira gurutzatzen ez diren mugak.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu zein den ondorioen eta asmoen arteko eztabaida",
    "parrafos": [
     "Utilitarismoak ekintzak beren ondorioen arabera epaitzen ditu: zoriontasun handiena ahalik eta jende gehienarentzat. Betebeharraren etikak, Kantekin, dio badirela ondo atera arren egiten ez diren gauzak, eta balio morala borondate onean dagoela.",
-    "Tranbiaren dilemak erakusten du bi begiradak erabiltzen ditugula. Jarraitzeko: «Zer da bertutea Aristotelesentzat?», hirugarren erantzun bat, izaeran zentratua."
+    "Tranbiaren dilemak erakusten du bi begiradak erabiltzen ditugula. Jarraitzeko: «Zer da bertutea Aristotelesentzat?», hirugarren erantzun bat, izaeran zentratua.",
+    "Betebeharraren etikaren egitura 5. gaiko <a href=\"#teoria/fil-t5/5\">«Kanten etika formala»</a> atalean duzu."
+   ],
+   "siguiente": "fil-virtud"
+  }
+ },
+ {
+  "id": "fil-estoicismo",
+  "subject": "fil",
+  "tema": "5. gaia · Etikaren galderak",
+  "unidad": "fil-t5",
+  "materia": "Filosofia 1. · Etika",
+  "titulo": "Zer irakasten zuten estoikoek bertuteaz eta emozioez?",
+  "lede": "Atenasko ataripe margotu bat, lau bertute, haserrea judizio oker gisa eta eguneroko entrenamendu bat. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Zer da on den gauza bakarra estoiko batentzat?",
+    "intro": [
+     "Pertsona batek dena du: osasuna, dirua, arrakasta… eta zekena da mundu guztiarekin. Beste bat gaixo dago eta txakur txikirik gabe, eta zuzena eta ausarta da. Bietako zeinek bizi du hobeto?"
+    ],
+    "pistas": [
+     "Kokatzeko: eskola Zenon Zitiokoak sortu zuen K. a. 300 inguruan, Atenasko ataripe margotu batean, <em>Stoà poikílē</em>; hortik datorkio izena.",
+     "Estoikoentzat, benetako ongi bakarra izaera bikaina izatea da, <em>bertutea</em>. Osasuna, dirua edo arrakasta <em>ezaxolakoak</em> dira: ez edukitzea berdin delako, baizik eta ez gaituztelako pertsona hobe edo okerrago egiten.",
+     "Hobe da osasuntsu egotea, jakina; baina gaixo batek ondo bizi daiteke, eta osasuntsu batek gaizki. Horregatik bizi da hobeto adibideko bigarren pertsona, gutxiago izan arren.",
+     "Bertute horrek lau aurpegi ditu: <strong>jakinduria praktikoa</strong> (<em>phrónēsis</em>), besteak gidatzen dituena; <strong>ausardia</strong> (<em>andreía</em>); <strong>justizia</strong> (<em>dikaiosýnē</em>), besteak giza komunitate bereko kide gisa ikusten dituena, eta <strong>neurritasuna</strong> (<em>sōphrosýnē</em>), nahikoarekin konformatzen dena."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer esan nahi du, estoiko batentzat, osasuna «ezaxolakoa» izateak?",
+     "opciones": [
+      [
+       "Hobe dela hura izatea, baina ez gaituela pertsona hobe edo okerrago egiten.",
+       true
+      ],
+      [
+       "Berdin-berdina dela osasuntsu ala gaixo egotea.",
+       false,
+       "Hobe da osasuntsu egotea; egiten ez duena da erabakitzea ondo bizi garen ala ez."
+      ],
+      [
+       "Txarra dela eta saihestu behar dela.",
+       false,
+       "Ez da txarra: besterik gabe, ez da benetako ongia."
+      ],
+      [
+       "Medikuei bakarrik axola zaiela.",
+       false,
+       "Guztioi axola zaigu, baina ez da on egiten gaituena."
+      ]
+     ],
+     "ok": "Ondo: hobe izatekoa, baina ez ona zentzu hertsian.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Lau bertuteak eguneroko bizitzan",
+      "definicion": [
+       "Jakitea zer egin komeni den lagun batek azterketa batean kopiatzen uzteko eskatzen dizunean. → <strong>Jakinduria praktikoa</strong>.",
+       "Beldurrari eustea, jazartzen ari diren norbait defendatzeko. → <strong>Ausardia</strong>.",
+       "Gogoko ez duzun ikaskidea gogoko duzuna bezala tratatzea. → <strong>Justizia</strong>.",
+       "Behar duzuna baino gehiago ez eskatzea, ahal izan arren. → <strong>Neurritasuna</strong>."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "Zein bertutek gidatzen ditu gainerako guztiak estoikoentzat?",
+       "opciones": [
+        [
+         "Jakinduria praktikoak (<em>phrónēsis</em>).",
+         true
+        ],
+        [
+         "Ausardiak.",
+         false,
+         "Lauetako bat da, baina ez besteak gidatzen dituena."
+        ],
+        [
+         "Aberastasuna.",
+         false,
+         "Aberastasuna ezaxolako bat da, ez bertute bat."
+        ],
+        [
+         "Ospeak.",
+         false,
+         "Ospea ere ez da bertute bat: beste ezaxolako bat da."
+        ]
+       ],
+       "ok": "Zuzen: badaki kasu bakoitzean zer komeni den.",
+       "mal": "Begiratu berriro adibideei.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Etika estoikoa",
+      "definicion": [
+       "<strong>Estoizismoa</strong> bertutearen etika bat da: ongi bakarra izaera bikaina da.",
+       "Gainerakoa (osasuna, aberastasuna, arrakasta) <strong>ezaxolakoa</strong> da, nahiz eta badiren ezaxolako batzuk besteak baino hobe izatekoak.",
+       "Bertuteak lau aurpegi ditu: jakinduria praktikoa, ausardia, justizia eta neurritasuna."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Nondik dator «estoizismo» izena?",
+       "opciones": [
+        [
+         "Zenonek irakasten zuen Atenasko ataripe margotutik (<em>Stoà poikílē</em>).",
+         true
+        ],
+        [
+         "«Mina jasatea» esan nahi duen hitz greko batetik.",
+         false,
+         "Nahasketa ohikoa da: izena leku batetik dator, ataripetik."
+        ],
+        [
+         "Haren sortzailearen izenetik.",
+         false,
+         "Sortzailea Zenon Zitiokoa izan zen."
+        ],
+        [
+         "Estagira hiritik.",
+         false,
+         "Estagira Aristotelesen jaioterria da."
+        ]
+       ],
+       "ok": "Zuzen: ataripetik, <em>stoá</em>tik.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zer dira pasioak estoikoentzat, eta zer kritika daiteke?",
+    "intro": [
+     "Ikaskide batek bultzada bat ematen dizu korridorean, eta sutu egiten zara. Gero jakiten duzu estropezu egin zuela. Haserrea bat-batean pasatzen zaizu. Zer aldatu da: gertatu zena, ala gertatu zela uste zenuena?"
+    ],
+    "pistas": [
+     "Kokatzeko: Krisiposek defendatu zuen pasio bat <em>judizio</em> bat dela, eta gainera okerra. Haserrea, adibidez, norbaitek bidegabeko kalte bat egin dizula eta ordaindu behar duela sinestea da. Judizioa aldatzen bada, emozioa aldatzen da, korridorean gertatu zitzaizun bezala.",
+     "Senekak, <em>Haserreaz</em> lanean, ñabardura bat egiten du: badira aukeratzen ez ditugun erreakzioak, trumoi baten aurrean ikaratzea kasu, eta oraindik ez dira pasioak. Pasioa lehen inpresio horri gure <em>baiezkoa</em> ematen diogunean hasten da.",
+     "Horregatik, helburua, <em>apátheia</em>, ez da hotza izatea, eraman ez uztea baizik; eta filosofia entrenamendu bat bezala praktikatzen da: Marko Aureliok gauero berrikusten zuen bere eguna, eta XX. mendean terapia kognitiboek herentzia hori aitortu zuten.",
+     "Kritikak: haren oinarria arrazoi jainkotiar batek (<em>lógos</em>) antolatutako kosmos bat da, eta denek ez dute hori partekatzen; kontrolatzen dudana eta kontrolatzen ez dudana bereiztea zorrotzegia da (William Irvinek hirugarren laukitxo bat gehitzen du: <strong>neurri batean</strong> kontrolatzen dudana); eta lasai onartu behar al dut bidegabekeria bat? Haren aldekoek gogorarazten dute <strong>justizia</strong> lau bertuteetako bat dela."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer da <em>apátheia</em> estoikoa?",
+     "opciones": [
+      [
+       "Pasioek eraman ez uztea, ez emozio orotik gabetzea.",
+       true
+      ],
+      [
+       "Inoiz ezer ez sentitzea, harri bat bezala.",
+       false,
+       "Jakintsu estoikoak emozio onak ere ezagutzen ditu, poz lasaia, adibidez."
+      ],
+      [
+       "Besteez ez arduratzea.",
+       false,
+       "Justiziak, lau bertuteetako batek, eragozten du hori."
+      ],
+      [
+       "Edozein bidegabekeria protestatu gabe jasatea.",
+       false,
+       "Hori da, hain zuzen, haren aldekoek kritikatzen duten bertsioa."
+      ]
+     ],
+     "ok": "Hain zuzen: eraman ez uztea.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Pasioak eta kritikak",
+      "titulo": "Pasioak judizio gisa",
+      "definicion": [
+       "<strong>Krisipos</strong>: pasio bat judizio oker bat da. <strong>Seneka</strong>: pasioa hasten da aukeratzen ez dugun lehen inpresio bati baiezkoa ematean.",
+       "<strong>Apátheia</strong> eraman ez uztea da; jakintsuak emozio onak ditu, poz lasaia, adibidez.",
+       "Kritikak: <em>lógos</em>aren kosmosa; kontrolagarriaren dikotomia, zorrotzegia (Irvine); eta bidegabekeria onartzeko arrisku politikoa, justiziaren bertuteak eta kosmopolitismo estoikoak erantzuten diotena."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer proposatzen du William Irvinek kontrolatzen dudanaren eta kontrolatzen ez dudanaren arteko banaketaren aurrean?",
+       "opciones": [
+        [
+         "Hirugarren laukitxo bat: neurri batean kontrolatzen dudana, azterketa baten nota, adibidez.",
+         true
+        ],
+        [
+         "Banaketa ezabatzea eta ezerez ez kezkatzea.",
+         false,
+         "Irvinek ez du ezabatzen: ñabardurak egiten dizkio."
+        ],
+        [
+         "Dena patuaren esku uztea.",
+         false,
+         "Hori gure esku dagoenaz ez arduratzea litzateke."
+        ],
+        [
+         "Dena kontrolatzea, diziplina handiz.",
+         false,
+         "Hain zuzen ere, dena ezin dela kontrolatu hartzen du abiapuntutzat."
+        ]
+       ],
+       "ok": "Zuzen: neurri batean nire esku dagoena.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu zer den etika estoikoa",
+   "parrafos": [
+    "Estoikoentzat, ongi bakarra bertutea da, bere lau aurpegiekin; gainerakoa ezaxolakoa da. Pasioak judizio okerrak dira, eta helburua eraman ez uztea da, egunero entrenatuz.",
+    "5. gaiko <a href=\"#teoria/fil-t5/4\">«Etika material handiak»</a> atalean duzu. Jarraitzeko: «Zer da bertutea Aristotelesentzat?»."
    ],
    "siguiente": "fil-virtud"
   }
@@ -3960,14 +5518,310 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zer eragozten zaio bertutearen etikari, eta nola erantzuten du?",
+    "intro": [
+     "Lagun batek konposatu duen abestia erakusten dizu, eta txarra iruditzen zaizu. Zintzotasunak esateko eskatzen du; adeitasunak, ez mintzeko. Zer egingo luke hemen «pertsona bertutetsu» batek?"
+    ],
+    "pistas": [
+     "Kokatzeko: eragozpen errepikatuena da bertutearen etikak <em>ez duela esaten zer egin</em>: «jokatu pertsona bertutetsu batek egingo lukeen bezala» hutsa dirudi, pertsona horrek zer egingo lukeen ez badakit. Rosalind Hursthousek erantzuten du bertute bakoitzak jada ematen duela jarraibide bat (izan zintzoa, ez izan krudela) eta beste teoriek ere judizioa behar dutela aplikatzeko.",
+     "Bigarrena <em>bertuteen arteko talka</em> da, zure lagunaren abestiarekin bezala. Aristotelesen erantzuna <em>zuhurtzia</em> da: ez du arau bat aplikatzen, kasu bakoitzean krudel izan gabe zintzo izateko modua bilatzen du baizik.",
+     "Hirugarrena <em>kultura-erlatibotasuna</em> da: aro bakoitzak bertute desberdinak miresten ditu. Martha Nussbaumek erantzuten du kultura guztiek esperientzia berberei aurre egin behar dietela (heriotzaren beldurra, ondasunen banaketa, plazerak) eta bertutea bakoitzari aurre egiteko modu zuzena dela.",
+     "Laugarrena, <strong>situazionismoa</strong>, psikologiatik dator: Milgramena bezalako esperimentuek erakusten dute egoerak pisu handia duela egiten dugunean, eta zenbait filosofok zalantzan jartzen dute izaera egonkorra existitzen den. Bertutearen aldekoek erantzuten dute horrek Aristotelesek bazekiena berresten duela: bertute osoa <strong>arraroa eta zaila</strong> da, ez ezinezkoa."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer defendatzen du eragozpen situazionistak?",
+     "opciones": [
+      [
+       "Egoerak hain pisu handia duela egiten dugunean, ezen agian ez dagoen izaera egonkorrik.",
+       true
+      ],
+      [
+       "Bertutearen etikak ez duela esaten zer egin.",
+       false,
+       "Hori beste eragozpen bat da, lehenengoa."
+      ],
+      [
+       "Kultura bakoitzak bere bertuteak dituela.",
+       false,
+       "Hori kultura-erlatibotasunaren eragozpena da."
+      ],
+      [
+       "Bertuteek elkarren artean talka egiten dutela.",
+       false,
+       "Hori bertuteen arteko talkaren eragozpena da."
+      ]
+     ],
+     "ok": "Hain zuzen: egoera izaeraren aurrean.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Eragozpenak eta erantzunak",
+      "titulo": "Lau eragozpen",
+      "definicion": [
+       "<strong>Ez du jarraibiderik ematen</strong> → Hursthouse: bertute eta bizio bakoitzak jarraibide bat ematen du.",
+       "<strong>Bertuteen arteko talka</strong> → zuhurtziak bilatzen du, kasu bakoitzean, biak betetzeko modua.",
+       "<strong>Kultura-erlatibotasuna</strong> → Nussbaum: giza esperientzia komunak. <strong>Situazionismoa</strong> (Harman, Doris) → bertute osoa arraroa da, ez ezinezkoa."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zer erantzuten dio aristoteliko batek zintzotasunaren eta adeitasunaren arteko talkari?",
+       "opciones": [
+        [
+         "Zuhurtziak bilatzen duela kasu bakoitzean krudel izan gabe zintzo izateko modua.",
+         true
+        ],
+        [
+         "Beti zintzotasunak irabazten duela.",
+         false,
+         "Ez dago arau finkorik: zuhurtziak erabakitzen du kasu bakoitzean."
+        ],
+        [
+         "Beti adeitasunak irabazten duela.",
+         false,
+         "Ezta ere: biak betetzeko modua bilatzea da kontua."
+        ],
+        [
+         "Bertuteak ez direla existitzen.",
+         false,
+         "Kontrara: talka beste bertute batekin konpontzen da, zuhurtziarekin."
+        ]
+       ],
+       "ok": "Zuzen: zuhurtzia.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu Aristotelesen etika",
    "parrafos": [
     "Bertutea bi bizioren arteko erdibidea aukeratzeko ohitura da, arrazoimen praktikoak gidatua. Horrela bizitzea da zoriontasuna: bere osotasunean ondo betetako bizitza.",
-    "Jarraitzeko: alderatu Epikurorekin (plazera minik eza gisa) eta Kantekin (betebeharra)."
+    "Jarraitzeko: alderatu Epikurorekin (plazera minik eza gisa) eta Kantekin (betebeharra).",
+    "Bertutearen etikari egindako eragozpenak 5. gaiko <a href=\"#teoria/fil-t5/4\">«Etika material handiak»</a> atalean dituzu."
    ]
+  }
+ },
+ {
+  "id": "fil-estado-nacion",
+  "subject": "fil",
+  "tema": "6. gaia · Gizarteko bizitza",
+  "unidad": "fil-t6",
+  "materia": "Filosofia 1. · Politika",
+  "titulo": "Gauza bera al dira Estatu bat eta nazio bat?",
+  "lede": "Eguneroko hizkerak nahasten dituen lau hitz —Estatua, herrialdea, nazioa eta aberria— eta zergatik laguntzen duen haiek bereizteak lasai eztabaidatzen. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Zer izendatzen du hitz hauetako bakoitzak: Estatua, herrialdea, nazioa eta aberria?",
+    "intro": [
+     "Norbaitek esaldi berean dio: «Herrialde honek Estatu eraginkor bat du, nazio zahar bat da eta nire aberria da». Lau aldiz gauza bera esaten ari da?"
+    ],
+    "pistas": [
+     "Kokatzeko: <em>Estatua</em> errealitate <em>juridikoa</em> da: lurralde eta populazio baten gaineko botere subiranoa, bere erakundeekin (gobernua, parlamentua, auzitegiak).",
+     "<em>Herrialdea</em> lurralde bat da batez ere, bere geografia eta administrazioarekin: mapa batean ikusten dena.",
+     "<em>Nazioa</em> historia, hizkuntza edo kultura partekatu batek lotzen duela sentitzen den komunitatea da. Eta <em>aberriak</em> komunitate horrekiko lotura afektiboa izendatzen du: leku batekoa izatearen sentipena.",
+     "Lau maila desberdin dira —<strong>juridikoa</strong>, <strong>lurraldekoa</strong>, <strong>kulturala</strong> eta <strong>emozionala</strong>—, eta bat etor daitezke ala ez. Adibideko esaldiak lau gauza esaten ditu, ez bat."
+    ],
+    "comprobacion": {
+     "pregunta": "Hitz hauetako zeinek izendatzen du errealitate juridiko bat?",
+     "opciones": [
+      [
+       "Estatua.",
+       true
+      ],
+      [
+       "Nazioa.",
+       false,
+       "Nazioa komunitate kulturala da: erakunde propiorik gabe ere existi daiteke."
+      ],
+      [
+       "Aberria.",
+       false,
+       "Aberria lotura afektiboa da, ez erakunde bat."
+      ],
+      [
+       "Herrialdea.",
+       false,
+       "Herrialdea lurralde bat da batez ere."
+      ]
+     ],
+     "ok": "Ondo: Estatua erakundeak dituen boterea da.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Hitz bakoitza, bere mailan",
+      "definicion": [
+       "«Estatuak hezkuntza-lege bat onartu du». → Maila <strong>juridikoa</strong>.",
+       "«Herrialde honek mendi asko ditu». → <strong>Lurralde</strong>-maila.",
+       "«Hizkuntza propioa duen nazio bat gara». → Maila <strong>kulturala</strong>.",
+       "«Kanpoan nagoenean nire lurraldearen falta sumatzen dut». → Maila <strong>emozionala</strong> (aberria)."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "«Korapilo bat sentitzen dut eztarrian nire herriko musika entzuten dudanean». Zein mailari dagokio?",
+       "opciones": [
+        [
+         "Emozionalari: aberria lotura afektibo gisa.",
+         true
+        ],
+        [
+         "Juridikoari: Estatua.",
+         false,
+         "Ez du legeez ez erakundeez hitz egiten."
+        ],
+        [
+         "Lurraldekoari: herrialdea.",
+         false,
+         "Ez du lurralde bat deskribatzen, sentimendu bat baizik."
+        ],
+        [
+         "Bat ere ez: musika besterik ez da.",
+         false,
+         "Leku batekiko eta komunitate batekiko lotura adierazten du."
+        ]
+       ],
+       "ok": "Zuzen: maila emozionala.",
+       "mal": "Begiratu berriro adibideei.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Lau maila",
+      "definicion": [
+       "<strong>Estatua</strong>: lurralde eta populazio baten gaineko botere subiranoa, erakundeekin (maila juridikoa).",
+       "<strong>Herrialdea</strong>: lurraldea, bere geografia eta administrazioarekin (lurralde-maila).",
+       "<strong>Nazioa</strong>: historiak, hizkuntzak edo kulturak lotutako komunitatea (maila kulturala). <strong>Aberria</strong>: harekiko lotura afektiboa (maila emozionala)."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Existi daiteke nazio bat Estatu propiorik gabe?",
+       "opciones": [
+        [
+         "Bai: nazioa komunitate kulturala da, eta ez du zertan Estatu batekin bat etorri.",
+         true
+        ],
+        [
+         "Ez: nazio bat, definizioz, Estatu bat da.",
+         false,
+         "Hori da, hain zuzen, atalak saihestu nahi duen nahasketa."
+        ],
+        [
+         "Oso txikia bada bakarrik.",
+         false,
+         "Tamainak ez du ezer erabakitzen: mailak bat datozen ala ez, horren araberakoa da."
+        ],
+        [
+         "Antzinaroan bakarrik.",
+         false,
+         "Gaur ere badira Estaturik gabeko nazioak eta hainbat Estaturen artean banatutako nazioak."
+        ]
+       ],
+       "ok": "Zuzen: maila desberdinak.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Nazio bakoitzari Estatu bat egokitu behar al zaio?",
+    "intro": [
+     "Begiratu Europako mapa bat bere mugekin, eta beste bat bere hizkuntzekin. Lerroak bat datoz?"
+    ],
+    "pistas": [
+     "Kokatzeko: <em>Estatu-nazio</em> modernoa ideia baten gainean eraiki zen: nazio bakoitzari Estatu bat dagokio, eta Estatu bakoitzari, nazio bat.",
+     "Baina errealitatea ia inoiz ez da hala: badira <em>Estatu nazioanitzak</em>, hainbat nazio biltzen dituztenak, eta badira hainbat Estaturen artean banatuta edo Estatu propiorik gabe dauden nazioak.",
+     "Adibide hurbil bat: euskal kultura Espainiaren eta Frantziaren arteko mugaren alde banatan bizi da. Kulturaren mugak eta politikarenak ez doaz zertan batera.",
+     "Lau mailak bereizteak ez du ebazten nortasunari, kidetasunari eta autogobernuari buruzko eztabaida, <strong>alde guztietatik politikoa eta zilegia</strong> dena; baina lasaiago eztabaidatzen laguntzen du, bakoitzak badakielako zein mailaz ari den."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer suposatzen zuen Estatu-nazioaren idealak?",
+     "opciones": [
+      [
+       "Nazio bakoitzari Estatu bat zegokiola, eta Estatu bakoitzari, nazio bat.",
+       true
+      ],
+      [
+       "Estatuek ez dutela mugarik izan behar.",
+       false,
+       "Kontrara: nazioekin bat etorriko ziren mugak suposatzen zituen."
+      ],
+      [
+       "Nazioak ez direla existitzen.",
+       false,
+       "Nazioak badirela eta beren Estatua izan behar zutela hartzen zuen abiapuntutzat."
+      ],
+      [
+       "Hiri bakoitzak Estatu bat izan behar duela.",
+       false,
+       "Hori hiri-estatu grekoaren antzekoagoa da."
+      ]
+     ],
+     "ok": "Hain zuzen: nazio bat, Estatu bat.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Estatu-nazioa",
+      "titulo": "Mailak bat ez datozenean",
+      "definicion": [
+       "<strong>Estatu-nazioa</strong>: nazioa eta Estatua bat etortzearen ideala.",
+       "<strong>Estatu nazioanitza</strong>: hainbat nazio biltzen dituen Estatua. Badira, halaber, hainbat Estaturen artean banatutako nazioak edo Estatu propiorik gabeak.",
+       "Errealitate horiek nola antolatu behar diren eztabaida politiko irekia da, norabide askotako arrazoiekin; mailak bereizteak hobeto eztabaidatzeko balio du, ez eztabaida ixteko."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zertarako balio du Estatua, herrialdea, nazioa eta aberria bereizteak autogobernuari buruzko eztabaidan?",
+       "opciones": [
+        [
+         "Argiago eztabaidatzeko, bakoitza zein mailaz ari den jakinda, eztabaida itxitzat eman gabe.",
+         true
+        ],
+        [
+         "Nork duen arrazoi frogatzeko.",
+         false,
+         "Bereizketak eztabaida argitzen du; ez dio inori arrazoia ematen."
+        ],
+        [
+         "Politikaz hitz egiteari uzteko.",
+         false,
+         "Kontrara: hartaz hobeto hitz egiteko aukera ematen du."
+        ],
+        [
+         "Kidetasun-sentimenduak ezabatzeko.",
+         false,
+         "Aberria maila zilegia da: kontua da beste mailekin ez nahastea."
+        ]
+       ],
+       "ok": "Zuzen: argitasuna, ez epaia.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu bereizten Estatua, herrialdea, nazioa eta aberria",
+   "parrafos": [
+    "Estatua juridikoa da, herrialdea lurraldekoa, nazioa kulturala eta aberria emozionala. Estatu-nazioaren idealak bat etorrarazi nahi zituen, baina badira Estatu nazioanitzak eta banatutako edo Estaturik gabeko nazioak.",
+    "6. gaiko <a href=\"#teoria/fil-t6/3\">«Boterea eta bere legitimitatea»</a> atalean duzu. Jarraitzeko: «Zerk egiten du legitimo boterea?»."
+   ],
+   "siguiente": "fil-legitimidad"
   }
  },
  {
@@ -4175,13 +6029,93 @@ const PISTAS = [
       }
      }
     ]
+   },
+   {
+    "fase": "3. fasea · Zabalkuntza",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Nola aldatzen dute politika gizarte-mugimenduek?",
+    "intro": [
+     "Duela mende bat, emakumeek ezin zuten bozkatu herrialde gehienetan. Parlamentu batek egun batean erabaki zuelako aldatu zen hori, ala zerbait gertatu zen lehenago?"
+    ],
+    "pistas": [
+     "Kokatzeko: politika guztia ez da alderdietatik eta hautetontzietatik pasatzen. <em>Gizarte-mugimenduek</em> jendea erakundeetatik kanpo antolatzen dute, legeak eta ohiturak aldatzeko.",
+     "Adibideak: sufragismoa, eskubide zibilen aldeko mugimendua, langile-mugimendua, feminismoa, ekologismoa. Gaur begi-bistakoak diruditen eskubide asko gizarte-presio iraunkorrarekin lortu ziren, parlamentuetara iritsi baino lehen.",
+     "Haren tresnetako bat <em>desobedientzia zibila</em> da. Henry David Thoreauk defendatu zuen XIX. mendean, esklabotza eta gerra ordaintzen zituen zerga bat ordaintzeari uko eginez; Gandhik eta Martin Luther Kingek masa-estrategia bihurtu zuten.",
+     "<strong>Delitu arruntetik</strong> bereizten duena: ez du norberaren onura bilatzen, ezta ezkutatzea ere, arau bat <strong>printzipio partekatuetara</strong> joz aldatzea baizik. Legea beti bete behar den, edo noiz den zilegi desobeditzea, eztabaida irekia da oraindik."
+    ],
+    "comprobacion": {
+     "pregunta": "Zerk bereizten du desobedientzia zibila delitu arrunt batetik?",
+     "opciones": [
+      [
+       "Ez duela norberaren onura bilatzen, ezta ezkutatzea ere, arau bat printzipio partekatuetara joz aldatzea baizik.",
+       true
+      ],
+      [
+       "Inoiz ez duela ondorio legalik.",
+       false,
+       "Praktikatzen duenak zigorra onartzen du."
+      ],
+      [
+       "Alderdi politikoek bakarrik praktika dezaketela.",
+       false,
+       "Ia beti alderdietatik kanpo sortzen da, gizarte-mugimenduetan."
+      ],
+      [
+       "Beti dela bortitza.",
+       false,
+       "Definizioz, indarkeriarik gabea da."
+      ]
+     ],
+     "ok": "Hain zuzen: publikoa eta printzipioengatik egina.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Gizarte-mugimenduak",
+      "titulo": "Politika erakundeetatik kanpo",
+      "definicion": [
+       "<strong>Gizarte-mugimenduak</strong>: sufragismoa, eskubide zibilak, langile-mugimendua, feminismoa, ekologismoa; presio iraunkorra legeak eta ohiturak aldatzeko.",
+       "<strong>Desobedientzia zibila</strong>: bidegabetzat jotzen den lege bat modu publiko, indarkeriarik gabe eta nahita ez betetzea, zigorra onartuz. Thoreau, Gandhi, Martin Luther King.",
+       "Eztabaida irekita dago: batzuek legea beti betetzea defendatzen dute, eta beste batzuek, bidegabekeria larriko kasuetan desobeditzea."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Zergatik uko egin zion Thoreauk zerga bat ordaintzeari?",
+       "opciones": [
+        [
+         "Esklabotza eta gerra ordaintzen zituelako.",
+         true
+        ],
+        [
+         "Dirurik ez zuelako.",
+         false,
+         "Printzipiozko erabakia izan zen, ez diru faltagatikoa."
+        ],
+        [
+         "Dirua beretzat gorde nahi zuelako.",
+         false,
+         "Ez zuen norberaren onurarik bilatzen: horrek bereiziko luke delitu arrunt batetik."
+        ],
+        [
+         "Zerga berria zelako.",
+         false,
+         "Arrazoia morala zen: zergak finantzatzen zuena."
+        ]
+       ],
+       "ok": "Zuzen: finantzatzen zuenagatik.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
    }
   ],
   "cierre": {
    "titulo": "Badakizu zerk egiten duen legitimo boterea",
    "parrafos": [
     "Boterea agintzeko gaitasuna da; legitimitatea, hori egiteko onartutako eskubidea. Weberrek hiru iturri bereizi zituen: tradizioa, karisma eta legea.",
-    "Baina legezkoa ez da beti justua, Antigonak erakutsi zuen bezala. Desobedientzia zibila lege bidegabeei emandako erantzun bat da, bere arriskuengatik eztabaidatua. Jarraitzeko: «Zer da gizarte-kontratua?»."
+    "Baina legezkoa ez da beti justua, Antigonak erakutsi zuen bezala. Desobedientzia zibila lege bidegabeei emandako erantzun bat da, bere arriskuengatik eztabaidatua. Jarraitzeko: «Zer da gizarte-kontratua?».",
+    "Gizarte-mugimenduak 6. gaiko <a href=\"#teoria/fil-t6/7\">«Ideologiak eta gaur egungo erronkak»</a> atalean dituzu."
    ],
    "siguiente": "fil-contrato"
   }
@@ -4697,6 +6631,223 @@ const PISTAS = [
     "Ezjakintasunaren estalkia Rawlsen pentsamendu-esperimentua da: arauak aukeratzea zer leku izango duzun jakin gabe. Hortik ateratzen dira maximin araua eta bi printzipio: askatasun berdinak guztientzat eta desberdintasunak egoerarik txarrenean daudenei mesede egiten badiete bakarrik. Nozickek erantzuten dio justua gauza bakoitza nola eskuratu zen araberakoa dela.",
     "Pentsatzeko: alderatu estalkiaren atzean aukeratuko zenukeena bizi zaren gizartearekin. Antzik ez badute, zergatik defendatzen dituzu bizitza errealean zer leku egokituko zaizun jakin gabe idazteko ausartuko ez zinatekeen gauzak?"
    ]
+  }
+ },
+ {
+  "id": "fil-democracia-derechos",
+  "subject": "fil",
+  "tema": "6. gaia · Gizarteko bizitza",
+  "unidad": "fil-t6",
+  "materia": "Filosofia 1. · Politika",
+  "titulo": "Zer behar da demokrazia bat benetan demokrazia izan dadin?",
+  "lede": "Bozkatzea ez da nahikoa: demokrazia liberal baten ezaugarriak, eta zer dioen eta zer indar duen Giza Eskubideen Adierazpen Unibertsalak. Eskatu behar dituzun pistak bakarrik.",
+  "ciclos": [
+   {
+    "fase": "1. fasea · Berreskuratzea",
+    "etiqueta": "Hasierako galdera",
+    "pregunta": "Nahikoa al da hauteskundeak egotea herrialde bat demokrazia liberala izateko?",
+    "intro": [
+     "Herrialde imajinario batean lau urtean behin bozkatzen da. Baina alderdi bakar bati bakarrik eman dakioke botoa, egunkariak gobernuak kontrolatzen ditu eta epaileak presidenteak izendatzen ditu. Demokrazia bat al da?"
+    ],
+    "pistas": [
+     "Kokatzeko: hauteskundeak badaude, bai, baina <em>pluralismoa</em> falta da: alderdi eta iritzi askok lehiatzea. Alderdi bakarrarekin, bozkatzeak ez du ezer aukeratzen.",
+     "Falta da, halaber, <em>legearen nagusitasuna</em>: gobernatzen duena ere haren menpe egotea, beste edonor bezala, eta <em>kontu-ematea</em>: egiten duenaren kontu ematea epaile independenteen eta herritarren aurrean.",
+     "Eta <em>gizarte zibil</em> aktibo bat falta da: Estatuaren menpe ez dauden prentsa, elkarteak eta sindikatuak.",
+     "<strong>Demokrazia liberal</strong> batek hainbat ezaugarri biltzen ditu aldi berean: pluralismoa, legearen nagusitasuna, kontu-ematea, hauteskunde libre eta aldizkakoak, gizarte zibil aktiboa, gehiengoaren gobernua <strong>gutxiengoen eskubideekin</strong> eta ordezkaritza. Hauteskundeak horietako bat dira, ez guztiak."
+    ],
+    "comprobacion": {
+     "pregunta": "Zer esan nahi du «gehiengoa gutxiengoen eskubideekin» esapideak?",
+     "opciones": [
+      [
+       "Hauteskundeak irabazten dituenak gobernatzen duela, baina galtzen duenaren eskubideak zapaldu gabe.",
+       true
+      ],
+      [
+       "Gehiengoak gutxiengoari buruz edozer erabaki dezakeela.",
+       false,
+       "Hori gehiengoaren tirania litzateke, hain zuzen ezaugarri honek saihesten duena."
+      ],
+      [
+       "Beti gutxiengoak gobernatzen duela.",
+       false,
+       "Gehiengoak gobernatzen du, mugekin."
+      ],
+      [
+       "Inoiz ez dela bozkatzen, inor ez gogaitzeko.",
+       false,
+       "Bozkatu egiten da; botoak kendu ezin dituen eskubideak daude, ordea."
+      ]
+     ],
+     "ok": "Ondo: irabazteak ez du edozertarako eskubiderik ematen.",
+     "mal": "Oraindik ez."
+    },
+    "rescate": [
+     {
+      "boton": "Adibideak ikusi behar ditut",
+      "etiqueta": "Adibideak",
+      "titulo": "Ezaugarri bakoitza, bere kontrakoarekin",
+      "definicion": [
+       "Pluralismoa ↔ alderdi bakarra.",
+       "Legearen nagusitasuna ↔ botere arbitrarioa.",
+       "Kontu-ematea ↔ zigorgabetasuna.",
+       "Hauteskunde libre eta aldizkakoak ↔ kargu biziartekoa edo oinordetua.",
+       "Gizarte zibil aktiboa ↔ bizitza publikoaren Estatu-kontrola."
+      ],
+      "comprobacion": {
+       "etiqueta": "Adibideen egiaztapena",
+       "pregunta": "Ministro bat, egiten duena egiten duela, ezin da epaitu. Zer ezaugarri falta da?",
+       "opciones": [
+        [
+         "Kontu-ematea (eta legearen nagusitasuna).",
+         true
+        ],
+        [
+         "Pluralismoa.",
+         false,
+         "Arazoa ez da zenbat alderdik lehiatzen duten, inork ez diola konturik eskatzen baizik."
+        ],
+        [
+         "Ordezkaritza.",
+         false,
+         "Hautatua izan daiteke; huts egiten duena da bere ekintzen erantzule ez izatea."
+        ],
+        [
+         "Gizarte zibila.",
+         false,
+         "Egon daiteke; hutsegitea da boterea legetik ihes egitea."
+        ]
+       ],
+       "ok": "Zuzen: zigorgabetasuna kontu-ematearen aurrean.",
+       "mal": "Begiratu berriro kontrakoak.",
+       "intentos": 2
+      }
+     },
+     {
+      "etiqueta": "Definizioa eta azalpena",
+      "titulo": "Demokrazia liberala",
+      "definicion": [
+       "<strong>Demokrazia liberal</strong> batek gehiengoaren gobernua eta guztien eskubideak babesten dituzten mugak uztartzen ditu.",
+       "Haren ezaugarriak: pluralismoa, legearen nagusitasuna, kontu-ematea, hauteskunde libre eta aldizkakoak, gizarte zibil aktiboa, gehiengoa gutxiengoen eskubideekin eta ordezkaritza.",
+       "Ezaugarri bakoitza hobeto ulertzen da bere kontrakoaren bidez: alderdi bakarra, botere arbitrarioa, zigorgabetasuna, kargu oinordetua, Estatu-kontrola, gehiengoaren tirania."
+      ],
+      "comprobacion": {
+       "boton": "Ulermena egiaztatu",
+       "etiqueta": "Azken egiaztapena",
+       "pregunta": "Zer esan nahi du «legearen nagusitasunak»?",
+       "opciones": [
+        [
+         "Gobernatzen duena ere legearen menpe dagoela.",
+         true
+        ],
+        [
+         "Lege asko daudela.",
+         false,
+         "Ez da kopuru kontua, inor ez egotea gainetik baizik."
+        ],
+        [
+         "Gobernuak legea nahi duenean alda dezakeela, mugarik gabe.",
+         false,
+         "Hori botere arbitrarioa litzateke."
+        ],
+        [
+         "Legea enperadore batek egiten duela.",
+         false,
+         "«Nagusitasuna» legearena da hemen, ez pertsona batena."
+        ]
+       ],
+       "ok": "Zuzen: inor ez dago legearen gainetik.",
+       "mal": "Oraindik ez."
+      }
+     }
+    ]
+   },
+   {
+    "fase": "2. fasea · Sakontzea",
+    "etiqueta": "Galdera berria",
+    "pregunta": "Zer dio Giza Eskubideen Adierazpen Unibertsalak, eta behartzen al ditu Estatuak?",
+    "intro": [
+     "Herrialde batek 1948ko Adierazpen Unibertsalaren alde bozkatu zuen, eta, hala ere, kazetariak espetxeratzen ditu. Nazioarteko lege bat urratzen ari da?"
+    ],
+    "pistas": [
+     "Kokatzeko: NBEren Batzar Nagusiak 1948an onartu zuen Adierazpena, Bigarren Mundu Gerraren ondoren. Bere hitzaurrea gizaki ororen <em>duintasunetik</em> abiatzen da.",
+     "1. artikuluak aldarrikatzen du denok libre eta berdin jaiotzen garela duintasunean eta eskubideetan; 2.ak diskriminazioa debekatzen du. 3.etik 21.era bitarteko artikuluek eskubide <em>zibilak eta politikoak</em> jasotzen dituzte (bizitza, askatasuna, epaiketa bidezkoa, adierazpena, parte-hartzea), eta 22.etik 27.era bitartekoek, eskubide <em>ekonomikoak, sozialak eta kulturalak</em> (lana, hezkuntza, osasuna).",
+     "Baina kontuz haren indarrarekin: Adierazpena Batzarraren <em>ebazpen</em> bat da, ez itun bat. Ideal komun bat finkatzen du, baina berez ez du juridikoki behartzen.",
+     "Horregatik, 1966an bi <strong>itun</strong> onartu ziren —bata eskubide zibil eta politikoena, bestea eskubide ekonomiko, sozial eta kulturalena—, eta horiek bai, itunak dira eta berresten dituzten Estatuak behartzen dituzte. Laburrean: <strong>Adierazpenak inspiratu egiten du, eta itunek behartu</strong>."
+    ],
+    "comprobacion": {
+     "pregunta": "Zergatik ez ditu 1948ko Adierazpenak, berez, Estatuak behartzen?",
+     "opciones": [
+      [
+       "Batzar Nagusiaren ebazpen bat delako, ez itun bat.",
+       true
+      ],
+      [
+       "Inongo herrialdek ez zuelako sinatu.",
+       false,
+       "NBEren Batzar Nagusiak onartu zuen."
+      ],
+      [
+       "Eskubide ekonomikoez bakarrik hitz egiten duelako.",
+       false,
+       "Eskubide zibil eta politikoak jasotzen ditu, baita ekonomikoak, sozialak eta kulturalak ere."
+      ],
+      [
+       "1966an iraungi zelako.",
+       false,
+       "Ez zen iraungi: 1966an itunak gehitu ziren, eta horiek bai, behartzen dute."
+      ]
+     ],
+     "ok": "Hain zuzen: ebazpena, ez ituna.",
+     "mal": "Ez zehazki."
+    },
+    "rescate": [
+     {
+      "boton": "Azalpena erakutsi",
+      "etiqueta": "Adierazpena barrutik",
+      "titulo": "Edukia eta indarra",
+      "definicion": [
+       "<strong>Hitzaurrea</strong>: gizaki ororen duintasuna. <strong>1. art.</strong>: libre eta berdin duintasunean eta eskubideetan. <strong>2. art.</strong>: diskriminaziorik eza.",
+       "<strong>3.-21. art.</strong>: eskubide zibilak eta politikoak. <strong>22.-27. art.</strong>: eskubide ekonomikoak, sozialak eta kulturalak.",
+       "<strong>Indarra</strong>: Adierazpena (1948) ebazpen bat da; 1966ko bi <strong>itunak</strong> itunak dira, eta berresten dituena behartzen dute."
+      ],
+      "comprobacion": {
+       "boton": "Egiaztatuz amaitu",
+       "pregunta": "Adierazpenaren zein artikulutan daude eskubide ekonomikoak, sozialak eta kulturalak?",
+       "opciones": [
+        [
+         "22.etik 27.era.",
+         true
+        ],
+        [
+         "3.etik 21.era.",
+         false,
+         "Horiek zibilak eta politikoak dira."
+        ],
+        [
+         "Hitzaurrean bakarrik.",
+         false,
+         "Hitzaurreak duintasuna oinarritzen du; eskubideak gero zerrendatzen dira."
+        ],
+        [
+         "Ez dira Adierazpenean agertzen.",
+         false,
+         "Bai, agertzen dira: lana, hezkuntza, osasuna, kultura-bizitza."
+        ]
+       ],
+       "ok": "Zuzen: 22.etik 27.era.",
+       "mal": "Irakurri berriro azalpena."
+      }
+     }
+    ]
+   }
+  ],
+  "cierre": {
+   "titulo": "Badakizu zer den demokrazia liberal bat eta zer indar duten giza eskubideek",
+   "parrafos": [
+    "Demokrazia liberal bat ez da bozkatzera mugatzen: pluralismoa, legearen nagusitasuna, kontu-ematea, gizarte zibila eta gutxiengoen eskubideak eskatzen ditu. 1948ko Adierazpenak inspiratu egiten du; 1966ko itunek behartu.",
+    "6. gaiko <a href=\"#teoria/fil-t6/5\">«Gobernu-formak eta demokrazia»</a> eta <a href=\"#teoria/fil-t6/6\">«Giza eskubideak eta zuzenbide-estatua»</a> ataletan duzu. Jarraitzeko: «Dena da erlatiboa moralean?», eskubideak unibertsalak diren ala ez eztabaidarekin."
+   ],
+   "siguiente": "fil-relativismo"
   }
  },
  {
