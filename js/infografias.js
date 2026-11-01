@@ -279,7 +279,7 @@ const INFOGRAFIAS = {
    },
    {
     "type": "quote",
-    "label": "Post-egia",
+    "label": "Egia-ostea",
     "big": "Eta gertaerek axola ez badute?",
     "text": "Emozioek datuek baino gehiago pisatzen dutenean, <b>buloek</b> eta oihartzun-ganberek irabazten dute. Defentsa: <b>pentsamendu kritikoa</b> eta iturriak kontrastatzea."
    },
@@ -310,10 +310,10 @@ const INFOGRAFIAS = {
  },
  "fil-posverdad": {
   "subject": "fil",
-  "label": "Egia eta post-egia",
+  "label": "Egia eta egia-ostea",
   "accent": "#2bb7c4",
   "burstInk": "#04222a",
-  "title": "EGIA ETA<br><em>POST-EGIA</em>",
+  "title": "EGIA ETA<br><em>EGIA-OSTEA</em>",
   "kicker": "Filosofia · 1. Batx. · 3. gaia",
   "subtitle": "Zer da egia buloen aroan?",
   "tagline": "Post veritas",
@@ -345,9 +345,9 @@ const INFOGRAFIAS = {
    },
    {
     "type": "quote",
-    "label": "Post-egiaren aroa",
+    "label": "Egia-ostearen aroa",
     "big": "Emozioak datuak baino gehiago pisatzen duenean",
-    "text": "<b>Post-egia</b>: <b>gertakariek gutxiago axola duten</b> egoerak, sentitzen dugunak edo sinetsi nahi dugunak baino. Nire iritzia berresten duen gezurrak egia deserosoari irabazten dio."
+    "text": "<b>Egia-ostea</b>: <b>gertakariek gutxiago axola duten</b> egoerak, sentitzen dugunak edo sinetsi nahi dugunak baino. Nire iritzia berresten duen gezurrak egia deserosoari irabazten dio."
    },
    {
     "type": "columns",

@@ -726,7 +726,7 @@ const RESUMENES_FIL = [
     ]
    },
    {
-    "heading": "Postegia eta fake news",
+    "heading": "Egia-ostea eta fake news",
     "d": "Egia gai politikoa ere bada.",
     "items": [
      {
@@ -735,7 +735,7 @@ const RESUMENES_FIL = [
       "a": "Hannah Arendt"
      },
      {
-      "t": "Postegia",
+      "t": "Egia-ostea",
       "d": "gertaerek emozioek eta sinesmenek baino gutxiago pisatzen dute; desinformazioa, informazio okerra eta buloak ugaritzen dira"
      },
      {

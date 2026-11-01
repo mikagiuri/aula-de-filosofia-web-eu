@@ -453,7 +453,7 @@ const DECKS = {
    ],
    [
     "🗣️",
-    "Postegia",
+    "Egia-ostea",
     "Iritzia eratzean emozioek eta sinesmen pertsonalek gertaerek baino gehiago pisatzen duten egoera."
    ],
    [
@@ -927,12 +927,12 @@ const DECKS = {
   ]
  },
  "fil-posverdad": {
-  "name": "Filosofia 1.º · Postegia eta fake news (T3)",
+  "name": "Filosofia 1.º · Egia-ostea eta fake news (T3)",
   "subject": "fil",
   "cards": [
    [
     "🗣️",
-    "Postegia",
+    "Egia-ostea",
     "Emozioek eta sinesmenek gertaerek baino gehiago pisatzen duten egoera, iritzia eratzean."
    ],
    [
@@ -1712,7 +1712,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-ampliacion": {
-  "name": "Pertzepzioa, oroimena, posegia eta emakumea zientzian (Filosofia 1. · T3 · zabalkuntza)",
+  "name": "Pertzepzioa, oroimena, egia-ostea eta emakumea zientzian (Filosofia 1. · T3 · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -2864,7 +2864,7 @@ const QUIZZES = {
     "fb": "Jaiotzetiko ideiak: arrazionalismoak defendatuak, enpirismoak ukatuak."
    },
    {
-    "q": "Zerk bereizten du «post-egia»?",
+    "q": "Zerk bereizten du «egia-ostea»?",
     "o": [
      "Gertaerek emozioek baino gehiago pisatzen dutela.",
      "Emozioek eta uste pertsonalek gertaerek baino gehiago pisatzen dutela iritzia osatzean.",
@@ -2872,7 +2872,7 @@ const QUIZZES = {
      "Zientziak beti asmatzen duela."
     ],
     "a": 1,
-    "fb": "Post-egia: emozioek eta usteek gertaera objektiboek baino gehiago pisatzen dute."
+    "fb": "Egia-ostea: emozioek eta usteek gertaera objektiboek baino gehiago pisatzen dute."
    },
    {
     "q": "Egia «korrespondentzia» gisa dioenez, egiazkoa da…",
@@ -3153,7 +3153,7 @@ const QUIZZES = {
   ]
  },
  "fil-ciencia-q": {
-  "name": "Zientzia, metodoa eta postegia (Filosofia 1.º · T3)",
+  "name": "Zientzia, metodoa eta egia-ostea (Filosofia 1.º · T3)",
   "subject": "fil",
   "items": [
    {
@@ -3223,7 +3223,7 @@ const QUIZZES = {
     "fb": "Koherentzia: sinesmen-sistema baten barruan kontraesanik gabe sartzea."
    },
    {
-    "q": "«Postegiak» deskribatzen du egoera non…",
+    "q": "«Egia-osteak» deskribatzen du egoera non…",
     "o": [
      "gertaerek emozioek baino gehiago pisatzen duten.",
      "emozioek eta sinesmenek gertaerek baino gehiago pisatzen duten iritzia eratzean.",
@@ -3231,7 +3231,7 @@ const QUIZZES = {
      "zientziak beti asmatzen duen."
     ],
     "a": 1,
-    "fb": "Postegian emozioak eta sinesmenak gertaera objektiboak baino gehiago pisatzen dute."
+    "fb": "Egia-ostean emozioak eta sinesmenak gertaera objektiboak baino gehiago pisatzen dute."
    },
    {
     "q": "«Berrespen-alborapenak» honetan datza…",
@@ -8053,7 +8053,7 @@ const QUIZZES = {
      "Informazio faltsua zabaltzean, batzuetan nahita"
     ],
     "a": 3,
-    "fb": "Desinformazioa informazio faltsua zabaltzean datza, batzuetan nahita; post-egian loratzen diren fenomenoetako bat da, buloekin batera."
+    "fb": "Desinformazioa informazio faltsua zabaltzean datza, batzuetan nahita; egia-ostean loratzen diren fenomenoetako bat da, buloekin batera."
    },
    {
     "q": "Zer dira buloak edo fake news-ak?",

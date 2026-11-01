@@ -1995,7 +1995,7 @@ const PISTAS = [
      "Kokatzeko: <em>gertaera</em> bat gertatu zena da; <em>interpretazio</em> bat, gertatutakoaz pentsatzen duguna. Gertaera beraren interpretazio desberdinak egon daitezke.",
      "Hiru mila pertsona joan baziren, eztabaida daiteke arrakasta ala porrota izan zen. Ezin dena da aldi berean hiru mila eta hamar mila joan izana.",
      "Horregatik, «gertaera alternatiboak», Etxe Zuriko aholkulari batek 2017an zifra faltsu bat defendatzeko erabili zuen adierazpena, ia oximoron bat da, terminoetan kontraesan bat.",
-     "Talde bakoitzak «bere» gertaerak baditu, desadostasunerako <strong>oinarri komuna</strong> galtzen da: jada ez da eztabaidatzen gertatu zenak zer esan nahi duen, zer gertatu zen baizik. Horri deitzen zaio <strong>posegia</strong>."
+     "Talde bakoitzak «bere» gertaerak baditu, desadostasunerako <strong>oinarri komuna</strong> galtzen da: jada ez da eztabaidatzen gertatu zenak zer esan nahi duen, zer gertatu zen baizik. Horri deitzen zaio <strong>egia-ostea</strong>."
     ],
     "comprobacion": {
      "pregunta": "Zergatik egiten dute ezinezko eztabaida «gertaera alternatiboek»?",
@@ -2064,9 +2064,9 @@ const PISTAS = [
      },
      {
       "etiqueta": "Definizioa eta azalpena",
-      "titulo": "Postegia",
+      "titulo": "Egia-ostea",
       "definicion": [
-       "<strong>Posegia</strong>: iritzia osatzerakoan gertaerek emozioek eta aurretiko sinesmenek baino pisu txikiagoa duten egoera. Hitzaren erabilera 2016an ugaldu zen.",
+       "<strong>Egia-ostea</strong>: iritzia osatzerakoan gertaerek emozioek eta aurretiko sinesmenek baino pisu txikiagoa duten egoera. Hitzaren erabilera 2016an ugaldu zen.",
        "<strong>Gertaera</strong> bat gertatu zena da; <strong>interpretazio</strong> bat, horretaz pentsatzen duguna. Interpretazio alternatiboak egon daitezke, ez gertaera alternatiboak.",
        "Gehiegizko informazioak eragiten duen nekeaz gain, <strong>talde-identitateak</strong> ere eragina du: sinesmenez aldatzea geureei traizio egitea bezala senti daiteke."
       ],
@@ -2182,10 +2182,10 @@ const PISTAS = [
    }
   ],
   "cierre": {
-   "titulo": "Badakizu nola dabilen posegia",
+   "titulo": "Badakizu nola dabilen egia-ostea",
    "parrafos": [
     "Interpretazio alternatiboak egon daitezke, ez gertaera alternatiboak. Faltsua sinesten dugu nekeagatik, garen taldeagatik eta abokatuek bezala arrazoitzen dugulako; boterea edo dirua bilatzen duenak engainatzen du, eta txarlatanak ez dio egiari begiratu ere egiten.",
-    "3. gaiko <a href=\"#teoria/fil-t3/5\">«Posegia eta fake newsak»</a> atalean duzu. Jarraitzeko: «Fida gaitezke hautematen eta gogoratzen dugunaz?», «Zer da zerbait jakitea, eta ez bakarrik sinestea?» Pistan."
+    "3. gaiko <a href=\"#teoria/fil-t3/5\">«Egia-ostea eta fake newsak»</a> atalean duzu. Jarraitzeko: «Fida gaitezke hautematen eta gogoratzen dugunaz?», «Zer da zerbait jakitea, eta ez bakarrik sinestea?» Pistan."
    ]
   }
  },

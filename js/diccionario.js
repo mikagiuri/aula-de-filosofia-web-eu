@@ -639,7 +639,7 @@ const DICCIONARIO = [
  },
  {
   "subject": "fil",
-  "t": "Postegia",
+  "t": "Egia-ostea",
   "id": "g-fil-posverdad",
   "et": "Latinezko *post* «ondoren» + *veritas* «egia». Ingelesezko *post-truth* itzultzen du.",
   "area": "Epistemologia",
