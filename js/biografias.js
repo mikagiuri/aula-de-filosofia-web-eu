@@ -48,6 +48,29 @@ const BIOGRAFIAS = {
    "fil-presocraticos"
   ]
  },
+ "solon": {
+  "name": "Solon",
+  "dates": "K.a. 640 ing. – 560 ing.",
+  "born": -640,
+  "died": -560,
+  "place": "Atenas",
+  "role": "legegile eta poeta atenastarra",
+  "idea": "Bere erreformekin zorrak ezeztatu zituen, zorrengatiko esklabotza debekatu zuen eta eskubide politikoak aberastasunaren arabera banatu zituen, demokrazia atenastarrari bidea prestatuz.",
+  "bio": "<p>Solon politikari, legegile eta poeta atenastarra izan zen. K.a. 640 inguruan jaio zen familia noble batean, eta greziarrek Zazpi Jakintsuen artean sartu zuten. K.a. 594 inguruan arkonte hautatu zuten, hiriko magistratu nagusi, krisi sozialaren erdian: zorpetutako nekazari askok lurrak galdu zituzten edo esklabo bihurtu zituzten. Bere erreformak poemetan defendatu zituen, eta horien zatiak gorde dira.</p>\n<p><strong>Seisachtheia</strong>rekin (zamen arintzea) zorrak ezeztatu zituen eta inor zorrengatik esklabo bihurtzea debekatu zuen. Eskubide politikoak aberastasunaren arabera banatu zituen, eta ez leinuaren arabera, eta batzarra eta auzitegiak hiritar guztientzat ireki zituen. Gai-zerrendan agertzen da haren erreformek, Klistenesenekin batera, K.a. V. mendeko <strong>demokrazia</strong> atenastarra prestatu zutelako.</p>",
+  "obras": [
+   "Elegiak (zatiak)"
+  ],
+  "anecdota": "<p>Herodotok kontatzen du Solonek, bere bidaietan, Sardesen Kreso bisitatu zuela, Lidiako errege aberastasunengatik ospetsua. Bere altxorrak erakutsi ondoren, Kresok galdetu zion nor zen ezagutu zuen gizonik zoriontsuena, bere izena entzutea espero zuela. Solonek atenastar xume bat aipatu zuen, Telo, bere seme-alabak hazten ikusi eta bere hiria defendatuz ohorez hil zena. Eta gaineratu zuen ezin zaiola inori zoriontsu deitu bizi den bitartean, zortea aldatu egiten delako. Kresok mespretxuz bidali zuen, baina geroago, bere erreinua galdu ondoren, haren hitzak gogoratuko zituen. Kronologiak zalantzan jartzen du topaketa benetakoa izan ote zen.</p>",
+  "fuente": "Herodoto, Historiak I",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
+  ]
+ },
  "tales": {
   "name": "Tales Miletokoa",
   "dates": "K.a. 624 ing. – 546 ing.",
@@ -429,6 +452,48 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "hipias": {
+  "name": "Hipias Elidekoa",
+  "dates": "K.a. 460 ing. – 400 ing.",
+  "born": -460,
+  "died": -400,
+  "place": "Elide (Peloponeso)",
+  "role": "sofista greziarra",
+  "idea": "Hiri bakoitzeko legeak giza hitzarmenak dira, aldakorrak eta alda daitezkeenak, eta natura-legeetatik bereizten dira, horiek unibertsalak baitira eta berdin balio baitute guztientzat.",
+  "bio": "<p>Hipias Eliden jaio zen, Joko Olinpikoak ospatzen ziren Peloponesoko eskualdean, eta Sokratesen garaikidea izan zen. Bere hiriak hainbat aldiz bidali zuen enbaxadore gisa, eta bidaiak aprobetxatzen zituen ikasgaiak eta hitzaldiak emateko, kobratuz, gainerako <strong>sofistek</strong> bezala. Bere jakintza entziklopedikoagatik zen ospetsua: matematika, astronomia, musika, historia eta poesia irakasten zituen, eta memoria miresgarriaz harrotzen zen. Haren lanak galdu dira; batez ere Platonen <em>Hipias nagusia</em>, <em>Hipias txikia</em> eta <em>Protagoras</em> elkarrizketen bidez ezagutzen dugu, halako ironia batez erretratatzen baitute.</p>\n<p>Gai-zerrendari egin zion ekarpenik garrantzitsuena <strong>physis</strong>aren eta <strong>nomos</strong>aren arteko bereizketa da. Natura-legeak aldaezinak eta unibertsalak dira; gizakiek ezarritako legeak, berriz, komunitate batetik bestera aldatzen diren hitzarmenak dira. Legeak hitzarmena badira, alda daitezke. <em>Protagoras</em> lanean, Platonek hari esanarazten dio legea naturaren aurkako gauza asko behartzen dituen tiranoa dela, eta gizakiak naturaz direla ahaide, ez legez.</p>\n<p>Ideia horrek filosofia politikoaren funtsezko eztabaida bat irekitzen du: arauak naturalak ala hitzartuak diren. Haren konbentzionalismoa Protagorasen erlatibismoarekin lotzen da, eta Sokratesek eta Platonek haren aurka borrokatu zuten, justizia unibertsal bat bilatuz. Gizaki guztien arteko ahaidetasun naturalaren ideiak zinikoen eta estoikoen kosmopolitismoa aurreratzen du.</p>",
+  "obras": [],
+  "anecdota": "<p><em>Hipias txikia</em>n, Platonek Sokratesen ahoan jartzen du Hipiasek Olinpiar Jokoetan egin zuen agerraldi ospetsu baten oroitzapena. Sofista denen aurrean harrotu zen gainean zeraman guztia berak egina zela: eraztuna eta lantzen zuen zigilua, olio-ontzia, bainurako karraska, sandaliak, mantua eta tunika, eta baita gerriko brodatua ere. Gainera, bere uztako olerkiak, tragediak eta diskurtsoak zekartzan. Platonek ironiaz kontatzen du, baina eszenak ondo erretratatzen du Hipias harro zegoen jakintza entziklopediko eta autonomoaren ideala.</p>",
+  "fuente": "Platon, Hipias txikia",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "antistenes": {
+  "name": "Antistenes",
+  "dates": "K.a. 445 ing. – 365 ing.",
+  "born": -445,
+  "died": -365,
+  "place": "Atenas",
+  "role": "filosofo sokratikoa",
+  "idea": "Bertutea nahikoa da zoriontsu izateko; hura lortzeko bizitza zuhurra eraman behar da, plazerak menderatu eta aberastasunen eta ohoreen menpe ez egon.",
+  "bio": "<p>Antistenes Atenasen jaio zen. Lehenik Gorgias sofistaren ikaslea izan zen, eta harengandik erretorika ikasi zuen; gero <strong>Sokrates</strong>en ikasle leialenetako bat bihurtu zen: Platonen arabera, haren heriotzan egon zen. Kinosargesko gimnasioan irakatsi zuen, Atenasko kanpoaldean. Lan asko idatzi zituen, baina denak galdu dira, eta zatiak eta lekukotasunak baino ez dira geratzen.</p>\n<p>Sokratesengandik hartu zuen bertutea irakats daitekeela dioen ideia, eta muturrera eraman zuen: bertutea nahikoa da zoriontasunerako, eta gainerako guztia (aberastasuna, ospea, plazera) axolagabea edo kaltegarria da. Horregatik defendatzen zuen bizitza zuhurra eta <strong>norberaren menderatzea</strong>. Tradizioak <strong>zinismoa</strong>ren sortzailetzat hartzen du —Diogenes Sinopekoak muturreraino eraman zuen korrontea—, eta horrela agertzen da gai-zerrendan, nahiz eta historialari batzuek lotura zuzen hori zalantzan jartzen duten.</p>",
+  "obras": [],
+  "anecdota": "<p>Diogenes Laertziok kontatzen du Antistenesek egunero berrogei bat estadio egiten zituela oinez, zazpi kilometro baino gehiago, Pireotik Atenasera, Sokrates entzutera. Bere maisuaren austeritatea muturreraino imitatzen zuen, eta mantu zahar eta urratu bat eraman ohi zuen, zulodun aldea ondo agerian. Egun batean Sokrates konturatu eta esan zion: «Zure mantuaren zuloetatik zure harrokeria ikusten dut». Pasadizoak pobrezia ikuskizun bihurtzearen arriskua erakusten du, geroko zinikoek are urrunago eramango zutena.</p>",
+  "fuente": "Diogenes Laertzio, Bizitzak VI",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5"
+  ]
+ },
  "aristipo": {
   "name": "Aristipo Zirenekoa",
   "dates": "K.a. 435 ing. – 356 ing.",
@@ -590,6 +655,24 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "crates": {
+  "name": "Krates Tebaskoa",
+  "dates": "K.a. 365 ing. – 285 ing.",
+  "born": -365,
+  "died": -285,
+  "place": "Teba (Beozia)",
+  "role": "filosofo zinikoa",
+  "idea": "Zoriontasuna oso gutxi behar izatean datza: aberastasunari eta besteen iritziari uko egiten dionak askea da.",
+  "bio": "<p>Krates Tebako familia aberats batekoa zen, baina bere ondasunak banatu eta <strong>Diogenes Sinopekoa</strong>ren ikasle bihurtu zen. Bere maisua ez bezala, probokazioengatik ospetsua zena, Krates atsegina zela esaten zen: etxeetan sartzen zen behar zuenari laguntzeko eta aholku emateko, eta horregatik «ateak irekitzen dituena» deitzen zioten.</p>\n<p><strong>Hiparkiarekin</strong> ezkondu zen, familia oneko neska gazte batekin, gurasoen nahiaren aurka haren pobrezia-bizitza partekatu nahi izan zuena eta Antzinaroko emakume filosofo gutxietako bat bihurtu zena, haren berri dugunen artean. Krates Zenon Zitiokoaren maisua ere izan zen: haren bidez, austeritatearen eta independentziaren etika zinikoa <strong>estoizismora</strong> igaro zen.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5"
+  ]
+ },
  "pirron": {
   "name": "Pirron Elisekoa",
   "dates": "K.a. 360 ing. – 270 ing.",
@@ -664,6 +747,44 @@ const BIOGRAFIAS = {
    "fil-helenismo"
   ]
  },
+ "timon": {
+  "name": "Timon Fliuntekoa",
+  "dates": "K.a. 320 ing. – 230 ing.",
+  "born": -320,
+  "died": -230,
+  "place": "Fliunte (Peloponeso)",
+  "role": "filosofo eszeptikoa eta poeta satirikoa",
+  "idea": "Zoriontsu izan nahi duenak galdetu behar du nolakoak diren gauzak, zer jarrera hartu haien aurrean eta zer irabazten duen jarrera horrekin; erantzun eszeptikoa iritzia etetea da.",
+  "bio": "<p>Timon Fliunten jaio zen, Peloponeson. Gaztetan dantzaria izan zen, eta geroago <strong>Pirron</strong>en ikasle bihurtu zen, zeinak ez baitzuen ezer idatzi: lehen eszeptizismoaz dakigun ia guztia Timonen bidez iristen zaigu.</p>\n<p>Bere maisuaren irakaspena hiru galderatan laburbildu zuen: nolakoak diren gauzak (ezin dugu jakin), zer jarrera hartu behar dugun haien aurrean (ezer ez baieztatu ez ukatu) eta zer ateratzen den jarrera horretatik (<strong>ataraxia</strong>, arimaren lasaitasuna). <em>Siloak</em> ere idatzi zituen, poema satirikoak, egiaren jabe zirela uste zuten filosofoez burla egiten zuena, presokratikoetatik Platoneraino.</p>",
+  "obras": [
+   "Siloak"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "carneades": {
+  "name": "Karneades Zirenekoa",
+  "dates": "K.a. 214 ing. – 129 ing.",
+  "born": -214,
+  "died": -129,
+  "place": "Zirene (Afrika iparraldea)",
+  "role": "filosofo akademiko eszeptikoa",
+  "idea": "Ezin dugu egia segurua lortu, baina bai gutxi-asko probablea dena bereizi, eta hori nahikoa da nola jokatu erabakitzeko.",
+  "bio": "<p>Karneadesek, Afrika iparraldeko Zirenen jaioak, <strong>Akademia</strong> zuzendu zuen haren etapa eszeptikoan, eta bere garaiko filosoforik distiratsuena izan zen. Ez zuen ezer idatzi; haren ideiak Klitomako ikaslearen eta Zizeronen bidez ezagutzen ditugu. K.a. 155ean Erromara joan zen Atenasko enbaxadore gisa, eta han bi hitzaldi eman zituen jarraian: lehen egunean justizia defendatu zuen, eta bigarrenean indar berarekin gezurtatu. Katon Zaharrak, eskandalizatuta, enbaxadore haiek lehenbailehen bidaltzeko eskatu zuen, Erromako gazteria usteldu ez zezaten.</p>\n<p>Karneadesek batez ere estoikoak kritikatu zituen: inpresio batek ere ez du berez egia bermatzen. Baina zalantzak geldiarazi ez zezan, <strong>probabilismoa</strong> proposatu zuen: ziurtasunik lortzen ez badugu ere, <strong>sinesgarria edo probablea</strong> denaren arabera jokatu dezakegu, batez ere egiaztatu bada eta ezerk kontraesaten ez badu. Bizi ahal izateko pentsatutako eszeptizismoa da.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "ciceron": {
   "name": "Marko Tulio Zizeron",
   "dates": "K.a. 106 – 43",
@@ -715,6 +836,81 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-helenismo",
    "fil-montaigne-ensayos"
+  ]
+ },
+ "epicteto": {
+  "name": "Epikteto",
+  "dates": "50 ing. – 135 ing.",
+  "born": 50,
+  "died": 135,
+  "place": "Hierapolis (Frigia, gaur egungo Turkia)",
+  "role": "filosofo estoiko greziarra",
+  "idea": "Badira gure esku dauden gauzak, gure iritziak eta erabakiak, eta badira gure esku ez daudenak; askatasuna zoriontasuna gure esku ez dagoenaren menpe ez jartzean datza.",
+  "bio": "<p>Epikteto esklabo jaio zen; haren izenak «erosia» esan nahi du grezieraz. Erroman Epafroditorena izan zen, Neronen idazkari izandako esklabo askatu batena, eta hark Musonio Rufo estoikoarekin ikasten utzi zion. Askatasuna lortu ondoren, filosofia irakatsi zuen Erroman, harik eta, 93. urte inguruan, Domiziano enperadoreak filosofoak Italiatik kanporatu zituen arte. Orduan Nikopolisen jarri zen bizitzen, Greziako ipar-mendebaldean, eta han eskola bat ireki zuen; Inperio osoko gazteak joaten ziren bertara. Oso bizimodu xumea izan zuen. Hanka batetik herren zebilen.</p>\n<p>Epiktetok ez zuen ezer idatzi. Arriano ikasleak haren eskolen oharrak hartu eta argitaratu zituen, <em>Disertazioak</em> lanean eta laburpen batean, <em>Eskuliburua</em> (<em>Enkiridion</em>). Dena bereizketa batetik abiatzen da: <strong>gure esku dagoena</strong> (gure iritziak, nahiak eta erabakiak) eta <strong>gure esku ez dagoena</strong> (gorputza, ospea, ondasunak, besteek egiten dutena). Ez gaituzte gauzek asaldatzen, haiei buruz ditugun iritziek baizik. Bere ona kontrolatzen ez duen horretan jartzen duena esklabo baten moduan bizi da; bere iritzietan jartzen duena librea da, kateatuta egon arren. Haren eskuliburuak eragina izan zuen Marko Aureliorengan eta, mende asko geroago, Errenazimentuko humanistengan eta gaur egungo zenbait terapia psikologikotan.</p>",
+  "obras": [
+   "Disertazioak (Arrianok bilduak)",
+   "Eskuliburua edo Enkiridion (Arrianoren laburpena)"
+  ],
+  "anecdota": "<p>Origenes idazle kristauak kontatzen du Epiktetoren nagusiak, hura probatzeko, hanka bihurritzen ziola. Epiktetok lasai ohartarazi zion: «Hautsi egingo didazu». Hanka hautsi zenean, hau besterik ez zuen esan: «Ez al nizun esan?». Istorioa askotan aipatzen da lasaitasun estoikoaren adibide gisa, baina antzinako beste iturri batzuek diote haren herrena jaiotzetikoa edo erreumaren ondorioa zela; beraz, kondaira bat izan daiteke.</p>",
+  "fuente": "Origenes, Zeltsoren aurka VII, 53",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-utilidad",
+   "fil-t5"
+  ]
+ },
+ "marco_aurelio": {
+  "name": "Marko Aurelio",
+  "dates": "121 – 180",
+  "born": 121,
+  "died": 180,
+  "place": "Erroma",
+  "role": "enperadore erromatarra eta filosofo estoikoa",
+  "idea": "Egunero bete behar da norberaren betebeharra, lasaitasunez onartu gure esku ez dagoena eta gogoratu dena iragankorra dela.",
+  "bio": "<p>Marko Aurelio gaztetan adoptatu zuen Antonino Pio enperadoreak, eta garai hartako hezkuntzarik onena jaso zuen. Oso goiz zaletu zen filosofia estoikoaz, eta Junio Rustiko maisuak Epiktetoren irakaspenak ezagutarazi zizkion. Erromako enperadore izan zen 161. urtetik 180an hil zen arte. Haren erregealdia Danubioko mugetako gerrek eta izurrite handi batek, Antoninoren izurriak, markatu zuten; urte luzeak eman zituen kanpainan, eta horietako batean hil zen.</p>\n<p>Kanpaina horietan, grezieraz, ohar batzuk idatzi zituen bere buruarentzat, argitaratzeko asmorik gabe; gaur <em>Gogoetak</em> izenez ezagutzen ditugu (antzinako izenburua <em>Bere buruari</em> da). Pentsamenduak ordenatzeko ariketak dira: gogoratzea dena aldatzen eta igarotzen dela, heriotza naturala dela, besteek gurekin batera komunitate arrazional bat osatzen dutela eta, norbaitek iraintzen gaituenean, gorrotatu baino lehen ulertu behar dugula. Inperio bat gobernatzen duen estoiko bat da, eta arrazoiaren arabera bizitzea exijitzen dio bere buruari. Haren obrak ideal filosofikoaren eta boterearen arteko tentsioa ere erakusten du: haren erregealdian gerrek eta kristauen jazarpenak jarraitu zuten.</p>",
+  "obras": [
+   "Gogoetak edo Bere buruari (170-180 inguruan idatziak)"
+  ],
+  "anecdota": "<p><em>Gogoetak</em> lanaren I. liburua esker onen zerrenda bat da: Marko Aureliok bere bizitzako pertsona bakoitzarengandik ikasi zuena idazten du. Rustiko maisuari, besteak beste, eskertzen dio bere liburutegitik Epiktetoren eskoletako oharrak utzi izana. Eta liburu horren amaieran, edo hurrengoaren hasieran, edizioen arabera, non idazten duen jasotzen du: «Kuadoen artean, Granuaren ertzean»; hau da, kanpamentu militar batean, Hron ibaiaren ertzean, gaur egungo Eslovakian.</p>",
+  "fuente": "Marko Aurelio, Gogoetak I, 7 eta I, 17",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-utilidad",
+   "fil-t5",
+   "fil-helenismo"
+  ]
+ },
+ "tertuliano": {
+  "name": "Tertuliano",
+  "dates": "155 ing. – 220 ing.",
+  "born": 155,
+  "died": 220,
+  "place": "Kartago (gaur egungo Tunisia)",
+  "role": "apologista kristaua",
+  "idea": "Fede kristauak ez du filosofia grekoaren laguntzarik behar: agerturikoa sinetsi egin behar da, nahiz eta giza arrazoiak ulertu ez edo absurdotzat jo.",
+  "bio": "<p>Kinto Septimio Florente Tertuliano Kartagon jaio zen, Afrika erromatarraren iparraldean, 155. urte inguruan. Erretorikan eta zuzenbidean prestakuntza sendoa jaso zuen, eta heldutasunean kristautasunera bihurtu zen. Latinez idatzi zuen lehen egile kristau handia izan zen, eta Mendebaldeko hiztegi teologikoa sortzen lagundu zuen: hari zor zaio, adibidez, <strong>Trinitatea</strong> terminoaren erabilera. Azken urteetan montanismora hurbildu zen, Elizak azkenean baztertu zuen mugimendu zorrotz batera.</p>\n<p>Tertuliano <strong>apologista</strong> izan zen, hau da, kristautasunaren defendatzailea paganoen salaketen aurrean. Fedearen eta arrazoiaren arteko harremanari dagokionez, jarrerarik mesfidatiena hartu zuen: haren ustez, filosofia grekoa heresien iturria zen. Horregatik galdetzen zuen zer zerikusi zuen Atenasek, filosofiaren ikurrak, Jerusalemekin, fedearen ikurrarekin. <strong>«Sinesten dut absurdoa delako»</strong> formula egozten zaio; ez da hitzez hitz agertzen haren lanetan, baina ondo laburtzen du haren ideia: agerturiko egiak, gizakundea edo berpiztea kasu, onartu egin behar dira, arrazoiari ezinezko iruditu arren.</p>\n<p>Haren jarrera, batzuetan <strong>fideismoa</strong> deitua, Erdi Aroko eztabaidaren muturretako bat da. Horren aurrean, Agustin Hiponakoak proposatuko du fedeak arrazoia gidatzea, eta Tomas Akinokoak, biak elkarlanean aritzea. Eragin handia izan zuen ondorengo teologia latinoan.</p>",
+  "obras": [
+   "Apologetikoa (197)",
+   "Heretikoen preskripzioaz",
+   "Kristoren haragiaz"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-metafisica"
   ]
  },
  "plotino": {
@@ -896,6 +1092,33 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "abelardo": {
+  "name": "Pedro Abelardo",
+  "dates": "1079 – 1142",
+  "born": 1079,
+  "died": 1142,
+  "place": "Le Pallet (Bretainia, Frantzia)",
+  "role": "filosofo eta logikari eskolastikoa",
+  "idea": "Unibertsalak ez dira gauza errealak ezta hitz hutsak ere, banakoek komunean dutena adierazten duten adimeneko kontzeptuak baizik.",
+  "bio": "<p>Pedro Abelardo Le Palleten jaio zen, Bretainian, 1079an. Armen ibilbideari uko egin zion logikari eskaintzeko, eta Parisko maisurik ospetsuenetako bat izan zen. Haren bizitza Eloisarekin, bere ikaslearekin, izan zuen harremanak markatu zuen; seme bat izan zuten: emakumearen familiak mendeku hartu zuen Abelardo mutilatuz, eta biak bizitza erlijiosoan sartu ziren. Bizipen horiek <em>Nire zorigaitzen historia</em> lanean kontatu zituen. Haren tesi teologikoak Soissonsko (1121) eta Senseko (1141) kontzilioetan kondenatu zituzten, azken hori Bernardo Clairvauxkoak bultzatua. 1142an hil zen.</p>\n<p>Abelardok <strong>dialektika</strong> (logika) teologian erabiltzea defendatu zuen. <em>Bai eta ez</em> lanean autoritateek gai beraiei buruz zituzten iritzi kontrajarriak bildu zituen, arrazoiak azter zitzan: urrats erabakigarria izan zen <em>quaestio</em> eta <em>disputatio</em> metodo eskolastikorantz. <strong>Unibertsalen arazoan</strong>, hau da, «gizatasuna» bezalako kontzeptu orokorren estatusari buruzko galderan, errealismoaren eta nominalismoaren arteko erdibideko jarrera hartu zuen, <strong>kontzeptualismoa</strong> izenez ezagutzen dena: unibertsalak kontzeptu gisa existitzen dira adimenean, eta adimenak banakoek komunean dutenetik eratzen ditu.</p>\n<p>Haren izpiritu kritikoak eta arrazoiarekiko konfiantzak unibertsitateen garapenean eragin zuten. Unibertsalen arazoari eman zion konponbideak Tomas Akinokoarena prestatzen du, eta Ockhamen nominalismoarekin kontrastatzen du.</p>",
+  "obras": [
+   "Bai eta ez (Sic et non)",
+   "Nire zorigaitzen historia",
+   "Etika edo Ezagut ezazu zeure burua",
+   "Filosofo, judu eta kristau baten arteko elkarrizketa"
+  ],
+  "anecdota": "<p>Parisera iritsi berritan, Abelardo gaztea Gilen Champeauxkoaren ikasle egin zen, hiriko maisurik ospetsuena eta unibertsalei buruzko errealismo muturrekoaren defendatzailea. Laster hasi zen hari eskola betean kontra egiten, eta batzuetan eztabaida irabazten zuela zirudien. Bere kontakizunaren arabera, azkenean Gilen bere tesia zuzentzera behartu zuen, eta ikasle askok maisua utzi zuten dizipuluaren atzetik joateko. Berak kontatzen du <em>Nire zorigaitzen historia</em> lanean, lekukotasun baliotsua, baina, jakina, ez oso inpartziala.</p>",
+  "fuente": "Pedro Abelardo, Nire zorigaitzen historia",
+  "tradicion": false,
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t4"
+  ]
+ },
  "hildegarda": {
   "name": "Hildegarda Bingengoa",
   "dates": "1098 – 1179",
@@ -1052,6 +1275,49 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "llull": {
+  "name": "Ramon Llull",
+  "dates": "1232 ing. – 1316 ing.",
+  "born": 1232,
+  "died": 1316,
+  "place": "Palma (Mallorca)",
+  "role": "filosofo, mistiko eta idazlea",
+  "idea": "Oinarrizko kontzeptu gutxi batzuk konbinatuz, fedearen egiak edonori froga dakizkioke, kristaua, musulmana edo judua izan, arrazoiaren bidez bakarrik.",
+  "bio": "<p>Ramon Llull (gaztelaniaz Raimundo Lulio) Mallorcan jaio zen, Jaime I.a erregeak konkistatu eta gutxira, eta gorteko noblea izan zen. Hogeita hamar urte inguru zituela, berak kontatzen duenez, Kristo gurutziltzatuaren hainbat ikuspen izan zituen, eta bizitza aldatu zitzaion: familia utzi eta musulmanak arrazoiaren bidez bihurtzeari eman zion bere burua. Arabiera ikasi zuen, misiolarientzako hizkuntza-eskola bat sortu zuen, eta hainbat aldiz bidaiatu zuen Afrika iparraldera. 260 bat lan idatzi zituen katalanez, latinez eta arabieraz, eta katalanezko prosa literarioaren sortzaileetako bat da.</p>\n<p>Haren asmakizun handia <strong>Artea</strong> da: irudi eta zirkulu birakarien bidez oinarrizko printzipio gutxi batzuk (ontasuna, handitasuna, betierekotasuna…) konbinatzen dituen sistema, galdera bati eman dakizkiokeen erantzun guztiak lortzeko. Llullek uste zuen horrela kristautasunaren egia edonori froga ziezaiokeela, agintarietara jo gabe. <strong>Konbinatoriaren</strong> eta arrazoiketa mekanikoaren ideiaren aurrekaria da, Leibnizek miretsi zuena. <em>Jentilaren eta hiru jakintsuen liburuan</em>, judu batek, kristau batek eta musulman batek beren sinesmenak begirunez azaltzen dizkiote pagano bati, eta honek ez du esaten zein aukeratzen duen.</p>",
+  "obras": [
+   "Arte handia (Ars magna)",
+   "Jentilaren eta hiru jakintsuen liburua",
+   "Blanquerna"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
+ "duns_escoto": {
+  "name": "Joan Duns Eskoto",
+  "dates": "1266 ing. – 1308",
+  "born": 1266,
+  "died": 1308,
+  "place": "Duns (Eskozia)",
+  "role": "filosofo eta teologo frantziskotarra",
+  "idea": "Norbanako bakoitzak badu bakar egiten duen zerbait berezkoa, bere «hautasuna»; eta Jainkoarengan zein gizakiarengan nahimena adimenaren gainetik dago.",
+  "bio": "<p>Joan Duns Eskoto Dunsen jaio zen, Eskozian, eta fraide frantziskotarra izan zen. Oxforden irakatsi zuen, baita Parisen ere, handik denbora batez alde egin behar izan zuen Frantziako erregearen aurrean aita santuaren alde egiteagatik, eta Kolonian, non gazte hil zen. Bere arrazoiketen fintasunagatik «Doktore fina» deitu zioten.</p>\n<p>Tomas Akinokoaren aurrean defendatu zuen <strong>izatearen</strong> kontzeptua zentzu berean aplikatzen zaiela Jainkoari eta kreaturei, eta horrek Jainkoaz zorroztasunez hitz egitea ahalbidetzen duela. Norbanako bakoitza zerk egiten duen bakar azaltzeko, <strong>hautasuna</strong> (<em>haecceitas</em>, <em>haec</em>, «hau») sartu zuen: Sokrates gizon hau eta ez beste bat izatea egiten duena. <strong>Nahimenaren</strong> lehentasuna ere defendatu zuen adimenaren gainetik: Jainkoak ez du zerbait nahi ona delako, baizik eta ona da Jainkoak nahi duelako, logikaren mugen barruan. Haren ideiek Ockhami ireki zioten bidea. Bitxia bada ere, XVI. mendean humanistek haren jarraitzaileez burla egiten zuten <em>dunces</em> deituz, eta hortik dator ingelesezko <em>dunce</em> hitza, «astoa», «ergela».</p>",
+  "obras": [
+   "Ordinatio",
+   "Lehen printzipioari buruzko tratatua"
+  ],
+  "block": "med",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "ockham": {
   "name": "Gilen Ockhamgoa",
   "dates": "1287 ing. – 1347",
@@ -1117,6 +1383,48 @@ const BIOGRAFIAS = {
    "fil-t1-filosofia-mujer"
   ]
  },
+ "nicolas_cusa": {
+  "name": "Nikolas Kusakoa",
+  "dates": "1401 – 1464",
+  "born": 1401,
+  "died": 1464,
+  "place": "Kues (Mosela ondoan, Alemania)",
+  "role": "filosofo, teologo eta kardinala",
+  "idea": "Jakin dezakegun gauzarik gorena da ez dakigula: «ezjakintasun jakintsua»; Jainko infinituan aurkakoak bat datoz.",
+  "bio": "<p>Nikolas Kuesen jaio zen, Mosela ibaiaren ertzean, eta hortik dator bere izen latindarra, Cusanus. Zuzenbidea eta matematika ikasi zituen, kardinala eta diplomatikoa izan zen aita santuaren zerbitzuan, eta Europa erdia zeharkatu zuen, Konstantinoplaraino. Erdi Aroaren eta Errenazimentuaren artean bizi izan zen, eta haren pentsamenduak aro berria iragartzen du.</p>\n<p><em>Ezjakintasun jakintsua</em> lanean dio gure ezagutza konparazioz aurrera doala, ezezaguna ezagunarekin neurtuz; horregatik <strong>infinitua</strong> ezin da ezagutu, eta benetako jakinduria ez dakigula jakitea da. Jainko infinituan <strong>aurkakoen bat-etortzea</strong> gertatzen da: gehiena eta gutxiena gauza bera dira. Esan zuen, halaber, unibertsoak ez duela erdigune finkorik ez mugarik, eta, beraz, Lurrak ez duela leku pribilegiaturik; Giordano Brunok berreskuratuko zuen ideia hori. Konstantinopla erori ondoren <em>Fedearen bakea</em> idatzi zuen, erlijio desberdinetako ordezkariek batzen dituena bilatzen duten elkarrizketa.</p>",
+  "obras": [
+   "Ezjakintasun jakintsua",
+   "Fedearen bakea"
+  ],
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "pico": {
+  "name": "Giovanni Pico della Mirandola",
+  "dates": "1463 – 1494",
+  "born": 1463,
+  "died": 1494,
+  "place": "Mirandola (Italia)",
+  "role": "humanista eta filosofoa",
+  "idea": "Gizakiak ez du izaera finkorik: nahi duena izatea aukera dezake, piztiengana jaitsi edo jainkotiarreraino igo.",
+  "bio": "<p>Pico Italia iparraldeko familia noble batean jaio zen, eta memoria miragarria zuen. Bolonian, Paduan eta Parisen ikasi zuen, grekoa, hebreera eta arabiera ikasi zituen, eta Florentzian Marsilio Ficinoren zirkulu platonikoarekin bat egin zuen, Lorenzo Medicikoaren babespean. 1486an Erroman jendaurrean eztabaidatzea proposatu zuen tradizio guztietatik hartutako <strong>900 tesi</strong>: Platon, Aristoteles, arabiarrak, kabala judua… Filosofia guztiek egiaren zati bat dutela erakutsi nahi zuen. Aita santuak eztabaida bertan behera utzi eta zenbait tesi kondenatu zituen, eta Picok Frantziara ihes egin behar izan zuen, non denbora batez atxilotu zuten. Florentzian hil zen, 31 urte besterik ez zituela; haren hondakinen analisi berriek artsenikozko pozoitze bat iradokitzen dute.</p>\n<p>Eztabaida hura irekitzeko prestatu zuen hitzaldia, <em>Gizakiaren duintasunari buruzko hitzaldia</em> izenez ezaguna, Errenazimentuaren manifestutzat hartzen da. Bertan, Jainkoak gizakiari esaten dio ez diola leku finkorik ez forma propiorik eman, berak aukera dezan: piztietaraino endekatu edo jainkotiarreraino birsortu daiteke. <strong>Giza duintasuna</strong>, Picorentzat, <strong>askatasun</strong> horretan datza.</p>",
+  "obras": [
+   "Gizakiaren duintasunari buruzko hitzaldia",
+   "900 tesi"
+  ],
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
+  ]
+ },
  "erasmo": {
   "name": "Erasmo Rotterdamgoa",
   "dates": "1466 ing. – 1536",
@@ -1141,6 +1449,55 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-grandes-preguntas"
+  ]
+ },
+ "maquiavelo": {
+  "name": "Nikolas Makiavelo",
+  "dates": "1469 – 1527",
+  "born": 1469,
+  "died": 1527,
+  "place": "Florentzia (Italia)",
+  "role": "pentsalari politikoa eta diplomatikoa",
+  "idea": "Politika den bezala aztertu behar da, eta ez izan beharko lukeen bezala: teknika autonomoa da, moraletik eta erlijiotik bereizia, eta haren helburua Estatua gordetzea da.",
+  "bio": "<p>Nikolas Makiavelo Florentzian jaio zen 1469an, Errenazimenduaren betean. 1498 eta 1512 artean Florentziako Errepublikaren idazkaria izan zen, eta misio diplomatiko ugari egin zituen erregeen, aita santuaren eta Zesar Borgia bezalako pertsonaien aurrean; horri esker, boterearen jarduna gertutik ikusi ahal izan zuen. 1512an Medicitarrek gobernua berreskuratu zutenean, kargutik kendu, espetxeratu eta torturatu egin zuten. Hiritik hurbileko finka batera erretiratuta, <em>Printzea</em> idatzi zuen, 1532ra arte argitaratu ez zena, 1527an hil ondoren.</p>\n<p>Makiavelok <strong>errealismo politikoa</strong> abiarazten du. Politika moraletik eta erlijiotik bereizten du, eta boterea <strong>den bezala</strong> deskribatzen du, ez izan beharko lukeen bezala. Agintariak Estatuaren ordena eta segurtasuna bermatu behar ditu, eta horretarako indarra eta engainua erabil ditzake beharrezkoa bada. Haren arrakasta <strong>virtù</strong>aren mende dago, hau da, une egokian jarduteko trebetasunaren eta erabakitasunaren mende, <strong>fortuna</strong>ren aurrean, hots, inguruabarren zoriaren aurrean. Politika, horrela, teknika autonomo bihurtzen da, bere logika propioarekin. «Helburuak bitartekoak justifikatzen ditu» esaldia, maiz egozten zaiona, ez da hitzez hitz agertzen haren lanean.</p>\n<p>Zientzia politiko modernoaren sortzailetzat hartzen da. Gizakiari buruzko haren ikuspegi ezkorrak eta boterearen jatorriarekiko eta iraupenarekiko interesak Hobbes, Locke eta Rousseauren gizarte-kontratuaren teoriei bidea prestatzen diete. «Makiabeliko» adjektiboak pentsamendu konplexuago bat sinplifikatzen du.</p>",
+  "obras": [
+   "Printzea (1513)",
+   "Tito Livioren lehen hamarkadari buruzko diskurtsoak",
+   "Gerraren arteaz (1521)",
+   "Mandragora"
+  ],
+  "anecdota": "<p>Sant'Andrea in Percussinako bere landetxean erbesteratuta, Makiavelok bere eguneroko bizimodua deskribatu zion Francesco Vettori bere lagunari. Egunez birigarroak ehizatzen zituen, egurginekin berriketan aritzen zen eta tabernan kartetan jokatzen zuen, oihu eta liskarren artean. Gaua iristean, lokatzez zikindutako arropak kendu, gorteko jantziak janzten zituen eta bere estudioan sartzen zen antzinakoekin «solasean» aritzeko, eta haiek eskuzabaltasunez erantzuten zioten. Solasaldi horietatik, gaineratzen zuen, printzerriei buruzko lantxo bat ari zen sortzen: <em>Printzea</em>.</p>",
+  "fuente": "Makiavelo, Francesco Vettoriri gutuna, 1513ko abenduaren 10ekoa",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "copernico": {
+  "name": "Nikolas Koperniko",
+  "dates": "1473 – 1543",
+  "born": 1473,
+  "died": 1543,
+  "place": "Toruń (Polonia)",
+  "role": "astronomoa eta matematikaria",
+  "idea": "Lurra ez da unibertsoaren erdigune geldia; bere buruaren inguruan eta Eguzkiaren inguruan biratzen du, gainerako planetek bezala.",
+  "bio": "<p>Nikolas Koperniko Toruńen jaio zen, Polonian, 1473an. Krakovian ikasi zuen, eta gero Italiako Boloniako eta Paduako unibertsitateetan; han astronomian, zuzenbide kanonikoan eta medikuntzan prestatu zen. Fromborkeko katedraleko kalonjea izan zen, eta han egin zituen bere behaketak. Haren lan nagusia 1543an argitaratu zen, hil zen urtean.</p>\n<p>Kopernikok <strong>heliozentrismoa</strong> proposatu zuen: Eguzkiak, eta ez Lurrak, hartzen du unibertsoaren erdigunea. Tesi horrek <strong>iraultza zientifikoa</strong> ireki zuen, Keplerrek, Galileok eta Newtonek jarraitu zutena eta Aristotelesen eta Ptolomeoren kosmologia eraitsi zuena. Gai-zerrendan agertzen da munduaren irudian eragindako aldaketa horregatik, eta Freudek gizakiaren lehen «umiliazio» handitzat aipatzen duelako: ez gara unibertsoaren erdigunea.</p>",
+  "obras": [
+   "Zeruko esferen biraketei buruz (1543)"
+  ],
+  "anecdota": "<p>Kopernikok hamarkadetan atzeratu zuen bere lan handiaren argitalpena, Rheticus ikasle gazteak konbentzitu zuen arte. Tiedemann Giese bere lagunaren gutun baten arabera, inprimatutako lehen alea hil zen egunean bertan iritsi zitzaion eskuetara. Liburuak, gainera, ezusteko bat zekarren: sinadurarik gabeko hitzaurre bat, Andreas Osiander teologoak gehitua, heliozentrismoa kalkuluak errazteko hipotesi soil gisa aurkezten zuena. Hamarkada batzuk geroago, Keplerrek agerian utzi zuen nork idatzi zuen.</p>",
+  "fuente": "Tiedemann Giesek Rheticusi idatzitako gutuna (1543)",
+  "tradicion": true,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "tomas_moro": {
@@ -1870,6 +2227,32 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "diderot": {
+  "name": "Denis Diderot",
+  "dates": "1713 – 1784",
+  "born": 1713,
+  "died": 1784,
+  "place": "Langres (Frantzia)",
+  "role": "filosofo eta idazle ilustratua",
+  "idea": "Jakintza bildu, antolatu eta zabaldu egin behar da pertsonak ezjakintasunetik eta aurreiritzietatik askatzeko, gizarte-aurrerapenaren zerbitzura.",
+  "bio": "<p>Denis Diderot Langresen jaio zen 1713an, labangile baten semea, eta Parisen finkatu zen, itzulpenetatik eta enkarguetatik bizi izan zelarik. Haren <em>Itsuei buruzko gutuna</em>, tonu materialistakoa eta erlijioarekiko kritikoa, zenbait hilabeteko espetxealdia ekarri zion 1749an. Eleberriak, antzerkia eta arte-kritika ere idatzi zituen. Parisen hil zen 1784an.</p>\n<p>Haren lan handia <strong><em>Entziklopedia</em></strong> izan zen, hogei urte baino gehiagoz zuzendu zuena, hasieran D'Alembertekin batera. Garaiko jakintza guztia bildu nahi zuen, arteak eta ofizioak barne, eta espiritu kritikoz zabaldu, zentsura eta debekuak gorabehera. Gai-zerrendan konfiantza ilustratuaren ikur gisa agertzen da, arrazoian eta <strong>aurrerapenean</strong> jarritako konfiantzarena: partekatutako ezagutzak gizartea hobetu behar zuen.</p>",
+  "obras": [
+   "Itsuei buruzko gutuna (1749)",
+   "Entziklopedia (1751-1772)",
+   "Rameauren iloba",
+   "Jacques fatalista"
+  ],
+  "anecdota": "<p>1765 inguruan, Diderotek dirua behar zuen alabaren dotea ordaintzeko eta bere liburutegia saltzea erabaki zuen, bere ondasunik preziatuena. Errusiako Katalina II.a enperatrizak, ilustratuen miresleak, diru-kopuru on baten truke erosi zuen, baina baldintza eskuzabal batekin: Diderotek liburuak Parisen gordeko zituen bizi zen bitartean eta soldata bat jasoko zuen haren liburuzain gisa. Ordainketa atzeratu zenean, tsarinak berrogeita hamar urteko soldata aurreratu zion aldi bakarrean. 1773an, Diderotek San Petersburgora bidaia egin zuen eskerrak emateko, eta luze hitz egin zuen harekin politikaz eta erreformez.</p>",
+  "fuente": "Diderotren korrespondentzia; garaiko lekukotasunak (Grimm, Correspondance littéraire)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "baumgarten": {
   "name": "Alexander Baumgarten",
   "dates": "1714 – 1762",
@@ -1892,6 +2275,30 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "dalembert": {
+  "name": "Jean le Rond d'Alembert",
+  "dates": "1717 – 1783",
+  "born": 1717,
+  "died": 1783,
+  "place": "Paris",
+  "role": "matematikari eta filosofo ilustratua",
+  "idea": "Giza ezagutza modu sistematikoan antola daiteke esperientziatik eta arrazoitik abiatuta, eta zientzia da aurrerapena bultzatzen duen jakintzaren eredua.",
+  "bio": "<p>Jean le Rond d'Alembert Parisen jaio zen 1717an. Jaio bezain laster Saint-Jean-le-Rond elizaren ondoan abandonatu zuten, eta hortik hartu zuen izena; familia xume batek hazi zuen. Oso goiz nabarmendu zen matematikari eta fisikari gisa: haren <em>Dinamikari buruzko tratatua</em> lanak ekarpen garrantzitsuak egin zizkion mekanikari, eta hogeita hamar urte bete aurretik sartu zen Zientzien Akademian. Parisen hil zen 1783an.</p>\n<p>Diderotekin batera zuzendu zituen <strong><em>Entziklopediaren</em></strong> lehen liburukiak, eta alde zientifikoaz arduratu zen. Haren <em>Sarrera-diskurtsoa</em> idatzi zuen; bertan giza ezagutzen zuhaitz ordenatu bat aurkezten du, eta zientziaren balioa defendatzen du tradizioaren eta autoritatearen aurrean. Horregatik agertzen da gai-zerrendan Diderotekin batera, jakintza aurrerapenaren zerbitzura <strong>sistematizatzeko</strong> nahi ilustratuaren adibide gisa.</p>",
+  "obras": [
+   "Dinamikari buruzko tratatua (1743)",
+   "Entziklopediaren sarrera-diskurtsoa (1751)"
+  ],
+  "anecdota": "<p>Saint-Jean-le-Rondeko eskaileretan utzitako haurra beirazale baten emazteak hazi zuen, eta D'Alembertek, akademiko ospetsu izanda ere, haren etxe xumean bizitzen jarraitu zuen berrogei urteak igaro arte. Tradizioaren arabera, bere ama biologikoa, Madame de Tencin aristokrata, hura aitortzen saiatu zen ospetsu egin zenean, eta berak erantzun zion bere ama bakarra beirazalearen emaztea zela. Esaldia zehatza izan ala ez, D'Alembertek beti erakutsi zion esker ona zaindu zuenari, eta haren arrakasta adibide ilustratu bihurtu zen: merituak jaiotzak baino gehiago balio zezakeen.</p>",
+  "fuente": "Condorcet, D'Alemberten goraipamena; tradizio biografikoa",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "holbach": {
   "name": "Holbach baroia",
   "dates": "1723 – 1789",
@@ -1912,6 +2319,31 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-metafisica",
    "fil-grandes-preguntas"
+  ]
+ },
+ "smith": {
+  "name": "Adam Smith",
+  "dates": "1723 – 1790",
+  "born": 1723,
+  "died": 1790,
+  "place": "Kirkcaldy (Eskozia)",
+  "role": "filosofo morala eta ekonomialaria",
+  "idea": "Merkatu aske batean bakoitzak bere interesa bilatzean, gizabanakoek, nahi gabe, ongizate orokorrari laguntzen diote, esku ikusezin batek gidatuko balitu bezala.",
+  "bio": "<p>Adam Smith Kirkcaldyn jaio zen, Eskozian, 1723an. Glasgowen eta Oxforden ikasi zuen, eta filosofia moraleko irakasle izan zen Glasgowko Unibertsitatean. David Humeren laguna izan zen, eta Eskoziako Ilustrazioaren figura nagusietako bat. Frantzian barrena bidaiatu zuen noble gazte baten tutore gisa, eta horri esker ekonomialari frantsesak ezagutu zituen. Azken urteetan Edinburgoko aduana-administrazioan lan egin zuen, eta han hil zen 1790ean.</p>\n<p><em>Sentimendu moralen teoria</em> lanean morala <strong>sinpatiatik</strong> abiatuta azaldu zuen, hau da, besteen lekuan jartzeko gaitasunetik. Baina haren lanik eraginkorrena <em>Nazioen aberastasuna</em> da, ekonomia modernoaren abiapuntutzat hartzen dena. Bertan defendatzen du <strong>lanaren banaketak</strong> ekoizpena biderkatzen duela, eta norberaren interesaren bilaketak, nahi gabe, gizartearen ongizatera daramala: <strong>esku ikusezin</strong> batek egoismo indibidualak harmonizatzen ditu. Horregatik eskatzen du Estatuak merkatua ez oztopatzea, nahiz eta zenbait eginkizun gordetzen dizkion, hala nola defentsa, justizia eta zenbait obra publiko.</p>\n<p>Smith da <strong>liberalismo ekonomikoaren</strong> erreferente handia. Gai-zerrendak utilitarismoarekin lotzen du, biek ekintzak eta erakundeak beren gizarte-erabilgarritasunaren arabera baloratzen dituztelako, eta Benthamek eta John Stuart Millek ondo ezagutu zuten haren lana. Geroago, Marxek sakon kritikatuko zuen Smithek sortutako ekonomia politiko klasikoa.</p>",
+  "obras": [
+   "Sentimendu moralen teoria (1759)",
+   "Nazioen aberastasuna (1776)"
+  ],
+  "anecdota": "<p>Adam Smith ospetsua zen bere distrakzioengatik. Garaikideek kalean bakarrik hizketan deskribatzen zuten, ezpainak mugituz norbait ikusezinarekin eztabaidatzen ariko balitz bezala. Kontatzen da goiz batean batarekin atera zela lorategira, bere pentsamenduetan murgilduta, eta oinez jarraitu zuela beste herri batera iritsi arte, zenbait kilometrora, non elizako kanpaiek esnatu baitzuten. Beste istorio batek dio, larrugintza-lantegi batera egindako bisitan lanaren banaketa azaltzen ari zela, upel batera erori zela. Kontakizun puztuak dira, baina bizilagunek irudikatzen zuten pentsalari murgildua islatzen dute.</p>",
+  "fuente": "Dugald Stewart, Account of the Life and Writings of Adam Smith (haren distrakzioei buruz); Eskoziako tradizioko pasadizoak",
+  "tradicion": true,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t5",
+   "fil-t6"
   ]
  },
  "kant": {
@@ -1946,6 +2378,58 @@ const BIOGRAFIAS = {
    "fil-t7",
    "fil-grandes-preguntas",
    "fil-montaigne-ensayos"
+  ]
+ },
+ "hamann": {
+  "name": "Johann Georg Hamann",
+  "dates": "1730 – 1788",
+  "born": 1730,
+  "died": 1788,
+  "place": "Königsberg (gaur egun Kaliningrad, Errusia)",
+  "role": "pentsalari erlijiosoa, «Iparraldeko Magoa»",
+  "idea": "Ez dago hizkuntzatik, tradiziotik eta historiatik bereizitako arrazoimen hutsik: beti heredatutako hitzekin pentsatzen dugu.",
+  "bio": "<p>Johann Georg Hamann Königsbergen jaio zen 1730ean, zirujau-bizargin baten semea. Bere hiriko unibertsitatean ikasi zuen, graduatzera iritsi gabe, eta etxe-irakasle aritu zen Baltikoko etxe nobleetan. Londresen krisi pertsonal bat igaro ondoren Königsbergera itzuli zen, eta han eman zuen ia bizitza osoa aduana-administrazioko langile xume gisa. Estu bizi zen eta testu laburrak idazten zituen, aipamenez eta zeharkako erreferentziez beteak, hain ilunak non garaikide batek «Iparraldeko Magoa» deitu baitzion. Münsterren hil zen 1788an, lagunak bisitatzeko egin zuen bidaia batean, haien artean Jacobi.</p>\n<p>Hamann Kanten laguna eta auzokidea izan zen eta, aldi berean, haren kritikari zorrotzena. Ilustrazioaren aurka <strong>fedea</strong> eta sentimendua defendatu zituen, eta <strong>arrazoimena hizkuntza dela</strong> esan zuen: ez dago pentsatzeko erabiltzen diren hitzetatik eta historiatik bereiz daitekeen arrazoimen hutsik. Horregatik idatzi zuen <em>Arrazoimen hutsaren kritikaren</em> aurka <em>Metakritika</em> bat (1784), hil ondoren argitaratua. Herderren maisua izan zen eta Sturm und Drang mugimendua inspiratu zuen. <em>Golgota eta Scheblimini</em> lanean (1784) Mendelssohnen <em>Jerusalem</em> kritikatu zuen, eta panteismoaren polemikan Jacobi babestu zuen bere gutunekin.</p>",
+  "obras": [
+   "Sokratikoki gogoangarriak (1759)",
+   "Filologoaren gurutzadak (1762)",
+   "Golgota eta Scheblimini (1784)",
+   "Arrazoimenaren purismoari buruzko metakritika (1784)"
+  ],
+  "anecdota": "<p>1757an, Rigako merkataritza-etxe batek Londresera bidali zuen Hamann gaztea merkataritza-zeregin batekin. Erabat huts egin zuen. Hirian bakarrik, dirua arropetan, dibertsioetan eta lagun txarretan xahutu zuen, zorpetu egin zen eta gaixorik eta isolatuta amaitu zuen ostatu batean. 1758ko martxoan, zer egin ez zekiela, Biblia hasieratik bukaeraraino irakurtzen hasi zen. Gero kontatu zuen irakurketa hark irakurtzen ari zen istorioan bere burua ikusarazi ziola eta handik konbertituta atera zela. <em>Nire bizitzaren ibilbideari buruzko gogoetak</em> idazkian utzi zuen jasota. Königsbergera itzuli zenean ez zen jada ilustratu bat: Kant, arrakastarik gabe, arrazoimenera itzultzen saiatuko zen fededuna zen.</p>",
+  "fuente": "Hamann, Nire bizitzaren ibilbideari buruzko gogoetak (1758)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "jefferson": {
+  "name": "Thomas Jefferson",
+  "dates": "1743 – 1826",
+  "born": 1743,
+  "died": 1826,
+  "place": "Shadwell, Virginia (Amerikako kolonia britainiarrak)",
+  "role": "estatubatuar politikari ilustratua, Independentzia Deklarazioaren egilea",
+  "idea": "Gizaki guztiek eskubide naturalak dituzte, hala nola bizitza, askatasuna eta zoriontasunaren bilaketa; gobernuak eskubide horiek babesteko daude, boterea gobernatuen adostasunetik lortzen dute eta erlijiotik bereizi behar dira.",
+  "bio": "<p>Thomas Jefferson Virginian jaio zen, lurjabe-familia batean, eta zuzenbidea ikasi zuen College of William &amp; Mary ikastetxean. Estatu Batuetako <strong>Independentzia Deklarazioaren</strong> (1776) idazle nagusia izan zen, enbaxadore Frantzian Iraultzaren atarian, Estatu idazkari Washingtonekin eta herrialdeko hirugarren presidentea (1801-1809). Zahartzaroan Virginiako Unibertsitatea sortu zuen. Bere Monticelloko etxean hil zen 1826ko uztailaren 4an, Deklarazioa egin eta berrogeita hamar urte zehatzetara.</p>\n<p>Deklarazioak <strong>Locke</strong>ren eskubide naturalen eta gizarte-kontratuaren teoria jasotzen du: gizaki guztiak berdinak sortuak dira, «bizitza, askatasuna eta zoriontasunaren bilaketa» eskubide ukaezinekin, eta gobernu batek horiek urratzen baditu, herriak alda dezake. Jeffersonek <strong>erlijio-askatasuna</strong> eta Elizaren eta Estatuaren arteko «bereizketa-horma» ere defendatu zituen. Haren kontraesan handia: berdintasuna aldarrikatu zuen eta, aldi berean, ehunka pertsona esklaboren jabe izan zen bizitza osoan.</p>",
+  "obras": [
+   "Independentzia Deklarazioa (1776)",
+   "Virginiako estatuari buruzko oharrak (1785)",
+   "Virginiako estatutua erlijio-askatasunerako (1786)",
+   "Nazareteko Jesusen bizitza eta morala (1820)"
+  ],
+  "anecdota": "<p>Jeffersonek Ebanjelioen bere bertsioa prestatu zuen: labana batez Bibliako hainbat aletatik Jesusen irakatsi moralak zituzten bertsetak moztu eta ordenan itsatsi zituen, mirariak eta naturaz gaindikoa kanpoan utzita. John Adamsi idatzi zion benetakoa bereiztea simaurtegi batean diamanteak bereiztea bezain erraza zela. Liburukia, «Jeffersonen Biblia» izenez ezaguna, Smithsonian Institutuan gordetzen da.</p>",
+  "fuente": "Jeffersonek John Adamsi idatzitako gutuna (12-10-1813); jatorrizko alea Smithsonian Institutuan (Washington)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "paley": {
@@ -2023,6 +2507,33 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t2"
+  ]
+ },
+ "herder": {
+  "name": "Johann Gottfried Herder",
+  "dates": "1744 – 1803",
+  "born": 1744,
+  "died": 1803,
+  "place": "Mohrungen (gaur egun Morąg, Polonia)",
+  "role": "hizkuntzaren eta historiaren filosofoa",
+  "idea": "Herri eta garai bakoitzak bere hizkuntza, bere kultura eta bere balioa ditu; historia ez da Europa ilustratura daraman eskailera bat.",
+  "bio": "<p>Johann Gottfried Herder 1744an jaio zen Mohrungenen, Ekialdeko Prusian, familia xume batean. 1762 eta 1764 artean Teologia ikasi zuen Königsbergen, non Kanten ikaslea eta Hamannen laguna izan zen. Maisu eta predikari aritu zen Rigan, Goethe ezagutu zuen Estrasburgon 1770ean eta gorteko predikaria izan zen Bückeburgen. 1776an, Goetheri esker, Weimarren kokatu zen dukerriko Eliza protestantearen agintari goren gisa. Han hil zen 1803an.</p>\n<p>Herderrek defendatu zuen <strong>hizkuntza</strong> giza izaeratik bertatik sortzen dela eta herri bakoitzak bere hizkuntzaren bidez pentsatzen eta sentitzen duela. Horregatik baloratu zuen herri-poesia, herrialde askotako kantak bildu zituen eta kultura bakoitzak bere balioa duela defendatu zuen. Gaztaroko maisuaren aurkari bihurtu zen azkenean: Kantek haren <em>Ideiak</em> kritikatu zituen 1785ean, eta Herderrek urte batzuk geroago erantzun zion <em>Arrazoimen hutsaren kritikaren</em> aurkako <em>Metakritika</em> batekin. Panteismoaren polemikan ere sartu zen. <em>Jainkoa. Elkarrizketa batzuk</em> lanean (1787) Spinoza defendatu zuen, natura osoan <strong>indar</strong> bizi gisa presente dagoen Jainko baten filosofo gisa irakurtzen baitzuen.</p>",
+  "obras": [
+   "Hizkuntzaren jatorriari buruzko tratatua (1772)",
+   "Historiaren beste filosofia bat (1774)",
+   "Gizateriaren historiaren filosofiarako ideiak (1784-1791)",
+   "Jainkoa. Elkarrizketa batzuk (1787)"
+  ],
+  "anecdota": "<p>1769an, hogeita lau urterekin, Herder Rigaz nazkatuta zegoen. Maisu eta predikari karguari uko egin zion eta Frantziara zihoan merkataritza-ontzi batean itsasoratu zen, plan argirik gabe. Asteetan, itsaso zabalean, libururik eta betebeharrik gabe, pentsatzeari eta idazteari eman zion bere burua. Bere bidaia-egunerokoan eskolaren erreformak, liburu-proiektuak eta gizateriaren historia bat irudikatzen ditu. Orduraino paperen artean, benetako bizitzatik urrun, bizi izana ere aurpegiratzen dio bere buruari. Ontzia Nantesera iritsi zen, eta handik Parisera jarraitu zuen Herderrek. Haren <em>1769ko nire bidaiaren egunerokoa</em> ez zen argitaratu hil eta askoz geroago arte.</p>",
+  "fuente": "Herder, 1769ko nire bidaiaren egunerokoa",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t6"
   ]
  },
  "bentham": {
@@ -2130,6 +2641,31 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "schleiermacher": {
+  "name": "Friedrich Schleiermacher",
+  "dates": "1768 – 1834",
+  "born": 1768,
+  "died": 1834,
+  "place": "Breslau (gaur egun Wrocław, Polonia)",
+  "role": "teologoa, filosofoa eta itzultzailea",
+  "idea": "Erlijioa ez da jakiteko modu bat ezta moral bat ere, finituan infinituaren sentimendua eta intuizioa baizik.",
+  "bio": "<p>Friedrich Schleiermacher Breslaun jaio zen 1768an, kapilau militar protestante baten semea. Moraviako Anaien artean hezi zen, komunitate oso jainkozalea, baina zalantzek Halleko Unibertsitatean ikastera eraman zuten, eta han sakon irakurri zuen Kant. Predikaria izan zen Berlinen, non erromantikoekin harremanetan egon zen, bereziki Friedrich Schlegelekin. Berlingo Unibertsitatea sortzen lagundu zuen, eta bertan Teologia irakatsi zuen, eta Platonen elkarrizketa gehienak alemanera itzuli zituen. Berlinen hil zen 1834an.</p>\n<p>1799an, sinadurarik gabe argitaratu zituen <em>Erlijioari buruzko hitzaldiak, haren mespretxatzaile jantziei</em>. Harentzat erlijioa ez da doktrina-multzo bat, metafisikarentzat bezala, ezta moralaren euskarri bat ere, Kantengan bezala, baizik eta <strong>unibertsoaren sentimendua eta intuizioa</strong>: finituan infinituaren esperientzia. Horregatik eskatu zien irakurleei ohoretu zezaten «Spinoza santu eta baztertua», askok ateotzat zutena. Geroago erlijioa <strong>menpekotasun absolutuaren sentimendu</strong> gisa definitu zuen. <strong>Hermeneutika</strong> modernoaren sortzailea ere bada, testuak interpretatzeko artea.</p>",
+  "obras": [
+   "Erlijioari buruzko hitzaldiak, haren mespretxatzaile jantziei (1799)",
+   "Bakarrizketak (1800)",
+   "Fede kristaua (1821-1822)"
+  ],
+  "anecdota": "<p>1797ko azaroaren 21ean, Schleiermacherrek hogeita bederatzi urte bete zituen, eta Berlingo lagun erromantikoek festa bat antolatu zioten. Friedrich Schlegelek, orduan berarekin bizi zenak, ospakizuna baliatu zuen hitzeman bat ateratzeko: hogeita hamar bete aurretik bere liburu bat idatzi behar zuen. Schleiermacher, ordura arte bere-berea zen ia ezer argitaratu ez zuena, hilabetez aritu zen erresistentzian; Charlotte arrebari 1798an idatzitako gutun batean aitortzen zuen ez zuela uste ezer luzerik aurrera ateratzeko gai zenik. Baina azkenean bete egin zuen. Liburua <em>Erlijioari buruzko hitzaldiak</em> izan zen, 1799an haren izenik gabe agertu eta Alemania osoan ospea eman ziona.</p>",
+  "fuente": "Schleiermacherrek Charlotte arrebari idatzitako gutunak (1797-1798)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "hegel": {
   "name": "Georg Wilhelm Friedrich Hegel",
   "dates": "1770 – 1831",
@@ -2184,6 +2720,57 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-marxismos"
+  ]
+ },
+ "schopenhauer": {
+  "name": "Arthur Schopenhauer",
+  "dates": "1788 – 1860",
+  "born": 1788,
+  "died": 1860,
+  "place": "Danzig (gaur Gdansk, Polonia)",
+  "role": "pesimismoaren filosofo alemana",
+  "idea": "Existitzen den guztiaren atzean inoiz asetzen ez den borondate itsu bat dago; horregatik, bizitza mina da batez ere, eta arteak, errukiak eta uko egiteak baino ez gaituzte apur bat askatzen.",
+  "bio": "<p>Arthur Schopenhauer merkatari aberats baten eta Johanna Schopenhauerren semea zen; ama eleberrigile arrakastatsua zen, eta harekin harreman oso zaila izan zuen. Aita hil ondoren, merkataritza utzi zuen filosofia ikasteko. 30 urterekin argitaratu zuen bere lan nagusia, <em>Mundua borondate eta irudikapen gisa</em> (1819), eta ia ez zen saldu. Berlinen irakasle gisa porrot egin zuen, herentziarekin bizi izan zen eta bere azken hamarkadak Frankfurten eman zituen, bakarrik eta mingotsik, aitortzarik ez zuelako; aitortza hori bukaeran baino ez zitzaion iritsi, <em>Parerga eta paralipomena</em> lanarekin (1851).</p>\n<p>Schopenhauer Kantengandik abiatzen da: ezagutzen dugun mundua <strong>irudikapena</strong> da, gure adimenak ordenatutako fenomenoa. Baina gaineratzen du atzean dagoenari geure barrutik begiratu ahal diogula: <strong>borondatea</strong> gara, desira. Borondate hori, itsua, helburu gabea eta asegaitza, errealitate osoaren hondoa da. Horregatik, bizitza desira ase gabearen minaren eta desira beteak dakarren asperduraren artean dabil. Hiru irtenbide daude: <strong>artearen</strong> kontenplazioa, batez ere musikarena; <strong>errukia</strong>, haren ustez moralaren oinarria dena; eta aszetaren ukoa, budismoaren eta Upanishaden ideietatik hurbil dagoena; hain zuzen, Schopenhauer izan zen haiek aztertu zituen lehen filosofo europarretako bat. Eragin erabakigarria izan zuen Nietzschengan, Wagnerengan eta Freudengan.</p>",
+  "obras": [
+   "Mundua borondate eta irudikapen gisa (1819; 1844an handitua)",
+   "Etikaren bi oinarrizko arazoak (1841)",
+   "Parerga eta paralipomena (1851)"
+  ],
+  "anecdota": "<p>1820an Schopenhauerrek Berlingo Unibertsitatean eskolak ematea lortu zuen, eta han Hegel zen figura handia. Hegel txarlatan bat zela sinetsita, bere ikastaroa Hegelen eskolen ordu berean iragarri zuen, ikasleek bien artean aukeratu behar izan zezaten. Hegel aukeratu zuten: Schopenhauerren eskoletara oso ikasle gutxi joan ziren eta ikastaroa ez zen errepikatu. Schopenhauerrek ez zion inoiz barkatu filosofia akademikoari porrot hura, eta hamarkadetan zehar Hegel erasotzen jarraitu zuen bere liburuetan.</p>",
+  "fuente": "R. Safranski, Schopenhauer eta filosofiaren urte basatiak (1987)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t5"
+  ]
+ },
+ "comte": {
+  "name": "Auguste Comte",
+  "dates": "1798 – 1857",
+  "born": 1798,
+  "died": 1857,
+  "place": "Montpellier (Frantzia)",
+  "role": "filosofo positibista eta soziologoa",
+  "idea": "Ezagutza baliozko bakarra ezagutza positiboa da, gertakari behagarrietan eta lege zientifikoetan oinarritua; gizateriak aurrera egiten du egoera teologikotik metafisikora eta positibora.",
+  "bio": "<p>Auguste Comte Montpellierren jaio zen 1798an. Parisko Eskola Politeknikoan ikasi zuen, eta ikasle-protesta baten ondoren kanporatu egin zuten. Saint-Simon pentsalari sozialistaren idazkaria izan zen, eta azkenean harekin hautsi zuen. Ez zuen inoiz unibertsitateko katedrarik lortu, eta eskola partikularrez eta bere jarraitzaileen laguntzaz bizi izan zen. Parisen hil zen 1857an.</p>\n<p>Comte da <strong>positibismoaren</strong> sortzailea. Haren ustez, egiazko ezagutza bakarra behaketan eta <strong>gertakari egiaztagarrietan</strong> oinarritzen dena da, eta espekulazio metafisikoa baztertzen du. Haren <strong>hiru egoeren legearen</strong> arabera, gizateria egoera teologiko batetik igarotzen da, fenomenoak jainkoen bidez azaltzen dituena; metafisiko batetik, esentzia abstraktuetara jotzen duena; eta positibo batetik, lege zientifikoak bilatzen dituena. Gizartearen zientzia bat ere proposatu zuen, <strong>soziologia</strong> deitu ziona, gizarte-bizitza zientziaren arabera berrantolatzeko. Bere azken aldian gizateriaren erlijio bat asmatu zuen.</p>\n<p>Positibismoa zientzian eta aurrerapenean jarritako konfiantza modernoaren gailurra da. John Stuart Millengan eta XIX. mendeko gizarte-zientzian eragin zuen, eta haren espiritua Vienako Zirkuluaren neopositibismoan agertzen da berriro. Geroago, Frankfurteko Eskolak, Horkheimerrekin, ikuspegi hori kritikatu zuen, arrazoia tresna huts bihurtzen zuelako.</p>",
+  "obras": [
+   "Filosofia positiboaren ikastaroa (1830-1842)",
+   "Espiritu positiboari buruzko diskurtsoa (1844)",
+   "Politika positiboaren sistema (1851-1854)"
+  ],
+  "anecdota": "<p>Heldutasunean, Comtek berak «garun-higienea» deitzen zuena praktikatu zuen: egunkariak, aldizkariak eta beste egile batzuen liburuak irakurtzeari uztea erabaki zuen, besteen ideiek bere sistema propioaren lanketa asaldatu ez zezaten. Klasiko gutxi batzuk berrirakurtzea baino ez zuen bere buruari baimentzen, atseden gisa balio zioten olerkariak, adibidez. Ohiturak bere miresleak ere harritu zituen, gertaeretan oinarritutako filosofia baten sortzailea bere garaiko berrikuntzetatik isolatzen baitzen. Comteren asmoa erakusten du: zientzia guztien sintesi osoa berak bakarrik eraikitzea.</p>",
+  "fuente": "Comteren beraren eta haren ikasleen lekukotasunak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "feuerbach": {
@@ -2467,6 +3054,32 @@ const BIOGRAFIAS = {
    "fil-t4"
   ]
  },
+ "kropotkin": {
+  "name": "Piotr Kropotkin",
+  "dates": "1842 – 1921",
+  "born": 1842,
+  "died": 1921,
+  "place": "Mosku",
+  "role": "geografo eta pentsalari anarkista",
+  "idea": "Elkarren laguntza borroka bezain eboluzio-faktore garrantzitsua da: lankidetzan aritzen diren espezieek aurrera egiten dute, eta gizarte-sen horretan oinarritzen da morala.",
+  "bio": "<p>Piotr Kropotkin Moskun jaio zen, Errusiako goi-nobleziako familia batean; printze titulua zuen. Ofizial eta geografo gisa espedizio zientifikoak egin zituen Siberian. Bere pribilegioei uko egin zien, anarkista bihurtu zen, eta Errusian eta Frantzian espetxeratu zuten. Urte askoz bizi izan zen erbestean Ingalaterran, eta 1917ko iraultzaren ondoren Errusiara itzuli zen, nahiz eta autoritarismo boltxebikea kritikatu zuen.</p>\n<p><em>Elkarren laguntza</em> lanean naturan lehia baino ikusten ez duten darwinismoaren irakurketak eztabaidatzen ditu. Animalien eta giza gizarteen adibide ugarirekin, dio <strong>lankidetza</strong> eboluzioaren faktore erabakigarria dela eta <strong>gizarte-sena</strong> dagoela moralaren oinarrian. Gai-zerrendan agertzen da darwinismo sozialaren eta gizakia izaeraz berekoi eta lehiakortzat jotzen duen ikuspegiaren alternatiba gisa.</p>",
+  "obras": [
+   "Ogiaren konkista (1892)",
+   "Soroak, lantegiak eta tailerrak (1899)",
+   "Elkarren laguntza (1902)"
+  ],
+  "anecdota": "<p>1876an, Kropotkin San Petersburgoko San Pedro eta San Pablo gotorlekuan preso zegoen eta, gaixorik zegoenez, espetxeko ospitale militarrera eraman zuten. Han, bere kideek ihesaldi zehatz bat prestatu zuten: patioko ibilaldian, biolin-jotzaile batek inguruko etxe batetik jotzen zuen, bidea libre zegoela adierazteko seinale gisa. Kropotkinek presoaren bata astuna erantzi, atera arte korrika egin eta zain zuen zalgurdi batera jauzi egin zuen. Egun batzuk geroago Errusiatik ihes egin zuen, eta Europan erbestealdi luze bati ekin zion.</p>",
+  "fuente": "Piotr Kropotkin, Iraultzaile baten oroitzapenak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t6"
+  ]
+ },
  "james": {
   "name": "William James",
   "dates": "1842 – 1910",
@@ -2574,6 +3187,85 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-t2",
    "fil-t5"
+  ]
+ },
+ "zetkin": {
+  "name": "Clara Zetkinek",
+  "dates": "1857 – 1933",
+  "born": 1857,
+  "died": 1933,
+  "place": "Wiederau (Saxonia, Alemania)",
+  "role": "politikari, kazetari eta teorialari sozialista alemaniarra",
+  "idea": "Emakumeen emantzipazioa eta klase-borroka batu zituen: independentzia ekonomikorik gabe eta gizarte kapitalista aldatu gabe, legearen aurreko berdintasuna erdizka geratzen da.",
+  "bio": "<p>Clara Eißner 1857an jaio zen Wiederaun, Saxoniako herri batean; aita eskola-maisua zuen. Leipzigen maistra izateko ikasi zuen, eta han ezagutu zituen langile-mugimendua eta Ossip Zetkin errusiar erbesteratua; haren abizena hartu zuen, nahiz eta ez ziren inoiz ezkondu. Bismarcken lege antisozialistek iraun zuten bitartean (1878-1890), Zürichen eta gero Parisen bizi izan zen erbestean; Parisen jaio ziren bere bi semeak. 1889an, Bigarren Internazionalaren sortze-biltzarrean, defendatu zuen emakumeek gizonen baldintza berberetan lan egiteko eskubidea zutela eta haien emantzipazioa <strong>independentzia ekonomikoaren</strong> araberakoa zela.</p>\n<p>Alemaniara itzulita, hogeita bost urtez zuzendu zuen <em>Die Gleichheit</em> («Berdintasuna»), Alderdi Sozialdemokratako emakumeen aldizkaria, eta emakume sozialisten mugimendua antolatu zuen. Ez zuen <strong>feminismo burgesarekin</strong> elkarlanean aritu nahi, haren ustez gizarte zegoenaren barruko lege-berdintasuna baino ez baitzuen bilatzen; banaketa hori asko eztabaidatu zen jada bere garaian. 1910ean, Kopenhageko emakume sozialisten nazioarteko konferentzian, Käte Dunckerrekin eta beste ordezkari batzuekin batera proposatu zuen urtero emakumearen nazioarteko eguna ospatzea, oraindik data finkorik gabe; martxoaren 8a geroago nagusitu zen. Lehen Mundu Gerraren aurka agertu zen: 1915ean Bernan bildu zituen elkarren aurka zeuden herrialdeetako sozialistak gerraren aurka, eta horregatik hainbat hilabetez atxilotu zuten; 1917an zuzendaritza sozialdemokratak <em>Die Gleichheit</em>en zuzendaritza kendu zion. Urte hartan Alderdi Sozialdemokrata Independentera igaro zen, Rosa Luxemburgen eta Karl Liebknechten Liga Espartakistatik hurbil, eta 1919an Alemaniako Alderdi Komunistan sartu zen; alderdi horren diputatua izan zen Reichstagean (Alemaniako Parlamentuan) 1920tik 1933ra. 1921etik aurrera Internazional Komunistaren zuzendaritzako kide izan zen, eta azken urteak batez ere Sobietar Batasunean eman zituen; erregimen hori jendaurrean defendatu zuen, nahiz eta zuzendaritza komunistaren zenbait erabakirekin ados ez egon. Bere irudiak eztabaidagarria izaten jarraitzen du: batzuek emakumeen eskubideen eta faxismoaren aurkako borroka nabarmentzen dute; beste batzuek, Stalinen Sobietar Batasunari emandako babesa. Arkhangelskoien hil zen, Moskutik gertu, 1933ko ekainaren 20an, Hitler boterera iritsi eta hilabete gutxira. Webguneak Marxen ondorengo kapitalismoaren kritikan aztertzen du, Lenin eta Rosa Luxemburgekin batera, marxismoaren barruan emakumeen berdintasunaren eta <strong>klase-borrokaren</strong> arteko harremanari buruzko eztabaida irekia izan zela erakusteko.</p>",
+  "obras": [
+   "Emakume langileen eta emakumeen auzia gaur egun (1889)",
+   "Die Gleichheit («Berdintasuna»), 1892tik 1917ra zuzendu zuen aldizkaria",
+   "Leninen oroitzapenak (1924an idatzia)"
+  ],
+  "anecdota": "<p>1932ko abuztuan, hirurogeita hamabost urterekin, gaixorik eta ia itsu, Clara Zetkin Moskutik itzuli zen Reichstag berria irekitzeko, diputaturik zaharrena zenez irekiera-saioa zuzentzea zegokiolako. Naziak talderik handiena ziren ganbera baten aurrean, langile guztien fronte bakarra eskatu zuen faxismoaren aurka, eta amaitzeko esan zuen bizirik iraun nahi zuela Alemania sobietar baten kontseiluen lehen biltzarra irekitzeko, hura ere adinez zaharrena zelako. Saioa amaitzean, Reichstagak Hermann Göring hautatu zuen presidente.</p>",
+  "fuente": "Verhandlungen des Reichstags, VI. Wahlperiode 1932, Stenographische Berichte, 1. saioa, 1932ko abuztuaren 30a (Reichstagaren akta takigrafikoak)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "husserl": {
+  "name": "Edmund Husserl",
+  "dates": "1859 – 1938",
+  "born": 1859,
+  "died": 1938,
+  "place": "Prossnitz (Moravia, gaur egun Prostějov, Txekiar Errepublika)",
+  "role": "filosofo alemana, fenomenologiaren sortzailea",
+  "idea": "«Gauzetara beretara itzuli» behar da: aurreiritzirik gabe deskribatu nola agertzen diren gauzak kontzientzian, kontzientzia beti baita zerbaiten kontzientzia.",
+  "bio": "<p>Edmund Husserl Moraviako familia judu batean jaio zen, eta matematika ikasten hasi zen. Franz Brentanoren eraginez filosofiara igaro zen, eta Göttingenen eta Friburgon irakasle izan zen; Friburgon Edith Stein eta Martin Heidegger izan zituen ikasle eta laguntzaile. Naziak boterera iritsi zirenean, jatorri juduagatik, unibertsitatetik baztertu zuten eta proskribatu bat bezala tratatu; Friburgon hil zen 1938an.</p>\n<p>Husserlek <strong>fenomenologia</strong> sortzen du, filosofia zorrotza izan nahi duena, aurresuposiziorik gabea. Haren leloa «gauzetara beretara itzultzea» da: gauzak esperientzian nola ematen zaizkigun arretaz deskribatzea. Gakoa <strong>intentzionalitatea</strong> da: kontzientzia oro <em>zerbaiten</em> kontzientzia da; ikustea zerbait ikustea da, desiratzea zerbait desiratzea. Harreman hori aztertzeko <strong>epokhe</strong> praktikatu behar da: munduari buruzko gure ohiko usteak «parentesi artean jartzea», ukatu gabe, mundua nola agertzen den erreparatzeko. Azken aldian <strong>bizi-munduaz</strong> hitz egiten du, berez ulertzen dugun eguneroko munduaz, eta zientziei leporatzen die ahaztu egin dutela, dena zenbakietara murriztean. Haren metodoak eragina izan zuen Heideggerrengan, Sartrerengan, Merleau-Pontyrengan eta XX. mendeko filosofiaren zati handi batean.</p>",
+  "obras": [
+   "Ikerketa logikoak (1900-1901)",
+   "Fenomenologia huts baterako ideiak (1913)",
+   "Gogoeta kartesiarrak (1931)",
+   "Europako zientzien krisia eta fenomenologia transzendentala (1936)"
+  ],
+  "anecdota": "<p>Hil zenean, Husserlek 40.000 orrialde inguru utzi zituen eskuizkribuetan, takigrafian idatziak, ia denak argitaragabeak. 1938an arriskuan zegoen altxor bat ziren: naziek suntsi zitzaketen, egile judu batenak zirelako. Herman Van Breda frantziskotar belgikar gazteak Alemaniatik ezkutuan ateratzea lortu zuen, Belgikako enbaxadaren bidez, eta Lovainara eramatea. Han sortu zen Husserl Artxiboa, gaur egun ere eskuizkribu horiek aztertu eta argitaratzen dituena.</p>",
+  "fuente": "H. L. Van Breda, «Husserlen ondarearen salbamena» (1959)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-t2",
+   "fil-t3"
+  ]
+ },
+ "dewey": {
+  "name": "John Dewey",
+  "dates": "1859 – 1952",
+  "born": 1859,
+  "died": 1952,
+  "place": "Burlington (Estatu Batuak)",
+  "role": "filosofo pragmatista eta hezkuntzaren erreformatzaile estatubatuarra",
+  "idea": "Pentsatzea esperientziak planteatzen dituen arazoak konpontzeko ikertzea da; horregatik, hezkuntza ez datza buruz ikastean, «eginez ikastean» baizik, eta demokrazia, batez ere, bizitza partekatzeko modu bat da.",
+  "bio": "<p>John Dewey Burlingtonen jaio zen, Vermont estatuan (Estatu Batuak), 1859an. Vermonteko Unibertsitatean ikasi zuen eta Johns Hopkins Unibertsitatean doktoratu zen. Michiganen izan zen irakasle eta, 1894tik aurrera, Chicagoko Unibertsitatean, non eskola esperimental ospetsu bat zuzendu zuen; 1904an Columbiako Unibertsitatera igaro zen, New Yorken, non bizitza osoan irakatsi zuen. Hezkuntzari, demokraziari eta eskubideei buruzko eztabaida publikoetan oso aktiboki parte hartu zuen, Japonia, Txina, Mexiko eta Sobietar Batasuna bezalako herrialdeetara bidaiatu zuen, eta New Yorken hil zen 1952an, laurogeita hamabi urte zituela.</p>\n<p>Dewey, Charles S. Peirce eta William Jamesekin batera, Estatu Batuetako <strong>pragmatismoaren</strong> figura handietako bat da; korronte horrentzat ideia baten balioa haren ondorio praktikoen arabera neurtzen da. Haren bertsioak, <strong>instrumentalismoak</strong>, pentsamendua <strong>esperientzian</strong> sortzen diren arazoak konpontzeko tresnatzat hartzen du: pentsatzea, funtsean, ikertzea da. Hortik dator haren hezkuntza-proposamen ezagunena, «eginez ikastea», memorian soilik oinarritutako irakaskuntzaren aurkakoa, eta <strong>demokraziaren</strong> aldeko haren defentsa, ez gobernu-sistema huts gisa, baizik eta pertsonek elkarlanean aritu eta elkarrekin erabakitzen duten bizimodu gisa. Gai-zerrendan pragmatismoaren ordezkari gisa agertzen da, bai eta egia, ezagutza eta hezkuntza ulertzeko Europako tradizio arrazionalistaz bestelako modu baten ordezkari gisa ere.</p>",
+  "obras": [
+   "Eskola eta gizartea (1899)",
+   "Nola pentsatzen dugun (1910)",
+   "Demokrazia eta hezkuntza (1916)",
+   "Artea esperientzia gisa (1934)"
+  ],
+  "anecdota": "<p>1896ko urtarrilean, Chicagoko Unibertsitateko irakasle zela, Deweyk eskola esperimental bat jarri zuen abian, «Eskola-Laborategia» izenez ezaguna. Ikasle eskukada batekin eta bi maistrarekin hasi zen, eta laborategi gisa funtzionatzen zuen, bere ideia pedagogikoek gelan benetan balio zuten egiaztatzeko: haurrek sukaldatuz, josiz edo gauzak eraikiz ikasten zuten, buruz ikastera mugatu beharrean. Urte gutxian, hasierako talde hartatik ehun ikasletik gorakoa izatera igaro zen. Esperientzia hura, geroago bere bi maistrek jaso zutena, XX. mendeko hezkuntza-berrikuntzako mugimenduek aipatutako eredu bihurtu zen.</p>",
+  "fuente": "K. C. Mayhew eta A. C. Edwards, The Dewey School (1936)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "whitehead": {
@@ -2756,6 +3448,32 @@ const BIOGRAFIAS = {
    "fil-marxismos"
   ]
  },
+ "moore": {
+  "name": "George Edward Moore",
+  "dates": "1873 – 1958",
+  "born": 1873,
+  "died": 1958,
+  "place": "Londres (Ingalaterra)",
+  "role": "filosofo britainiarra",
+  "idea": "Filosofiak zentzu komunetik abiatu behar du eta esaten dugunaren esanahia zehaztasunez argitu; ongia definitu ezin den kalitate sinplea da.",
+  "bio": "<p>George Edward Moorek Cambridgeko Trinity College-n ikasi zuen, eta han izan zen irakasle ia bizitza osoan. Han egin zuen adiskidetasuna Bertrand Russellekin, eta harekin batera hautsi zuen garai hartan filosofia britainiarrean nagusi zen idealismoarekin. Russellekin eta Wittgensteinekin batera, Cambridgeko giro intelektualaren parte izan zen.</p>\n<p>Gai-zerrendan <strong>filosofia analitikoa</strong>ren abiarazleetako bat bezala agertzen da. Haren metodoa baieztapen filosofikoen esanahia arretaz aztertzea zen, eta <strong>zentzu komun</strong>aren sinesmenak (kanpoko mundu bat badagoela, gorputz bat dudala) defendatzea, horiek ukatzen dituzten teorien aurrean. Etikan, <em>Principia Ethica</em> lanean ongia kalitate sinple eta definiezina dela esan zuen, eta <strong>falazia naturalista</strong> deitu zion ongia gauza natural batekin, plazerarekin adibidez, identifikatzeko akatsari.</p>",
+  "obras": [
+   "Principia Ethica (1903)",
+   "Idealismoaren ezeztapena (1903)",
+   "Zentzu komunaren defentsa (1925)"
+  ],
+  "anecdota": "<p>1939an, Britainiar Akademiaren aurrean, Moorek kanpoko munduaren existentziaren froga gisa aurkeztu zuena eskaini zuen. Esku bat altxatu eta esan zuen, gutxi gorabehera: «Hemen esku bat dago». Gero bestea altxatu zuen: «Eta hemen beste bat». Beraz, ondorioztatu zuen, gutxienez kanpoko bi objektu daude. Entzule askok txantxatzat hartu zuten, baina Moore serio ari zen: seguruago zegoen eskuak zituela argudio eszeptiko baten edozein premisaz baino. Keinu horrek laburbiltzen du haren <strong>zentzu komunaren</strong> defentsa, hura zalantzan jartzen duten filosofien aurrean.</p>",
+  "fuente": "Moore, «Kanpoko munduaren froga» (1939)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t5"
+  ]
+ },
  "scheler": {
   "name": "Max Scheler",
   "dates": "1874 – 1928",
@@ -2824,6 +3542,27 @@ const BIOGRAFIAS = {
    "fil-t6"
   ]
  },
+ "schlick": {
+  "name": "Moritz Schlick",
+  "dates": "1882 – 1936",
+  "born": 1882,
+  "died": 1936,
+  "place": "Berlin (Alemania)",
+  "role": "filosofo eta fisikari alemana",
+  "idea": "Proposizio baten esanahia haren egiaztapen-metodoa da: enpirikoki egiazta ezin dena eta egia logikoa ez dena zentzugabea da.",
+  "bio": "<p>Moritz Schlickek fisikan doktoregoa egin zuen Berlinen, Max Planckekin, eta laster hasi zen Einsteinen erlatibitatearen teoriaz interesatzen. 1922an Vienako Unibertsitatean katedra lortu zuen, eta han filosofo eta zientzialari talde bat bildu zuen; talde hori <strong>Vienako Zirkulua</strong> izenez ezagutuko zen. 1936an ikasle ohi batek hil zuen unibertsitatean bertan.</p>\n<p><strong>Neopositibismo logikoa</strong>ren sortzailea eta antolatzaile nagusia izan zen. Wittgensteinen <em>Tractatus</em>ak eraginda, proposizio baten zentzua egiaztatu ahal izatearen araberakoa dela esan zuen: esperientziaren bidez egiazta daitezkeen enuntziatuek eta logikaren egiek soilik dute esanahia. Hortik dator gai-zerrendako ondorio nagusia: <strong>metafisika</strong> ez da faltsua, esanahirik gabea baizik.</p>",
+  "obras": [
+   "Ezagutzaren teoria orokorra (1918)",
+   "Etikaren arazoak (1930)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "ortega": {
   "name": "José Ortega y Gasset",
   "dates": "1883 – 1955",
@@ -2849,6 +3588,30 @@ const BIOGRAFIAS = {
    "fil-t2",
    "fil-t3",
    "fil-t6"
+  ]
+ },
+ "sapir": {
+  "name": "Edward Sapir",
+  "dates": "1884 – 1939",
+  "born": 1884,
+  "died": 1939,
+  "place": "Lauenburg (Pomerania, gaur egun Polonia)",
+  "role": "hizkuntzalari eta antropologo estatubatuarra",
+  "idea": "Hitz egiten dugun hizkuntzak ez du pentsamendua adierazi besterik egiten: errealitatea nola hautematen eta antolatzen dugun ere baldintzatzen du.",
+  "bio": "<p>Edward Sapir Pomeranian jaio zen, familia judu batean; familia Estatu Batuetara emigratu zen bera haurra zela. Columbiako Unibertsitatean ikasi zuen, Franz Boas antropologoarekin, eta Ipar Amerikako hizkuntza indigenetan espezializatu zen. Chicagon eta Yalen izan zen irakasle, eta Yalen Benjamin Lee Whorf izan zuen ikasle.</p>\n<p>Gai-zerrendan <strong>Sapir-Whorfen hipotesia</strong> deritzonagatik agertzen da; Whorfek formulatu zuen batez ere, Sapirren ideietatik abiatuta: hizkuntza bakoitzaren egiturak eragina du hiztunek errealitatea pentsatzeko eta antolatzeko duten moduan. Bertsio sendoan, hizkuntzak pentsamendua determinatuko luke; bertsio ahulean, baldintzatu besterik ez. <strong>Bihurgune linguistikoa</strong>rekin lotutako ideia horrek bultzatu zuen Txillardegi hizkuntza bakoitzak mundu-ikuskera bat gordetzen duela defendatzera.</p>",
+  "obras": [
+   "Hizkuntza (1921)"
+  ],
+  "anecdota": "<p>1915eko udan Sapirrek San Franciscon lan egin zuen Ishirekin, Kaliforniako hizkuntza indigena baten, yahieraren, azken hiztuntzat hartzen zen gizonarekin. Ishi hamarkadetan ezkutuan bizi izan zen bere talde txikiarekin eta, bakarrik geratu ondoren, Kaliforniako Unibertsitateko antropologia-museoan hartu zuen bizilekua. Astetan zehar Sapirrek harekin hitzak, kontakizunak eta egitura gramatikalak idatzi zituen, hizkuntza gal ez zedin. Eszena horrek laburbiltzen du Sapirren lana: mehatxatutako hizkuntzak dokumentatzea, bakoitzak mundua antolatzeko modu bakar bat gordetzen duela sinetsita.</p>",
+  "fuente": "Alfred Kroeberren lekukotasunak eta Kaliforniako Unibertsitateko antropologia-museoko dokumentazioa; Theodora Kroeber, Ishi bi mundutan",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t4"
   ]
  },
  "duchamp": {
@@ -2929,6 +3692,32 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "carnap": {
+  "name": "Rudolf Carnap",
+  "dates": "1891 – 1970",
+  "born": 1891,
+  "died": 1970,
+  "place": "Ronsdorf (Alemania)",
+  "role": "filosofo eta logikari alemana",
+  "idea": "Hizkuntzaren analisi logikoaren bidez erakusten da metafisikaren enuntziatuak ez direla faltsuak, esanahirik gabeak baizik, ezin baitira egiaztatu.",
+  "bio": "<p>Rudolf Carnapek fisika, matematika eta filosofia ikasi zituen Jenan, eta han Fregeren eskoletara joan zen. 1926an Vienako Unibertsitatera sartu zen, eta <strong>Vienako Zirkulua</strong>ren kide nabarmenenetako bat izan zen. Gero Pragan irakatsi zuen, eta, nazismoaren gorakadaren aurrean, 1935ean Estatu Batuetara emigratu zuen; han Chicagon eta Los Angelesen izan zen irakasle.</p>\n<p>Gai-zerrendan <strong>neopositibismo logikoa</strong>ren ordezkari handietako bat bezala agertzen da. Ezagutza zientifikoa esperientziatik eta logikatik abiatuta berreraiki nahi izan zuen. 1932ko artikulu ospetsu batean esan zuen <strong>metafisika</strong> hizkuntzaren analisi logikoaren bidez gainditzen dela: haren enuntziatuak ezin dira egiaztatu, eta, beraz, ez dute ezer esaten, nahiz eta bizitzaren aurreko sentimendu bat adieraz dezaketen.</p>",
+  "obras": [
+   "Munduaren eraikuntza logikoa (1928)",
+   "Metafisikaren gainditzea hizkuntzaren analisi logikoaren bidez (1932)",
+   "Hizkuntzaren sintaxi logikoa (1934)"
+  ],
+  "anecdota": "<p>Nerabe zela, Carnapek bere kabuz ikasi zuen <strong>esperantoa</strong>, herrien arteko ulermena errazteko sortutako hizkuntza artifiziala. 1908an esperantisten mundu-biltzar batera joan zen Dresdenera, eta harrituta geratu zen herrialde askotako jendea asmatutako hizkuntza batean jarioz hizketan ikustean. Bere autobiografia intelektualean kontatu zuenez, esperientzia horrek konbentzitu zuen eraikitako hizkuntza batek naturala bezala funtziona zezakeela. Geroago, bere filosofiaren zati handi bat hizkuntza logiko zehatzak diseinatzera bideratuko zuen, ezagutza zientifikoa anbiguotasunik gabe adierazteko gai zirenak.</p>",
+  "fuente": "Carnap, «Autobiografia intelektuala», in P. A. Schilpp (arg.), The Philosophy of Rudolf Carnap",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t4"
+  ]
+ },
  "gramsci": {
   "name": "Antonio Gramsci",
   "dates": "1891 – 1937",
@@ -3005,6 +3794,30 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-marxismos"
+  ]
+ },
+ "whorf": {
+  "name": "Benjamin Lee Whorf",
+  "dates": "1897 – 1941",
+  "born": 1897,
+  "died": 1941,
+  "place": "Winthrop (Massachusetts, AEB)",
+  "role": "hizkuntzalari estatubatuarra",
+  "idea": "Hizkuntza bakoitzaren gramatikak baldintzatzen du hiztunek errealitatea nola hautematen, sailkatzen eta pentsatzen duten: hizkuntza-erlatibismoaren tesia da.",
+  "bio": "<p>Benjamin Lee Whorf Winthropen (Massachusetts) jaio zen 1897an. Ingeniari kimiko gisa trebatu zen, eta bizitza osoan suteen prebentzioko ikuskatzaile lanetan aritu zen aseguru-konpainia batean. Zaletasunez hizkuntzalaritzari eman zion: Amerikako hizkuntza indigenak aztertu zituen, batez ere hopia, eta 1931tik aurrera Edward Sapir antropologo eta hizkuntzalariaren ikastaroetara joan zen Yaleko Unibertsitatean. 1941ean hil zen.</p>\n<p>Whorfek <strong>erlatibismo linguistikoa</strong> defendatu zuen: hizkuntza bakoitzaren egitura gramatikalak baldintzatzen du hiztunek errealitatea hautemateko eta antolatzeko modua, adibidez denbora edo kausalitatea. Tesi hori, <strong>Sapir-Whorfen hipotesia</strong> izenez ezaguna, eztabaidagai da oraindik, eta gaur egun bertsio moderatu batean bakarrik onartu ohi da. Gai-zerrendan agertzen da Txillardegiren ideia inspiratu zuelako: hizkuntza bakoitzak mundu-ikuskera propio bat gordetzen du.</p>",
+  "obras": [
+   "Hizkuntza, pentsamendua eta errealitatea (1956)"
+  ],
+  "anecdota": "<p>Suteen ikuskatzaile gisa egindako lanak Whorfi bere adibide gogokoenetako bat eman zion. Biltegi batean ikusi zuen langileek kontuz jokatzen zutela gasolinaz betetako bidoien ondoan, baina lasai erretzen zutela «hutsik» etiketa zutenen ondoan. Hala ere, bidoi horiek lurrun sukoiz beteta zeuden, askoz arriskutsuagoak. «Hutsik» hitzak, arriskurik eza iradokitzen duenak, errealitate fisikoak baino gehiago gidatzen zuen jokabidea. Whorfek horrelako kasuak erabili zituen hizkuntzak egoerak nola hautematen ditugun eta haietan nola jokatzen dugun baldintzatzen duela defendatzeko.</p>",
+  "fuente": "Whorf, «Ohiko pentsamenduak eta jokabideak hizkuntzarekin duten harremana» (1939)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t4"
   ]
  },
  "marcuse": {
@@ -3452,6 +4265,32 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "lyotard": {
+  "name": "Jean-François Lyotard",
+  "dates": "1924 – 1998",
+  "born": 1924,
+  "died": 1998,
+  "place": "Versailles (Frantzia)",
+  "role": "postmodernitatearen filosofo frantsesa",
+  "idea": "Postmodernitatea metakontakizunekiko sinesgogortasuna da: jada ez dugu sinesten historia osoari zentzua ematen dioten kontakizun handietan, kontakizun txiki eta anitzetan baizik.",
+  "bio": "<p>Jean-François Lyotard Versaillesen jaio zen. Filosofia-irakasle izan zen Konstantinako institutu batean, Aljeria kolonialean, eta urte askoan <em>Sozialismoa edo Barbarie</em> talde marxista kritikoko kide izan zen. Geroago marxismotik aldendu zen. Parisko VIII. Unibertsitatean (Vincennes) irakatsi zuen eta Filosofiako Nazioarteko Kolegioaren sorreran parte hartu zuen.</p>\n<p>Bere lanik ezagunena, <em>Egoera postmodernoa</em> (1979), gizarte garatuenetako jakintzari buruzko txosten gisa sortu zen. Bertan, postmodernitatea <strong>metakontakizunekiko sinesgogortasun</strong> gisa definitzen du. Metakontakizuna errealitate osoa azaldu eta historiari helburu bat eman nahi dion kontakizun handia da: gizakiaren emantzipazioa Ilustrazioan eta marxismoan, edo zientziari esker lortutako aurrerabide mugagabea. Mundu-gerren eta totalitarismoen ondoren, kontakizun horiek sinesgarritasuna galdu dute. Haien ordez, tokian tokiko <strong>kontakizun txiki</strong> eta anitzak geratzen dira, haiek ordenatuko dituen egia bakarrik gabe. Lyotardek ohartarazten du, gainera, jakintza gero eta gehiago legitimatzen dela bere eraginkortasun tekniko eta ekonomikoaren bidez, eta horri <strong>performatibitatea</strong> deitzen dio.</p>\n<p>Nietzscheren susmoaren oinordeko, Lyotard postmodernitateari buruzko eztabaidaren erreferentzia bihurtu zen. Bere aurkari nagusia Habermas izan zen, modernitatea proiektu amaitugabe gisa defendatzen zuena: zuzendu egin behar zen, ez bertan behera utzi.</p>",
+  "obras": [
+   "Diskurtsoa, figura (1971)",
+   "Ekonomia libidinala (1974)",
+   "Egoera postmodernoa (1979)",
+   "Desadostasuna (1983)"
+  ],
+  "anecdota": "<p>1985ean Lyotardek filosofo batentzat ohikoa ez zen zerbait egin zuen: erakusketa handi baten komisarioa izan zen Pariseko Pompidou Zentroan, <em>Les Immatériaux</em> («Materiagabeak») izenekoa. Ordenan zintzilikatutako koadroen ordez, publikoak espazio erdi-ilunen laberinto bat zeharkatzen zuen, eremuaren arabera testu desberdinak igortzen zituzten entzungailuekin, eta pantailak, objektu sintetikoak eta informazioaren teknologia berriak aurkitzen zituen. Ez zegoen ibilbide bakarrik ez ondoriorik: erakusketak nahi zuen bisitariak bere gorputzean bizi zezan egoera postmodernoa, kontakizun handi batek gidatu gabe.</p>",
+  "fuente": "Les Immatériaux erakusketa (Pompidou Zentroa, 1985) eta haren katalogoa",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "danto": {
   "name": "Arthur Danto",
   "dates": "1924 – 2013",
@@ -3477,6 +4316,83 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-t7",
    "fil-grandes-preguntas"
+  ]
+ },
+ "feyerabend": {
+  "name": "Paul Feyerabendek",
+  "dates": "1924 – 1994",
+  "born": 1924,
+  "died": 1994,
+  "place": "Viena (Austria)",
+  "role": "zientziaren filosofoa",
+  "idea": "Ez dago betiko balio duen metodo zientifiko bakar bat; zientziaren aurrerapen handiak askotan arauak hautsiz lortu ziren, horregatik «dena balio du».",
+  "bio": "<p>Paul Feyerabend Vienan jaio zen 1924an. Bigarren Mundu Gerran armada alemanak mobilizatu zuen eta larri zauritu zuten frontean: bizkarrezurrean sartutako bala batek makuluarekin ibiltzera behartu zuen eta minak eragin zizkion bizitza osoan. Gerra amaitzean Vienan ikasi zuen eta zientziaren filosofiara hurbildu zen Karl Popperren eskutik, Londresen. 1958tik aurrera hamarkadetan izan zen irakasle Kaliforniako Unibertsitatean, Berkeleyn, eta Zurichen ere irakatsi zuen. Suitzan hil zen 1994an.</p>\n<p>Feyerabend bere <strong>anarkismo metodologikoagatik</strong> da ezaguna, <em>Metodoaren aurkako tratatua</em> (1975) lanean defendatua: baieztatu zuen ez dagoela metodo zientifikoaren araurik zientziak aurrera egin dezan noizbait hautsi behar izan ez denik, eta <strong>«dena balio du»</strong> lemarekin laburbildu zuen. Ez zuen zientzia gaitzetsi nahi, haren autoritatea eztabaidatu baizik: <strong>zientziaren eta Estatuaren arteko bereizketa</strong> eskatzen zuen, erlijioaren eta Estatuaren artekoa bezala, munduaren ikuspegi batek ere besteei gain ez hartzeko. Gai-zerrendan zientziaren filosofiaren katebegirik erradikalena gisa agertzen da, Popperren ezeztagarritasunarekin<sup><a href=\"#fuentes\" title=\"Iturriak eta oharra › Itzulpenen terminologia: azalpena eta beste aukera batzuk\">*</a></sup> eta Kuhnen paradigmekin eztabaidan.</p>",
+  "obras": [
+   "Metodoaren aurkako tratatua (1975)",
+   "Zientzia gizarte aske batean (1978)",
+   "Agur arrazoiari (1987)",
+   "Denbora hiltzen (autobiografia, 1995)"
+  ],
+  "anecdota": "<p>Feyerabendekin bizitza osoan egon zen mina gerratik zetorren. Bere autobiografian kontatzen duenez, 1945ean, atzera egitean armada alemaneko ofizial zela, hainbat tiroz jo zuten tropen trafikoa zuzentzen ari zela; baletako bat bizkarrezurrean sartu zitzaion. Ondorio iraunkorrekin geratu zen eta ordutik aurrera makuluarekin ibili zen. Berak kontatu zuen gertaera umore mingotsez, heroismorik gabe, bere biografia markatu zuten ustekabeetako bat gehiago bezala.</p>",
+  "fuente": "Paul Feyerabend, Denbora hiltzen (autobiografia, 1995); «dena balio du» lema Metodoaren aurkako tratatua (1975) lanean",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "bauman": {
+  "name": "Zygmunt Bauman",
+  "dates": "1925 – 2017",
+  "born": 1925,
+  "died": 2017,
+  "place": "Poznań (Polonia)",
+  "role": "soziologo eta filosofo poloniarra",
+  "idea": "Modernitate likidoan bizi gara: loturak, instituzioak eta identitateak jada ez dira sendoak, prekarioak eta aldakorrak baizik, eta herritarra kontsumitzaile bihurtzen da.",
+  "bio": "<p>Zygmunt Bauman Poznańen jaio zen, familia judu batean. 1939an, inbasio naziaren aurrean, familiarekin Sobietar Batasunera ihes egin zuen, eta han sortutako armada poloniarrean borrokatu zen. Gerraren ondoren soziologia-irakasle izan zen Varsoviako Unibertsitatean, baina 1968an kanporatu egin zuten erregimen komunistaren kanpaina antisemita batean. Israeletik igaro ondoren, 1971tik aurrera Leedseko Unibertsitatean (Erresuma Batua) irakatsi zuen. 2010ean Komunikazio eta Giza Zientzietako Asturiasko Printzea saria jaso zuen.</p>\n<p>Baumanek modernitate sendoa (instituzio egonkorrak, bizitza osorako lanak eta proiektu iraunkorrak zituena) eta gaur egungo <strong>modernitate likidoa</strong> bereizten ditu. Likidoek beren forma gordetzen ez duten bezala, gaur egun enpleguak, bikoteak, komunitateak eta identitateak hauskorrak eta aldakorrak dira. Gizarteak jada ez gaitu batez ere ekoizle edo herritar gisa tratatzen, <strong>kontsumitzaile</strong> gisa baizik, eta askatasuna produktuen artean aukeratzearekin nahasten da. Kontsumitu ezin duena eta merkatuarentzat erabilgarria ez dena <strong>giza hondakin</strong> gisa geratzen da: soberan dauden pertsonak, hala nola iraupen luzeko langabeak edo errefuxiatuak.</p>\n<p>Lehenago, <em>Modernitatea eta Holokaustoa</em> (1989) lanean, aztertua zuen nola burokraziak eta arrazionaltasun teknikoak genozidioa ahalbidetu zuten, Adornok eta Horkheimerrek arrazoi instrumentalari egindako kritikaren eta Hannah Arendten gogoetaren ildotik. Kontsumo-gizarteari buruzko bere diagnostikoak Byung-Chul Han bezalako egileekin egiten du solas.</p>",
+  "obras": [
+   "Modernitatea eta Holokaustoa (1989)",
+   "Modernitate likidoa (2000)",
+   "Maitasun likidoa (2003)",
+   "Alferrik galdutako bizitzak (2004)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2",
+   "fil-t6"
+  ]
+ },
+ "deleuze": {
+  "name": "Gilles Deleuze",
+  "dates": "1925 – 1995",
+  "born": 1925,
+  "died": 1995,
+  "place": "Paris (Frantzia)",
+  "role": "diferentziaren eta desiraren filosofo frantsesa",
+  "idea": "Filosofiak ez ditu betiko esentziak deskribatzen, kontzeptuak sortzen ditu diferentzia eta aldaketa pentsatzeko; eta desira ez da gabezia bat, loturak eta munduak sortzen dituen indar bat baizik.",
+  "bio": "<p>Gilles Deleuze Parisen jaio zen 1925ean eta bertan eman zuen ia bizitza osoa. Parisko VIII. Unibertsitateko (Vincennes) irakasle izan zen, non bere eskolak, sartu nahi zuen edonori irekiak, ospetsu bihurtu ziren. 1969tik aurrera hainbat liburu idatzi zituen Félix Guattari psikoanalistarekin batera. Urte askoan biriketako gaixo, Parisen hil zen 1995ean.</p>\n<p><em>Diferentzia eta errepikapena</em> (1968) lanean dio filosofiak gehiegizko garrantzia eman diela berdinari eta orokorrari, eta <strong>diferentzia</strong> aldarrikatzen du lehen gauza gisa, eta ez jada emandako gauzen arteko konparazio huts gisa. Guattarirekin batera defendatzen du <strong>desira</strong> ez dela gabezia pribatu bat, harremanak, irudiak eta erakundeak sortzen dituen indar bat baizik, eta <strong>errizomaren</strong> irudia proposatzen du: konexio anitzez egindako pentsatzeko modu bat, zentrorik eta hierarkia finkorik gabea, zuhaitzaren ereduaren aurrean. Gai-zerrendan postmodernitatearen ahotsetako bat gisa agertzen da (23. gaia) eta, batez ere, Spinozaren bere irakurketagatik: Deleuzerentzat, Spinoza alaitasunaren eta <strong>ahalmenaren</strong> filosofoa da, eta «zer dezake gorputz batek?» galderak laburbiltzen du etika ulertzeko bere modua.</p>",
+  "obras": [
+   "Nietzsche eta filosofia (1962)",
+   "Diferentzia eta errepikapena (1968)",
+   "Anti-Edipo (1972, Félix Guattarirekin)",
+   "Mila lautada (1980, Félix Guattarirekin)"
+  ],
+  "anecdota": "<p>1988an eta 1989an, Deleuzek Claire Parnet kazetariarekin zortzi orduko elkarrizketa luze bat grabatzea onartu zuen, abezedario gisa antolatua: hitz bat letra bakoitzeko, «Animalia»ren A-tik «Zigzag»aren Z-ra. Hasierako baldintza gisa jarri zuen hil ondoren arte ez emititzea, nahiz eta azkenean bere zabalkundea baimendu zuen: seriea, <em>Gilles Deleuzeren Abezedarioa</em> izenez ezaguna, Arte katean emititu zen 1994 eta 1995 artean, bere bizitzako azken urtean, eta bere pentsamendura hurbiltzeko modurik zabalduenetako bat bihurtu da.</p>",
+  "fuente": "François Dosse, Gilles Deleuze eta Félix Guattari. Biografia gurutzatua (2007)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6",
+   "fil-t7"
   ]
  },
  "dickie": {
@@ -3532,6 +4448,54 @@ const BIOGRAFIAS = {
    "fil-marxismos"
   ]
  },
+ "wilson": {
+  "name": "Edward O. Wilson",
+  "dates": "1929 – 2021",
+  "born": 1929,
+  "died": 2021,
+  "place": "Birmingham (Alabama, AEB)",
+  "role": "biologoa eta naturalista",
+  "idea": "Gizarte-jokabideak oinarri biologikoak ditu, eta gizakiarena bezalako espezieen arrakasta ebolutiboa, neurri handi batean, taldeen barruko lankidetzak azaltzen du.",
+  "bio": "<p>Edward O. Wilson Birminghamen (Alabama) jaio zen eta Harvardeko Unibertsitatean izan zen irakasle bere ibilbide osoan. Inurrietan munduko aditurik handiena izan zen, eta <strong>biodibertsitatearen</strong> defentsaren aitzindaria. Bi Pulitzer sari irabazi zituen dibulgazio-liburuengatik.</p>\n<p><em>Soziobiologia</em> (1975) lanean gizarte-jokabidearen oinarri biologikoak aztertzea proposatu zuen, gizakiarena ere bai, eta horrek polemika handia eragin zuen. <em>Lurraren konkista soziala</em> (2012) lanean defendatu zuen intsektu sozialen eta gizakien arrakasta, neurri handi batean, taldearen barruko <strong>lankidetzari</strong> zor zaiola; beste biologo batzuek eztabaidatu egin dute tesi hori. Gai-zerrendak Kropotkin eta Azurmendirekin batera aipatzen du darwinismo sozialaren aurrean: giza natura ez da lehiakorra soilik.</p>",
+  "obras": [
+   "Soziobiologia (1975)",
+   "Giza naturaz (1978)",
+   "Inurriak (1990, B. Hölldoblerrekin)",
+   "Lurraren konkista soziala (2012)"
+  ],
+  "anecdota": "<p>Zazpi urterekin, Floridako kai batean arrantzan ari zela, Edward txikiak indar gehiegiz tira egin zion amu-hariari eta arrain baten hegats arantzatsuak eskuineko begian zauritu zuen; begi hura ia erabat galdu zuen azkenean. Ezkerrarekin, aldiz, xehetasun handiz ikusten zuen hurbiletik. Berak kontatu zuenez, horregatik utzi zion hegaztiei eta ugaztunei erreparatzeari, urrunetik behatzen zailak baitziren, eta aurpegitik hurbil eutsita azter zitzakeen izaki txikietan jarri zuen arreta. Horrela hasi zen inurriekiko zuen grina.</p>",
+  "fuente": "E. O. Wilson, Naturalista (autobiografia, 1994)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
+  ]
+ },
+ "txillardegi": {
+  "name": "Txillardegi",
+  "dates": "1929 – 2012",
+  "born": 1929,
+  "died": 2012,
+  "place": "Donostia (Gipuzkoa)",
+  "role": "euskal hizkuntzalari, idazle eta politikaria",
+  "idea": "Ez dugu hitz egin aurretik pentsatzen, munduaren ikuspegia egituratzen digun hizkuntza bati esker baizik; horregatik da euskara euskal identitatearen bizkarrezurra.",
+  "bio": "<p>Txillardegi José Luis Álvarez Enparantzaren ezizena da; Donostian jaio zen, gaztelaniaz hitz egiten zuen familia batean. Industria-ingeniaritza ikasi zuen eta gaztetan ikasi zuen euskara. Berrogeita hamarreko hamarkadan Ekin taldean parte hartu zuen, eta 1959an ETAren sortzaileetako bat izan zen; 1967an utzi zuen, desadostasun ideologikoengatik. Urte batzuk erbestean bizi izan zen. Funtsezko figura izan zen <strong>euskara batuaren</strong> sorreran, euskara bateratuarenean, eta geroago soziolinguistikako irakasle Euskal Herriko Unibertsitatean eta ezker abertzaleko politikaria.</p>\n<p>Hizkuntzari eta pentsamenduari buruzko saiakeretan Humboldt eta <strong>Sapir-Whorfen hipotesia</strong> jarraitu zituen; hipotesi horren arabera, hizkuntzak pentsatzeko modua baldintzatzen du. Txillardegirentzat hizkuntza ez da pentsatu ondoren erabiltzen dugun tresna bat: pentsatzen dugu hizkuntza dugulako, eta hizkuntza bakoitzaren egiturak modu inkontzientean antolatzen du errealitatea nola hautematen dugun. Hizkuntza bakoitzak <strong>mundu-ikuskera</strong> (<em>Weltanschauung</em>) bat darama berekin. Hortik dator euskara euskal identitatearen muin gisa defendatzea: hizkuntza bat desagertzen bada, mundua egituratzeko modu berezi bat galtzen da.</p>\n<p>Idazlea ere izan zen: <em>Leturiaren egunkari ezkutua</em> (1957) eleberria, existentzialismoaren eraginpekoa, euskarazko lehen eleberri modernotzat hartzen da. Euskararen normalizazioan izan zuen eragina oso handia izan zen. Gai-zerrendan, Wittgensteinek hizkuntzari buruz egindako gogoeta osatzen du hizkuntza, pentsamendua eta komunitatearen arteko harremanean zentratutako ikuspegi batekin.</p>",
+  "obras": [
+   "Leturiaren egunkari ezkutua (1957)",
+   "Huntaz eta hartaz (1965)",
+   "Hizkuntza eta pentsakera (1983)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t4"
+  ]
+ },
  "baudrillard": {
   "name": "Jean Baudrillard",
   "dates": "1929 – 2007",
@@ -3558,6 +4522,32 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "derrida": {
+  "name": "Jacques Derrida",
+  "dates": "1930 – 2004",
+  "born": 1930,
+  "died": 2004,
+  "place": "El Biar (Aljeria)",
+  "role": "filosofo frantsesa",
+  "idea": "Dekonstrukzioak erakusten du filosofiaren kontzeptuak ezkutuko aurkakotasun hierarkikoetan oinarritzen direla eta ezein esanahik ez diola guztiz ihes egiten hizkuntzaren jokoari.",
+  "bio": "<p>Jacques Derrida 1930ean jaio zen El Biarren, Aljer ondoan, familia judu batean, Aljeria Frantziaren kolonia zenean. Parisko École Normale Supérieuren ikasi zuen, eta han irakatsi zuen gero urte askoan. 1967an nazioarteko ospea eman zioten hiru liburu argitaratu zituen, horien artean <em>Gramatologiaz</em>. Estatu Batuetako unibertsitateetan irakasle gonbidatua izan zen, eta han izugarria izan zen bere eragina. Parisen hil zen 2004an.</p>\n<p>Derridaren ustez, ez dugu gauzetarako sarbide zuzenik: dena hizkuntzaren eta testuen bitartez dago. <strong>Logozentrismoa</strong> kritikatzen du, hau da, mendebaldeko tradizioak hizkuntzaren aurreko esanahi oso eta presente batean duen sinesmena. Bere metodoak, <strong>dekonstrukzioak</strong>, pentsatzeko erabiltzen ditugun kontzeptu-bikoteak aztertzen ditu (hizketa eta idazkera, arrazoia eta emozioa, maskulinoa eta femeninoa) eta erakusten du terminoetako bat beti aurkezten dela bestea baino goragoko gisa. Hierarkia horiek desmuntatzeak haien barne-kontraesanak eta ezkutatzen dituzten botere-harremanak agerian uzten ditu. Zentzuaren etengabeko atzerapena izendatzeko <strong>différance</strong> terminoa sortu zuen.</p>\n<p>Nietzscheren eta Heideggerren oinordeko, Derrida pentsamendu postmodernoaren figura nagusia da, Foucault, Lyotard edo Vattimorekin batera. Habermasek bere jarrera kritikatu zuen, haren ustez gizarte-kritika oinarritzeko gai den arrazoiari uko egiten diolako. Bere eragina literatura-teoriaraino, zuzenbideraino, arkitekturaraino eta genero-ikasketetaraino iristen da.</p>",
+  "obras": [
+   "Gramatologiaz (1967)",
+   "Idazkera eta diferentzia (1967)",
+   "Filosofiaren marjinak (1972)",
+   "Marxen espektroak (1993)"
+  ],
+  "anecdota": "<p>1981aren amaieran Derrida Pragara joan zen Txekoslovakiako erregimen komunistaren intelektual disidenteei mintegi klandestino bat ematera. Irteeran, poliziak atxilotu egin zuen aireportuan: bere maletan droga aurkitu zutela esan zuten, benetan haiek eurek jarria. Gau bat eman zuen kartzelan eta estupefazienteen trafikoa egotzi zioten. Frantziako Gobernuaren protestak, Mitterrand presidentea buru zela, haren askatasuna eta herrialdetik kanporatzea lortu zituen. Testuei buruzko susmoaren filosofoa asmatutako espediente baten biktima izan zen azkenean.</p>",
+  "fuente": "Benoît Peeters, Derrida (biografia, 2010); garai hartako prentsa",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "debord": {
   "name": "Guy Debord",
   "dates": "1931 – 1994",
@@ -3581,6 +4571,76 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t7"
+  ]
+ },
+ "rorty": {
+  "name": "Richard Rorty",
+  "dates": "1931 – 2007",
+  "born": 1931,
+  "died": 2007,
+  "place": "New York (Estatu Batuak)",
+  "role": "filosofo estatubatuarra, neopragmatismoaren ordezkaria",
+  "idea": "Ez dago errealitatearen kopia zehatza den egiarik, ezta jakintzaren azken funtsik ere; demokrazia batean komeni da Egiaren bilaketa elkarrizketaz, ironiaz eta elkartasunaz ordezkatzea.",
+  "bio": "<p>Richard Rorty New Yorken jaio zen 1931n, Stalinen aurkako ezkerreko bi idazleren seme. Chicagoko eta Yaleko unibertsitateetan ikasi zuen. Filosofia irakatsi zuen Princetonen, non filosofia analitikoaren barruan prestatu zen, eta geroago Virginiako Unibertsitatean eta Stanforden, jada giza zientzietako irakasle gisa. Palo Alton, Kalifornian, hil zen 2007an.</p>\n<p>Rortyk Deweyren eta Jamesen tradizio pragmatista estatubatuarra berreskuratu zuen eta gogamena errealitatea den bezala islatzen duen <strong>ispilu</strong> bat delako ideiarekin hautsi zuen: irudi horri <em>Filosofia eta naturaren ispilua</em> (1979) eskaini zion. Berarentzat ez dago munduaren kopia zehatz gisa ulertutako <strong>egiarik</strong>, ezta ezagutzaren azken funtsik ere; egia komunitate batek frogapean jarri ondoren onartzen duena da, batez ere. <em>Kontingentzia, ironia eta elkartasuna</em> (1989) lanean baieztatu zuen, demokrazia liberal batean, funts absolutu bat bilatu baino, hobe dela <strong>elkarrizketa</strong>, ironia (norberaren hiztegia sakratua ez dela jakitea) eta <strong>elkartasuna</strong> zaintzea. Webean Filosofiako postmodernitatearen gaian agertzen da: susmoaren kritikaren ondoren, Egia nork duen auzia elkarrizketa demokratikoaz ordezkatzea proposatzen du, horregatik egiak edo justiziak axola izateari utzi gabe.</p>",
+  "obras": [
+   "Filosofia eta naturaren ispilua (1979)",
+   "Pragmatismoaren ondorioak (1982)",
+   "Kontingentzia, ironia eta elkartasuna (1989)",
+   "Gure herria eraikitzea (1998)"
+  ],
+  "anecdota": "<p>1992an Rortyk saiakera autobiografiko bat argitaratu zuen, «Trotski eta basa-orkideak», non kontatzen zuen nola haurtzaroan bat egiten ez zutela ziruditen bi gauza uztartzen saiatzen zen: gurasoengandik jasotako gizarte-justiziarekiko konpromisoa eta bere zaletasun pribatua, ia sekretua, New Jerseyko ipar-mendebaldeko mendietan basa-orkideak bilatzekoa. Urteetan, zioenez, «Trotski» eta «orkideak» batuko zituen egia bakar bat bilatu zuen, harik eta beharrezkoa ez zela pentsatzera iritsi zen arte: publikoa, hau da, elkartasuna, eta pribatua, bakoitzari axola zaion edertasuna, bide desberdinetatik joan zitezkeen. Saiakera horretatik sortu zen bere filosofiaren zati handi bat.</p>",
+  "fuente": "Richard Rorty, «Trotski eta basa-orkideak» (1992), Filosofia eta etorkizuna lanean bilduta (gaztelaniazko argitalpena: Gedisa, 2002)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "vattimo": {
+  "name": "Gianni Vattimo",
+  "dates": "1936 – 2023",
+  "born": 1936,
+  "died": 2023,
+  "place": "Turin (Italia)",
+  "role": "filosofo italiarra",
+  "idea": "Pentsamendu ahulak uko egiten die egia absolutuei eta azken oinarriei, eta interpretazioen aniztasuna onartzen du tolerantziaren etika baten oinarri gisa.",
+  "bio": "<p>Gianni Vattimo Turinen jaio zen 1936an. Bere hirian ikasi zuen filosofia Luigi Pareysonekin, eta Heidelbergen jarraitu zituen ikasketak Hans-Georg Gadamerekin; haren lana italierara itzuli zuen. Hamarkadetan Turingo Unibertsitateko katedraduna izan zen, eta politikan ere aritu zen: Europako Parlamentuko diputatua izan zen. 2023an hil zen.</p>\n<p>Vattimo <strong>hermeneutikaren</strong>, interpretazioaren filosofiaren, ordezkari nagusietako bat da. Nietzscheri eta Heideggerri jarraituz, gertaera hutsik ez dagoela dio, interpretazioak baizik. Aro postmodernoan kontakizun handiak eta egiaren azken oinarriak erori egin dira. Horregatik negar egin beharrean, <strong>pentsamendu ahula</strong> proposatzen du: egia sendo eta behin betikoei uko egiten dien filosofia, egia horiek indarkeria eta autoritarismoa justifikatu ohi baitituzte. <strong>Interpretazioen aniztasuna</strong> onartzeak tolerantziaren eta elkarrizketaren etikara darama. <em>Gizarte gardena</em> lanean aztertu zuen nola komunikabideek mundu-ikuskerak ugaltzen dituzten eta errealitate bakar baten ideia ahultzen duten.</p>\n<p>Haren proposamena postmodernitateari buruzko eztabaidaren parte da, Lyotard, Derrida edo Foucaultekin batera. Arrazoi unibertsal bat berreraiki nahi duen Habermasen aurrean, Vattimok aukera emantzipatzaile bat ikusten du egiaren ahultzean. Azken lanetan kristautasuna ikuspegi beretik berrinterpretatu zuen.</p>",
+  "obras": [
+   "Pentsamendu ahula (1983, Pier Aldo Rovattirekin)",
+   "Modernitatearen amaiera (1985)",
+   "Gizarte gardena (1989)",
+   "Sinesten dugula sinestea (1996)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
+ "ingham": {
+  "name": "Geoffrey Ingham",
+  "dates": "1942an jaioa",
+  "born": 1942,
+  "died": null,
+  "place": "",
+  "role": "soziologo eta ekonomialari politiko britainiarra",
+  "idea": "Dirua ez da salgai soil bat, sozialki sortutako ordainketa-promesa bat baizik, batez ere banku-kreditu gisa, eta kapitalismoaren zutabeetako bat da.",
+  "bio": "<p>Geoffrey Ingham 1942an jaiotako soziologo britainiarra da. Soziologia ikasi zuen Leicesterko Unibertsitatean eta Cambridgen doktoretza egin zuen; han Soziologiako eta Ekonomia Politikoko irakaslea eta Christ's Collegeko kidea izan da. Unibertsitate horretako irakasle emeritua da.</p>\n<p>Haren lana diruaren eta kapitalismoaren izaeran oinarritzen da. <em>The Nature of Money</em> (2004) lanean defendatzen du dirua <strong>eraikuntza sozial eta politikoa</strong> dela: ordainketa-promesa bat, ez berezko balioa duen objektu bat. <em>Capitalism</em> (2008) lanean dio kapitalismoak hiru elementu mantentzen dituela bere fase guztietan: dirua <strong>banku-kreditu</strong> gisa sortzen duen diru-sistema bat, merkatuko trukea eta salgaiak ekoizten dituen enpresa pribatua. Gai-zerrendan agertzen da kapitalismoan bere historian zehar zer irauten duen azaltzeko.</p>",
+  "obras": [
+   "The Nature of Money (2004)",
+   "Capitalism (2008)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "nussbaum": {
@@ -3661,6 +4721,28 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "herrero": {
+  "name": "Yayo Herrero",
+  "dates": "1965ean jaioa",
+  "born": 1965,
+  "died": null,
+  "place": "Madril",
+  "role": "antropologo eta ekintzaile ekofeminista",
+  "idea": "Gizakiok ekomenpekoak eta elkarmenpekoak gara; beraz, ekonomiak eta politikak bizitza eta zaintzak jarri behar dituzte erdigunean.",
+  "bio": "<p>Yayo Herrero Madrilen jaio zen 1965ean. Nekazaritzako ingeniari teknikoa, antropologoa eta gizarte-hezitzailea da, eta Gizarte eta Politika Zientzietan doktoretza egin zuen Euskal Herriko Unibertsitatean. Ecologistas en Acción taldeko estatuko koordinatzailea izan zen, eta ikertzaile eta irakasle aritu da ekologia politikoan, ekofeminismoan eta iraunkortasunerako hezkuntzan. Espainiako ekologismoaren ahots ezagunenetako bat da.</p>\n<p><strong>Ekofeminismotik</strong>, krisi ekologikoa emakumeen desberdintasunarekin lotzen baitu, Herrerok oinarrizko bi gertaera gogorarazten ditu. <strong>Ekomenpekoak</strong> gara, bizitzeko naturaren menpe gaudelako, eta <strong>elkarmenpekoak</strong>, bizitzan zehar beste pertsonen zaintzak behar ditugulako. Gure ekonomiak bi gauzak ahazten ditu: planeta mugagabea balitz bezala hazten da, eta ez ditu baloratzen <strong>zaintzak</strong>, batez ere emakumeek eta modu ikusezinean egiten dituztenak. Horregatik dio egungo sistema bizitzaren aurka dagoela. Bizitza eta zaintzak politikaren eta ekonomiaren erdigunean jartzea eta giza zaurgarritasuna aitortzea proposatzen du.</p>\n<p>Haren pentsamendua zaintzaren etikarekin, desazkundearekin eta gaur egungo kapitalismoari egindako beste kritika batzuekin lotzen da. Martha Nussbaumekin partekatzen du ongizatea ez dela hazkunde ekonomikoaren arabera neurtzen dioen ideia.</p>",
+  "obras": [
+   "Bost elementuak (2021)",
+   "Hutsuneak eta galbideak (2021)",
+   "Lurreratzea (2023)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "chalmers": {
   "name": "David Chalmers",
   "dates": "1966an jaioa",
@@ -3685,6 +4767,52 @@ const BIOGRAFIAS = {
    "fil-t2",
    "fil-metafisica",
    "fil-grandes-preguntas"
+  ]
+ },
+ "klein": {
+  "name": "Naomi Klein",
+  "dates": "1970ean jaioa",
+  "born": 1970,
+  "died": null,
+  "place": "Montreal (Kanada)",
+  "role": "kazetari eta saiakeragile kanadarra",
+  "idea": "Hondamendiaren kapitalismoak krisien, gerren eta katastrofeen shocka baliatzen du garai normaletan baztertuko liratekeen erreforma neoliberalak inposatzeko.",
+  "bio": "<p>Naomi Klein Montrealen jaio zen 1970ean. Kazetaria, saiakeragilea eta ekintzailea da. <em>No Logo</em> (2000) liburuarekin egin zen ezagun, garai hartako globalizazioaren aurkako mugimenduaren erreferentziazko liburu bihurtu baitzen. Nazioarteko hedabide askotan idatzi du, eta Kanadako Columbia Britainiarreko Unibertsitateko irakaslea da.</p>\n<p><em>No Logo</em> lanean <strong>marka</strong> handien boterea aztertzen du: jada ez dituzte objektuak soilik saltzen, identitateak eta bizimoduak baizik, eta, bitartean, ekoizpena soldata baxuko herrialdeetara eramaten dute. <em>Shockaren doktrina</em> (2007) lanean <strong>hondamendiaren kapitalismoa</strong> deskribatzen du. Kleinen arabera, gobernuek eta korporazio handiek krisiek eragiten duten nahasmena baliatzen dute, hala nola gerrak, estatu-kolpeak edo hondamendi naturalak, <strong>erreforma neoliberalak</strong> inposatzeko: pribatizazioak, murrizketak eta desarautzea. Biztanleria, shock egoeran, ezin da aurka jarri. <em>Honek dena aldatzen du</em> (2014) lanean krisi klimatikoa hazkunde mugagabean oinarritutako eredu ekonomikoarekin lotzen du.</p>\n<p>Haren lana globalizazio neoliberalari egiten zaion gaur egungo kritikaren parte da, Noam Chomsky eta Zygmunt Bauman bezalako egileekin batera. Krisi klimatikoari buruzko analisiak Yayo Herrero bezalako pentsalari ekologistengana ere hurbiltzen du.</p>",
+  "obras": [
+   "No Logo (2000)",
+   "Shockaren doktrina (2007)",
+   "Honek dena aldatzen du (2014)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-t6"
+  ]
+ },
+ "preciado": {
+  "name": "Paul B. Preciado",
+  "dates": "1970ean jaioa",
+  "born": 1970,
+  "died": null,
+  "place": "Burgos",
+  "role": "filosofo eta arte-komisarioa",
+  "idea": "Aro farmakopornografikoan kapitalismoak gorputzak gobernatzen ditu farmako, hormona eta irudien bidez, baina gorputza erresistentzia-gune bihur daiteke.",
+  "bio": "<p>Paul B. Preciado Burgosen jaio zen 1970ean. Filosofia ikasi zuen Madrilen eta New Yorkeko New School for Social Research-en, non Jacques Derridaren ikaslea izan zen, eta Arkitekturaren Teorian doktoretza egin zuen Princetongo Unibertsitatean. Irakaslea, arte-erakusketen komisarioa eta zutabegilea izan da, eta Parisen bizi da. 2015ean bere genero-trantsizioa jakitera eman zuen eta Paul izena hartu zuen.</p>\n<p><em>Manifestu kontrasexuala</em> (2000) lanean kritikatzen du sexua eta generoa natural gisa aurkeztea. <em>Testo yonqui</em> (2008) lanean, testosterona hartzen ari zela idatzia, <strong>aro farmakopornografikoa</strong> deskribatzen du. Preciadoren arabera, XX. mendearen erdialdetik aurrera kapitalismoak jada ez ditu gorputzak kanpoko diziplinekin soilik kontrolatzen, barrutik baizik: <strong>farmako eta hormonen</strong> bidez, pilula antisorgailua kasu, eta irudien eta pornografiaren industriaren bidez. Identitate sexuala teknikoki fabrikatzen da. Horregatik, gorputza <strong>erresistentzia politikoko</strong> gune bihur daiteke, gizon-emakume bitartasuna hausten duten identitateekin esperimentatzen den tokia.</p>\n<p>Haren pentsamenduak Foucaulten bioboterearen analisiari eta Judith Butlerren performatibotasunaren teoriari jarraitzen die. <strong>Queer teoriaren</strong> eta trans mugimenduen ahots eragingarrienetako bat da. 2023an <em>Orlando, nire biografia politikoa</em> film dokumentala zuzendu zuen.</p>",
+  "obras": [
+   "Manifestu kontrasexuala (2000)",
+   "Testo yonqui (2008)",
+   "Apartamentu bat Uranon (2019)",
+   "Zuei hitz egiten dizuen munstroa naiz (2020)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "bostrom": {
