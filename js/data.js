@@ -79,9 +79,9 @@ const WEEK = [
 const SUBJECTS = {
  "fil": {
   "name": "Filosofia",
-  "kick": "1. Batxilergoa · 1-3 gaiak",
+  "kick": "1. Batxilergoa",
   "color": "var(--fil)",
-  "intro": "«Zer da filosofia?»: harridura, mitotik logosera, ezaugarriak, adarrak, filosofia eta beste jakintzak, eta metodoa (irakurri eta argudiatu). Hiru saio, C, D eta G taldeek berdin jasotzen dituztenak.",
+  "intro": "",
   "mats": [],
   "tools": [
    [
