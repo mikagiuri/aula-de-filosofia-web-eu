@@ -93,6 +93,142 @@ const ESQUEMAS_FIL = {
     }
    ],
    "idea": "«Sapere aude (ausartu jakitera): izan ezazu zeure arrazoiaz baliatzeko adorea» (Kant). Filosofatzea egia argudioekin bilatzea da, harridura galdu gabe."
+  },
+  "v3": {
+   "pregunta": "Zer jakintza mota da filosofia, nola iritsi da gaur egunera eta nola lantzen da?",
+   "raiz": "FILOSOFIA",
+   "raiz_d": "Philía (maitasuna) + sophía (jakinduria): jakinduriarekiko maitasuna. Filosofatzen duenak ez du egia bere esku: desiratu eta bilatu egiten du.",
+   "ramas": [
+    {
+     "rel": "harriduratik sortzen da, urrats honekin",
+     "t": "Mitotik logosera",
+     "k": true,
+     "a": "Tales Miletokoa",
+     "d": "Grezia, K.a. VI. mendea: jainkoei buruzko kontakizunetatik arrazoiak ematen dituzten azalpenetara.",
+     "c": [
+      {
+       "rel": "atzean uzten du",
+       "t": "Mitoa",
+       "d": "Eztabaidatu gabe onartzen den kontakizun tradizionala: dena jainkoen borondatearen menpe dago."
+      },
+      {
+       "rel": "bere egiten du",
+       "t": "Logosa",
+       "d": "Naturaren printzipioa (arkhe) bilatzen du, edonork azter ditzakeen argudioekin."
+      }
+     ]
+    },
+    {
+     "rel": "jakintza moten artean",
+     "t": "Azken kausen jakintza",
+     "k": true,
+     "d": "Hiru jakintzak ez dira elkarren aurkakoak: elkar osatzen dute.",
+     "c": [
+      {
+       "rel": "ez da",
+       "t": "Jakintza arrunta",
+       "d": "Berezkoa eta erabilgarria eguneroko bizitzan, baina gutxi hausnartua: aurreiritzietara jotzen du. «Suak erretzen du»."
+      },
+      {
+       "rel": "ezta",
+       "t": "Jakintza zientifikoa",
+       "d": "Hurbileko kausak bilatzen ditu behatuz eta esperimentatuz, baina errealitatearen zati batean. «Ura H₂O da»."
+      },
+      {
+       "rel": "baizik eta",
+       "t": "Jakintza filosofikoa",
+       "k": true,
+       "d": "Lehen printzipioak eta errealitate osoaren ikuspegi bat (mundu-ikuskera) bilatzen ditu.",
+       "c": [
+        {
+         "rel": "bere metodoagatik",
+         "t": "Arrazionala eta kritikoa",
+         "d": "Argudiatu egiten du, agintaritzara jo beharrean, eta dena aztertzen du, baita bere ideiak ere."
+        },
+        {
+         "rel": "bere irismenagatik",
+         "t": "Erradikala eta unibertsala",
+         "d": "Arazoen errora joaten da eta errealitate osoaz galdetzen du."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "rel": "adarretan banatzen da eta elkarrizketan aritzen da",
+     "t": "Beste jakintzekin",
+     "d": "Adarrak «Filosofiaren adarrak» eskeman ikusten dira.",
+     "c": [
+      {
+       "rel": "zientziarekin",
+       "t": "Deskribatzea ez da agintzea",
+       "d": "Zientziak esaten du gauzak nolakoak diren; filosofiak kontzeptuez eta nolakoak izan behar duten galdetzen du."
+      },
+      {
+       "rel": "erlijioarekin",
+       "t": "Galdera berberak, beste metodo bat",
+       "d": "Galdera handiak partekatzen dituzte, baina erlijioak fedetik erantzuten du, eta filosofiak, arrazoitik."
+      }
+     ]
+    },
+    {
+     "rel": "historian zehar",
+     "t": "Lau aro handi",
+     "k": true,
+     "d": "Aro batek ez ditu aurrekoak ezabatzen.",
+     "c": [
+      {
+       "rel": "K.a. VI. mendea – K.o. V. mendea",
+       "t": "Antzinakoa: natura eta gizakia",
+       "a": "Sokrates, Platon, Aristoteles"
+      },
+      {
+       "rel": "V. mendea – XV. mendea",
+       "t": "Erdi Arokoa: arrazoia eta fedea",
+       "a": "Agustin Hiponakoa, Tomas Akinokoa"
+      },
+      {
+       "rel": "XV. mendea – XVIII. mendea",
+       "t": "Modernoa: ezagutza",
+       "a": "Descartes, Hume, Kant"
+      },
+      {
+       "rel": "XIX. – XXI. mendeak",
+       "t": "Garaikidea: korronte asko",
+       "a": "Marx, Nietzsche, Arendt, Zambrano"
+      }
+     ]
+    },
+    {
+     "rel": "gaur egun balio du eta praktikatzen da",
+     "t": "Funtzioak eta metodoa",
+     "c": [
+      {
+       "rel": "hiru betetzen ditu",
+       "t": "Funtzioak",
+       "d": "Kritikoa (norberak pentsatzea), orientaziokoa (mundua nolakoa izan litekeen) eta zentzu-bilaketa."
+      },
+      {
+       "rel": "honela ikasten da:",
+       "t": "Testu bat iruzkintzea",
+       "d": "Gaia, tesia, argudioak eta iritzi arrazoitua."
+      },
+      {
+       "rel": "eta honetan:",
+       "t": "Elkarrizketa argudiatua",
+       "d": "Arrazoi onenak irabazten du, ez ozenen oihukatzen duenak ezta gehien agintzen duenak ere."
+      }
+     ]
+    }
+   ],
+   "cruces": [
+    {
+     "de": "Logosa",
+     "rel": "gaur egun honetan lantzen da",
+     "a": "Elkarrizketa argudiatua"
+    }
+   ],
+   "idea": "Filosofiak azken kausak bilatzen ditu arrazoien bidez: Grezian sortu zen harriduratik, zientziarekin eta erlijioarekin elkarrizketan aritzen da, eta filosofatuz ikasten da, testuak iruzkinduz eta argudioekin eztabaidatuz."
   }
  },
  "FIL-T1-02": {
