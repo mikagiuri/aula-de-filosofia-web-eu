@@ -129,7 +129,7 @@ const SUBJECTS = {
 };
 const DECKS = {
  "fil-que-es": {
-  "name": "Filosofia 1. · Zer da filosofia? (T1)",
+  "name": "Zer da filosofia? (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -185,7 +185,7 @@ const DECKS = {
   ]
  },
  "fil-ramas": {
-  "name": "Filosofia 1. · Filosofiaren adarrak",
+  "name": "Filosofiaren adarrak",
   "subject": "fil",
   "cards": [
    [
@@ -226,7 +226,7 @@ const DECKS = {
   ]
  },
  "fil-ser-humano": {
-  "name": "Filosofia 1. · Zer da gizakia? (T2)",
+  "name": "Zer da gizakia? (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -287,7 +287,7 @@ const DECKS = {
   ]
  },
  "fil-metafisica": {
-  "name": "Filosofia 1. · Errealitatea: metafisika (M)",
+  "name": "Errealitatea: metafisika (M)",
   "subject": "fil",
   "cards": [
    [
@@ -413,7 +413,7 @@ const DECKS = {
   ]
  },
  "fil-conocer": {
-  "name": "Filosofia 1. · Ezagutza, egia eta zientzia (T3)",
+  "name": "Ezagutza, egia eta zientzia (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -479,7 +479,7 @@ const DECKS = {
   ]
  },
  "fil-caracteristicas": {
-  "name": "Filosofia 1.º · Jakintza filosofikoaren ezaugarriak (T1)",
+  "name": "Jakintza filosofikoaren ezaugarriak (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -535,7 +535,7 @@ const DECKS = {
   ]
  },
  "fil-mente": {
-  "name": "Filosofia 1.º · Gorputza eta gogamena (T2)",
+  "name": "Gorputza eta gogamena (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -591,7 +591,7 @@ const DECKS = {
   ]
  },
  "fil-concepciones": {
-  "name": "Filosofia 1.º · Gizakiaren ikuskerak (T2)",
+  "name": "Gizakiaren ikuskerak (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -647,7 +647,7 @@ const DECKS = {
   ]
  },
  "fil-verdad": {
-  "name": "Filosofia 1.º · Lor dezakegu egia? (T3)",
+  "name": "Lor dezakegu egia? (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -703,7 +703,7 @@ const DECKS = {
   ]
  },
  "fil-metodo": {
-  "name": "Filosofia 1.º · Metodoa: irakurri eta argudiatu (T1)",
+  "name": "Metodoa: irakurri eta argudiatu (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -759,7 +759,7 @@ const DECKS = {
   ]
  },
  "fil-saberes": {
-  "name": "Filosofia 1.º · Jakintza motak (T1)",
+  "name": "Jakintza motak (T1)",
   "subject": "fil",
   "cards": [
    [
@@ -815,7 +815,7 @@ const DECKS = {
   ]
  },
  "fil-identidad": {
-  "name": "Filosofia 1.º · Pertsona, identitatea eta zentzua (T2)",
+  "name": "Pertsona, identitatea eta zentzua (T2)",
   "subject": "fil",
   "cards": [
    [
@@ -871,7 +871,7 @@ const DECKS = {
   ]
  },
  "fil-ciencia": {
-  "name": "Filosofia 1.º · Jakintza zientifikoa (T3)",
+  "name": "Jakintza zientifikoa (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -927,7 +927,7 @@ const DECKS = {
   ]
  },
  "fil-posverdad": {
-  "name": "Filosofia 1.º · Egia-ostea eta fake news (T3)",
+  "name": "Egia-ostea eta fake news (T3)",
   "subject": "fil",
   "cards": [
    [
@@ -983,7 +983,7 @@ const DECKS = {
   ]
  },
  "fil-etica": {
-  "name": "Filosofia 1. · Etikaren galderak (T5)",
+  "name": "Etikaren galderak (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1039,7 +1039,7 @@ const DECKS = {
   ]
  },
  "fil-t5-cuidado-cortina": {
-  "name": "Filosofia 1. · Judizio morala, zaintzaren etika eta Cortina (5. gaia)",
+  "name": "Judizio morala, zaintzaren etika eta Cortina (5. gaia)",
   "subject": "fil",
   "cards": [
    [
@@ -1100,7 +1100,7 @@ const DECKS = {
   ]
  },
  "fil-arte": {
-  "name": "Filosofia 1. · Edertasuna eta artea (T7)",
+  "name": "Edertasuna eta artea (T7)",
   "subject": "fil",
   "cards": [
    [
@@ -1151,7 +1151,7 @@ const DECKS = {
   ]
  },
  "fil-argumentacion": {
-  "name": "Filosofia 1. · Argudiatu eta falaziak antzeman (T4)",
+  "name": "Argudiatu eta falaziak antzeman (T4)",
   "subject": "fil",
   "cards": [
    [
@@ -1207,7 +1207,7 @@ const DECKS = {
   ]
  },
  "fil-etica-teorias": {
-  "name": "Filosofia 1. · Etikaren eztabaidak (T5)",
+  "name": "Etikaren eztabaidak (T5)",
   "subject": "fil",
   "cards": [
    [
@@ -1263,7 +1263,7 @@ const DECKS = {
   ]
  },
  "fil-poder": {
-  "name": "Filosofia 1. · Boterea, Estatua eta herritartasuna (T6)",
+  "name": "Boterea, Estatua eta herritartasuna (T6)",
   "subject": "fil",
   "cards": [
    [
@@ -1319,7 +1319,7 @@ const DECKS = {
   ]
  },
  "fil-arte-sociedad": {
-  "name": "Filosofia 1. · Artea, edertasuna eta gizartea (T7)",
+  "name": "Artea, edertasuna eta gizartea (T7)",
   "subject": "fil",
   "cards": [
    [
@@ -1375,7 +1375,7 @@ const DECKS = {
   ]
  },
  "fil-logica": {
-  "name": "Filosofia 1. · Logika: konektiboak, Boole eta ateak (T4)",
+  "name": "Logika: konektiboak, Boole eta ateak (T4)",
   "subject": "fil",
   "cards": [
    [
@@ -1431,7 +1431,7 @@ const DECKS = {
   ]
  },
  "fil-politica": {
-  "name": "Filosofia 1. · Gizartean bizitzea: politika (T6)",
+  "name": "Gizartean bizitzea: politika (T6)",
   "subject": "fil",
   "cards": [
    [
@@ -1487,7 +1487,7 @@ const DECKS = {
   ]
  },
  "fil-presocraticos": {
-  "name": "Filosofia 1. · Presokratikoak: arkhearen bilaketa",
+  "name": "Presokratikoak: arkhearen bilaketa",
   "subject": "fil",
   "cards": [
    [
@@ -1543,7 +1543,7 @@ const DECKS = {
   ]
  },
  "fil-helenismo": {
-  "name": "Filosofia 1. · Eskola helenistikoak: zoriontasunerako bideak",
+  "name": "Eskola helenistikoak: zoriontasunerako bideak",
   "subject": "fil",
   "cards": [
    [
@@ -1596,7 +1596,7 @@ const DECKS = {
 };
 const QUIZZES = {
  "fil-t2-ampliacion": {
-  "name": "Kulturen arteko elkarbizitza eta emozioak (Filosofia 1. · T2 · zabalkuntza)",
+  "name": "Kulturen arteko elkarbizitza eta emozioak (T2 · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -1712,7 +1712,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-ampliacion": {
-  "name": "Pertzepzioa, oroimena, egia-ostea eta emakumea zientzian (Filosofia 1. · T3 · zabalkuntza)",
+  "name": "Pertzepzioa, oroimena, egia-ostea eta emakumea zientzian (T3 · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -1872,7 +1872,7 @@ const QUIZZES = {
   ]
  },
  "fil-metafisica-ampliacion": {
-  "name": "Adimen artifiziala (Filosofia 1. · M gaia · zabalkuntza)",
+  "name": "Adimen artifiziala (M gaia · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -1933,7 +1933,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-ampliacion": {
-  "name": "Alborapen kognitiboak (Filosofia 1. · T4 · zabalkuntza)",
+  "name": "Alborapen kognitiboak (T4 · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -2005,7 +2005,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-ampliacion": {
-  "name": "Bertutea, estoizismoa, betebeharra eta etika aplikatua (Filosofia 1. · T5 · zabalkuntza)",
+  "name": "Bertutea, estoizismoa, betebeharra eta etika aplikatua (T5 · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -2198,7 +2198,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-ampliacion": {
-  "name": "Estatua eta nazioa, demokrazia, giza eskubideak eta gizarte-mugimenduak (Filosofia 1. · T6 · zabalkuntza)",
+  "name": "Estatua eta nazioa, demokrazia, giza eskubideak eta gizarte-mugimenduak (T6 · zabalkuntza)",
   "subject": "fil",
   "items": [
    {
@@ -2424,7 +2424,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7": {
-  "name": "Zer da artea? · Estetika (Filosofia 1. · T7)",
+  "name": "Zer da artea? · Estetika (T7)",
   "subject": "fil",
   "items": [
    {
@@ -2595,7 +2595,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1": {
-  "name": "Zer da filosofia? (Filosofia 1. · T1)",
+  "name": "Zer da filosofia? (T1)",
   "subject": "fil",
   "items": [
    {
@@ -2711,7 +2711,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2": {
-  "name": "Gizakia (Filosofia 1. · T2)",
+  "name": "Gizakia (T2)",
   "subject": "fil",
   "items": [
    {
@@ -2816,7 +2816,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3": {
-  "name": "Ezagutza eta egia (Filosofia 1. · T3)",
+  "name": "Ezagutza eta egia (T3)",
   "subject": "fil",
   "items": [
    {
@@ -2921,7 +2921,7 @@ const QUIZZES = {
   ]
  },
  "fil-metodo-q": {
-  "name": "Metodoa eta jakintza motak (Filosofia 1.º · T1)",
+  "name": "Metodoa eta jakintza motak (T1)",
   "subject": "fil",
   "items": [
    {
@@ -3037,7 +3037,7 @@ const QUIZZES = {
   ]
  },
  "fil-mente-q": {
-  "name": "Gorputza, gogamena eta gizakiaren ikuskerak (Filosofia 1.º · T2)",
+  "name": "Gorputza, gogamena eta gizakiaren ikuskerak (T2)",
   "subject": "fil",
   "items": [
    {
@@ -3153,7 +3153,7 @@ const QUIZZES = {
   ]
  },
  "fil-ciencia-q": {
-  "name": "Zientzia, metodoa eta egia-ostea (Filosofia 1.º · T3)",
+  "name": "Zientzia, metodoa eta egia-ostea (T3)",
   "subject": "fil",
   "items": [
    {
@@ -3269,7 +3269,7 @@ const QUIZZES = {
   ]
  },
  "fil-ramas-q": {
-  "name": "Filosofiaren adarrak (Filosofia 1.º · T1)",
+  "name": "Filosofiaren adarrak (T1)",
   "subject": "fil",
   "items": [
    {
@@ -3407,7 +3407,7 @@ const QUIZZES = {
   ]
  },
  "fil-etica-q": {
-  "name": "Filosofia 1. · Etika: teoriak (T5)",
+  "name": "Etika: teoriak (T5)",
   "subject": "fil",
   "items": [
    {
@@ -3479,7 +3479,7 @@ const QUIZZES = {
   ]
  },
  "fil-logica-q": {
-  "name": "Filosofia 1. · Egia-taulak eta logika (T4)",
+  "name": "Egia-taulak eta logika (T4)",
   "subject": "fil",
   "items": [
    {
@@ -3650,7 +3650,7 @@ const QUIZZES = {
   ]
  },
  "fil-politica-q": {
-  "name": "Filosofia 1. · Gizartean bizitzea: politika (T6)",
+  "name": "Gizartean bizitzea: politika (T6)",
   "subject": "fil",
   "items": [
    {
@@ -3733,7 +3733,7 @@ const QUIZZES = {
   ]
  },
  "fil-presocraticos-q": {
-  "name": "Filosofia 1. · Presokratikoak",
+  "name": "Presokratikoak",
   "subject": "fil",
   "items": [
    {
@@ -3816,7 +3816,7 @@ const QUIZZES = {
   ]
  },
  "fil-helenismo-q": {
-  "name": "Filosofia 1. · Eskola helenistikoak",
+  "name": "Eskola helenistikoak",
   "subject": "fil",
   "items": [
    {
@@ -3888,7 +3888,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1-banco": {
-  "name": "Zer da filosofia? (Filosofia 1. · 1. gaia · galdera-bilduma zabaldua)",
+  "name": "Zer da filosofia?",
   "subject": "fil",
   "items": [
    {
@@ -4334,7 +4334,7 @@ const QUIZZES = {
   ]
  },
  "fil-presocraticos-banco": {
-  "name": "Filosofiaren jatorriak: presokratikoak (Filosofia 1. · 1. gaia · galdera-bilduma zabaldua)",
+  "name": "Filosofiaren jatorria: presokratikoak",
   "subject": "fil",
   "items": [
    {
@@ -4725,7 +4725,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2-banco": {
-  "name": "Zer da gizakia? (Filosofia 1. · 2. gaia · galdera-bilduma zabaldua)",
+  "name": "Zer da gizakia?",
   "subject": "fil",
   "items": [
    {
@@ -5171,7 +5171,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-banco": {
-  "name": "Zer ezagut dezakegu? (Filosofia 1. · 3. gaia · galdera-bilduma zabaldua)",
+  "name": "Zer ezagut dezakegu?",
   "subject": "fil",
   "items": [
    {
@@ -5617,7 +5617,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-banco": {
-  "name": "Logika eta argudiaketa (Filosofia 1. · 4. gaia · galdera-bilduma zabaldua)",
+  "name": "Logika eta argudiaketa",
   "subject": "fil",
   "items": [
    {
@@ -5953,7 +5953,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-banco": {
-  "name": "Etikaren galderak (Filosofia 1. · 5. gaia · galdera-bilduma zabaldua)",
+  "name": "Etikaren galderak",
   "subject": "fil",
   "items": [
    {
@@ -6289,7 +6289,7 @@ const QUIZZES = {
   ]
  },
  "fil-helenismo-banco": {
-  "name": "Eskola helenistikoak: nola lortzen da zoriontasuna? (Filosofia 1. · 5. gaia · galdera-bilduma zabaldua)",
+  "name": "Eskola helenistikoak: nola lortzen da zoriontasuna?",
   "subject": "fil",
   "items": [
    {
@@ -6493,7 +6493,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-banco": {
-  "name": "Gizarteko bizitza (Filosofia politikoa) (Filosofia 1. · 6. gaia · galdera-bilduma zabaldua)",
+  "name": "Bizitza gizartean (Filosofia politikoa)",
   "subject": "fil",
   "items": [
    {
@@ -6829,7 +6829,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7-banco": {
-  "name": "Zer da artea? (Estetika) (Filosofia 1. · 7. gaia · galdera-bilduma zabaldua)",
+  "name": "Zer da artea? (Estetika)",
   "subject": "fil",
   "items": [
    {
@@ -7286,7 +7286,7 @@ const QUIZZES = {
   ]
  },
  "fil-t1-repaso": {
-  "name": "Zer da filosofia? (Filosofia 1. · T1 · errepasoa)",
+  "name": "Zer da filosofia? (T1 · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -7468,7 +7468,7 @@ const QUIZZES = {
   ]
  },
  "fil-t2-repaso": {
-  "name": "Gizakia (Filosofia 1. · T2 · errepasoa)",
+  "name": "Gizakia (T2 · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -7683,7 +7683,7 @@ const QUIZZES = {
   ]
  },
  "fil-metafisica": {
-  "name": "Errealitatea: zer dago eta nolakoa da? (Filosofia 1. · M)",
+  "name": "Errealitatea: zer dago eta nolakoa da? (M)",
   "subject": "fil",
   "items": [
    {
@@ -7964,7 +7964,7 @@ const QUIZZES = {
   ]
  },
  "fil-t3-repaso": {
-  "name": "Ezagutza eta egia (Filosofia 1. · T3 · errepasoa)",
+  "name": "Ezagutza eta egia (T3 · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -8179,7 +8179,7 @@ const QUIZZES = {
   ]
  },
  "fil-venn-q": {
-  "name": "Proposizioak, klaseak eta Euler eta Venn diagramak (Filosofia 1. · T4)",
+  "name": "Proposizioak, klaseak eta Euler eta Venn diagramak (T4)",
   "subject": "fil",
   "items": [
    {
@@ -8328,7 +8328,7 @@ const QUIZZES = {
   ]
  },
  "fil-validez-q": {
-  "name": "Baliozkotasuna eta egia, dedukzioa eta indukzioa (Filosofia 1. · T4 · ibilbidea, 1. maila)",
+  "name": "Baliozkotasuna eta egia, dedukzioa eta indukzioa (T4 · ibilbidea, 1. maila)",
   "subject": "fil",
   "items": [
    {
@@ -8466,7 +8466,7 @@ const QUIZZES = {
   ]
  },
  "fil-formalizar-q": {
-  "name": "Formalizatu enuntziatuen logikan (Filosofia 1. · T4 · ibilbidea, 3. maila)",
+  "name": "Formalizatu enuntziatuen logikan (T4 · ibilbidea, 3. maila)",
   "subject": "fil",
   "items": [
    {
@@ -8637,7 +8637,7 @@ const QUIZZES = {
   ]
  },
  "fil-cuantif-q": {
-  "name": "Kuantifikatzaileak, oposizio-karratua eta konbertsioa (Filosofia 1. · T4 · ibilbidea, 6. maila)",
+  "name": "Kuantifikatzaileak, oposizio-karratua eta konbertsioa (T4 · ibilbidea, 6. maila)",
   "subject": "fil",
   "items": [
    {
@@ -8808,7 +8808,7 @@ const QUIZZES = {
   ]
  },
  "fil-boole-q": {
-  "name": "Klaseak, multzoak eta Booleren aljebra: lege bera bost hizkuntzatan (Filosofia 1. · T4 · ibilbidea, 5. maila)",
+  "name": "Klaseak, multzoak eta Booleren aljebra: lege bera bost hizkuntzatan (T4 · ibilbidea, 5. maila)",
   "subject": "fil",
   "items": [
    {
@@ -8946,7 +8946,7 @@ const QUIZZES = {
   ]
  },
  "fil-relaciones-q": {
-  "name": "Erlazioen propietateak eta mundu txikiak (Filosofia 1. · T4 · ibilbidea, 8. maila)",
+  "name": "Erlazioen propietateak eta mundu txikiak (T4 · ibilbidea, 8. maila)",
   "subject": "fil",
   "items": [
    {
@@ -9084,7 +9084,7 @@ const QUIZZES = {
   ]
  },
  "fil-t4-repaso": {
-  "name": "Logika eta argudiaketa (Filosofia 1. · T4 · errepasoa)",
+  "name": "Logika eta argudiaketa (T4 · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -9266,7 +9266,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-repaso": {
-  "name": "Etika (Filosofia 1. · T5 · errepasoa)",
+  "name": "Etika (T5 · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -9481,7 +9481,7 @@ const QUIZZES = {
   ]
  },
  "fil-t5-cuidado-cortina": {
-  "name": "Judizio morala, zaintzaren etika eta Cortina (Filosofia 1. · 5. gaia · errepasoa)",
+  "name": "Judizio morala, zaintzaren etika eta Cortina (5. gaia · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -9597,7 +9597,7 @@ const QUIZZES = {
   ]
  },
  "fil-t6-repaso": {
-  "name": "Gizarteko bizitza: politika (Filosofia 1. · T6 · errepasoa)",
+  "name": "Gizarteko bizitza: politika (T6 · errepasoa)",
   "subject": "fil",
   "items": [
    {
@@ -9779,7 +9779,7 @@ const QUIZZES = {
   ]
  },
  "fil-t7-repaso": {
-  "name": "Estetika: zer da artea? (Filosofia 1. · T7 · errepasoa)",
+  "name": "Estetika: zer da artea? (T7 · errepasoa)",
   "subject": "fil",
   "items": [
    {

@@ -182,6 +182,52 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "lao_zi": {
+  "name": "Lao Zi",
+  "dates": "K.a. VI-IV. mendeak (tradizioaren arabera)",
+  "born": -570,
+  "died": -480,
+  "place": "Chu estatua (Txina)",
+  "role": "jakintsu txinatarra, Daodejing liburua egozten zaiona",
+  "idea": "Daoak, naturaren bideak, behartu gabe jarduten du: jakintsuak adibide horri jarraitzen dio, apala eta malgua nahiago ditu, eta ahalik eta gutxien esku hartuz gobernatzen du (wu wei).",
+  "bio": "<p>Lao Zi izenak (Laozi edo Lao Tse ere idazten da) «maisu zaharra» esan nahi du. Tradizioaren arabera, Zhou gorteko artxibozaina izan zen, Konfuzio baino zertxobait zaharragoa, eta hura hartu omen zuen. Baina historialariek zalantzan jartzen dute pertsona zehatz gisa existitu ote zen: egozten zaion liburua, <em>Daodejing</em> (<em>Bidearen eta bertutearen liburua</em>), K.a. IV-III. mendeen inguruan bere forma hartu zuen esaera-bilduma bat dirudi. <strong>Taoismoaren</strong> testu sortzaileetako bat da, eta munduan gehien itzuli diren liburuetako bat.</p>\n<p>Erdigunean <strong>Daoa</strong> dago, «bidea»: gauza guztien izenik gabeko jatorria, hitzez definitu ezin dena. Jakintsuak Daoa imitatzen du <strong>wu wei</strong> delakoa, «ez-ekintza», praktikatuz: ez da geldirik egotea, behartu gabe jardutea baizik, ura bezala, zeina munduko gauzarik bigunena izanik ere harria higatzen baitu. Malguak zurruna garaitzen du. Erritoetan eta hezkuntzan konfiantza duen Konfuzioren aurrean, Lao Zi arauez eta gobernu-gehiegikeriaz mesfidatzen da: zenbat eta lege eta debeku gehiago, orduan eta lapur gehiago egongo dira. Horregatik irakurri izan da batzuetan naturaren eta xumetasunaren laudorio gisa, zibilizazioaren aurrean.</p>",
+  "obras": [
+   "Daodejing edo Tao Te Ching (egotzia)"
+  ],
+  "anecdota": "<p>Sima Qian historialariak kontatzen du Lao Zik, gortearen gainbehera ikusita, mendebalderantz alde egitea erabaki zuela. Mugako igarobidera iristean, zaindariak, Yin Xik, eskatu zion ez joateko bere jakinduria idatziz utzi gabe. Orduan Lao Zik bost mila karaktere inguruko liburu bat idatzi zuen, bi zatitan, bideari eta bertuteari buruz, eta alde egin zuen; inork ez zekien non amaitu zituen bere egunak. Geroko tradizioak gehitu zuen idi baten gainean zihoala. Kondaira bat da, baina azaltzen du txinatarrek mendeetan zehar <em>Daodejing</em> liburuari egotzi zioten jatorria.</p>",
+  "fuente": "Sima Qian, Oroitzapen historikoak, 63. kap. (K.a. I. m.)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
+  ]
+ },
+ "confucio": {
+  "name": "Konfuzio",
+  "dates": "K.a. 551 – 479",
+  "born": -551,
+  "died": -479,
+  "place": "Lu estatua (gaur egungo Qufu, Txina)",
+  "role": "maisu eta pentsalari moral txinatarra",
+  "idea": "Gizarte ona ondo hezitako pertsonengandik sortzen da: gizatasunak (ren), erritoekiko errespetuak (li) eta agintariaren adibideak zigorrak baino gehiago balio dute.",
+  "bio": "<p>Kong Qiu, ikasleek Kongzi edo Kong Fuzi deitu ziotena («Kong maisua»; hortik dator «Konfuzio»), Lu estatu txikian jaio zen, elkarren lehiakide ziren erresumetan banatutako Txinan. Txikitan aita galdu zuen eta behera etorritako familia batekoa zen; kargu xumeetan lan egin zuen eta maisu gisa ospea irabazi zuen: edozein jatorritako ikasleak onartzen zituen, ikasteko gogoa bazuten. Urte askoan beste estatu batzuetan ibili zen bere ideiak praktikan jarriko zituen agintari baten bila, baina ez zuen lortu, eta Lura itzuli zen, hil arte irakasteko.</p>\n<p>Ez zuen tratatu bakar bat ere idatzi: haren irakaspenak <em>Analektak</em> (<em>Lunyu</em>) lanaren bidez iristen zaizkigu, ikasleek bildutako esaera eta elkarrizketen bidez. Erdigunean <strong>ren</strong> dago, gizatasuna edo onginahia, eta <strong>li</strong>, elkarbizitzari bidea ematen dioten erritu eta adeitasun-moduen multzoa. Ideala <strong>junzi</strong> da, «pertsona noblea», izaeragatik noblea eta ez jatorriagatik. Bizitza osorako gida izan daitekeen hitzik ba ote dagoen galdetuta, urrezko arau batekin erantzuten du, ezezko forman: «Zuretzat nahi ez duzuna, ez egin besteei». Konfuziorentzat, agintariak bere adibidearekin gobernatu behar du, belarra makurtzen duen haizeak bezala, eta ez zigorraren beldurrarekin.</p>",
+  "obras": [
+   "Analektak (Lunyu), ikasleek bilduak"
+  ],
+  "anecdota": "<p><em>Analektak</em> lanean, Konfuziok bere bizitza lerro gutxitan laburtzen du: hamabost urterekin ikasteko asmoa hartu zuen; hogeita hamarrekin tinko zegoen; berrogeirekin ez zuen jada zalantzarik; berrogeita hamarrekin Zeruaren agindua ezagutu zuen; hirurogeirekin belarriak esanekotasunez entzuten zuen; eta hirurogeita hamarrekin bihotzaren nahiei jarrai ziezaiekeen, zuzena dena hautsi gabe. Bizitza oso bat prestakuntza-bide gisa deskribatzen duen lehenengoetako testua da.</p>",
+  "fuente": "Analektak II, 4",
+  "tradicion": false,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
+  ]
+ },
  "heraclito": {
   "name": "Heraklito Efesokoa",
   "dates": "K.a. 540 ing. – 480 ing.",
@@ -397,6 +443,30 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "buda": {
+  "name": "Siddhartha Gautama, Buda",
+  "dates": "K.a. V. mendea (data ziurgabeak)",
+  "born": -480,
+  "died": -400,
+  "place": "Lumbini (gaur egungo Nepal)",
+  "role": "maisu espiritual indiarra, budismoaren sortzailea",
+  "idea": "Bizitza sufrimenduak zeharkatzen du, eta sufrimendu hori desiratik eta atxikimendutik sortzen da; sufrimendu hori itzal daiteke bizimodu zuzen eta neurritsu bati jarraituz.",
+  "bio": "<p>Siddhartha Gautama Indiaren iparraldean jaio zen, sakya klaneko familia noble batean. Haren datak ziurgabeak dira: tradizioak K.a. VI. mendean kokatzen du, eta gaur egun historialari askok V.aren inguruan. Kontakizun tradizionalen arabera, 29 urterekin jauregiko bizitza utzi zuen, sufrimenduaren amaiera bilatzeko; urte askoan muturreko aszetismoa probatu zuen, gosez ia hil arte, eta gero baztertu egin zuen, plazeraren eta mortifikazioaren arteko <strong>erdibidearen</strong> alde. Bodh Gayan zuhaitz baten azpian meditatzen ari zela, «esnatzea» lortu zuen: «Buda» hitzak «esnatua» esan nahi du. Bizitzaren gainerakoa irakasten eman zuen, eta 80 urte inguru zituela hil zen.</p>\n<p>Haren irakaspena <strong>lau egia nobleetan</strong> laburbiltzen da: bizitza sufrimenduak markatzen du (<em>dukkha</em>); sufrimendu hori desiratik eta atxikimendutik sortzen da; itzal daiteke (<strong>nirvana</strong>); eta hori lortzeko bide bat dago, zortzi urratseko bide noblea (ulermen, asmo, hitz, ekintza eta bizimodu zuzenak, ahalegina, arreta eta kontzentrazioa). Dena da <strong>iragankorra</strong>, eta ez dago ni finko eta iraunkorrik ere, hari heltzeko. Budak ez zuen ezer idatzi; haren hitzaldiak buruz transmititu ziren, eta mende batzuk geroago jarri ziren idatziz. Haren pentsamendua XIX. mendean iritsi zen Europara, eta eragin handia izan zuen Schopenhauerrengan.</p>",
+  "obras": [
+   "Ez zuen ezer idatzi: haren irakaspenak Pali Kanonean (Tripitaka) eta Dhammapadan biltzen dira"
+  ],
+  "anecdota": "<p>Kondairaren arabera, aitak luxuz inguratuta hazi zuen, minik inoiz ezagut ez zezan. Baina egun batean, jauregitik irtetean, Siddharthak agure bat ikusi zuen, gero gaixo bat eta ondoren gorpu bat, eta ulertu zuen zahartzaroa, gaixotasuna eta heriotza guztion zain daudela. Azkenik, aszeta lasai batekin egin zuen topo, eta bide hari jarraitzea erabaki zuen. «Lau topaketak» dira: haren bizitza baino askoz geroagoko kontakizuna, datu historiko bat baino gehiago haren irakaspenaren abiapuntua adierazten duena.</p>",
+  "fuente": "Asvaghosa, Budaren bizitza (Buddhacarita, K.o. I-II. m.)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-metafisica"
+  ]
+ },
  "socrates": {
   "name": "Sokrates",
   "dates": "K.a. 470/469 – 399",
@@ -426,6 +496,27 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas",
    "fil-comunidades-perseguidos",
    "fil-montaigne-ensayos"
+  ]
+ },
+ "aspasia": {
+  "name": "Aspasia Miletokoa",
+  "dates": "K.a. 470 ing. – 400 ing.",
+  "born": -470,
+  "died": -400,
+  "place": "Mileto (Jonia, gaur egungo Turkia)",
+  "role": "hizlaria eta erretorika-maistra",
+  "idea": "Emakume batek gizonek adina menderatu zitzakeen hitza eta pentsamendu politikoa, eta Atenasko hiritarrik eraginkorrenei erretorika irakatsi.",
+  "bio": "<p>Aspasia Mileton jaio zen, Joniako kostaldeko hiri greziar batean, eta Atenasera joan zen bizitzera, atzerritar egoiliar gisa. <strong>Perikles</strong>en bikotekidea izan zen, eta harekin seme bat izan zuen; haren etxea politikarien, artisten eta filosofoen topagune bihurtu zen. Atenas klasikoan gizon libreak baino ez zirenez hiritar, bizitza publikoan izan zuen presentzia salbuespenekoa izan zen, eta komedia-idazleen erasoak eta iseka ere ekarri zizkion.</p>\n<p>Ez da haren idazkirik gorde: beste egile batzuen lekukotasunei esker dakigu haren berri, hala nola Platon, Xenofonte eta Plutarkorenei; horregatik, datuak eta kondaira bereizi behar dira. Iturri horiek hizlari bikain eta <strong>erretorika</strong>-maistra gisa aurkezten dute, konbentzitzeko artearen maistra gisa. Platonen <em>Menexeno</em> lanean, Sokratesek bere maistra deitzen dio eta hileta-hitzaldi bat egozten dio; tradizioaren arabera, Periklesi bere hitzaldiak prestatzen ere lagundu omen zion.</p>\n<p>Aspasia gai-zerrendan antzinako filosofian lekua lortu zuten emakume gutxietako baten adibide gisa agertzen da. Haren irudiak Atenasko demokraziaren mugak erakusten ditu, emakumeak <strong>isonomia</strong>tik eta isegoriatik baztertzen baitzituen, bai eta ia arrastorik utzi ez duen emakumezkoen pentsamendua berreskuratzeko zailtasuna ere. Sokratesekin eta sofisten giroarekin lotzen da.</p>",
+  "obras": [],
+  "anecdota": "<p>Eskines sokratikoaren elkarrizketa galdu batean, Zizeronek zati bat gorde zuena, Aspasiak Xenofonteren emazteari galdetzen dio: bere auzokoak berak baino bitxi hobeak balitu, nahiago al lituzke auzokoarenak? Bai, erantzuten du. Eta jantzi hobeak balitu? Baita ere. Eta berea baino senar hobea balu? Emakumea isilik geratzen da. Aspasiak gauza bera egiten du gero Xenofonterekin, eta ondorioztatzen du bakoitzak ahalik eta ezkontide onena izaten ahalegindu behar duela. Zizeronek eszena indukzio bidezko arrazoiketaren adibide gisa aipatzen du: Sokratesi egozten zaion metodo bera.</p>",
+  "fuente": "Eskines Sfetokoa, Aspasia (Zizeronek transmititutako zatia, Asmamen erretorikoaz I)",
+  "tradicion": true,
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1"
   ]
  },
  "democrito": {
@@ -655,6 +746,28 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "teofrasto": {
+  "name": "Teofrasto Eresokoa",
+  "dates": "K.a. 371 ing. – 287 ing.",
+  "born": -371,
+  "died": -287,
+  "place": "Ereso (Lesbos uhartea)",
+  "role": "filosofo peripatetikoa eta naturalista",
+  "idea": "Natura ulertzeko, xehetasunez behatu eta sailkatu behar da, landarez landare eta izaeraz izaera.",
+  "bio": "<p>Teofrasto Lesbos uhartean jaio zen, eta hamarkadetan <strong>Aristoteles</strong>en laguntzailea izan zen. Tradizioaren arabera, haren benetako izena Tirtamo zen, eta Aristotelesek deitu zion Teofrasto, «hizkera jainkotiarra duena», bere hitz-jarioagatik. Aristotelesek K.a. 322an Atenas utzi zuenean, Teofrasto <strong>Lizeoaren</strong> buru geratu zen; 35 bat urtez zuzendu zuen, eta ehunka ikasle izatera iritsi zen.</p>\n<p>Bere maisuaren metodoari jarraitu zion, behaketan oinarritua, eta landareei aplikatu zien: haren <em>Landareen historia</em>k <strong>botanikaren</strong> sortzaile bihurtzen du. <em>Izaerak</em> ere idatzi zituen, giza tipoen erretratu labur eta dibertigarrien sorta bat (lausengaria, berritsua, zekena…), geroko idazle askoren inspirazio izan zena. Gainera, aurreko filosofoen iritziak bildu zituen, eta lan horri esker ezagutzen dugu presokratikoek pentsatzen zutenaren zati handi bat.</p>",
+  "obras": [
+   "Landareen historia",
+   "Landareen kausak",
+   "Izaerak"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-helenismo"
+  ]
+ },
  "crates": {
   "name": "Krates Tebaskoa",
   "dates": "K.a. 365 ing. – 285 ing.",
@@ -747,6 +860,26 @@ const BIOGRAFIAS = {
    "fil-helenismo"
   ]
  },
+ "cleantes": {
+  "name": "Kleantes Asokoa",
+  "dates": "K.a. 331 ing. – 232 ing.",
+  "born": -331,
+  "died": -232,
+  "place": "Aso (Asia Txikia)",
+  "role": "filosofo estoikoa",
+  "idea": "Logos berak, arrazoi jainkotiarrak, gobernatzen du unibertsoa; ondo bizitzea harekin bat etorriz bizitzea eta patua onartzea da.",
+  "bio": "<p>Kleantes boxeolaria izan zen, eta ia dirurik gabe iritsi zen Atenasera. <strong>Zenon Zitiokoa</strong>ren klaseak ordaintzeko, gauez lorategietako putzuetatik ura ateratzen zuen, eta horregatik «urketaria» ezizena jarri zioten. Ikasle motela baina iraunkorra izan zen, eta Zenon K.a. 262an hil zenean <strong>Stoaren</strong> bigarren zuzendari bihurtu zen.</p>\n<p>Haren lanik ezagunena <em>Zeusi ereserkia</em> da, oso-osorik gordetzen diren antzinako testu estoiko gutxietako bat. Bertan Zeus <strong>logosa</strong> da, unibertso osoa ordenatzen duen arrazoia, eta gizakia ordena hori onartzen badu eta <strong>naturarekin bat etorriz</strong> bizi bada baino ez da zoriontsu. Mende batzuk geroago, Senekak patuari buruzko haren bertso batzuk latinera itzuli eta esaldi ospetsu batean laburbildu zituen: «patuak onartzen duena gidatzen du, eta aurka egiten diona arrastaka darama».</p>",
+  "obras": [
+   "Zeusi ereserkia"
+  ],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-helenismo"
+  ]
+ },
  "timon": {
   "name": "Timon Fliuntekoa",
   "dates": "K.a. 320 ing. – 230 ing.",
@@ -765,6 +898,26 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t3"
+  ]
+ },
+ "crisipo": {
+  "name": "Krisipo Solosekoa",
+  "dates": "K.a. 279 ing. – 206 ing.",
+  "born": -279,
+  "died": -206,
+  "place": "Solos (Zilizia, Asia Txikia)",
+  "role": "filosofo estoikoa",
+  "idea": "Dena patuaren arabera gertatzen da, baina egiten duguna gure menpe ere badago, zilindro bat bezala: norbaitek bultzatzen duenean, bere formaren arabera biratzen da.",
+  "bio": "<p>Krisipo Solosen jaio zen, gaur egungo Turkian, eta Kleantesen ondorengoa izan zen <strong>Stoaren</strong> hirugarren zuzendari gisa. Bera izan zen estoizismoa sistema oso eta ondo argudiatu bihurtu zuena, hainbeste non Antzinaroan esaten baitzen: «Krisipo existitu izan ez balitz, ez zen Stoa existituko». Zazpiehun lan baino gehiago idatzi zituen, denak galduak.</p>\n<p>Krisipok <strong>logika</strong> berezi bat garatu zuen, proposizioen arteko erlazioetan oinarritua («eguna bada, argia dago»), Aristotelesena osatzen zuena. <strong>Patua</strong> gizakiaren erantzukizunarekin bateratzen ere saiatu zen zilindroaren irudiarekin: norbaitek bultzatzen du, baina biratzea bere formari zor zaio. Era berean, inguruabarrek bultzatzen gaituzte, baina nola erantzuten dugun gure izaeraren araberakoa da.</p>",
+  "obras": [],
+  "block": "ant",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica",
+   "fil-t5",
+   "fil-helenismo"
   ]
  },
  "carneades": {
@@ -1549,6 +1702,31 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "sepulveda": {
+  "name": "Juan Gines de Sepulveda",
+  "dates": "c. 1490 – 1573",
+  "born": 1490,
+  "died": 1573,
+  "place": "Pozoblanco (Kordoba)",
+  "role": "humanista, errege-kronikagilea eta Aristotelesen itzultzailea",
+  "idea": "Aristotelesengan oinarrituz, defendatu zuen herri batzuk berez agintzeko gaiago direla eta beste batzuk obeditzeko, eta horregatik indigenen aurkako gerra bidezkoa izan zitekeela.",
+  "bio": "<p>Juan Gines de Sepulveda Kordoba inguruan jaio zen 1490 inguruan eta Italian prestatu zen, non grekoaren ezagutzaile handi eta <strong>Aristoteles</strong> latinera itzultzaile miretsia izatera iritsi baitzen. Karlos V.a enperadorearen kronikagile ofiziala izan zen eta bere garaiko espainiar humanistarik errespetatuenetako bat. Gaur egun, batez ere, Bartolome de las Casasen arerio handia izan zelako gogoratzen da Amerikaren konkistari buruzko eztabaidan, eta horrek batzuetan filologo eta itzultzaile gisa duen balioa ahaztarazten du.</p>\n<p>Bere <em>Demokrates bigarrena</em> lanean defendatu zuen indigenen aurkako gerra <strong>bidezkoa</strong> izan zitekeela. Horretarako Aristotelesen ideia erabili zuen, zeinaren arabera «berez morroi» diren pertsonak eta herriak dauden, gobernatzeko baino obeditzeko gaiagoak, eta erantsi zuen haiek menderatzeak giza sakrifizioekin amaitzeko eta kristautasuna jaso zezaten balio zuela. Haren argudioak gaur egun onartzen zailak dira, baina bere garaian oso baloratutako autoritateetan oinarritzen ziren, hala nola Aristotelesen eta gerra-zuzenbidean. Pertsona jantzi batek hura defendatu zezakeen zergatik ulertzeak, eta zer erantzun zioten jakiteak, ikusten laguntzen du ideia bidegabeak ez datozela beti jende ezjakinarengandik: horregatik arrazoiak aztertu behar dira, ez asmoak soilik.</p>",
+  "obras": [
+   "Demokrates bigarrena edo Indioen aurkako gerraren bidezko arrazoiei buruz (Democrates alter, 1544 ingurukoa)",
+   "Aristotelesen latinezko itzulpenak (Politika, besteak beste)",
+   "Karlos V.aren kronikak"
+  ],
+  "anecdota": "<p>Sepulvedak indigenen aurkako gerra defendatzen zuen liburua, <em>Demokrates bigarrena</em>, ez zen egilearen bizialdian argitaratu. Inprimatzeko baimen ofiziala eskatu zuenean, auzia Salamancako eta Alcalako unibertsitateetara bidali zen, eta teologoek <strong>ez baimentzea</strong> aholkatu zuten. Xehetasun esanguratsua da: gaur egun garai hura intolerantziarekin lotzen dugun arren, Sepulvedaren ideiek ez zituzten bere herrialdeko jakintsu guztiak ere konbentzitzen, eta Espainiaren barruan aurkaritza aurkitu zuten. Testu osoa haren heriotzaren ondoren urte askora bakarrik editatu zen.</p>",
+  "fuente": "Demokrates bigarrena lanaren zentsuraren historia: Salamancako eta Alcalako irizpenek (1548 inguruan) ez zuten haren inprimaketa gomendatu, obraren edizio modernoetan jasoa",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t2"
+  ]
+ },
  "calvino": {
   "name": "Joan Kalvino",
   "dates": "1509 – 1564",
@@ -1691,6 +1869,30 @@ const BIOGRAFIAS = {
   "temas": [
    "fil-t3",
    "fil-comunidades-perseguidos"
+  ]
+ },
+ "campanella": {
+  "name": "Tommaso Campanella",
+  "dates": "1568 – 1639",
+  "born": 1568,
+  "died": 1639,
+  "place": "Stilo (Kalabria, Italia)",
+  "role": "fraide dominikarra, filosofoa eta idazle utopikoa",
+  "idea": "Gizarte justu batean ez legoke jabetza pribaturik: ondasunak komunak lirateke eta denek egunean ordu gutxi batzuk lan egingo lukete.",
+  "bio": "<p>Tommaso Campanella Stilon jaio zen, Kalabrian, 1568an. Oso gazterik sartu zen dominikarren ordenan, eta laster egin zuen talka Elizarekin bere ideia filosofikoengatik, Aristotelesen aurkakoak baitziren. 1599an atxilotu zuten Kalabrian Espainiaren menderakuntzaren aurkako konspirazio batean parte hartzeagatik, eta 27 bat urte eman zituen Napoliko kartzeletan. Han idatzi zuen bere lanaren zati handi bat. 1626an askatu zuten, eta azkenean Frantzian hartu zuen babesa; Parisen hil zen 1639an.</p>\n<p>Bere lanik ezagunena <em>Eguzkiaren hiria</em> da, kartzelan idatzia 1602an eta latinez argitaratua 1623an. <strong>Jabetza pribaturik</strong> gabeko hiri ideal bat deskribatzen du: dena da komuna, inor ez da aberatsa ez pobrea, eta denek egunean lau bat ordu lan egiten dute, ikasteko denbora gera dakien. Platonen <em>Errepublikaren</em> eta Tomas Mororen <em>Utopiaren</em> tradizioari jarraitzen dio. Horregatik <strong>komunismo utopikoaren</strong> klasikoen artean sartzen da: XIX. mendeko sozialistek, Marxek adibidez, jabetza pribaturik gabeko gizarte bat jada irudikatu zuen aitzindari gisa irakurri zuten.</p>",
+  "obras": [
+   "Eguzkiaren hiria (1602; 1623an argitaratua)",
+   "Galileoren apologia (1622)"
+  ],
+  "anecdota": "<p>1600ean, Campanella konspirazioa eta heresia leporatuta zegoen, eta sutan erre zezaketen. Legeak ez zuenez zoro bat exekutatzea onartzen, burua galdu zuela itxurak egiten hasi zen: zentzurik gabe hitz egiten zuen, eta bere lastairari su ere eman zion. Epaileek itxurak egiten ote zituen egiaztatu nahi izan zuten, eta 1601ean «kandela» izeneko torturapean jarri zuten: 36 bat ordu eman zituen zintzilik eta lo egin gabe. Bere papera utzi gabe eutsi zion. Horri esker salbatu zuen bizia, nahiz eta bizi osorako kartzela-zigorra ezarri zioten.</p>",
+  "fuente": "Napoliko prozesuaren aktak (1601); haietan oinarritutako Campanellaren biografiak",
+  "tradicion": false,
+  "block": "ren",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "kepler": {
@@ -2380,6 +2582,32 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "lessing": {
+  "name": "Gotthold Ephraim Lessing",
+  "dates": "1729 – 1781",
+  "born": 1729,
+  "died": 1781,
+  "place": "Kamenz (Alemania)",
+  "role": "dramaturgoa, kritikaria eta filosofo ilustratua",
+  "idea": "Erlijio batek ere ezin du frogatu egia osoa duenik; haren balioa praktikatzen dutenen jokabidean ikusten da, batez ere tolerantzian.",
+  "bio": "<p>Gotthold Ephraim Lessing 1729an jaio zen Kamenzen, Saxonian, artzain protestante baten semea. Teologia eta Medikuntza ikasi zituen Leipzigen, baina idazteari eman zion bere burua: lumatik bizitzen saiatu ziren lehen alemanetako bat izan zen. Antzerki alemana berritu zuen <em>Minna von Barnhelm</em> bezalako komedia eta dramekin, eta, kritikari gisa, Shakespeare defendatu zuen antzerki frantsesaren arauen aurrean. 1770etik aurrera Brunswickeko dukearen liburuzaina izan zen Wolfenbüttelen. Brunswicken hil zen 1781ean.</p>\n<p>Lessingen ustez, egia eduki baino gehiago bilatu egiten da. Biblia kritikatzen zuen eskuizkribu anonimo baten zatiak argitaratu zituen, Hermann Samuel Reimarusen lana, eta horrek Goeze artzainaren aurka jarri zuen. <em>Natan jakintsua</em> lanean <strong>erlijio-tolerantzia</strong> defendatzen du hiru eraztunen parabolarekin, eta <em>Giza generoaren hezkuntza</em> lanean erlijioak gizateriaren ikaskuntzaren etapa gisa aurkezten ditu. Natanen pertsonaiarako, bere lagun Moses Mendelssohn izan zuen inspirazio. Hil ondoren, Jacobik kontatu zuen 1780an Lessingek aitortu ziola Spinozaren aldekoa zela, «Hen kai pan» formula grekoarekin, «bat eta dena». Jacobik 1785ean argitaratu zuenean, <strong>panteismoaren polemika</strong> lehertu zen.</p>",
+  "obras": [
+   "Laokoonte (1766)",
+   "Minna von Barnhelm (1767)",
+   "Natan jakintsua (1779)",
+   "Giza generoaren hezkuntza (1780)"
+  ],
+  "anecdota": "<p>Goeze artzainarekin izandako polemikan, Lessingek hain azkar eta hain ironia handiz idazten zuen, ezen bere aurkariak agintariengana jo baitzuten. 1778ko udan, Brunswickeko dukeak zentsurarik gabe argitaratzeko baimena kendu zion eta erlijioaz idazten jarraitzea debekatu zion. Lessingek ez zuen amore eman. 1778ko irailean Elise Reimarusi idatzitako gutun batean, zatien egilearen alabari, azaldu zuen probatuko zuela ea behintzat bere antzinako pulpitutik lasai predikatzen uzten zioten: antzokitik. Hurrengo urtean <em>Natan jakintsua</em> argitaratu zuen, judu bati, sultan musulman bati eta zaldun kristau bati buruzko bertsozko drama bat. Zentsurak teologiaren atea itxi zion, eta bera eszenatokiaren atetik sartu zen.</p>",
+  "fuente": "Lessingek Elise Reimarusi idatzitako gutuna (1778ko irailaren 6a)",
+  "tradicion": false,
+  "block": "ilu",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t7"
+  ]
+ },
  "hamann": {
   "name": "Johann Georg Hamann",
   "dates": "1730 – 1788",
@@ -2641,6 +2869,58 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "saint-simon": {
+  "name": "Henri de Saint-Simon",
+  "dates": "1760 – 1825",
+  "born": 1760,
+  "died": 1825,
+  "place": "Paris",
+  "role": "gizarte-pentsalaria eta erreformatzailea",
+  "idea": "Gizarte modernoa ekoizten dutenek zuzendu behar dute, zientzialariek, industrialek eta langileek, eta klase pobreenaren bizitza hobetzeko antolatu behar da.",
+  "bio": "<p>Claude-Henri de Rouvroy, Saint-Simongo kondea, Parisen jaio zen 1760an, familia noble batean. Hamazazpi urterekin soldadu sartu zen Ameriketako Estatu Batuen Independentzia Gerran borrokatzeko. Frantziako Iraultzan aberastu egin zen ondasun nazionalak erosiz, denboraldi bat igaro zuen espetxean susmagarri gisa, eta azkenean bere fortuna galdu zuen. Bizitzaren gainerakoa idazteari eman zion, ia beti diru-estuasunetan. Parisen hil zen 1825ean.</p>\n<p>Saint-Simonek ikusi zuen Iraultzak aro berri bat ireki zuela: <strong>gizarte industrialarena</strong>. Bertan, agindu behar dutenak ekoizleak dira, hau da, jakintsuak, industrialak, artisauak eta langileak, eta ez nobleak, militarrak eta gortesauak, alferrak iruditzen baitzitzaizkion. Politika ekoizpenaren administrazio bihurtu behar zen. Bere azken liburuan, <em>Kristautasun berria</em>, gizarte osoa klase pobreenaren egoera hobetzeko antola zedin eskatu zuen. Haren ikasleek <strong>saintsimonismoa</strong> sortu zuten, oso eragin handiko mugimendua. <em>Manifestu komunista</em>k (1848) Fourier eta Owenekin batera sartzen du <strong>sozialismo kritiko-utopikoan</strong>: beren garaiko gizartea zuzen kritikatu zuten, baina plan idealetan jarri zuten konfiantza, langile-klasearen borrokan baino gehiago.</p>",
+  "obras": [
+   "Genevako biztanle baten gutunak bere garaikideei (1803)",
+   "Antolatzailea (1819-1820)",
+   "Industrialen katixima (1823-1824)",
+   "Kristautasun berria (1825)"
+  ],
+  "anecdota": "<p>1819an, Saint-Simonek «parabola» bat argitaratu zuen bere <em>Antolatzailea</em> aldizkarian. Irudikatzeko proposatzen zuen Frantziak bat-batean galduko balitu bere hiru mila zientzialari, artista eta artisau onenak: herrialdea hondoratuta geratuko litzateke belaunaldi oso batez. Gero irudikatzen zuen errege-familiako kideak galduko balitu, haien artean Berryko dukea, eta ministroak, apezpikuak eta jabe handiak: gizatasunagatik sentituko lukete, baina herrialdeak berdin-berdin funtzionatzen jarraituko luke. 1820ko otsailean Berryko dukea hil zuten, eta Saint-Simon epaitu egin zuten, haren testuak krimena bultzatu izan balu bezala. Auzitegiak absolbitu egin zuen.</p>",
+  "fuente": "Saint-Simon, Antolatzailea (1819); auzitegi kriminalaren aurreko prozesua (1820)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "fichte": {
+  "name": "Johann Gottlieb Fichte",
+  "dates": "1762 – 1814",
+  "born": 1762,
+  "died": 1814,
+  "place": "Rammenau (Alemania)",
+  "role": "filosofo idealista",
+  "idea": "Dena niaren jardueratik abiatzen da: niak bere burua jartzen du eta bere aurrean mundua jartzen du, bere askatasuna gauzatzen duen oztopo gisa.",
+  "bio": "<p>Johann Gottlieb Fichte 1762an jaio zen Rammenaun, Saxoniako herri batean, ehule pobreen familia batean. Eskualdeko noble batek ordaindu zizkion ikasketak, eta gero urte luzez etxe-irakasle aritu zen. 1790 inguruan Kant irakurri zuen, eta irakurketa horrek bizitza aldatu zion. Haren lehen liburua, <em>Errebelazio ororen kritika baten saiakera</em> (1792), bere izenik gabe agertu zen, eta askok Kanten obratzat hartu zuten. 1794an Jenako katedra bat lortu zuen, eta 1799an galdu egin zuen, ateismoa leporatuta. Berlinen kokatu zen eta han hil zen 1814an.</p>\n<p>Fichtek Kanten jarraitzailetzat aurkeztu zuen bere burua, baina Kantek eman nahi izan ez zuen urrats bat eman zuen: gauza bere baitan ezabatzea. Harentzat dena <strong>nitik</strong> abiatzen da, ez gauza gisa ulertuta, baizik eta bere burua jartzen duen eta bere aurrean mundua, ez-nia, jartzen duen jarduera aske gisa, bere askatasuna gauzatzen duen oztopo gisa. Horrela jaiotzen da <strong>idealismo alemana</strong>. Kantek publikoki baztertu zuen filosofia hori 1799an. Frantziarren okupazioan, Fichtek <em>Nazio alemanari hitzaldiak</em> eman zituen Berlinen (1807-1808), eta horiek nazionalismo alemanaren irudi bihurtu zuten.</p>",
+  "obras": [
+   "Errebelazio ororen kritika baten saiakera (1792)",
+   "Zientziaren doktrina osoaren oinarria (1794-1795)",
+   "Gizakiaren xedea (1800)",
+   "Nazio alemanari hitzaldiak (1808)"
+  ],
+  "anecdota": "<p>1791n, Fichtek Königsbergera bidaiatu zuen Kant ezagutzeko, eta bisitak etsipena eman zion: irakasle zaharrak hotz hartu zuen. Haren arreta erakartzeko, aste gutxitan errebelazioari buruzko saiakera bat idatzi zuen filosofia kritikoa aplikatuz, eta bidali egin zion. Handik gutxira, etxera itzultzeko dirurik gabe, mailegu bat eskatzera ausartu zen. Kantek ez zion eman, baina eskuizkribua bere argitaratzailearekin argitaratzen lagundu zion. Liburua 1792an atera zen egilearen izenik eta hitzaurrerik gabe, eta Jenako aldizkari batek Kantena zela eman zuen ziurtzat. Kantek publikoki argitu zuenean egilea Fichte izeneko bat zela, etxe-irakasle ezezagun hura gau batetik goizera egin zen ospetsu.</p>",
+  "fuente": "Fichteren eta Kanten arteko gutun-trukea (1791); Kanten adierazpena Jenako Allgemeine Literatur-Zeitung aldizkarian (1792)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
+  ]
+ },
  "schleiermacher": {
   "name": "Friedrich Schleiermacher",
   "dates": "1768 – 1834",
@@ -2697,6 +2977,58 @@ const BIOGRAFIAS = {
    "fil-montaigne-ensayos"
   ]
  },
+ "owen": {
+  "name": "Robert Owen",
+  "dates": "1771 – 1858",
+  "born": 1771,
+  "died": 1858,
+  "place": "Newtown (Gales)",
+  "role": "enpresaburu eta erreformatzaile sozialista",
+  "idea": "Pertsonen izaera bizi diren inguruabarrek eratzen dute; inguruabar horiek hobetzen badira, hezkuntzarekin eta lan duinarekin, pertsonak hobetzen dira.",
+  "bio": "<p>Robert Owen Newtownen jaio zen, Galesen, 1771n, artisau baten semea. Hamar urterekin oihalgile-ikastun gisa hasi zen lanean, eta hogei urte eta gutxirekin Manchesterreko irule-fabrika bat zuzentzen zuen jada. 1800ean Eskoziako New Lanarkeko kotoi-fabriken zuzendaritza hartu zuen, eta Europa osoan ospetsua egin zen eredu bihurtu zituen. Bere jaioterrian hil zen 1858an.</p>\n<p>New Lanarken, Owenek lanaldia murriztu zuen, haur txikiak enplegatzeari utzi zion, etxebizitzak hobetu zituen eta eskolak ireki zituen, horien artean adin oso txikiko haurrentzako lehenetako bat. Ideia batetik abiatzen zen: <strong>izaera</strong> ez dago norbanako bakoitzaren menpe, hazten den <strong>inguruabarren</strong> menpe baizik. 1825ean New Harmony komunitatea sortu zuen Estatu Batuetan, eta bi urtean porrot egin zuen. Ondoren, <strong>kooperatibak</strong> eta Britainia Handiko langile-sindikatuak bultzatu zituen. <em>Manifestu komunista</em>k (1848) Saint-Simon eta Fourierrekin batera sartzen du <strong>sozialismo kritiko-utopikoan</strong>, eta Engelsek miretsi egin zuen Ingalaterran langile-klasearen alde gehien egin zuen erreformatzaile gisa.</p>",
+  "obras": [
+   "Gizartearen ikuspegi berri bat (1813)",
+   "Lanarkeko konderriari txostena (1821)",
+   "Mundu moral berriaren liburua (1836-1844)",
+   "Robert Owenen bizitza (1857)"
+  ],
+  "anecdota": "<p>1806an, Estatu Batuek Britainia Handira kotoia bidaltzeari utzi zioten, eta fabrika askok gelditu behar izan zuten. New Lanarkekoak lau hilabetez ia lanik gabe geratu ziren. Normalena langileak kaleratzea edo haiei ordaintzeari uztea izango zatekeen, baina Owenek bere bazkideak konbentzitu zituen denbora horretan guztian soldata osoak ordaintzen jarraitzeko, makinak garbi eta txukun mantentzeko soilik. Keinu horrek langileen konfiantza irabazi zion, ordura arte haren mesfidati baitziren, eta bere erreformak aurrera eramateko aukera eman zion.</p>",
+  "fuente": "Robert Owen, Robert Owenen bizitza, berak idatzia (1857)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
+ "fourier": {
+  "name": "Charles Fourier",
+  "dates": "1772 – 1837",
+  "born": 1772,
+  "died": 1837,
+  "place": "Besançon (Frantzia)",
+  "role": "pentsalari sozialista utopikoa",
+  "idea": "Lana atsegina izan daiteke gizartea giza grinen arabera antolatzen bada, falansterio deritzen komunitate libreetan.",
+  "bio": "<p>Charles Fourier Besançonen jaio zen 1772an, oihal-saltzaile baten semea. Bere herentziaren zati handi bat galdu zuen 1793ko Lyongo setioan, Iraultzan, eta ia beti enplegatu eta merkataritza-bidaiari gisa irabazi zuen bizimodua, gorroto zuen ogibidea. Bakarrik eta baliabide gutxirekin bizi izan zen, bere garaian gutxi irakurri ziren liburuak idazten. Parisen hil zen 1837an.</p>\n<p>Fourierrek bere garaiko gizartea salatu zuen, «zibilizazioa» deitzen ziona, merkataritzaren desordena eta iruzurrarengatik eta aberastasunaren ondoan sortzen zuen miseriagatik. Haren ordez, 1.600 bat pertsonako komunitateak proposatu zituen, <strong>falansterioak</strong>; haietan bakoitzak egunean hainbat aldiz aldatuko zuen zeregina, bere gustuen arabera. Horrela, lana zigor izateari utzi eta <strong>lan erakargarri</strong> bihurtuko zen. Emakumeen askatasuna ere defendatu zuen, eta esan zuen emakumearen emantzipazio-mailak neurtzen duela gizarte baten aurrerapena. <em>Manifestu komunista</em>k (1848) Saint-Simon eta Owenekin batera kokatzen du <strong>sozialismo kritiko-utopikoan</strong>; haren jarraitzaileek, Victor Considerant buru zutela, Europan eta Amerikan zabaldu zituzten haren ideiak.</p>",
+  "obras": [
+   "Lau mugimenduen teoria (1808)",
+   "Etxe- eta nekazaritza-elkarteari buruzko tratatua (1822)",
+   "Mundu industrial eta elkartekide berria (1829)",
+   "Industria faltsua (1835)"
+  ],
+  "anecdota": "<p>Fourierrek kontatu zuen bere aurkikuntza handia sagar batekin hasi zela. Rouendik Parisera iritsi berria, jatetxe batean ikusi zuen sagar bakar bat askoz garestiago ordaintzen zela landan sagar-pila batek balio zuena baino. Hori froga iruditu zitzaion merkataritza sistema absurdua zela, bitartekariak guztien kontura aberasten zituena. Ordutik aurrera historiako lau sagar ospetsuez hitz egiten zuen: Adan eta Evarena, Parisena, Troiako gerra eragin zuena, Newtonena… eta berea, gizartearen desordena agerian utzi ziona.</p>",
+  "fuente": "Fourierren eskuizkribuak, haren eskolak hura hil ondoren argitaratuak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
+  ]
+ },
  "thompson": {
   "name": "William Thompson",
   "dates": "1775 – 1833",
@@ -2720,6 +3052,31 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-marxismos"
+  ]
+ },
+ "schelling": {
+  "name": "Friedrich Wilhelm Joseph Schelling",
+  "dates": "1775 – 1854",
+  "born": 1775,
+  "died": 1854,
+  "place": "Leonberg (Alemania)",
+  "role": "filosofo idealista",
+  "idea": "Natura eta espiritua errealitate absolutu beraren bi aurpegi dira: natura oraindik bere burua ezagutzen ez duen espiritua da.",
+  "bio": "<p>Friedrich Wilhelm Joseph Schelling Leonbergen jaio zen, Württemberg-en, 1775ean. Ikasle goiztiarra izan zen: hamabost urterekin sartu zen Tübingengo seminarioan, non Hegelekin eta Hölderlinekin partekatu zuen gela. 1795ean Hegeli idatzi zion: «Spinozista egin naiz», eta aldea azaldu zion: Spinozarentzat mundua zen dena; berarentzat, nia. Hogeita hiru urte besterik ez zituela, Jenako irakasle izendatu zuten. Gero Würzburgen, Munichen eta Berlinen irakatsi zuen, eta 1854an hil zen Bad Ragaz bainuetxe suitzarrean.</p>\n<p>Schelling Fichtetik abiatu zen, baina laster aurpegiratu zion natura niarentzako oztopo huts batera murrizten zuela. Harentzat, natura bizirik dago eta bere historia du: <strong>espiritu lotan</strong> dago, gizakiarengan esnatu eta bere burua ezagutzera iristen dena. Horregatik defendatu zituen <strong>naturaren filosofia</strong> eta naturaren eta espirituaren arteko funtsezko <strong>identitatea</strong>. Gainera, artean ikusi zuen absolutura iristeko modurik gorena, erromantikoak liluratu zituen ideia. Heldutasunean giza askatasunaz, gaizkiaz eta erlijioaz arduratu zen.</p>",
+  "obras": [
+   "Naturaren filosofia baterako ideiak (1797)",
+   "Idealismo transzendentalaren sistema (1800)",
+   "Giza askatasunaren esentziari buruzko ikerketa filosofikoak (1809)"
+  ],
+  "anecdota": "<p>1841ean, Hegel hil ondoren, Prusiako erregeak Schelling deitu zuen Berlinera hegeldarren eragina orekatzeko. Haren lehen ikasgaiak gertaera bat izan ziren: ikasgelan elkartu ziren Kierkegaard, Engels, Bakunin eta Jacob Burckhardt historialaria. Kierkegaardek Kopenhagetik bidaiatu zuen hura entzuteko soilik. Hasieran gogotsu idatzi zuen Schellingek «errealitatea» hitza esan zuenean pozez dardaratu zela. Hilabete gutxi geroago, lagun bati idatzitako gutunetan, kexu zen Schellingek zentzugabekeria jasanezinak esaten zituela, eta Danimarkara itzuli zen ikastaroa amaitu aurretik. Engelsek, bere aldetik, haren aurkako liburuxkak idatzi zituen.</p>",
+  "fuente": "Søren Kierkegaarden gutunak eta egunerokoak (1841-1842)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3"
   ]
  },
  "schopenhauer": {
@@ -3590,6 +3947,33 @@ const BIOGRAFIAS = {
    "fil-t6"
   ]
  },
+ "jaspers": {
+  "name": "Karl Jaspers",
+  "dates": "1883 – 1969",
+  "born": 1883,
+  "died": 1969,
+  "place": "Oldenburg (Alemania)",
+  "role": "psikiatra eta filosofo existentzialista alemana",
+  "idea": "Muga-egoeretan (heriotza, sufrimendua, borroka, errua) pertsonak bere existentzia eta askatasuna aurkitzen ditu, eta besteekin benetan komunikatzen ikasten du.",
+  "bio": "<p>Karl Jaspersek medikuntza ikasi zuen eta psikiatra gisa lan egin zuen Heidelbergen; haren <em>Psikopatologia orokorra</em> (1913) erreferentziazko liburua izan zen psikiatrian. Gero filosofiari eman zion bere burua. Gertrud Mayerrekin ezkondua zegoen, familia judu batekoa, eta naziek katedratik bota zuten 1937an eta argitaratzea debekatu zioten. Gerraren ondoren unibertsitatera itzuli zen, <em>Erruaren auzia</em> (1946) idatzi zuen alemanen erantzukizunari buruz, eta 1948an Basileara joan zen, Suitzara, eta han bizi izan zen hil arte. Hannah Arendten maisua eta laguna izan zen.</p>\n<p>Jaspers existentziaren filosofiaren sortzaileetako bat da. Zientziak mundua azaltzen du, baina ezin digu esan nor garen ezta nola bizi. Hori <strong>muga-egoeretan</strong> aurkitzen dugu, ihes egin ezin diegun egoera horietan: heriotza, sufrimendua, borroka, errua. Haien aurrean pertsona bere existentziaz eta askatasunaz jabetzen da. Jaspersentzat egia besteekiko <strong>komunikazioan</strong> lortzen da, eta ez bakardadean. <strong>Ardatz-aroaren</strong> ideia ere sortu zuen: K.a. 800. eta 200. urteen artean, Txinan, Indian, Persian, Israelen eta Grezian, ia aldi berean agertu ziren Konfuzio eta Lao Zi, Buda, profetak eta filosofo greziarrak, eta haiekin batera gizakiari buruzko galdera handiak.</p>",
+  "obras": [
+   "Psikopatologia orokorra (1913)",
+   "Filosofia (1932)",
+   "Erruaren auzia (1946)",
+   "Historiaren jatorria eta helburua (1949)"
+  ],
+  "anecdota": "<p>Gerraren azken urteetan, Jaspers eta haren emazte Gertrud Heidelbergen bizi ziren, emaztea esterminio-esparru batera deportatuko zuten beldur etengabean. Erabakita zuten, haren bila etortzen baziren, elkarrekin emango ziotela bere buruari heriotza, eta pozoia gordetzen zuten etxean une horretarako. Jakin zuten haren deportazioa 1945eko apirilaren erdialderako aurreikusita zegoela. Martxoaren 30ean, tropa estatubatuarrak Heidelbergen sartu ziren, eta hura ez zen gertatu.</p>",
+  "fuente": "K. Jaspers, Autobiografia filosofikoa (1957); Hannah Arendtekin izandako gutunak",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t1",
+   "fil-t2"
+  ]
+ },
  "sapir": {
   "name": "Edward Sapir",
   "dates": "1884 – 1939",
@@ -4058,6 +4442,31 @@ const BIOGRAFIAS = {
    "fil-grandes-preguntas"
   ]
  },
+ "copleston": {
+  "name": "Frederick Copleston",
+  "dates": "1907 – 1994",
+  "born": 1907,
+  "died": 1994,
+  "place": "Trull, Tauntondik gertu (Ingalaterra)",
+  "role": "apaiz jesuita eta filosofiaren historialaria",
+  "idea": "Munduan dagoen guztia existitu gabe egon ahal bada, mundua ez da bere kabuz azaltzen: bere baitatik existitzen den eta zerbait egotearen arrazoia den izaki bat behar da.",
+  "bio": "<p>Frederick Charles Copleston 1907an jaio zen Tauntondik gertu, familia anglikano batean. Hemezortzi urterekin katoliko egin zen, eta Oxforden ikasi ondoren, Jesusen Lagundian sartu zen 1930ean. Filosofia irakatsi zuen Ingalaterrako Heythrop College-n eta Erromako Unibertsitate Gregorianoan.</p>\n<p>Haren lan nagusia bederatzi liburukiko <em>Filosofiaren historia</em> da (1946-1975), argia eta orekatua; mundu osoko ikasleen belaunaldiek ikasi dute harekin, eta gaztelaniara itzuli zen. 1948an BBCko irratian eztabaidatu zuen Bertrand Russellekin Jainkoaren existentziaz. Coplestonek kontingentziaren argudioa defendatu zuen, Tomasen hirugarren bidearen oinordekoa, eta Russellek erantzun zuen unibertso osoaren kausaz galdetzeak ez duela zentzurik. Hurrengo urtean, irrati berean, A. J. Ayerrekin eztabaidatu zuen positibismo logikoaz.</p>",
+  "obras": [
+   "Filosofiaren historia (9 liburuki, 1946-1975)",
+   "Aquinas (1955)",
+   "Bertrand Russellekin Jainkoaren existentziari buruzko eztabaida (BBC, 1948)"
+  ],
+  "anecdota": "<p>1948ko eztabaidan, Russellek unibertso osoaren kausaz galdetzeak zentzurik ez zuela esan zuenean (harentzat, unibertsoa «hor dago, besterik gabe, eta kitto»), Coplestonek xakeko irudi batekin erantzun zion: norbaitek taularen aurrean esertzeari eta pieza bat mugitzeari uko egiten badio, ezinezkoa da hari xake-mate ematea. Esan nahi zuen Russellek ez zuela argudioa gezurtatzen: galdera egiteari uko egiten ziola. Russellek, bere aldetik, uste zuen galdera horrek zentzua zuela bakarrik zirudiela.</p>",
+  "fuente": "Russell-Copleston eztabaidaren transkripzioa (BBC, 1948ko urtarrilaren 28a), B. Russellen Zergatik ez naizen kristaua (1957) liburuan argitaratua",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-metafisica"
+  ]
+ },
  "beauvoir": {
   "name": "Simone de Beauvoir",
   "dates": "1908 – 1986",
@@ -4086,6 +4495,32 @@ const BIOGRAFIAS = {
    "fil-t6",
    "fil-t1-filosofia-mujer",
    "fil-grandes-preguntas"
+  ]
+ },
+ "weil": {
+  "name": "Simone Weil",
+  "dates": "1909 – 1943",
+  "born": 1909,
+  "died": 1943,
+  "place": "Paris (Frantzia)",
+  "role": "filosofo frantsesa",
+  "idea": "Eskubideak baino lehen besteenganako betebeharrak daude; sufritzen duenari benetako arreta eskaintzea justiziaren eta haren duintasunarekiko errespetuaren forma gorena da.",
+  "bio": "<p>Simone Weil Parisen jaio zen 1909an, familia judu kultu eta aberats batean; haren anaia, André Weil, matematikari ospetsua izan zen. Ikasle bikaina, 1931n filosofiako agregazioa lortu zuen eta hainbat institututan irakatsi zuen. Langileen egoerak kezkatuta, 1934an eszedentzia bat eskatu zuen Parisko fabriketan langile gisa lan egiteko. 1936an hilabete batzuez parte hartu zuen Espainiako Gerra Zibilean, zutabe anarkista batean. Bigarren Mundu Gerran familiarekin erbestera joan zen eta Londresen amaitu zuen, Frantzia Askerekin lankidetzan. Ashforden (Ingalaterra) hil zen 1943an, 34 urte zituela, tuberkulosiak jota eta ahulduta, berak zioenez okupaziopean frantsesek jasotzen zutena baino ez baitzuen ia jaten.</p>\n<p>Weil sailkatzen zaila den pentsalaria da, filosofiaren, konpromiso politikoaren eta mistikaren artean. Defendatu zuen eskubideak baino lehen besteenganako <strong>betebeharrak</strong> daudela, eta pertsona orok errespetua merezi duela pertsona izate hutsagatik. Toki nagusia eman zion <strong>arretari</strong>: bestea benetan begiratzen jakitea, batez ere <strong>ezbeharra</strong> (berak <em>malheur</em> deitu zuena) jasaten duena, apaltzen eta isolatzen duen zoritxar bat. Lanari, zapalkuntzari eta askatasunari buruz ere hausnartu zuen, eta bere azken aldian sakratuari buruz eta komunitate batean <strong>sustraiak botatzeko</strong> beharrari buruz. Atalean agertzen da XX. mendeko pentsamenduaren ahotsik originalenetako bat delako, gogoeta etiko eta politikoa lehen pertsonan bizitako esperientziarekin lotzen duena.</p>",
+  "obras": [
+   "Askatasunaren eta gizarte-zapalkuntzaren kausei buruzko gogoetak (1934an idatzia; 1955ean argitaratua)",
+   "Grabitatea eta grazia (1947)",
+   "Sustraiak botatzea (1949)",
+   "Jainkoaren zain (1950)"
+  ],
+  "anecdota": "<p>1934an, Simone Weilek, filosofiako irakasle bikaina zenak, eszedentzia bat eskatu zuen Parisko fabriketan langile kualifikatu gabe gisa lan egiteko, haien artean Renault-eko batean. Barrutik ezagutu nahi zuen, eta ez liburuetan bakarrik, zer esan nahi zuten nekeak, muntaketa-kateak eta nagusiekiko menpekotasunak. Ia urtebetez lan nekagarri bat jasan zuen eta bizi zuena egunero idatzi zuen koaderno batean, bere «fabrikako egunerokoa». Esperientzia hark betiko markatu zuen zapalkuntza eta lanaren duintasuna pentsatzeko bere modua.</p>",
+  "fuente": "Simone Pétrement, Simone Weilen bizitza (1973); Simone Weil, Langile-egoera (fabrikako egunerokoa, 1934-1935)",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t6"
   ]
  },
  "turing": {
@@ -4395,6 +4830,34 @@ const BIOGRAFIAS = {
    "fil-t7"
   ]
  },
+ "foucault": {
+  "name": "Michel Foucault",
+  "dates": "1926 – 1984",
+  "born": 1926,
+  "died": 1984,
+  "place": "Poitiers (Frantzia)",
+  "role": "filosofo eta historialari frantsesa",
+  "idea": "Subjektua ez da zerbait naturala, diskurtsoen eta botere-harremanen eraikuntza baizik; jakintza orok boterea sortzen du, eta boterea jakintza-moduak sortzen ditu.",
+  "bio": "<p>Michel Foucault Poitiersen jaio zen, zirujau baten semea. Parisko Goi Eskola Normalean ikasi zuen eta goiz hasi zen psikologiaz eta psikiatriaz interesatzen. Suedian, Polonian, Alemanian eta Tunisian lan egin zuen, 1970ean Collège de Francen katedra bat lortu aurretik; Pentsamendu-sistemen historia izena eman zion. Presoen aldeko mugimenduetan parte hartu zuen. Parisen hil zen 1984an, hiesaren ondorioz.</p>\n<p>Foucaultek eroetxea, ospitalea edo espetxea bezalako instituzioen historia aztertu zuen, naturaltzat ditugun kontzeptuak (eromena, gaixotasuna edo delinkuentzia, adibidez) historikoki eraikitzen direla erakusteko. Nietzschez inspiratuta, <strong>jakintza eta boterea</strong> lotzen dituen <strong>genealogia</strong> landu zuen: medikuntzak, psikiatriak edo zuzenbideak ez dituzte pertsonak deskribatu besterik egiten, sailkatu, zaindu eta normalizatu ere egiten dituzte. <em>Zaindu eta zigortu</em> (1975) lanean <strong>gizarte diziplinarioa</strong> deskribatzen du, panoptikoak sinbolizatzen duena: presoak beti behatua dagoela dakien espetxea. <em>Hitzak eta gauzak</em> (1966) lanaren amaieran gizakiaren heriotza iragartzen du, gai-zerrendak <strong>subjektuaren heriotza</strong> gisa aurkezten duena: nia diskurtsoen eta botere-sareen produktu bat da.</p>\n<p>Habermasen aurka dauden hausleetako bat da, unibertsal gisa aurkezten den arrazoi orori mesfidantza baitio. Bere eragina izugarria da: Judith Butlerrengan, Paul B. Preciadorengan edo Byung-Chul Hanen ideian, gizarte diziplinariotik errendimenduaren gizartera igaro garela dioenean.</p>",
+  "obras": [
+   "Eromenaren historia aro klasikoan (1961)",
+   "Hitzak eta gauzak (1966)",
+   "Zaindu eta zigortu (1975)",
+   "Sexualitatearen historia (1976-1984)"
+  ],
+  "anecdota": "<p>1971ko azaroan Herbehereetako telebistak aurrez aurre jarri zituen Foucault eta Noam Chomsky giza naturari buruz eztabaidatzeko. Chomskyk defendatu zuen giza natura badagoela, hizkuntza bezalako jaiotzetiko gaitasunekin, eta hartan oinarri daitekeela justiziaren ideia bat. Foucault mesfidati agertu zen: harentzat, giza natura edo justizia bezalako kontzeptuak gure gizartearen barruan eratu dira eta boterea gauzatzeko ere balio dute. Biek adeitasunez jardun zuten, baina ia ez ziren ados jarri. Eztabaida klasiko bihurtu zen.</p>",
+  "fuente": "Chomsky-Foucault telebistako eztabaida (Eindhoven, 1971), Giza natura: justizia versus boterea izenburuz argitaratua",
+  "tradicion": false,
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-t3",
+   "fil-metafisica",
+   "fil-t6"
+  ]
+ },
  "dickie": {
   "name": "George Dickie",
   "dates": "1926 – 2020",
@@ -4620,6 +5083,29 @@ const BIOGRAFIAS = {
   ],
   "temas": [
    "fil-t3"
+  ]
+ },
+ "azurmendi": {
+  "name": "Joxe Azurmendi",
+  "dates": "1941 – 2025",
+  "born": 1941,
+  "died": 2025,
+  "place": "Zegama (Gipuzkoa)",
+  "role": "filosofo eta saiakeragile euskalduna",
+  "idea": "Balioak testuinguru historiko eta kulturalaren araberakoak dira, baina horrek ez ditu arbitrario bihurtzen: haren erlatibismo erlatiboak absolutuak baztertzen ditu nihilismoan erori gabe.",
+  "bio": "<p>Joxe Azurmendi Zegaman jaio zen 1941ean. Arantzazuko ikastetxe frantziskotarrean hezi zen, ordenan sartu, eta Filosofia Alemanian eta Teologia Erroman ikasi zituen. Hirurogeiko hamarkadatik aurrera, <em>Jakin</em> aldizkariaren inguruko mugimendu kulturalaren bultzatzaileetako bat izan zen. Laurogeiko hamarkadan ordena utzi zuen, eta Euskal Herriko Unibertsitateko Filosofia Fakultateko irakaslea izan zen Donostian. Ia lan guztia euskaraz idatzi zuen. Donostian hil zen 2025ean.</p>\n<p>Azurmendik etika modernoaren oinarri absolutuak baztertzen ditu: ez Jainkoak ez arrazoiak ezin dute moral unibertsal bat oinarritu. Hala ere, horrek ez du esan nahi dena berdin dela. Balioak beren testuinguruaren araberakoak dira, baina komunitate bakoitzaren barruan ia balio absolutua hartzen dute. Hori da haren <strong>erlatibismo erlatiboa</strong>, kasuz kasu epaitzea eskatzen duena, Max Weberrek bezala, <strong>konbentzimenduaren etika</strong> eta <strong>erantzukizunaren etika</strong> uztartuz. Gainera, <strong>darwinismo soziala</strong> kritikatzen du eta, Kropotkinengan eta Edward O. Wilson biologoarengan oinarrituta, morala komunitate-zentzutik eta <strong>lankidetzatik</strong> sortzen dela azpimarratzen du.</p>\n<p>Haren lanak Kant, Nietzsche, Humboldt eta hizkuntzari eta nazioari buruzko pentsamendu alemaniarrarekin egiten du elkarrizketa. Gaur egungo euskal pentsamenduaren erreferenteetako bat da.</p>",
+  "obras": [
+   "Gizona abere hutsa da (1975)",
+   "Espainolak eta euskaldunak (1992)",
+   "Humboldt: hizkuntza eta pentsamendua (2007)",
+   "Historia, arraza, nazioa (2014)"
+  ],
+  "block": "con",
+  "subjects": [
+   "fil"
+  ],
+  "temas": [
+   "fil-discriminacion"
   ]
  },
  "ingham": {

@@ -837,6 +837,51 @@ const DICCIONARIO = [
  },
  {
   "subject": "fil",
+  "t": "Estatua",
+  "id": "g-fil-estado",
+  "et": "Latinezko *status* hitzetik, «egoera, egoteko modua», *stare* aditzetik, «zutik egon». Makiavelo hasi zen *lo stato* erabiltzen hiri edo erresuma baten botere antolatua izendatzeko.",
+  "area": "Politika",
+  "tema": "Filosofia · 6. gaia",
+  "def": "Lurralde batean eta haren biztanleen gainean, guztiei derrigorrezko legeak ematen dituen eta indarraren erabilera legitimoa beretzat gordetzen duen antolaketa politikoa. Max Weberrek monopolio horren bidez definitu zuen."
+ },
+ {
+  "subject": "fil",
+  "t": "Boterea",
+  "id": "g-fil-poder",
+  "et": "Latin arrunteko *potere* hitzetik, latin klasikoko *posse*, «gai izan», ordezkatu zuena.",
+  "area": "Politika",
+  "tema": "Filosofia · 6. gaia",
+  "def": "Besteek norberak nahi duen moduan joka dezaten lortzeko gaitasuna, beren borondatearen aurka bada ere. Ez da autoritatea bezala: autoritateari obeditu egiten zaio, baliozkotzat aitortzen delako."
+ },
+ {
+  "subject": "fil",
+  "t": "Legitimitatea",
+  "id": "g-fil-legitimidad",
+  "et": "Latinezko *legitimus* hitzetik, «legearen araberakoa», *lex, legis* hitzetik, «legea».",
+  "area": "Politika",
+  "tema": "Filosofia · 6. gaia",
+  "def": "Bidezkotzat edo zor zaiotzat onartzen den boterearen ezaugarria, eta ez soilik indarrez ezarritakotzat. Weberrek hiru iturri bereizi zituen: tradizioa, agintzen duenaren karisma eta lege-arauak."
+ },
+ {
+  "subject": "fil",
+  "t": "Gizarte-kontratua",
+  "id": "g-fil-contrato-social",
+  "et": "*Kontratu*, latinezko *contractus* hitzetik, «hitzarmena», *contrahere* aditzetik, «elkartu, estutu». Esapidea Rousseauren *Gizarte-kontratuaz* (1762) lanarekin egin zen ospetsu.",
+  "area": "Politika",
+  "tema": "Filosofia · 6. gaia",
+  "def": "Gizarte politikoa gizabanakoen arteko hitzarmen batetik sortzen dela dioen teoria: natura-egoeratik ateratzeko, gizabanakoek beren askatasunaren zati bat uzten dute segurtasunaren eta eskubideen truke. Bakoitzak bere erara defendatu zuten Hobbesek, Lockek eta Rousseauk."
+ },
+ {
+  "subject": "fil",
+  "t": "Demokrazia",
+  "id": "g-fil-democracia",
+  "et": "Grezierazko δημοκρατία (*demokratía*) hitzetik: δῆμος (*dêmos*), «herria», eta κράτος (*krátos*), «boterea».",
+  "area": "Politika",
+  "tema": "Filosofia · 6. gaia",
+  "def": "Gobernu-modua, zeinetan boterea herritarrena baita: zuzenean erabakitzen dute edo ordezkariak hautatzen dituzte. Demokrazia liberalak botere-banaketa, gutxiengoekiko errespetua eta oinarrizko eskubideak gehitzen ditu."
+ },
+ {
+  "subject": "fil",
   "t": "Edertasuna",
   "id": "g-fil-belleza",
   "et": "Gaztelaniazko *belleza* latinezko *bellus* hitzetik dator, «polita», *bonus*, «ona», hitzaren txikigarria. Greziarrek κάλλος (*kállos*) esaten zuten: hortik *kaligrafia*, «idazkera ederra».",
@@ -889,7 +934,7 @@ const DICCIONARIO = [
   "id": "g-fil-argumento",
   "et": "Latinezko *argumentum*, *arguere* aditzetik, «argitu, frogatu». Grezieraz, λόγος (*lógos*); argudio dialektikoari ἐπιχείρημα (*epikheírema*) deitzen zitzaion.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Ondorio bat babesteko ematen diren arrazoien (premisen) multzoa."
  },
  {
@@ -898,7 +943,7 @@ const DICCIONARIO = [
   "id": "g-fil-premisa",
   "et": "Latinezko *praemissa*, «aurrean jarria» (*prae* + *mittere*, «bidali, jarri»). Grezierazko πρότασις (*prótasis*) hitzari dagokio, «aurrean proposatzen dena», Aristotelesen terminoa.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Argudio bat abiatzen den arrazoi edo baieztapen bakoitza."
  },
  {
@@ -907,7 +952,7 @@ const DICCIONARIO = [
   "id": "g-fil-conclusion",
   "et": "Latinezko *concludere*: «itxi». Grezierazko συμπέρασμα (*sympérasma*) itzultzen du, «ixten dena», Aristotelesen terminoa.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Premisekin eutsi nahi den baieztapena."
  },
  {
@@ -916,7 +961,7 @@ const DICCIONARIO = [
   "id": "g-fil-argumento-deductivo",
   "et": "*Dedukzioa*, latinezko *deducere*, «-tik eraman, -tik atera». Aurrekari grekoa da Aristotelesen συλλογισμός (*syllogismós*).",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Premisak egiazkoak badira, ondorioaren egia bermatzen duena."
  },
  {
@@ -925,7 +970,7 @@ const DICCIONARIO = [
   "id": "g-fil-argumento-inductivo",
   "et": "*Indukzioa*, latinezko *inducere*, «-rantz eraman»: kasuetatik arauera. *Indukzio*k grezierazko ἐπαγωγή (*epagogé*) itzultzen du.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Ondorioa probabilitate jakin batez babesten duena, bermatu gabe."
  },
  {
@@ -934,7 +979,7 @@ const DICCIONARIO = [
   "id": "g-fil-validez",
   "et": "Latinezko *validus*, «indartsua», *valere* aditzetik, «indarra izan». Estoikoek baliozko argudioari συνακτικός (*synaktikós*) deitzen zioten, «ondorioztatzen duena», eta baliozkoa ez zenari ἀσύνακτος (*asýnaktos*).",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Argudio deduktiboaren propietate formala: premisak egiazkoak badira, ondorioa ezin da faltsua izan."
  },
  {
@@ -943,7 +988,7 @@ const DICCIONARIO = [
   "id": "g-fil-falacia",
   "et": "Latinezko *fallacia*, «engainua», *fallere* aditzetik, «engainatu». Grezieraz, σόφισμα (*sóphisma*) edo παραλογισμός (*paralogismós*), Aristotelesen *Ezeztapen sofistikoak* lanean.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Baliozkoa dirudien baina ez den arrazoibidea; engaina dezakeen argudiaketa-akatsa."
  },
  {
@@ -952,7 +997,7 @@ const DICCIONARIO = [
   "id": "g-fil-ad-hominem",
   "et": "Latinez: «gizakiaren aurka», hau da, pertsonaren aurka eta ez esaten duenaren aurka. Aristotelesek dagoeneko bereizten du πρὸς τὸν λόγον (*pròs tòn lógon*), «argudioari», erantzutea eta πρὸς τὸν ἄνθρωπον (*pròs tòn ánthropon*), «pertsonari», erantzutea (*Ezeztapen sofistikoak* 22), nahiz eta han solaskideari zuzentzeari buruz hitz egin, ez hari eraso egiteari buruz.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Argudiatzen duen pertsonari erasotzea, haren arrazoiak ezeztatu beharrean."
  },
  {
@@ -961,7 +1006,7 @@ const DICCIONARIO = [
   "id": "g-fil-hombre-de-paja",
   "et": "Ingelesezko *straw man* itzultzen du, «lastozko panpina»: gezurrezko aurkari bat, erraz botatzekoa.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Aurkariaren jarrera deformatzea, haren bertsio ahuldu bati erasotzeko."
  },
  {
@@ -970,7 +1015,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-autoridad",
   "et": "Latinez *ad verecundiam* deitzen zaio, «lotsari» edo begiruneari: lotsa ematen du errespetatzen duzunari kontra egiteak.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Zerbait egiazkotzat jotzea aginte batek esaten duelako soilik, arrazoiak aztertu gabe."
  },
  {
@@ -979,7 +1024,7 @@ const DICCIONARIO = [
   "id": "g-fil-pendiente-resbaladiza",
   "et": "Ingelesezko *slippery slope* itzultzen du.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Urrats batek ezinbestean muturreko ondorio-kate batera eramango duela baieztatzea, justifikatu gabe."
  },
  {
@@ -988,7 +1033,7 @@ const DICCIONARIO = [
   "id": "g-fil-falso-dilema",
   "et": "*Dilema*, grezierazko δίλημμα (*dílemma*): δι- (*di-*) «bi» + λῆμμα (*lêmma*) «premisa, hartzen dena».",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Bi aukera bakarrik aurkeztea, egiatan gehiago daudenean."
  },
  {
@@ -997,7 +1042,7 @@ const DICCIONARIO = [
   "id": "g-fil-generalizacion-apresurada",
   "et": "*Orokortu* gaztelaniaz *generalizar* da, latinezko *genus, generis*, «mota, espeziea». Aristotelesek παρὰ τὸ ἁπλῶς ἢ μὴ ἁπλῶς (*parà tò haplôs è mè haplôs*) deitzen duen falaziarekin ahaidetzen da sarri: kasu batean esandakoa, ezer gehiagorik gabe, orokor esanda dagoela hartzea.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Kasu oso gutxitik arau orokor bat ondorioztatzea."
  },
  {
@@ -1006,7 +1051,7 @@ const DICCIONARIO = [
   "id": "g-fil-causa-falsa",
   "et": "Latinez, *non causa pro causa*: «kausa ez dena kausatzat hartzea»; aldaera bat da *post hoc, ergo propter hoc*, «honen ondoren, beraz honengatik». Grezieraz, Aristotelesek τὸ μὴ αἴτιον ὡς αἴτιον (*tò mè aítion hos aítion*) deitzen dio, «kausa ez dena, kausatzat»; *Erretorika*n (II 24) «honen ondoren» datorkiona kausatzat hartzearen adibidea jartzen du.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Denborazko segida kausalitatetzat hartzea (post hoc): «honen ondoren, beraz, honen eraginez»."
  },
  {
@@ -1015,7 +1060,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-ignorancia",
   "et": "Latinez, *ad ignorantiam*: «ezjakintasunari».",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Zerbait egia dela baieztatzea kontrakoa frogatu ez delako."
  },
  {
@@ -1024,7 +1069,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-mayoria",
   "et": "Latinez, *ad populum*: «herriari».",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Zerbait egiazkotzat jotzea gehiengoak sinesten duelako (ad populum)."
  },
  {
@@ -1033,7 +1078,7 @@ const DICCIONARIO = [
   "id": "g-fil-peticion-de-principio",
   "et": "Latinezko *petitio principii* itzultzen du: «abiapuntua onartzeko eskatzea», hain zuzen ere frogatu nahi zena. *Petitio principii*-k, bere aldetik, grezierazko τὸ ἐν ἀρχῇ αἰτεῖσθαι (*tò en arkhêi aiteîsthai*) itzultzen du, Aristotelesena.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Premisetan frogatu nahi den ondorio bera suposatutzat ematea (zirkulartasuna)."
  },
  {
@@ -1042,7 +1087,7 @@ const DICCIONARIO = [
   "id": "g-fil-apelacion-a-la-emocion",
   "et": "Latinez, *ad misericordiam*, «errukiari», eta *ad baculum*, «makilari», hau da, mehatxuari.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Zerbait onar dadin lortu nahi izatea emozio bat piztuz (pena, beldurra, harrotasuna), arrazoiak eman beharrean."
  },
  {
@@ -1051,7 +1096,7 @@ const DICCIONARIO = [
   "id": "g-fil-tu-quoque",
   "et": "Latinez: «zu ere bai». Pertsonaren aurkako erasoaren (ad hominem) aldaera bat da.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Kritika bat baztertzea, kritika egiten duenak ere eskatzen duena betetzen ez duela adieraziz: koherentziarik gabea izan daiteke, baina horrek ez du kritika faltsu bihurtzen."
  },
  {
@@ -1060,7 +1105,7 @@ const DICCIONARIO = [
   "id": "g-fil-falsa-analogia",
   "et": "*Analogia*, grezierazko ἀναλογία (*analogía*) hitzetik, «proportzioa, bat etortzea».",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Bi gauza zerbaitetan bat datozela ondorioztatzea beste gauza batzuetan antzekoak direlako, axola duten desberdintasunak antzekotasunak baino handiagoak direnean."
  },
  {
@@ -1069,7 +1114,7 @@ const DICCIONARIO = [
   "id": "g-fil-equivoco",
   "et": "Latinezko *aequivocus* hitzetik, «ahots berekoa»: hitz bera gauza desberdinetarako. Aristotelesek παρὰ τὴν ὁμωνυμίαν (*parà tèn homonymían*), «homonimiagatik», bezala aztertzen du (*Ezeztapen sofistikoak* 4).",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Hitz bera bi zentzu desberdinekin erabiltzea arrazoibide baten barruan, bakarra balitz bezala."
  },
  {
@@ -1078,7 +1123,7 @@ const DICCIONARIO = [
   "id": "g-fil-pregunta-compleja",
   "et": "*Galdera maltzurra* ere deitzen zaio; latinezko *captiosus*, «harrapatzen duena». Aristotelesek «hainbat galdera bakar bat egiteaz» hitz egiten du (*Ezeztapen sofistikoak* 5).",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Onartu ez den zerbait aldez aurretik ematen duen galdera bat egitea, edozein erantzunek hura onar dezan («Utzi al diozu azterketetan kopiatzeari?»)."
  },
  {
@@ -1087,7 +1132,7 @@ const DICCIONARIO = [
   "id": "g-fil-pista-falsa",
   "et": "Ingelesezko *red herring* itzultzen du, «sardinzar gorria»: ohiko azalpenaren arabera, usain handiko arrain ketua, ehiza-txakurrak desbideratzen zituena.",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Eztabaida beste gai batera desbideratzea, aztertzen ari zen gaiari ez erantzuteko."
  },
  {
@@ -1096,7 +1141,7 @@ const DICCIONARIO = [
   "id": "g-fil-disertacion",
   "et": "Latinezko *dissertatio*, *disserere* aditzetik, «ordenaz azaldu, arrazoiak lotu».",
   "area": "Logika",
-  "tema": "Argudiatzeko tailerra",
+  "tema": "Filosofia · 4. gaia",
   "def": "Tesi bat arrazoiekin defendatzen duen testu argudiatzailea, egitura (sarrera, garapena, ondorioa) eta balorazio pertsonala dituena."
  },
  {
